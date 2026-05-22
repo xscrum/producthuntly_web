@@ -1,0 +1,2600 @@
+{
+  "meta": {
+    "version": "v1",
+    "updatedAt": "2026-05-22T01:34:52.129424"
+  },
+  "translations": [
+    {
+      "id": "1428",
+      "slug": "pitch-dubai",
+      "name": "Pitch di Dubai",
+      "description": "The Pitch oleh Dubai: Dubai"
+    },
+    {
+      "id": "1427",
+      "slug": "pitch-singapore",
+      "name": "Pitch Singapura",
+      "description": "The Pitch oleh: Singapore"
+    },
+    {
+      "id": "1426",
+      "slug": "pitch-tel-aviv",
+      "name": "Tempat Tidur Tel Aviv",
+      "description": "The Pitch oleh: Tel Aviv"
+    },
+    {
+      "id": "1425",
+      "slug": "pitch-nyc",
+      "name": "Pitch untuk NYC",
+      "description": "The Pitch by Deel: NYC"
+    },
+    {
+      "id": "1392",
+      "slug": "pitch-london",
+      "name": "Pitch di London",
+      "description": "The Pitch by Deel: London"
+    },
+    {
+      "id": "1359",
+      "slug": "vercel-day",
+      "name": "Hari Vercel",
+      "description": ""
+    },
+    {
+      "id": "1326",
+      "slug": "pitch-berlin",
+      "name": "Pitch di Berlin",
+      "description": "The Pitch oleh: Berlin"
+    },
+    {
+      "id": "1293",
+      "slug": "pitch-paris",
+      "name": "Pitch di Paris",
+      "description": "The Pitch oleh: Paris"
+    },
+    {
+      "id": "1260",
+      "slug": "alpha",
+      "name": "Alpha",
+      "description": "Peluncuran pertama kali, tidak pernah-sebelumnya-lihat - di-publik "
+    },
+    {
+      "id": "1227",
+      "slug": "yc-application",
+      "name": "Aplikasi YC",
+      "description": ""
+    },
+    {
+      "id": "1194",
+      "slug": "vibe-coding",
+      "name": "Vibe coding (pengkodean)",
+      "description": "Pengkodean Vibe mengubah ide menjadi aplikasi web dengan cepat: alat AI menghasilkan UI dan tumpukan penuh untuk prototipe cepat, dasbor, dan situs untuk pengembang, pendiri, desainer."
+    },
+    {
+      "id": "1167",
+      "slug": "apple-vision-pro",
+      "name": "Apple Vision Pro adalah",
+      "description": "Aplikasi untuk Apple Vision Pro"
+    },
+    {
+      "id": "1128",
+      "slug": "psychedelics",
+      "name": "Psikedelik (psychedelic)",
+      "description": "Open your mind with these products"
+    },
+    {
+      "id": "1095",
+      "slug": "intimacy",
+      "name": "Keintiman (Intimacy)",
+      "description": "Produk yang membantu Anda menjadi nyaman dengan pasangan atau diri sendiri!"
+    },
+    {
+      "id": "1062",
+      "slug": "snow-sports",
+      "name": "Olahraga Salju",
+      "description": "Produk-produk yang membantu Anda untuk mendapatkan dan turun gunung."
+    },
+    {
+      "id": "1029",
+      "slug": "inclusivity",
+      "name": "Inklusifitas",
+      "description": "Produk yang menciptakan dunia yang lebih mudah diakses."
+    },
+    {
+      "id": "996",
+      "slug": "nft",
+      "name": "NFT adalah",
+      "description": "Semuanya mulai dari seni digital hingga utilitas yang dibangun untuk web3."
+    },
+    {
+      "id": "963",
+      "slug": "notion",
+      "name": "Konsepsi",
+      "description": "Kemungkinan tak terbatas untuk mengoperasikan pekerjaan dan kehidupan dengan produk-produk ini yang dibangun dengan dan untuk Notion."
+    },
+    {
+      "id": "930",
+      "slug": "edge-extensions",
+      "name": "Ekstensi Edge",
+      "description": "Super mengisi browser Edge Anda dengan ekstensi yang menyesuaikan pengalaman web Anda ⚡️"
+    },
+    {
+      "id": "877",
+      "slug": "business-travel",
+      "name": "Perjalanan Bisnis",
+      "description": "Ketika Anda harus pergi ke jalan (atau udara) untuk bekerja. Produk-produk ini sudah mendapatkan tiket Anda."
+    },
+    {
+      "id": "876",
+      "slug": "hotels",
+      "name": "Hotel-hotel",
+      "description": "Ketika Anda membutuhkan perubahan pemandangan, melakukan perjalanan dan memesan di beberapa layanan kamar dengan produk-produk ini. "
+    },
+    {
+      "id": "875",
+      "slug": "motorcycles",
+      "name": "sepeda motor",
+      "description": "Sepeda motor menawarkan kesederhanaan ketika datang untuk bepergian di jalan terbuka, tetapi produk-produk ini dapat membantu membuat perjalanan itu lebih menyenangkan atau bahkan membuat Anda aman."
+    },
+    {
+      "id": "874",
+      "slug": "electric-cars",
+      "name": "Mobil listrik (Electric Car)",
+      "description": "Masa Depan adalah listrik. Transportasi sedang berubah dan mobil listrik membantu menciptakan pilihan mobilitas yang lebih bersih bagi orang-orang di seluruh dunia. "
+    },
+    {
+      "id": "873",
+      "slug": "racing",
+      "name": "Racing",
+      "description": "Produk-produk untuk ketika Anda menjalani hidup seperempat mil pada satu waktu."
+    },
+    {
+      "id": "872",
+      "slug": "climbing",
+      "name": "Pendakian mendaki",
+      "description": "Ketika gravitasi tidak dapat menahan Anda, periksa produk-produk ini untuk membantu Anda melalui inti."
+    },
+    {
+      "id": "871",
+      "slug": "college-sports",
+      "name": "Olahraga College",
+      "description": "Alat olahraga perguruan tinggi yang memberi kekuatan pada fandom NCAA: prediktor braket, kolam renang, pelacak buzz sosial, perdagangan crypto, dukungan, perekrutan, dan jaringan atlet."
+    },
+    {
+      "id": "870",
+      "slug": "community",
+      "name": "Komunitas",
+      "description": "Komunitas mengumpulkan alat-alat yang membantu orang terhubung, membuat, dan mengembangkan forum, peluncuran, buletin, pembayaran, alur kerja AI, dan pertemuan untuk pembangun dan penggemar."
+    },
+    {
+      "id": "869",
+      "slug": "chat-rooms",
+      "name": "Ruang chatting",
+      "description": "Ruang obrolan adalah ruang untuk komunitas pembicaraan teks, suara, dan video linking real-time, pembantu AI, dompet Web3, pusat perdagangan, dan konsultasi, kolaborasi."
+    },
+    {
+      "id": "868",
+      "slug": "personal-shopper",
+      "name": "Pembelian pribadi",
+      "description": "Alat pembelanja pribadi yang memilih untuk Anda: pencari hadiah AI, pilihan styling dan perawatan kulit, peringatan penurunan harga, booming lingkungan, pemberian hadiah otomatis, cek pasar pembuat."
+    },
+    {
+      "id": "867",
+      "slug": "food-delivery",
+      "name": "Pengiriman makanan",
+      "description": "Pengiriman makanan mencakup aplikasi pemesanan, bot toko kelontong, pengantar truk, makanan yang dimasak di rumah dan berbasis tanaman, alat restoran, ditambah pencarian yang membantu Anda menemukan makanan dengan cepat."
+    },
+    {
+      "id": "866",
+      "slug": "physics",
+      "name": "Fisika (Fisika)",
+      "description": "Fisika menjelaskan materi, gerak, dan gaya-gaya. Jelajahi FEA multi-fisika, formula lookup, laboratorium sirkuit virtual, dan pelacakan ruang untuk siswa dan profesional di seluruh dunia."
+    },
+    {
+      "id": "865",
+      "slug": "security",
+      "name": "Keamanan keamanan",
+      "description": "Keamanan mencakup alat-alat yang melindungi login, data, dan pembayaran: identitas, manajer kata sandi, otomatisasi kepatuhan, pertahanan web, dan AI dengan kontrol perusahaan."
+    },
+    {
+      "id": "864",
+      "slug": "encryption",
+      "name": "Enkripsi (encryption)",
+      "description": "Alat enkripsi mengunci email, obrolan, file, dan data cloud, membantu tim dan individu berbagi, menyimpan, dan mengelola rahasia dengan aman di seluruh aplikasi dan alur kerja."
+    },
+    {
+      "id": "863",
+      "slug": "password-manager",
+      "name": "Manajer kata sandi",
+      "description": "Alat yang mengamankan dan mengisi otomatis login, menghasilkan kata sandi yang kuat, mengelola 2FA, dan memungkinkan berbagi yang diaudit untuk individu, tim, dan organisasi yang berfokus pada privasi."
+    },
+    {
+      "id": "862",
+      "slug": "vpn",
+      "name": "VPN VPN VPN VPN",
+      "description": "Jaringan pribadi virtual (VPN) mengenkripsi browsing, mengalahkan batas geo, dan menghubungkan armada. Produk meliputi privasi seluler, router rumah, dan mesh WireGuard."
+    },
+    {
+      "id": "861",
+      "slug": "webcam",
+      "name": "Webcam Webcam",
+      "description": "Alat Webcam mengubah kamera menjadi hub untuk rekaman, streaming, dan penelitian yang mencakup pengeditan video, hosting, peningkatan, pelacakan mata, dan telepon-sebagai - kamera."
+    },
+    {
+      "id": "860",
+      "slug": "photo-editing",
+      "name": "Editing foto",
+      "description": "Pelajari bagaimana alur kerja gambar bersatu: platform host model AI, aplikasi melakukan teks-ke - gambar, pemotongan latar belakang, pengeditan yang tepat, render 3D / video, API batch."
+    },
+    {
+      "id": "859",
+      "slug": "dslrs",
+      "name": "DSLRs",
+      "description": "DSLR: peralatan dan aplikasi yang membantu Anda menangkap, mengontrol, dan berbagi. Harapkan asisten AI, remote nirkabel, penyewaan, kontrol smartphone, 360, dan cetakan instan."
+    },
+    {
+      "id": "858",
+      "slug": "video-cameras",
+      "name": "kamera video kamera video",
+      "description": "Alat yang menangkap, streaming, dan menggunakan kembali video: mobile capture, webcam, perekam layar, efek, dan AI pada perangkat untuk pembuat, penjualan, dan perawatan DIY."
+    },
+    {
+      "id": "857",
+      "slug": "video",
+      "name": "Video: Video",
+      "description": "Video mencakup alat untuk bertemu, merekam layar, menghasilkan klip, mentranskripsi pidato, dan membuat tim demo interaktif, pencipta, dan pengembang berkolaborasi."
+    },
+    {
+      "id": "856",
+      "slug": "aquarium",
+      "name": "Akuarium (Aquarium)",
+      "description": "Teknologi akuarium menggabungkan tangki pintar, robot pembersih, pameran cahaya, dan pelacak tugas untuk menyederhanakan perawatan, mengajarkan ilmu pengetahuan, mempercantik ruang untuk penggemar dan sekolah."
+    },
+    {
+      "id": "855",
+      "slug": "local-news",
+      "name": "Berita lokal",
+      "description": "Berita lokal menyatukan alat untuk info komunitas: menemukan pekerjaan di dekatnya, membandingkan kandidat, melacak kenaikan harga Turki, melihat pelaporan independen, dan berbagi secara lokal."
+    },
+    {
+      "id": "854",
+      "slug": "health-news",
+      "name": "Berita Kesehatan",
+      "description": "Berita kesehatan mencakup alat peralihan perawatan: pemeriksaan gejala, pengingat kepatuhan, penelitian digest, pencitraan dan catatan teknologi, pelacakan wabah, dan pemotongan biaya penagihan."
+    },
+    {
+      "id": "853",
+      "slug": "tech-news",
+      "name": "Berita teknologi",
+      "description": "Berita teknologi mencakup bagaimana kita membuat dan mengkonsumsi teknologi: analitik, otomatisasi, buletin, komunitas AI, pembukaan paywall, dan microblogging sipil untuk pembuat."
+    },
+    {
+      "id": "852",
+      "slug": "political-news",
+      "name": "berita politik",
+      "description": "Alat berita politik yang melacak kebijakan, membandingkan kandidat, sumber tingkat, tuan rumah debat, memotong paywall, dan kerajinan penjelasan-untuk pemilih dan analis."
+    },
+    {
+      "id": "851",
+      "slug": "camping",
+      "name": "Camping",
+      "description": "Camping mencakup alat dan penginapan yang menemukan situs, merencanakan rute, mengelola peralatan, dan membantu berkemah, vanlifers, dan tim menjelajahi luar ruangan bersama-sama."
+    },
+    {
+      "id": "850",
+      "slug": "survival",
+      "name": "Kelangsungan hidup",
+      "description": "Alat kelangsungan hidup mencakup bantuan krisis, dukungan rekan, pertolongan pertama CPR, pengetahuan offline, dan pemeriksaan keselamatan - membantu orang mempersiapkan, merespons, dan tetap terhubung dalam kekacauan."
+    },
+    {
+      "id": "849",
+      "slug": "plants",
+      "name": "Tanaman-tanaman",
+      "description": "Tanaman mencakup alat untuk tumbuh, mengidentifikasi, dan membeli tanaman hijau; pelacak taman; permainan pada pohon dan akar; reboisasi dengan streaming; ditambah kerajinan yang terinspirasi alam."
+    },
+    {
+      "id": "848",
+      "slug": "gps",
+      "name": "GPS (GPS)",
+      "description": "GPS memilih yang melacak latihan, tag foto, lokasi spoof, dan kekuatan geolocated media dan peta. Rencanakan perjalanan, kelola GPX, dan temukan atau bagikan tempat-tempat di dekatnya."
+    },
+    {
+      "id": "847",
+      "slug": "hiking",
+      "name": "Hiking",
+      "description": "Hiking mencakup perencanaan dan navigasi; alat-alat ini menemukan jalur, bekerja offline, melacak puncak, mengelola perlengkapan, menyesuaikan ide dengan cuaca, memandu tur diri, meningkatkan foto."
+    },
+    {
+      "id": "846",
+      "slug": "nature",
+      "name": "alam (nature)",
+      "description": "Alat-alat alam yang membantu Anda menjelajahi, mengamati, dan bersantai: burung ID, melacak satwa liar, menemukan pantai, aliran pemandangan suara, dan membangun kebiasaan berkelanjutan sehari-hari."
+    },
+    {
+      "id": "845",
+      "slug": "social-media-marketing",
+      "name": "Pemasaran media sosial",
+      "description": "Pemasaran media sosial mempromosikan merek melalui posting dan video; alat-alat ini membuat dan melokalisasi klip, merekam layar, menjadwalkan dan melacak, memonetisasi, dan mengintegrasikan."
+    },
+    {
+      "id": "844",
+      "slug": "affiliate-marketing",
+      "name": "Pemasaran Afiliasi",
+      "description": "Alat pemasaran afiliasi yang melacak tautan, menjalankan program rujukan, dan skala pertumbuhan. Dibangun untuk SaaS dan pembuat: atribusi, pembayaran, konten, dan komunitas."
+    },
+    {
+      "id": "843",
+      "slug": "event-marketing",
+      "name": "Event Marketing",
+      "description": "Pemasaran acara menggunakan alat untuk merencanakan, mempromosikan, menjadi tuan rumah, dan mengukur acara untuk membangun prospek dan komunitas, dari tempat dan konten AI hingga tiket, AR, dan jajak pendapat."
+    },
+    {
+      "id": "842",
+      "slug": "influencer-marketing",
+      "name": "Pemasaran Influencer",
+      "description": "Kategori ini mencakup alat untuk menemukan pencipta, melacak perdagangan sosial, mengelola kemitraan, dan menjual merek yang membantu secara online menjalankan kampanye berbasis data dalam skala besar."
+    },
+    {
+      "id": "841",
+      "slug": "marketing-calendar",
+      "name": "Kalender Pemasaran (marketing calendar)",
+      "description": "Kalender pemasaran mengatur kampanye, konten, dan acara; alat-alat ini menjadwalkan posting, mengkoordinasikan tim, mengotomatiskan penjangkauan, dan melaporkan hasil dengan cepat."
+    },
+    {
+      "id": "840",
+      "slug": "marketing-attribution",
+      "name": "Atribusi pemasaran (marketing attribution)",
+      "description": "Atribusi pemasaran melacak apa yang touchpoints drive penjualan. Alat-alat ini menghubungkan iklan, influencer, tautan QR, lokasi, dan data Shopify ke ROAS dan perjalanan pengguna."
+    },
+    {
+      "id": "839",
+      "slug": "marketing-automation",
+      "name": "Pemasaran otomatisasi (marketing automation)",
+      "description": "Alat otomatisasi pemasaran merampingkan pengambilan lead, kampanye konten dan email, dan alur kerja aplikasi untuk tim pertumbuhan menggunakan AI, integrasi, dan pembangun tanpa kode."
+    },
+    {
+      "id": "838",
+      "slug": "spirituality",
+      "name": "Spiritualitas (Spirituality)",
+      "description": "Alat Spiritualitas yang memadukan praktik iman, kesadaran, dan pertumbuhan: bangun untuk berdoa, belajar Alkitab, bermeditasi, mendapatkan bimbingan AI, fokus dengan suara. Tetap di jalur."
+    },
+    {
+      "id": "837",
+      "slug": "diy",
+      "name": "DIY DIY",
+      "description": "DIY berarti melakukan proyek-proyek sendiri. Campuran ini membantu Anda membuat, menjual, memperbaiki, dan mempersonalisasi ide-ide AI, bantuan ahli, pembayaran, perawatan diri, panduan hobi."
+    },
+    {
+      "id": "836",
+      "slug": "military",
+      "name": "Militer",
+      "description": "Topik-topik militer mencakup teknologi pertahanan dan upaya bantuan: dari drone pengintaian VTOL untuk misi cepat hingga direktori yang dikuratori yang memandu donasi untuk mendukung Ukraina."
+    },
+    {
+      "id": "835",
+      "slug": "career",
+      "name": "Karir",
+      "description": "Jelajahi alat karir yang memberi kekuatan untuk menemukan peran, mempekerjakan, dan pertumbuhan: jaringan, penyajian resume, penyaringan, penggajian, pelacakan proyek, dan pendapatan pencipta."
+    },
+    {
+      "id": "834",
+      "slug": "lgbtq",
+      "name": "LGBTQ +",
+      "description": "Alat LGBTQ + untuk koneksi, keselamatan, dan kesehatan. Cari pasangan, lacak kesehatan seksual, laporkan kebencian, temukan ruang yang aman, dapatkan bantuan transisi, perayaan Pride."
+    },
+    {
+      "id": "833",
+      "slug": "babies",
+      "name": "bayi-bayi",
+      "description": "Bayi: alat untuk merencanakan, merawat, dan ingin tahu melihat ke depan. Dari opsi penamaan dan kesuburan hingga pelacak dan panduan tidur, ditambah pratinjau AI untuk wajah masa depan."
+    },
+    {
+      "id": "832",
+      "slug": "family",
+      "name": "Keluarga keluarga",
+      "description": "Alat keluarga yang peduli, terhubung, dan ingat: peringatan pengasuh, jurnal foto pribadi, pembuat cerita yang siap untuk anak, dan pelacakan pinjaman pribadi yang bebas stres."
+    },
+    {
+      "id": "831",
+      "slug": "pregnancy",
+      "name": "Kehamilan",
+      "description": "Pilihan kehamilan yang mendukung Anda dari perencanaan hingga pasca melahirkan: obrolan AI, komunitas lokal, pernapasan persalinan, gizi, tips diabetes, pemberian makan dan bantuan popok."
+    },
+    {
+      "id": "830",
+      "slug": "toddlers",
+      "name": "Toddlers (Toddlers)",
+      "description": "Kategori ini mencakup alat pembelajaran awal untuk orang tua dan balita: cerita interaktif, permainan bebas layar, dan kartu flash untuk ikatan, ucapan, dan pemikiran."
+    },
+    {
+      "id": "829",
+      "slug": "toys",
+      "name": "Mainan-mainan",
+      "description": "Mainan memadukan teknologi yang menyenangkan dan kesenangan DIY: pengkodean STEM, hewan peliharaan virtual, alat LEGO, aplikasi mewarnai, dan permainan fisik-digital untuk keluarga, kolektor, pendidik."
+    },
+    {
+      "id": "828",
+      "slug": "home-services",
+      "name": "Layanan Rumah Tangga",
+      "description": "Layanan rumah bundel alat untuk menjalankan rumah tangga dan bisnisnya: bergerak, investasi properti, keamanan check-in, penjadwalan, pemesanan, alat pertumbuhan."
+    },
+    {
+      "id": "827",
+      "slug": "furniture",
+      "name": "Furniture",
+      "description": "Pakaian rumah dan ruang kerja: Cek harga AI, alat desain, potongan-potongan DIY-siap, peralatan ergonomis, dan pilihan sewa-ramah untuk pembeli, tuan rumah, dan desainer."
+    },
+    {
+      "id": "826",
+      "slug": "home-security",
+      "name": "Keamanan Rumah Tangga",
+      "description": "Keamanan rumah melindungi orang, properti, dan jaringan: kontrol akses, pengaturan kamera, pemeriksaan keluarga dan solo, firewall, pemeriksaan latar belakang untuk rumah dan tim."
+    },
+    {
+      "id": "825",
+      "slug": "interior-design",
+      "name": "Desain Interior Desain Interior",
+      "description": "Alat desain interior merencanakan, memvisualisasikan, dan mebelkan ruang: renderer AI, pemindaian 3D, kurasi furnitur, kolaborasi, dan inspirasi bagi pemilik rumah dan pro."
+    },
+    {
+      "id": "824",
+      "slug": "home-theater",
+      "name": "Home Theater Rumah Teater",
+      "description": "Home theater mengumpulkan peralatan untuk suara rumah yang kaya, seperti turntable nirkabel yang mengalirkan vinyl ke speaker multiroom melalui Bluetooth, UPnP, atau sistem siap Roon."
+    },
+    {
+      "id": "823",
+      "slug": "home-improvement",
+      "name": "Peningkatan rumah",
+      "description": "Alat perbaikan rumah yang merencanakan, meng-upgrade, dan mengelola ruang Anda: panduan DIY, desain interior, pelacakan energi dan karbon, inventaris aset, peningkatan kenyamanan."
+    },
+    {
+      "id": "822",
+      "slug": "neighborhood",
+      "name": "Kejiranan (Neighborhood)",
+      "description": "Alat lingkungan membantu Anda hidup, terhubung, dan memutuskan secara lokal - menemukan perumahan dan teman sekamar, bergabung dengan obrolan lokal, menilai bahaya, menjelajahi kota, tinggal dekat teman."
+    },
+    {
+      "id": "821",
+      "slug": "home-office",
+      "name": "Kantor rumah (home office)",
+      "description": "Hub untuk Home Office: peralatan dan aplikasi untuk produktivitas dan ide ruang kerja-mengelola PDF, menulis, menangkap layar, sinkronisasi clipboard, menyetel tampilan, dan mengambil istirahat."
+    },
+    {
+      "id": "820",
+      "slug": "weightlifting",
+      "name": "Pengangkatan Berat",
+      "description": "Pengangkat beban membangun kekuatan melalui pelatihan terstruktur. Alat-alat ini merencanakan latihan, set trek, waktu istirahat, dan nutrisi yang disesuaikan untuk atlet, pemula, dan pelatih."
+    },
+    {
+      "id": "819",
+      "slug": "running",
+      "name": "Berjalan",
+      "description": "Menjalankan aplikasi yang melacak, gamify, dan memandu mil Anda - solo atau dengan teman-teman. Temukan alat pacing, irama irama, sinkronisasi data, hadiah NFT untuk pemula hingga pembalap."
+    },
+    {
+      "id": "818",
+      "slug": "fitness",
+      "name": "Fitness (kebugaran)",
+      "description": "Temukan alat yang mengubah rutinitas sehat menjadi tindakan: melacak latihan, dapatkan pelatihan AI, bergabung dengan komunitas, mendapatkan hadiah, dan memantau tidur / HRV-bahkan melalui cincin untuk siapa saja."
+    },
+    {
+      "id": "817",
+      "slug": "health",
+      "name": "Kesehatan (Health)",
+      "description": "Alat kesehatan yang menginformasikan dan mendukung perawatan sehari-hari: menemukan jawaban, melacak HRV dan perubahan kulit, meningkatkan fokus dan kesehatan mental, dan mencakup perawatan di luar negeri untuk nomaden."
+    },
+    {
+      "id": "816",
+      "slug": "cell-phone",
+      "name": "Telepon Seluler Telepon Seluler",
+      "description": "Esensi ponsel mencakup perangkat, OS, dan layanan yang membuat panggilan, foto, pencarian, dan data perjalanan bekerja ditambah alat fokus, nomor virtual, dan bisnis."
+    },
+    {
+      "id": "815",
+      "slug": "sensors",
+      "name": "Sensor-sensor",
+      "description": "Alat-alat daya sensor yang melacak ruang, keamanan, dan jumlah hunian server, meja, suar mengirim peringatan, dan agen menonton cadangan untuk TI, SDM, dan kelompok."
+    },
+    {
+      "id": "814",
+      "slug": "computers",
+      "name": "Komputer-komputer",
+      "description": "Komputer bundel cloud AI, teknologi on-device, platform dev, aplikasi kantor, dan alat uptime-segala sesuatu untuk komputasi sehari-hari-untuk pengkoder, tim, pencipta."
+    },
+    {
+      "id": "813",
+      "slug": "tablet",
+      "name": "Tablet Tablet",
+      "description": "Sebuah tablet adalah komputer sentuh portabel untuk aplikasi serbaguna. Pilihan-pilihan ini mencakup kreativitas, pendidikan, alat kantor, dan membaca E-Ink untuk peserta didik, profesional, dan tim."
+    },
+    {
+      "id": "812",
+      "slug": "appliances",
+      "name": "Peralatan-peralatan",
+      "description": "Peralatan mencakup pembantu rumah yang lebih cerdas - pembuat bir, pemanas, display yang selalu aktif - dan aplikasi untuk menemukan, berbagi, atau mendanai mereka. Untuk koki, penggemar, rumah tangga yang cerdas dengan lingkungan."
+    },
+    {
+      "id": "811",
+      "slug": "animation",
+      "name": "Animasi (Animation)",
+      "description": "Temukan alat animasi untuk web, aplikasi, dan pengeditan video-AI, gerakan vektor JSON, keyframing, dan ekspor alat desain-untuk desainer, pengembang, dan pencipta."
+    },
+    {
+      "id": "810",
+      "slug": "design-templates",
+      "name": "Desain Template",
+      "description": "Template desain adalah blok yang dikuratori untuk UI dan alur kerja di seluruh alat dev dan no-code, membantu tim dan solo membuat prototipe lebih cepat dan mengirimkan aplikasi yang kohesif."
+    },
+    {
+      "id": "809",
+      "slug": "design-resources",
+      "name": "Desain sumber daya",
+      "description": "Desain sumber daya yang mempercepat UI dan pembuatan konten: perpustakaan UI, template, vektor, animasi, gambar stok, alat AI, dan inspirasi untuk pencipta."
+    },
+    {
+      "id": "808",
+      "slug": "logo-design",
+      "name": "Desain Logo Desain Logo Desain Logo",
+      "description": "Desain logo bundel alat untuk membuat dan menyebarkan merek: generator AI, desainer diperiksa, perpustakaan aset, mempekerjakan hub, pembangun situs, API, dan pasar."
+    },
+    {
+      "id": "807",
+      "slug": "ux-design",
+      "name": "Desain UX",
+      "description": "Desain pengalaman pengguna (UX) membentuk bagaimana orang menggunakan aplikasi dan situs web. Alat-alat ini mencakup tata letak UI, prototipe, 3D, penelitian, analisis, onboarding, dan dev handoff."
+    },
+    {
+      "id": "806",
+      "slug": "wireframing",
+      "name": "Wireframing (Wireframing)",
+      "description": "Wireframing memetakan ide-ide menjadi layar sederhana dan aliran pengguna sebelum kode. Alat-alat ini menggabungkan sitemap, mockup, dan prototipe untuk desainer, PM, dan tim."
+    },
+    {
+      "id": "805",
+      "slug": "web-design",
+      "name": "Desain Web Desain Web Desain Web",
+      "description": "Desain web mencakup alat-alat yang mengambil ide dari piksel ke produksi: pembangun visual, pembuat aplikasi tanpa kode, kit UI, auth / pembayaran, dan CMS yang digunakan oleh desainer, pengembang."
+    },
+    {
+      "id": "804",
+      "slug": "graphic-design",
+      "name": "Desain Grafis (Graphic Design)",
+      "description": "Desain grafis mengubah ide-ide menjadi visual. Alat-alat ini mencakup editor AI, stok, pembersihan foto, logo, situs, freelance, dan pemasar yang melayani penjualan, UKM, startup, dan pencipta."
+    },
+    {
+      "id": "803",
+      "slug": "3d-modeling",
+      "name": "Model 3D (Model 3D)",
+      "description": "Pemodelan 3D mengubah ide-ide menjadi objek virtual untuk game, film, dan AR / VR. Campuran ini mencakup alat pembuatan, generator aset AI, mesin, GPU, dan hub kolaborasi."
+    },
+    {
+      "id": "802",
+      "slug": "design",
+      "name": "Desain Desain",
+      "description": "Desain di sini mencakup membangun, membuat prototipe, menyajikan, dan menjual pengalaman digital-UI / UX, grafis, aplikasi, buletin, dan penagihan yang sesuai-untuk para pencipta dan tim."
+    },
+    {
+      "id": "801",
+      "slug": "graphics",
+      "name": "Grafik-grafik",
+      "description": "Grafis mencakup alat untuk membuat, membuat, mengedit, dan mengirim visual, dari GPU dan aplikasi seni hingga potongan AI, alat mockup, umpan balik, dan perizinan untuk aset digital."
+    },
+    {
+      "id": "800",
+      "slug": "farming",
+      "name": "Pertanian (agriculture)",
+      "description": "Alat pertanian mencakup analisis tanaman, IoT, aplikasi tugas, pendanaan, perdagangan, investasi, penelitian, dan penjualan pertanian ke pintu - membantu petani merencanakan, memantau, dan mendapatkan penghasilan."
+    },
+    {
+      "id": "799",
+      "slug": "dieting",
+      "name": "Diet (Diet)",
+      "description": "Alat diet yang merencanakan makanan, mencatat makanan, dan melacak nutrisi dengan AI. Aplikasi mengurangi limbah, menyesuaikan kalori, dan melatih umur panjang untuk koki rumahan dan nerd kesehatan."
+    },
+    {
+      "id": "798",
+      "slug": "nutrition",
+      "name": "Nutrisi (nutrisi)",
+      "description": "Alat nutrisi yang mencatat makanan, merencanakan menu, menganalisis suplemen, dan menyesuaikan diet untuk alergi atau puasa. Ideal untuk pengguna yang berpikiran sehat, juru masak rumahan, dan peserta didik."
+    },
+    {
+      "id": "797",
+      "slug": "alcohol",
+      "name": "Alkohol (alcohol)",
+      "description": "Menjelajahi alat-alat alkohol: Panduan campuran AR, generator resep, permainan pesta, kalkulator ABV, dan tantangan sadar untuk bartender rumah dan peminum baru di rumah."
+    },
+    {
+      "id": "796",
+      "slug": "dining",
+      "name": "Makan makanan",
+      "description": "Makan mencakup memasak, makan di luar, dan hosting: alat untuk merencanakan makanan, meja canggung, tagihan terpisah, menyewa koki, melacak makanan ringan, kapal makan, dan menjalankan restoran."
+    },
+    {
+      "id": "795",
+      "slug": "credit-card",
+      "name": "Kartu kredit (Credit Card)",
+      "description": "Jelajahi alat kartu kredit yang menerbitkan kartu, melacak pengeluaran, dan turbocharge reward-membentang pengeluaran bisnis, poin perjalanan, cash back, dan kredit konsumen."
+    },
+    {
+      "id": "794",
+      "slug": "banking",
+      "name": "Perbankan (Banking)",
+      "description": "Perbankan berarti layanan untuk menerima pembayaran, menjalankan rekening, menumbuhkan tabungan, dan mengirim transfer lintas batas untuk startup, freelancer, pasangan, dan pengguna crypto."
+    },
+    {
+      "id": "793",
+      "slug": "budgeting",
+      "name": "Penganggaran (Budgeting)",
+      "description": "Penganggaran menyatukan aplikasi yang melacak pengeluaran, merencanakan perjalanan, memperkirakan arus kas bisnis, mengotomatiskan kepatuhan, dan memperkuat perbankan yang aman yang dibangun untuk individu dan UKM."
+    },
+    {
+      "id": "792",
+      "slug": "personal-finance",
+      "name": "Keuangan Pribadi",
+      "description": "Alat keuangan pribadi membantu Anda menghasilkan, melacak, dan menumbuhkan uang: penganggaran, perbankan, ekuitas, pembayaran, dan investasi sosial untuk individu, pencipta, dan startup."
+    },
+    {
+      "id": "791",
+      "slug": "fundraising",
+      "name": "Penggalangan dana (fundraising)",
+      "description": "Alat penggalangan dana untuk para pendiri: Mengelola dokumen ekuitas, perbankan, dan hukum, menemukan investor melalui intro hangat, berbagi file pitch dengan analisis, dan deck pelatih."
+    },
+    {
+      "id": "790",
+      "slug": "mixed-reality",
+      "name": "Realitas campuran Mixed Reality",
+      "description": "Mixed Reality (MR) menggabungkan konten digital dengan kehidupan nyata. Alat-alat ini membangun, mengalir, dan memutar pengalaman AR / VR untuk para pembuat, merek, kebugaran, dan pendidikan."
+    },
+    {
+      "id": "789",
+      "slug": "live-events",
+      "name": "Live Event",
+      "description": "Live Events mengumpulkan alat untuk menjadi tuan rumah aliran, melibatkan pemirsa, dan menjadwalkan - dari siaran 24 / 7 hingga umpan balik emoji, aliran yang dapat dibeli, ID musik, dan promo pertunjukan."
+    },
+    {
+      "id": "788",
+      "slug": "ticketing",
+      "name": "Ticketing",
+      "description": "Alat tiket mencakup penjualan acara dan dukungan antrian-menjual kursi, mengelola pemesanan, dan permintaan rute. Harapkan formulir, pembayaran, ikatan Discord / HR, NFT, API pencarian."
+    },
+    {
+      "id": "787",
+      "slug": "sporting-events",
+      "name": "Acara-acara olahraga",
+      "description": "Alat acara olahraga yang merencanakan, memetakan, tiket, dan menjalankan kompetisi-di lapangan dan online. Untuk penyelenggara, pelatih, klub, dan gamer yang membutuhkan jadwal, pembaruan."
+    },
+    {
+      "id": "786",
+      "slug": "theater",
+      "name": "Teater Teater",
+      "description": "Alat teater yang menggerakkan panggung: menulis skrip lebih cepat, berlatih improvisasi dengan prompt, dan mengelola acara dan tiket. Untuk penulis drama, aktor, penyelenggara. Untuk penulis drama, aktor, penyelenggara. Untuk penulis drama, aktor, penyelenggara."
+    },
+    {
+      "id": "785",
+      "slug": "concerts",
+      "name": "Konser-konser",
+      "description": "Alat penutup konser yang dapat menemukan lagu, melacak artis, merencanakan festival, membandingkan tiket. Temukan pertunjukan, kelola acara, dan dapatkan tempat duduk yang lebih cerdas, secara online atau virtual."
+    },
+    {
+      "id": "784",
+      "slug": "memes",
+      "name": "Memes adalah",
+      "description": "Memes adalah lelucon dan reaksi-reaksi yang berukuran gigitan. Hub ini mencakup pembuat AI, gigitan suara, pencarian, alat monetisasi untuk pencipta dan pemasar untuk membuat, menemukan, berbagi"
+    },
+    {
+      "id": "783",
+      "slug": "pop-culture",
+      "name": "Budaya Pop",
+      "description": "Budaya pop di sini berarti cerita bersama, permainan, dan visual yang kita perdagangkan setiap hari - aplikasi untuk hal-hal sepele, kutipan, tee, tarot, pengeditan gambar, tren, dan wawasan identitas."
+    },
+    {
+      "id": "782",
+      "slug": "online-learning",
+      "name": "Pembelajaran Online (Online Learning)",
+      "description": "Pembelajaran online memberikan keterampilan melalui alat web: tutor AI, kelas kohort, mesin penemuan, dan pusat pengetahuan yang membantu para profesional dan siswa melakukan penelitian dan menciptakan."
+    },
+    {
+      "id": "781",
+      "slug": "school",
+      "name": "Sekolah Sekolah",
+      "description": "Pilihan sekolah yang mendukung belajar, mengajar, dan hidup: pembuatan catatan AI, persiapan ujian, panduan perguruan tinggi, kiat homeschool, alat fokus, dan pemetaan kolaboratif."
+    },
+    {
+      "id": "780",
+      "slug": "hacking",
+      "name": "Hacking (hacking)",
+      "description": "Alat keamanan etis yang menguji aplikasi dan jaringan, menjalankan bug bounty, mengaudit kunci SSH, mengungkapkan paparan data, dan menghubungkan tim dengan para ahli yang telah diperiksa dan pemindaian AI."
+    },
+    {
+      "id": "779",
+      "slug": "development-language",
+      "name": "Bahasa Pengembangan",
+      "description": "Temukan tumpukan di balik membangun dan belajar kode: kerangka kerja web, infra Web3, pembantu AI, alat CSS, desain-ke - kode, kursus, dan praktik wawancara"
+    },
+    {
+      "id": "778",
+      "slug": "sdk",
+      "name": "SDK (SDK)",
+      "description": "Sebuah SDK bundel API dan alat untuk membangun aplikasi dengan cepat; pilihan ini mencakup hosting, AI, auth, kolaborasi realtime, suara, dan data untuk pengembang pengiriman web modern."
+    },
+    {
+      "id": "777",
+      "slug": "change-management",
+      "name": "Manajemen Perubahan (Change Management)",
+      "description": "Manajemen perubahan mengoordinasikan orang, alat, dan kebijakan sehingga memperbarui tanah dengan lancar. Pilihan ini menangani umpan balik, alur kerja, infra, perekrutan, dan kebiasaan tim dalam skala besar."
+    },
+    {
+      "id": "776",
+      "slug": "statistical-analysis",
+      "name": "Analisis statistik (Statistical Analysis)",
+      "description": "Alat analisis statistik di sini mengubah klik mentah, obrolan, teka-teki, dan survei menjadi tren untuk analis dan PMs-dasbor, tolok ukur, keputusan yang lebih cerdas."
+    },
+    {
+      "id": "775",
+      "slug": "data-visualization",
+      "name": "Visualisasi Data (Data Visualization)",
+      "description": "Visualisasi data mengubah metrik menjadi grafik dan dasbor untuk data produk, web, dan penjualan, yang mencakup perilaku, peluncuran, retensi, dan pelaporan privasi pertama."
+    },
+    {
+      "id": "774",
+      "slug": "business-intelligence",
+      "name": "Business Intelligence (Intelijen Bisnis)",
+      "description": "Alat Business Intelligence (BI) mengubah data perusahaan menjadi analisis yang mencakup keputusan, dasbor, dan ops yang digerakkan AI untuk analis, tim SaaS, penjualan, dan dukungan."
+    },
+    {
+      "id": "773",
+      "slug": "data-science",
+      "name": "Ilmu Data (Data Science)",
+      "description": "Ilmu data mengubah data mentah menjadi keputusan-keputusan. Alat-alat ini mencakup analisis, aplikasi AI, dasbor, membangun privasi pertama, dan verifikasi untuk analis dan insinyur."
+    },
+    {
+      "id": "772",
+      "slug": "database",
+      "name": "Database (Database)",
+      "description": "Hub database untuk aplikasi untuk menyimpan, menyinkronkan, kueri, dan mengamankan data yang mencakup Postgres serverless, pencarian vektor, ORM, pembangun kode tidak / rendah, dan pengiriman tepi."
+    },
+    {
+      "id": "771",
+      "slug": "data",
+      "name": "Data Data (data)",
+      "description": "Alat data yang mengumpulkan, menganalisis, memindahkan, dan melindungi informasi-mencakup analisis, AI, toko tanpa server, CDP, integrasi, dan privasi-untuk PM, developer, pemasar"
+    },
+    {
+      "id": "770",
+      "slug": "monetization",
+      "name": "monetisasi (monetization)",
+      "description": "Alat monetisasi mengubah konten dan perangkat lunak menjadi pendapatan: buletin, sponsor, paywall, keanggotaan, dan penagihan penggunaan untuk pembuat, merek, dan tim SaaS."
+    },
+    {
+      "id": "769",
+      "slug": "crm",
+      "name": "CRM adalah CRM",
+      "description": "Alat CRM memusatkan kontak, mengotomatiskan penjualan, pemasaran, dan dukungan, menyinkronkan email, LinkedIn, dan WhatsApp untuk melacak pipa dan meningkatkan retensi."
+    },
+    {
+      "id": "768",
+      "slug": "human-resources",
+      "name": "Sumber daya manusia (human resources)",
+      "description": "Alat SDM di sini mencakup perekrutan, penggajian, kepatuhan, umpan balik, pelatihan, dan pembayaran-tim global yang mendukung, kerja jarak jauh, dan onboarding yang dipimpin video. kontraktor tambahan."
+    },
+    {
+      "id": "767",
+      "slug": "construction",
+      "name": "Konstruksi (Construction)",
+      "description": "Alat konstruksi berjalan dari cetak biru untuk membangun: mengukur ruang, memetakan situs secara offline, meng anotasi rencana, memperkirakan biaya, mengelola pekerjaan, dan menemukan rumah prefabrikasi."
+    },
+    {
+      "id": "766",
+      "slug": "consulting",
+      "name": "Konsultasi",
+      "description": "Alat kelompok konsultasi untuk saran ahli, audit SEO live atau async-spanning, dukungan dev, alur kerja AI, visual strategi, dan jaringan untuk pendiri dan tim"
+    },
+    {
+      "id": "765",
+      "slug": "operations",
+      "name": "Operasi-operasi",
+      "description": "Alat Operasi menyederhanakan cara bisnis berjalan: mengotomatisasi alur kerja, keuangan dan hukum, melatih tim, mengelola pertemuan, aset, dan mengubah data menjadi wawasan KPI."
+    },
+    {
+      "id": "764",
+      "slug": "accounting",
+      "name": "Akuntansi Akuntansi Akuntansi",
+      "description": "Alat akuntansi yang mengotomatisasi buku, penagihan, pajak, dan pelaporan untuk startup, UKM. Termasuk kategorisasi AI, sinkronisasi bank / Stripe, OCR pada tagihan, alur kerja."
+    },
+    {
+      "id": "763",
+      "slug": "coding-books",
+      "name": "Buku Coding",
+      "description": "Pelajari coding dengan buku, panduan, alat interaktif, dan permainan untuk anak-anak hingga pro. Membangun JavaScript, SQL, aplikasi React, debugging, backend, dan keterampilan database."
+    },
+    {
+      "id": "762",
+      "slug": "textbooks",
+      "name": "Buku teks",
+      "description": "Buku teks di sini mencakup materi kursus yang aman, pelajaran pengkodean, tutor AI, dan alat persiapan ujian yang mengajarkan, melindungi konten, dan membantu siswa dan pendidik belajar."
+    },
+    {
+      "id": "761",
+      "slug": "business-books",
+      "name": "Buku Bisnis",
+      "description": "Buku Bisnis menunjukkan strategi dalam tindakan melalui alat dan panduan: CRM, kotak masuk dukungan, pusat penelitian, wawasan pemasaran, e-commerce, bacaan kurasi untuk pendiri."
+    },
+    {
+      "id": "760",
+      "slug": "defi",
+      "name": "DeFi adalah",
+      "description": "DeFi memungkinkan Anda untuk menggunakan crypto seperti pasar uang. Campuran ini mencakup hasil yang dipertaruhkan, analisis DEX, dompet dan keamanan, alat portofolio AI, infra dev, dan identitas on-chain."
+    },
+    {
+      "id": "759",
+      "slug": "blockchain",
+      "name": "Blockchain",
+      "description": "Blockchain berarti aplikasi dan aset terdesentralisasi. Alat-alat ini membantu Anda membangun, menelusuri, menganalisis, dan menumbuhkan Web3 yang mencakup dev, infra, dompet, identitas, komunitas."
+    },
+    {
+      "id": "758",
+      "slug": "cryptocurrency",
+      "name": "Cryptocurrency",
+      "description": "Alat cryptocurrency membantu menerima pembayaran, melacak pasar, berdagang melalui API, mengelola NFT, mengaktifkan ID, dan menumbuhkan audiens - dibangun untuk pedagang, pencipta, dan bisnis."
+    },
+    {
+      "id": "757",
+      "slug": "dapp",
+      "name": "DApp",
+      "description": "Aplikasi terdesentralisasi adalah sepupu peer-to - peer dari aplikasi yang kita gunakan saat ini. Jika Anda tidak ingin data Anda terkunci dengan satu perusahaan, periksa alternatif berbasis blockchain ini untuk memberi Anda kepemilikan atas informasi Anda. "
+    },
+    {
+      "id": "756",
+      "slug": "dao",
+      "name": "DAO adalah",
+      "description": "Organisasi otonom yang terdesentralisasi mengumpulkan orang-orang untuk mengatur diri dan mencapai tujuan mereka dengan cara yang lebih terbuka."
+    },
+    {
+      "id": "755",
+      "slug": "bitcoin",
+      "name": "Bitcoin Bitcoin Bitcoin Bitcoin",
+      "description": "Alat Bitcoin yang memungkinkan Anda membeli, menyimpan, membelanjakan, mendapatkan, dan melacak: dompet, aplikasi DCA, kartu hadiah, data pasar, permainan dan kiat obrolan yang dibangun untuk pendatang baru dan pro."
+    },
+    {
+      "id": "754",
+      "slug": "ethereum",
+      "name": "Ethereum",
+      "description": "Ethereum memiliki kekuatan uang yang dapat diprogram. Alat-alat ini membantu Anda mengelola ETH, mempertaruhkan hasil, menemukan dApps, meluncurkan NFT, menyebarkan kontrak yang dibangun untuk pencipta dan pedagang."
+    },
+    {
+      "id": "753",
+      "slug": "clothing",
+      "name": "Pakaian Pakaian",
+      "description": "Temukan alat dan platform pakaian: desain dengan AI, tim pakaian, skor penawaran premium, mendukung postur tubuh yang lebih baik, coba dalam 3D, dan survei pembeli untuk kecocokan."
+    },
+    {
+      "id": "752",
+      "slug": "cosmetics",
+      "name": "Kosmetik-kosmetik",
+      "description": "Alat-alat kosmetik yang membantu Anda memilih dan mempersonalisasi rutinitas-pemindai bahan, pilihan pencipta, dan pencocokan aroma-untuk pemula, penggemar dan pro."
+    },
+    {
+      "id": "751",
+      "slug": "streetwear",
+      "name": "Streetwear",
+      "description": "Streetwear menggabungkan mode, seni, dan budaya pencipta. Alat-alat dan pasar ini membantu merancang, menampilkan, dan menjual pakaian khusus dan sepatu kets kepada penggemar secara online."
+    },
+    {
+      "id": "749",
+      "slug": "hip-hop",
+      "name": "Hip-Hop",
+      "description": "Hip-hop adalah tentang rhythm, wordplay, dan reach. Pilihan ini membantu MC membuat ayat yang lebih ketat dan membantu pemasar melacak kampanye, membangun aplikasi, dan menumbuhkan audiens."
+    },
+    {
+      "id": "748",
+      "slug": "comedy",
+      "name": "Komedi",
+      "description": "Komedi di sini berarti alat yang memicu tawa dan meme play-browse sosial, lelucon, dan panggang AI, ide lelucon kerajinan dan hadiah yang menyenangkan, dan melibatkan penonton."
+    },
+    {
+      "id": "747",
+      "slug": "classical-music",
+      "name": "Musik Klasik Musik Klasik",
+      "description": "Temukan alat musik klasik yang membantu Anda berlatih, mengkomposisi, melakukan streaming pertunjukan, menguji hal-hal sepele, dan berbagi siswa, pendidik, pemain, dan penggemar."
+    },
+    {
+      "id": "746",
+      "slug": "concert",
+      "name": "konsernya.",
+      "description": "Jelajahi alat untuk acara musik langsung: mereka memusatkan lineup, memperbarui secara real time, dan membuat jadwal pribadi yang sempurna untuk pengunjung festival, penyelenggara, dan penggemar."
+    },
+    {
+      "id": "745",
+      "slug": "tuning",
+      "name": "Tuning (Tuning)",
+      "description": "Tuning di sini berarti menyempurnakan pembuatan audio dan pemutaran. Alat-alat membersihkan kebisingan, memperbaiki pitch, membangun pemain situs, stasiun streaming, dan menghasilkan SFX untuk pembuat."
+    },
+    {
+      "id": "744",
+      "slug": "radio",
+      "name": "Radio radio radio",
+      "description": "Radio di sini berarti streaming audio: stasiun langsung, podcast, fokus, dan alat pencipta. Ini cocok untuk pendengar, pekerja jarak jauh, dan tuan rumah yang menjalankan pertunjukan langsung."
+    },
+    {
+      "id": "743",
+      "slug": "live-music",
+      "name": "Musik Hidup (Live Music)",
+      "description": "Musik langsung berarti pertunjukan yang Anda hadiri; alat-alat ini membantu Anda menemukan pertunjukan, membandingkan tiket, merencanakan festival, menemukan artis, streaming radio, dan bertemu musisi."
+    },
+    {
+      "id": "742",
+      "slug": "electronic-music",
+      "name": "Musik Elektronik (Electronic Music)",
+      "description": "Alat musik elektronik yang memungkinkan Anda mengkomposisi, mengurutkan, menghasilkan, menemukan dan berbagi trek-dari pembuat lagu AI dan mesin drum hingga daftar putar dan kolaborasi DAW jarak jauh."
+    },
+    {
+      "id": "741",
+      "slug": "calligraphy",
+      "name": "Kaligrafi (Calligraphy)",
+      "description": "Kaligrafi adalah penulisan yang artistic. Alat-alat ini mengajarkan skrip, menyempurnakan stroke, mencatat kecepatan, mencocokkan warna tinta, dan membantu pencipta perdagangan aset huruf."
+    },
+    {
+      "id": "740",
+      "slug": "video-art",
+      "name": "Seni Video",
+      "description": "Seni video menyatukan pembuatan video AI, narasi berbasis avatar, dan platform untuk pencarian, membantu pembuat prototipe, melokalisasi, dan berbagi cerita sinematik."
+    },
+    {
+      "id": "739",
+      "slug": "illustration",
+      "name": "Ilustrasi (illustration)",
+      "description": "Ilustrasi mencakup alat untuk membuat, sumber, mengedit, dan menjual visual vektor untuk UI, situs, slide, dan AI yang menyatukan iklan, perpustakaan, kit UI, plugin Figma, dan MoR."
+    },
+    {
+      "id": "738",
+      "slug": "crafting",
+      "name": "Crafting",
+      "description": "Panduan Anda untuk membuat: matematika pengukuran cepat, penemuan hobi, video DIY, animasi 3D, alat lilin, label pintar, dan perencana untuk pemula dan pro."
+    },
+    {
+      "id": "737",
+      "slug": "modeling",
+      "name": "Modeling (Modeling)",
+      "description": "Modeling berarti membangun model - 3D, data, atau keuangan. Alat-alat ini membuat, render, versi, simulasi, dan perkiraan untuk desainer, developer, dan analis."
+    },
+    {
+      "id": "736",
+      "slug": "digital-art",
+      "name": "Seni Digital Seni Digital",
+      "description": "Alat seni digital mencakup pembuat gambar AI, model API, dan perdagangan pencipta, membantu seniman menghasilkan visual, mengotomatisasi alur kerja, dan menjual atau mendanai pekerjaan mereka."
+    },
+    {
+      "id": "735",
+      "slug": "printing",
+      "name": "Pencetakan",
+      "description": "Pencetakan mencakup alat untuk membuat, menjual, dan menghasilkan dokumen dan produk siap cetak - dari stiker, seni hingga jurnal dan handout - untuk pencipta dan toko kecil."
+    },
+    {
+      "id": "734",
+      "slug": "painting",
+      "name": "Lukisan",
+      "description": "Painting mengumpulkan alat dan situs untuk membuat, belajar, dan menjual seni: pemilih warna, aplikasi seni, galeri, video DIY, pencarian referensi, dan penjualan NFT / fisik."
+    },
+    {
+      "id": "733",
+      "slug": "coloring",
+      "name": "Mewarnai",
+      "description": "Mewarnai mencakup alat untuk membangun dan mengelola palet warna untuk desain dan skema branding, mengedit visual, memastikan kontras, dan mengatur aset untuk pencipta."
+    },
+    {
+      "id": "732",
+      "slug": "drawing",
+      "name": "Menggambar",
+      "description": "Gambar meliputi sketsa digital, mockup UI, seni AI, dan lembar kerja anak-anak - alat di sini membantu mengilustrasikan ide, mengedit foto, film storyboard, dan berkolaborasi."
+    },
+    {
+      "id": "717",
+      "slug": "social-networking",
+      "name": "Jaringan sosial (social networking)",
+      "description": "Jejaring sosial menghubungkan orang-orang, pembuat, dan tim melalui obrolan, video, microblog, pertemuan, dan penerbitan-plus CRM, pencocokan, dan komunitas yang aman."
+    },
+    {
+      "id": "713",
+      "slug": "shopping",
+      "name": "Shopping Shopping Shopping",
+      "description": "Shopping mencakup alat untuk menemukan, membeli, dan menjual pembangun toko online, pasar, daftar keinginan, add-on hadiah, widget dukungan, video yang dapat dibeli, dan pencarian."
+    },
+    {
+      "id": "711",
+      "slug": "science",
+      "name": "Ilmu pengetahuan (Science)",
+      "description": "Alat-alat sains yang membantu Anda mencari studi, memahami makalah, model crunch, matematika jenis, menjalankan kode kuantum, dan menerbitkan cetakan pra-dibuat untuk peneliti, siswa."
+    },
+    {
+      "id": "692",
+      "slug": "photo-video",
+      "name": "Foto & Video",
+      "description": "Foto & Video mencakup alat untuk membuat, mengedit, dan melokalisasi visual dan generasi gambar / video suara-AI, dubbing TTS, aset saham dan pencarian pencipta."
+    },
+    {
+      "id": "680",
+      "slug": "nature-outdoors",
+      "name": "Alam dan Outdoors",
+      "description": "Nature & Outdoors mengelompokkan alat yang mengidentifikasi burung, memetakan jalur, memesan safari, dan membangun kebiasaan yang sadar dan berkelanjutan - ideal untuk pejalan kaki, siswa, dan wisatawan."
+    },
+    {
+      "id": "665",
+      "slug": "lifestyle",
+      "name": "Gaya hidup (lifestyle)",
+      "description": "Alat gaya hidup yang memudahkan hidup: merencanakan cuaca dan kebiasaan, pertumbuhan jurnal, menjual dan berbelanja barang, membangun komunitas, dan mengobrol dengan asisten AI untuk para pembuat."
+    },
+    {
+      "id": "659",
+      "slug": "kids-parenting",
+      "name": "Anak-anak & Parenting",
+      "description": "Anak-anak & Parenting alat yang membantu keluarga dengan tidur, membaca, keselamatan, waktu layar, rutinitas, jurnal, dan membuat-percaya surat-pilihan praktis untuk orang tua."
+    },
+    {
+      "id": "624",
+      "slug": "graphics-design",
+      "name": "Grafik & Desain",
+      "description": "Grafik & Desain mengumpulkan alat untuk membuat, menghidupkan, prototipe, dan kapal visual-AI gambar gen, editor, perpustakaan, dan situs builder-untuk sosial, iklan, aplikasi, dan dek."
+    },
+    {
+      "id": "617",
+      "slug": "food-drink",
+      "name": "Makanan & Minuman",
+      "description": "Alat Makanan & Minuman mencakup pencari resep, ide makan AI, robot memasak, pelacak kalori, dan recs makan-membantu koki rumah, wisatawan merencanakan, memasak, dan menemukan."
+    },
+    {
+      "id": "611",
+      "slug": "finance",
+      "name": "Keuangan",
+      "description": "Anda tidak perlu menjadi seorang akuntan untuk menggerakkan angka-angka Anda sendiri. Aplikasi keuangan ini adalah pendamping penghitungan yang sempurna, dan banyak lagi! "
+    },
+    {
+      "id": "609",
+      "slug": "extended-reality",
+      "name": "Realitas yang diperluas",
+      "description": "Extended Reality memadukan AR / VR untuk melapisi konten digital di tempat-tempat nyata, tur kota yang didukung, hewan peliharaan virtual, pelatihan, belanja, panduan perjalanan, dan kesehatan yang penuh perhatian."
+    },
+    {
+      "id": "600",
+      "slug": "entertainment",
+      "name": "Hiburan Hiburan",
+      "description": "Kategori ini menggabungkan hal-hal yang menawan: video on-demand, kreator hub, pembuat media AI, game meme, perjalanan bercerita, role-play, dan pembelajaran interaktif."
+    },
+    {
+      "id": "589",
+      "slug": "development",
+      "name": "Pembangunan (Development)",
+      "description": "Pengembangan mencakup alat yang merancang, kode, menguji, dan menyebarkan aplikasi-desain UI, komponen, repos / CI, backend, hosting, dan agen AI-untuk prototipe untuk skala."
+    },
+    {
+      "id": "582",
+      "slug": "data-analytics",
+      "name": "Data & Analytics (Data & Analytics)",
+      "description": "Menggali jauh ke dalam wawasan yang penting. Aplikasi data dan analitik yang berguna ini adalah semua yang Anda butuhkan untuk berhasil.   "
+    },
+    {
+      "id": "570",
+      "slug": "business",
+      "name": "Bisnis bisnis (Business)",
+      "description": "Alat bisnis yang membantu pendiri penelitian, peluncuran, penjualan, dan skala yang mencakup pencarian, pendanaan, pertumbuhan email, penjadwalan, komunitas, video AI, wawasan produk."
+    },
+    {
+      "id": "553",
+      "slug": "beauty-fashion",
+      "name": "Kecantikan & Fashion",
+      "description": "Alat kecantikan & mode yang memberi Anda gaya, menumbuhkan merek, dan mengatur ide-ide. Dari stylist virtual dan kebugaran wajah untuk link pencipta, survei, dan belanja etis."
+    },
+    {
+      "id": "501",
+      "slug": "web3",
+      "name": "Web3",
+      "description": "Blockchain adalah nama dari permainan ini. Jelajahi kemungkinan web terdesentralisasi baru dengan aplikasi Web3 terbaik untuk keuangan, game, media sosial, dan banyak lagi!"
+    },
+    {
+      "id": "472",
+      "slug": "diversity-inclusion",
+      "name": "Keanekaragaman & Inklusi",
+      "description": "Kita tumbuh lebih cepat ketika suara semua orang didengar. Produk-produk ini dapat membantu di sepanjang jalan."
+    },
+    {
+      "id": "471",
+      "slug": "audio",
+      "name": "Audio Audio Audio Audio",
+      "description": "Audio mencakup alat untuk streaming musik / podcast, panggilan suara, dan pidato AI-TTS, STT, dubbing, agen suara-dan platform untuk menjadi tuan rumah, skala, mengintegrasikan."
+    },
+    {
+      "id": "470",
+      "slug": "no-code",
+      "name": "Tidak ada kode",
+      "description": "Tidak memiliki keterampilan coding? Tidak ada masalah! Jelajahi aplikasi tanpa kode ini dan memberdayakan kreativitas Anda "
+    },
+    {
+      "id": "469",
+      "slug": "social-impact",
+      "name": "Social Impact",
+      "description": "Kami  beralih  ke  produk - produk  ini  untuk  merasa  berharap  tentang  dunia  kita .😊"
+    },
+    {
+      "id": "468",
+      "slug": "remote-work",
+      "name": "Kerja jarak jauh",
+      "description": "Apakah Anda berada di sofa, pantai tropis, atau lereng, temukan beberapa inspo terpencil di sini."
+    },
+    {
+      "id": "435",
+      "slug": "femtech",
+      "name": "FemTech adalah",
+      "description": "Mari kita fokus pada wanita; solusi kesuburan, aplikasi pelacakan periode, perawatan kehamilan dan keperawatan, kesehatan seksual wanita, perawatan kesehatan sistem reproduksi dan banyak lagi."
+    },
+    {
+      "id": "402",
+      "slug": "growth-hacks",
+      "name": "Pertumbuhan Hacks ",
+      "description": "Growth Hacks Demystified: alat untuk SaaS dan startup-pipa data, otomatisasi email, bukti sosial, influencer, peluncuran-untuk memperoleh, mengkonversi, mempertahankan pengguna."
+    },
+    {
+      "id": "375",
+      "slug": "startup-lessons",
+      "name": "Pelajaran Startup",
+      "description": "Luncurkan MVP Anda, berbicara dengan pelanggan Anda, hal-hal semacam itu."
+    },
+    {
+      "id": "374",
+      "slug": "money",
+      "name": "Uang (Uang)",
+      "description": "Alat uang yang membantu bisnis mendapatkan bayaran, perbankan online, mengontrol pengeluaran, dan menangani pajak. Pilihan mencakup pembayaran, perbankan startup, kartu, dan penagihan untuk tim."
+    },
+    {
+      "id": "373",
+      "slug": "work-in-progress",
+      "name": "Pekerjaan yang sedang berlangsung ",
+      "description": "Topik Work in Progress ini menguraikan alat untuk mengubah ide menjadi hasil: membangun aplikasi dan situs, mensurvei pengguna, mengedit video, merekrut bakat, mendanai dan meluncurkan."
+    },
+    {
+      "id": "372",
+      "slug": "side-project",
+      "name": "Proyek Side",
+      "description": "Proyek sampingan adalah usaha yang dimulai sendiri. Alat-alat ini membantu Anda merencanakan tugas, kode, penelitian, meluncurkan dengan umpan balik, mempekerjakan bakat, menampilkan pekerjaan, dan memonetisasi penggemar."
+    },
+    {
+      "id": "371",
+      "slug": "maker-tools",
+      "name": "Alat pembuat",
+      "description": "Membangun, meluncurkan, dan mengirim lebih cepat: merencanakan, host, mengotomatisasi, menjual, mengumpulkan bukti, merekam pembaruan, dan temukan. Untuk para developer indie, startup, dan para pencipta dengan AI."
+    },
+    {
+      "id": "366",
+      "slug": "medical",
+      "name": "Kedokteran medis",
+      "description": "Peralatan dan teknologi pintar merevolusi pengobatan dan perawatan kesehatan"
+    },
+    {
+      "id": "365",
+      "slug": "cannabis",
+      "name": "Marijuana (Cannabis)",
+      "description": "Marijuana adalah alkohol yang baru. Dengan legalisasi yang menyapu semua 50 negara bagian, gelombang startup diluncurkan untuk membantu Anda menikmatinya."
+    },
+    {
+      "id": "364",
+      "slug": "quantified-self",
+      "name": "Kuantifikasi diri sendiri",
+      "description": "Data terperinci Lifelogging dapat membantu membuat pilihan yang lebih baik"
+    },
+    {
+      "id": "363",
+      "slug": "arkit",
+      "name": "ARKit",
+      "description": "Sebuah kerangka kerja untuk membuat pengalaman Augmented Reality untuk iOS"
+    },
+    {
+      "id": "362",
+      "slug": "apple",
+      "name": "Apple Apple Apple Apple",
+      "description": "Setiap iDevice, aplikasi, dan komputer baru dari perusahaan terbesar🍎 di dunia."
+    },
+    {
+      "id": "361",
+      "slug": "search",
+      "name": "Pencarian",
+      "description": "Dari  pencarian ,  email ,  dan  video  ke  AI , Dengan  mobil  self - dri ving ,  dan  VR ,  Google  melakukan  semuanya . Jangan  lewat kan  produk ,  proyek ,  dan  sumber  daya  terbaru  dari  tim  Google  di  seluruh  dunia .🌏."
+    },
+    {
+      "id": "359",
+      "slug": "wallpaper",
+      "name": "Wallpaper Wallpaper",
+      "description": "Mencantikkan dan menghias semua layar Anda dengan segala sesuatu dan apa pun dari matahari terbenam di atas pegunungan hingga foto kerikil yang artistik"
+    },
+    {
+      "id": "358",
+      "slug": "home-automation",
+      "name": "Automasi Rumah Tangga",
+      "description": "Ok, Google! Apa saja beberapa hal luar biasa yang dapat Anda lakukan?"
+    },
+    {
+      "id": "357",
+      "slug": "alexa-skills",
+      "name": "Keterampilan Alexa",
+      "description": "🗣 Alexa, hal-hal hebat apa yang bisa Anda lakukan?"
+    },
+    {
+      "id": "356",
+      "slug": "touch-bar-apps",
+      "name": "Aplikasi Touch Bar",
+      "description": "Aplikasi yang dibuat untuk Touch Bar baru Apple👇"
+    },
+    {
+      "id": "355",
+      "slug": "vacation",
+      "name": "Liburan (liburan)",
+      "description": "Travel the world and experience a place like you live there."
+    },
+    {
+      "id": "354",
+      "slug": "books",
+      "name": "buku-buku",
+      "description": "Tidak ada yang seperti sebuah buku yang baik. Perluas pengetahuan Anda atau hanya menendang kembali dengan petualangan yang hebat."
+    },
+    {
+      "id": "353",
+      "slug": "games",
+      "name": "Game-game",
+      "description": "Cari sesuatu yang baru dan menarik untuk dimainkan di rumah atau di mana saja. Pekerjaan dapat menunggu. Bersenang-senanglah."
+    },
+    {
+      "id": "352",
+      "slug": "tech",
+      "name": "Teknis teknologi",
+      "description": "Hardware atau Software. Inovasi atau inovasi. Jika seseorang mendorong teknologi ke depan, Anda akan menemukannya di sini."
+    },
+    {
+      "id": "351",
+      "slug": "imessage-apps",
+      "name": "Aplikasi iMessage",
+      "description": "Baru di iOS 10, aplikasi terintegrasi dengan pesan di iPhone Anda untuk dengan mudah membuat dan berbagi konten, menambahkan stiker, melakukan pembayaran, dan banyak lagi, tanpa meninggalkan percakapan. "
+    },
+    {
+      "id": "349",
+      "slug": "climate-tech",
+      "name": "Teknologi Iklim",
+      "description": "Membuat dunia menjadi tempat yang lebih bersih"
+    },
+    {
+      "id": "348",
+      "slug": "pokemon",
+      "name": "Pokemon Pokemon",
+      "description": "Harus menangkap mereka semua. Anda harus memilih favorit Anda."
+    },
+    {
+      "id": "346",
+      "slug": "facebook-messenger",
+      "name": "Facebook Messenger adalah",
+      "description": "Alat Facebook Messenger menghubungkan obrolan ke CRM, helpdesk, chatbot, dan formulir. Dukungan otomatis, menangkap lead, jadwal posting, menyatukan percakapan pelanggan"
+    },
+    {
+      "id": "345",
+      "slug": "outdoors",
+      "name": "Outdoors - Outdoors",
+      "description": "Outdoor berarti waktu di luar pintu: aplikasi untuk merencanakan rute, menemukan jalur dan tempat perkemahan, menyewa perlengkapan, memilih pantai, menavigasi offline, memperluas Wi-Fi, menguji ide-ide perlengkapan baru."
+    },
+    {
+      "id": "343",
+      "slug": "linkedin",
+      "name": "Linkedin Linkedin Linkedin",
+      "description": "Jaringan yang paling profesional dari mereka semua lebih dari sekedar situs web. Berikut ini adalah berbagai aplikasi dan peretasan yang dibangun di atas platform."
+    },
+    {
+      "id": "342",
+      "slug": "bots",
+      "name": "bot",
+      "description": "Ada bot untuk hampir semua hal, mulai dari rekomendasi restoran hingga GIF kucing. Beep BLOOP Beep BLOOP Beep BLOOP"
+    },
+    {
+      "id": "341",
+      "slug": "medium",
+      "name": "Medium (Medium)",
+      "description": "Semuanya medium. Alat-alat yang membuat pengalaman menulis Anda lebih baik, plug ke API Medium, dan banyak lagi!"
+    },
+    {
+      "id": "308",
+      "slug": "maps",
+      "name": "Peta-peta peta",
+      "description": "There's a map for that 🌎"
+    },
+    {
+      "id": "307",
+      "slug": "star-wars",
+      "name": "Star Wars",
+      "description": "Jedi, droid, Stormtroopers, dan banyak lagi. Mencintai produk-produk ini Anda akan."
+    },
+    {
+      "id": "303",
+      "slug": "menu-bar-apps",
+      "name": "Menu Bar Aplikasi",
+      "description": "Aplikasi kecil kecil yang melakukan hal-hal ajaib dan hidup di bar menu OS X Anda. Kumpulkan mereka semua!"
+    },
+    {
+      "id": "283",
+      "slug": "reddit",
+      "name": "reddit",
+      "description": "Halaman depan dari internet"
+    },
+    {
+      "id": "282",
+      "slug": "virtual-assistants",
+      "name": "Asisten virtual (virtual assistant)",
+      "description": "Kita semua dapat menggunakan asisten pribadi. Offload daftar to-do Anda dan menghemat waktu dengan layanan yang membantu ini."
+    },
+    {
+      "id": "280",
+      "slug": "snapchat",
+      "name": "Snapchat Snapchat Snapchat Snapchat",
+      "description": "Jar ingan  sosial  yang  paling  panas  \" baru \"  yang  digunakan  untuk  lebih  dari  sek edar  selfie . Iku ti  Produk H unt Te am .👻"
+    },
+    {
+      "id": "279",
+      "slug": "youtube",
+      "name": "YouTube",
+      "description": "Tempat  untuk  menonton  kucing  (dan  segala  sesuatu  yang  lain  di  internet)📽. Berikut  adalah  beberapa  aplikasi  dan  situs  untuk  YouTube  lebih  baik ."
+    },
+    {
+      "id": "278",
+      "slug": "e-commerce",
+      "name": "E-Commerce - E-Commerce",
+      "description": "Tingkatkan bisnis atau toko Anda dari rumah dengan aplikasi e-commerce terbaik untuk perbandingan harga, manajemen arus kas, dan pertumbuhan penjualan. Ka-Ching!"
+    },
+    {
+      "id": "277",
+      "slug": "delivery",
+      "name": "Pengiriman",
+      "description": "Sampai kita memiliki teleportasi, ini adalah taruhan terbaik Anda untuk mendapatkan apa pun dari titik A ke titik B.📦"
+    },
+    {
+      "id": "276",
+      "slug": "product-hunt",
+      "name": "Produk berburu",
+      "description": "Tempat untuk menemukan hal favorit Anda berikutnya. Berburu produk, mencari inspirasi, atau membangun bersama dengan kami. Komunitas kami telah membuat banyak situs, ekstensi, dan aplikasi hebat dengan API kami."
+    },
+    {
+      "id": "275",
+      "slug": "on-demand",
+      "name": "On-Demand",
+      "description": "Dapatkan apa yang Anda inginkan, ketika Anda menginginkannya, dengan beberapa ketukan. Jangan angkat jari... Mungkin hanya satu jari saja."
+    },
+    {
+      "id": "274",
+      "slug": "wi-fi",
+      "name": "Wi-Fi - Wi-Fi",
+      "description": "Sebuah kebutuhan akhir-akhir ini. Ada banyak produk berguna yang dapat membantu membuat Anda tetap terhubung 24 / 7. (P.S. Tidak bermain dengan baik dengan pesawat terbang... belum)"
+    },
+    {
+      "id": "273",
+      "slug": "donald-trump",
+      "name": "Donald Trump",
+      "description": "Seorang  polit isi ,  pengusaha ,  kep ribadian  televisi ,  dan  berpotensi  menjadi  Presiden  Amerika  Serikat  berikutnya . Kami  akan  menghindari  berbicara  tentang  politik  di  sini .😁"
+    },
+    {
+      "id": "272",
+      "slug": "github",
+      "name": "GitHub adalah",
+      "description": "Perangkat lunak untuk membantu Anda menulis software."
+    },
+    {
+      "id": "271",
+      "slug": "sketch",
+      "name": "Sketch",
+      "description": "Sebuah alternatif untuk Photoshop dan Illustrator sering digunakan untuk merancang aplikasi dan situs yang paling populer saat ini."
+    },
+    {
+      "id": "269",
+      "slug": "augmented-reality",
+      "name": "Augmented Reality (Realitas Tambahan)",
+      "description": "Mengubah dunia, AR memiliki potensi untuk mengubah hidup kita."
+    },
+    {
+      "id": "268",
+      "slug": "artificial-intelligence",
+      "name": "Artificial Intelligence (kecerdasan buatan)",
+      "description": "Kecerdasan buatan memberi kekuatan pada produk yang dapat menulis, beralasan, menganalisis data, dan mengambil tindakan untuk Anda. Kategori-kategori ini meliputi cara-cara utama AI yang sedang dibangun dan digunakan saat ini.\n\n- * * [AI Agents] (https://www.producthunt.com/categories/ai-agents) * * - Alat yang menggunakan AI untuk merencanakan, beralasan, dan mengambil tindakan di seluruh alat dan alur kerja, sering menyelesaikan tugas multi-langkah dengan input manusia yang minimal.\n- * * [LLMs] (https://www.producthunt.com/categories/llms) * * - Platform dan alat yang dibangun di sekitar model bahasa besar "
+    },
+    {
+      "id": "267",
+      "slug": "developer-tools",
+      "name": "Alat Pengembang",
+      "description": "Perangkat lunak untuk membantu Anda menulis software."
+    },
+    {
+      "id": "266",
+      "slug": "streaming-services",
+      "name": "Layanan Streaming",
+      "description": "Ada segala macam aplikasi untuk \"Netflix dan dingin\" (dalam arti harfiah) dan meningkatkan pengalaman streaming TV / film Anda."
+    },
+    {
+      "id": "265",
+      "slug": "kanye-west",
+      "name": "Kanye West, Kanye West",
+      "description": "Ya, Yeezy, Yeezus, Pablo... Ya, Yeezy, Yeezus, Pablo... Saya akan membiarkan Anda selesai, tetapi ini adalah beberapa produk terbaik sepanjang masa."
+    },
+    {
+      "id": "264",
+      "slug": "biohacking",
+      "name": "Biohacking (Biohacking)",
+      "description": "Bioteknologi adalah bidang yang menarik di mana para ilmuwan dan inovator memanipulasi sistem hidup untuk meningkatkan cara kita berfungsi."
+    },
+    {
+      "id": "261",
+      "slug": "wearables",
+      "name": "Wearables yang dapat dipakai",
+      "description": "Dari  k erah  anjing  hingga  jam  tangan ,  ada  teknologi  yang  dapat  dipakai  untuk  semuanya . Sekarang  lebih  mudah  dari  sebelumnya  untuk  mengukur  kemajuan  resolusi  Tahun  Baru  Anda  (atau  kurang nya  itu).😁"
+    },
+    {
+      "id": "260",
+      "slug": "drake",
+      "name": "Drake Drake Drake Drake",
+      "description": "Itu  adalah  rencana  Tuhan  bagi  Anda  untuk  menemukan  produk  Way  2  Se xy  ini .😉"
+    },
+    {
+      "id": "259",
+      "slug": "legal",
+      "name": "Hukum",
+      "description": "Mereka menyatakan kasus mereka. Sekarang Anda menjadi hakim dari aplikasi dan layanan hukum ini."
+    },
+    {
+      "id": "258",
+      "slug": "transportation",
+      "name": "Transportasi (Transportation)",
+      "description": "Sayangnya, kita masih tidak bisa melakukan teleportasi tetapi setidaknya ada aplikasi yang dapat membantu kita menemukan rute yang paling efisien dan membawa kita ke sana."
+    },
+    {
+      "id": "256",
+      "slug": "calendar",
+      "name": "Kalender",
+      "description": "Kalender ping pong adalah permainan yang mengerikan. Aplikasi dan layanan ini dapat membantu Anda mengelola jadwal Anda dan menghemat banyak waktu."
+    },
+    {
+      "id": "254",
+      "slug": "coffee",
+      "name": "Kopi kopi",
+      "description": "The kind of java that's not object-oriented. ☕️"
+    },
+    {
+      "id": "253",
+      "slug": "tv",
+      "name": "TV TV",
+      "description": "Pem otong  kabel  memiliki  begitu  banyak  pilihan  saat  ini . B inge  menonton  seri  asli  Netflix  terbaru  atau  jatuh  ke  dalam  seri  tanpa  akhir  video  kucing  di  YouTube . Tant angan  terbesar nya  adalah  memutuskan  apa  yang  harus  dit onton . Aplikasi  dan  situs - sit us  ini  dapat  membantu .📺"
+    },
+    {
+      "id": "252",
+      "slug": "meetings",
+      "name": "Pertemuan-pertemuan",
+      "description": "Selamat datang di masa dewasa, di mana pertemuan-pertemuan tidak dapat dihindari. Pastikan saja Anda menggunakan alat yang tepat untuk menjadwalkan dan menjalankan pertemuan yang produktif."
+    },
+    {
+      "id": "251",
+      "slug": "photography",
+      "name": "Fotografi (fotografi)",
+      "description": "Apakah  Anda  terkenal  di  Instagram  atau  hanya  penggemar  fotografi ,  ada  begitu  banyak  aplikasi  dan  produk  untuk  membuat  selfie  atau  matahari  ter bit  waktu  yang  lebih  indah .📷"
+    },
+    {
+      "id": "250",
+      "slug": "travel",
+      "name": "Perjalanan perjalanan",
+      "description": "Begitu banyak tempat untuk dilihat. Dari pantai, ke pegunungan, menjelajahi dunia dan memuaskan keinginan batin Anda."
+    },
+    {
+      "id": "249",
+      "slug": "global-nomad",
+      "name": "Nomad Global Nomad Global Nomad Global Nomad",
+      "description": "Tidak semua orang yang berkeliaran akan tersesat. Beberapa bepergian dengan rumah mereka di belakang mereka, tinggal dan bekerja di kota-kota di seluruh dunia.🌍 Sekarang ada situs-situs untuk membantu para nomaden bertemu satu sama lain, memesan tempat tinggal, dan yang paling penting, menemukan WiFi gratis."
+    },
+    {
+      "id": "248",
+      "slug": "privacy",
+      "name": "Privacy",
+      "description": "Anda tidak perlu memakai topi tinfoil untuk bersembunyi dari NSA. Ada beberapa aplikasi untuk itu."
+    },
+    {
+      "id": "247",
+      "slug": "software-engineering",
+      "name": "Teknik Perangkat Lunak",
+      "description": "Perangkat lunak untuk membantu Anda menulis software."
+    },
+    {
+      "id": "246",
+      "slug": "emulators",
+      "name": "Emulator adalah emulator",
+      "description": "Gatal untuk menjalankan permainan favorit Anda dari masa kecil Anda? Tapi menyerah Atari lama Anda di penjualan garasi keluarga? Untungnya, ada emulator untuk itu."
+    },
+    {
+      "id": "243",
+      "slug": "website-builder",
+      "name": "Website Builder (Pembuat Website)",
+      "description": "Membangun dan merancang situs web Anda sendiri yang indah tanpa satu baris kode."
+    },
+    {
+      "id": "242",
+      "slug": "wordpress",
+      "name": "WordPress WordPress WordPress WordPress",
+      "description": "Sistem manajemen konten yang mungkin Anda gunakan setiap hari tanpa menyadarinya. WordPress menguasai 25% dari seluruh internet. Itu adalah banyak internet."
+    },
+    {
+      "id": "237",
+      "slug": "saas",
+      "name": "SaaS adalah sebuah",
+      "description": "Software is eating the world. We've gathered the culprits here."
+    },
+    {
+      "id": "232",
+      "slug": "internet-of-things",
+      "name": "Internet dari hal-hal",
+      "description": "Hubungkan segala sesuatu ke internet, dari pencahayaan rumah Anda ke espresso yang terhubung. Terima kasih telah membuat kopi, Jarvis. Terima kasih telah membuat kopi, Jarvis."
+    },
+    {
+      "id": "231",
+      "slug": "seo",
+      "name": "SEO",
+      "description": "Halaman pertama pencarian Google sangat penting, karena, mari kita hadapi itu, siapa yang benar-benar membuatnya ke halaman 2? Tingkatkan visibilitas Anda, tingkatkan peringkat Anda dan dapatkan lebih banyak pengunjung dengan menerapkan beberapa tips, trik, dan alat ini. "
+    },
+    {
+      "id": "230",
+      "slug": "crowdfunding",
+      "name": "Crowdfunding",
+      "description": "Setiap  sedikit  membantu . Dan  begitu  juga  dengan  alat  crowd fund ing  ini  ketika  Anda  mencari💰."
+    },
+    {
+      "id": "228",
+      "slug": "beauty",
+      "name": "Kecantikan (Beauty)",
+      "description": "Orang-orang cantik, cantik berbagi produk kecantikan favorit mereka di sini."
+    },
+    {
+      "id": "227",
+      "slug": "space",
+      "name": "Ruang angkasa (Space)",
+      "description": "Jelajahi galaksi baru dari kenyamanan headset VR atau lepas landas ke luar angkasa melalui buku fiksi ilmiah. Pro tip: Jawabannya adalah 42.✨ ✨"
+    },
+    {
+      "id": "226",
+      "slug": "djing",
+      "name": "DJing adalah",
+      "description": "Turunkan bass itu ke atas! Dapatkan diri Anda sebuah stan dan beberapa bantuan dari ini:"
+    },
+    {
+      "id": "224",
+      "slug": "baseball",
+      "name": "Baseball (Baseball)",
+      "description": "Ambil kacang dan crackerjacks Anda, sudah waktunya untuk menyelam ke salah satu olahraga paling populer (dan nostalgia) di dunia.⚾️"
+    },
+    {
+      "id": "223",
+      "slug": "party",
+      "name": "partai",
+      "description": "Am bil  teman - teman  Anda👯 dan  play list  terbaik  Anda🎶. Get  lo ose !  Get  lo ose !  Get  lo ose !  Get  lo ose !🎉"
+    },
+    {
+      "id": "221",
+      "slug": "comics-graphic-novels",
+      "name": "Komik dan Graphic Novels",
+      "description": "Ketika  seluruh  multi verse  muncul  di  feed  Anda .  Ketika  seluruh  multi verse  muncul  di  feed  Anda . manga  juga .😍"
+    },
+    {
+      "id": "220",
+      "slug": "boxing",
+      "name": "Tinju (Boxing)",
+      "description": "M elem par kan  sar ung  tangan  pintar  iP unch  dan  bekerja  pada  kait  kanan  itu ,  atau  mulai  lambat  dengan  permainan  seluler  seperti  Real  Box ing  2  C RE ED . Ter ap ung  seperti  kupu - ku pu  dan  meny eng at  seperti  le bah .👊"
+    },
+    {
+      "id": "219",
+      "slug": "swimming",
+      "name": "Berenang (Benang)",
+      "description": "Ambil speedos Anda, mendapatkan teknik Anda yang tepat, dan berbalik jatuh seperti seorang pro. atau hanya doggy paddle."
+    },
+    {
+      "id": "218",
+      "slug": "skateboarding",
+      "name": "Skateboarding",
+      "description": "Anda mungkin bukan Tony Hawk (Belum!) Namun Anda masih dapat berbagi foto kickflip di Krak dan bepergian untuk bekerja di Boosted Board bertenaga listrik."
+    },
+    {
+      "id": "217",
+      "slug": "couples",
+      "name": "Pasangan suami istri",
+      "description": "Ber komunikasi  dan  berbagi  cinta  Anda  secara  pribadi  dengan  boo  Anda .😘"
+    },
+    {
+      "id": "214",
+      "slug": "photoshop",
+      "name": "Photoshop",
+      "description": "Alat-alat untuk orang-orang yang menyebut lapisan mereka. Baik - dan mereka yang tidak, juga"
+    },
+    {
+      "id": "213",
+      "slug": "text-editors",
+      "name": "Editor Teks",
+      "description": "Ketika Post-Its tidak memotongnya lagi, gunakan ini untuk mengedit semua yang Anda tuliskan."
+    },
+    {
+      "id": "212",
+      "slug": "crypto",
+      "name": "Crypto Crypto Crypto",
+      "description": "Bitcoin, Litecoin, dan Dogecoin. Cryptocurrency memiliki kemampuan untuk mengubah cara kita bertransaksi dan banyak lagi."
+    },
+    {
+      "id": "211",
+      "slug": "batteries",
+      "name": "Baterai-baterai",
+      "description": "Bat erai  rendah  kecem asan  adalah  yang  ter buruk  dari  masalah  dunia  pertama . Berikut  adalah  beberapa  bat erai  ekst ernal  dan  produk  untuk  menjaga  perangkat  Anda  ter isi  penuh .🔋"
+    },
+    {
+      "id": "210",
+      "slug": "accessories",
+      "name": "Aksesoris",
+      "description": "Tidak  ada  yang  lebih  buruk  daripada  layar  ponsel  yang  ret ak ,  tetapi  kasus  dapat  melakukan  lebih  dari  sekadar  melindungi  ponsel  Anda . Pr ong  meng ger akkan  ponsel  sepanjang  hari ,  Hand L  tanpa  peg angan  dan  dilengkapi  dengan  dud ukan ,  dan  kasus  L ighter  S no op  dilengkapi  dengan  -  Anda  mene bak nya  -  peman tik .🔥"
+    },
+    {
+      "id": "209",
+      "slug": "languages",
+      "name": "Bahasa-bahasa",
+      "description": "Ayo masuk! Masuk! Masuk! Masuk ke dalam! Dalam! Itu adalah \"masuk\" jika Anda belum menjadi seorang ployglot."
+    },
+    {
+      "id": "208",
+      "slug": "venture-capital",
+      "name": "Modal Ventura (Venture Capital)",
+      "description": "Mari  kita  tahu  bagaimana  kita  bisa  membantu .🙃"
+    },
+    {
+      "id": "207",
+      "slug": "advertising",
+      "name": "Advertising",
+      "description": "Kami bisa menggunakan begitu banyak layanan gratis berkat iklan. Dapatkan hasil maksimal dari anggaran iklan Anda dan dapatkan pendapatan dengan beberapa alat ini."
+    },
+    {
+      "id": "206",
+      "slug": "growth-hacking",
+      "name": "Pertumbuhan Hacking",
+      "description": "Kita semua sedang mencari tongkat hoki. Berikut adalah beberapa hal yang mungkin membantu, tetapi pertama-tama ikuti topik ini SEKARANG. # Growthhacking"
+    },
+    {
+      "id": "205",
+      "slug": "time-tracking",
+      "name": "Waktu Pelacakan (Time Tracking)",
+      "description": "Waktu selalu melarikan diri dari kita. Lacak apa yang Anda lakukan sehingga Anda dapat menjadi lebih efisien dengan sumber daya hidup yang paling berharga."
+    },
+    {
+      "id": "204",
+      "slug": "education",
+      "name": "Pendidikan Pendidikan Pendidikan",
+      "description": "Belajar, lakukan, ajarkan. Selalu belajarlah!"
+    },
+    {
+      "id": "203",
+      "slug": "investing",
+      "name": "Investasi",
+      "description": "Ini mungkin hanya membawa Anda \"ke MOOOOON\"🚀"
+    },
+    {
+      "id": "202",
+      "slug": "novels",
+      "name": "Novel-novel",
+      "description": "Buka imajinasi Anda dan tersesat dalam cerita yang bagus."
+    },
+    {
+      "id": "199",
+      "slug": "pets",
+      "name": "Hewan peliharaan",
+      "description": "Teman terbaik baru Anda yang tidak berbicara kembali (karena mereka bukan manusia)."
+    },
+    {
+      "id": "198",
+      "slug": "cats",
+      "name": "Kucing-kucing",
+      "description": "Bin atang  favorit  di  internet . M EO W !😸"
+    },
+    {
+      "id": "194",
+      "slug": "thriller-books",
+      "name": "Buku-buku thriller",
+      "description": "Page turners yang memutar dan memutar dan membuat kita berada di tepi kursi kita."
+    },
+    {
+      "id": "193",
+      "slug": "horror-books",
+      "name": "Buku-buku horor",
+      "description": "Flip pada cahaya malam dan meringkuk dengan sebuah novel yang menakutkan."
+    },
+    {
+      "id": "182",
+      "slug": "science-books",
+      "name": "Buku-buku sains",
+      "description": "Saya pernah membaca buku ini tentang helium. Kami tidak bisa meletakkannya. Kami tidak bisa meletakkannya. Kami tidak bisa meletakkannya. Kami tidak bisa meletakkannya."
+    },
+    {
+      "id": "181",
+      "slug": "fashion-books",
+      "name": "Buku-buku mode",
+      "description": "Anna Wintour akan bangga dengan kecerdasan mode Anda. Bacalah jalan Anda ke tampilan yang luar biasa."
+    },
+    {
+      "id": "180",
+      "slug": "yoga-books",
+      "name": "Buku Yoga",
+      "description": "Temukan zen batin Anda (dan dapatkan latihan yang baik) dengan teknik yang dibagikan dalam buku-buku ini."
+    },
+    {
+      "id": "179",
+      "slug": "design-books",
+      "name": "Buku Desain",
+      "description": "Menjadi Jony Ive berikutnya adalah hal yang sulit, tetapi ini adalah tempat yang baik untuk memulai."
+    },
+    {
+      "id": "178",
+      "slug": "startup-books",
+      "name": "Buku Startup",
+      "description": "Beberapa pendiri dan orang-orang startup berpikir Anda bisa belajar dari buku-buku ini."
+    },
+    {
+      "id": "177",
+      "slug": "crime-books",
+      "name": "Buku-buku kejahatan",
+      "description": "Berubah menjadi Sherlock Holmes, tanpa meninggalkan tempat tidur Anda. Ambil sebuah buku dan lihat apakah Anda dapat memecahkan kejahatan sebelum bab terakhir."
+    },
+    {
+      "id": "176",
+      "slug": "cooking",
+      "name": "Memasak (Masak)",
+      "description": "Mengubah bahan mentah menjadi makanan yang lezat untuk keluarga dan teman-teman Anda. Ini seperti sihir. Ini seperti sihir. Ini seperti sihir. Ini seperti sihir."
+    },
+    {
+      "id": "175",
+      "slug": "art-books",
+      "name": "Buku seni",
+      "description": "Berjanjilah untuk tidak menghakimi Anda jika Anda mendapatkan ini semata-mata untuk meja kopi Anda."
+    },
+    {
+      "id": "174",
+      "slug": "cookbooks",
+      "name": "Cookbooks",
+      "description": "Anda sudah menguasai seni memasak Prancis?! Cobalah ini, Chef."
+    },
+    {
+      "id": "173",
+      "slug": "history-books",
+      "name": "Buku Sejarah",
+      "description": "Pelajari lebih banyak tentang masa lalu, karena masa lalu mengulangi dirinya sendiri sehingga Anda lebih baik siap."
+    },
+    {
+      "id": "172",
+      "slug": "biking",
+      "name": "Bersepeda",
+      "description": "Slip pada spandex Anda, meregangkan kaki Anda, dan mengeksplorasi produk-produk ini sebelum melompat ke sepeda Anda."
+    },
+    {
+      "id": "170",
+      "slug": "charity-giving",
+      "name": "Charity & Giving",
+      "description": "Ada begitu banyak cara untuk membantu orang lain dengan beberapa ketukan di telepon Anda. Sumbangkan waktu atau uang Anda untuk tunawisma, penyandang cacat, dan orang lain yang membutuhkan bantuan."
+    },
+    {
+      "id": "168",
+      "slug": "fighting-games",
+      "name": "Pertempuran permainan",
+      "description": "Ini adalah untuk Anda semua yang bangun pagi ini dan memilih kekerasan."
+    },
+    {
+      "id": "167",
+      "slug": "crafting-games",
+      "name": "Crafting permainan",
+      "description": "Ini seperti DIY dalam video game. Jadikan kesenangan Anda sendiri."
+    },
+    {
+      "id": "166",
+      "slug": "simulation-games",
+      "name": "Simulasi permainan",
+      "description": "Dari kambing ke mengemudi truk, ada simulator untuk semuanya. Hiduplah dengan cara yang berbeda tanpa meninggalkan pekerjaan penuh waktu Anda."
+    },
+    {
+      "id": "165",
+      "slug": "isometric-games",
+      "name": "Permainan Isometrik",
+      "description": "2D bisa menjadi sangat terbatas. Miringkan tampilan dan jelajahi judul isometrik yang indah ini."
+    },
+    {
+      "id": "164",
+      "slug": "marketing",
+      "name": "Pemasaran Pemasaran Pemasaran",
+      "description": "Sebarkan berita: aplikasi pemasaran dapat membantu Anda memaksimalkan jangkauan Anda, melibatkan audiens Anda, dan mendorong konversi dengan cara yang mudah. "
+    },
+    {
+      "id": "163",
+      "slug": "historical-games",
+      "name": "Permainan Sejarah",
+      "description": "Saat nya  untuk  mem amer kan  memori  ga jah  yang  hebat  itu  dengan  salah  satu  permainan  ini .🐘"
+    },
+    {
+      "id": "162",
+      "slug": "tower-defense-games",
+      "name": "Permainan Tower Defense",
+      "description": "musuh yang semakin dekat. Setup penghalang Anda dan pastikan tidak ada yang masuk."
+    },
+    {
+      "id": "161",
+      "slug": "word-games",
+      "name": "Permainan Kata",
+      "description": "Siap untuk tantangan di luar Wordle harian Anda?"
+    },
+    {
+      "id": "160",
+      "slug": "funny-games",
+      "name": "Permainan Lucu",
+      "description": "Jika Anda kalah dalam permainan ini, setidaknya Anda tertawa."
+    },
+    {
+      "id": "159",
+      "slug": "drinking",
+      "name": "Minum Minum",
+      "description": "Bers orak - s ora i  untuk  minuman  baru  dan  cara - cara  baru  untuk  men ik mat inya !🍻 "
+    },
+    {
+      "id": "157",
+      "slug": "kids",
+      "name": "Anak-anak",
+      "description": "Permainan dapat menjadi menyenangkan dan edukatif. Permainan-permainan ini akan membantu anak Anda belajar, tumbuh, dan bersenang-senang."
+    },
+    {
+      "id": "156",
+      "slug": "retro-games",
+      "name": "Permainan Retro",
+      "description": "Seberapa sering Anda dipukul dengan gelombang nostalgia? Ya, kami juga. Masukkan ke dalamnya dengan ini:"
+    },
+    {
+      "id": "155",
+      "slug": "zombie-games",
+      "name": "Permainan Zombie",
+      "description": "Apakah Anda akan selamat dari kiamat zombie? Berikut adalah beberapa cara untuk mencari tahu."
+    },
+    {
+      "id": "154",
+      "slug": "fantasy-games",
+      "name": "Permainan Fantasi",
+      "description": "Kehidupan nyata bisa menjadi membosankan. Terbang naga, melemparkan mantra, dan pertempuran troll di piyama Anda."
+    },
+    {
+      "id": "153",
+      "slug": "sci-fi-games",
+      "name": "Permainan Sci-Fi",
+      "description": "Jelajahi dunia yang tidak nyata dan tidak terjangkau dari luar angkasa ke hutan Jurassic."
+    },
+    {
+      "id": "152",
+      "slug": "free-games",
+      "name": "Permainan gratis",
+      "description": "Kita semua suka bermain game, tetapi kita tidak selalu memiliki uang untuk mereka. Game-game ini akan memberi Anda banyak kesenangan tanpa menekankan anggaran Anda."
+    },
+    {
+      "id": "151",
+      "slug": "mmos",
+      "name": "MMO adalah",
+      "description": "Permainan lebih baik dengan orang lain. Terhubung dengan teman-teman untuk serangan, atau membuat teman-teman baru di tanah yang jauh."
+    },
+    {
+      "id": "150",
+      "slug": "puzzle-games",
+      "name": "Permainan Puzzle",
+      "description": "Dapatkan otak Anda bekerja lembur dengan teka-teki mind-bending."
+    },
+    {
+      "id": "149",
+      "slug": "sports-games",
+      "name": "Permainan Olahraga",
+      "description": "Sepak bola, sepak bola, hoki, bola basket, bisbol. Sekarang Anda dapat memainkan mereka semua, tanpa melanggar keringat."
+    },
+    {
+      "id": "148",
+      "slug": "open-world-games",
+      "name": "Permainan Dunia Terbuka",
+      "description": "Dengan game-game ini, Anda dapat pergi ke mana pun Anda inginkan, kapan pun Anda inginkan. Waktu untuk mengeksplorasi."
+    },
+    {
+      "id": "147",
+      "slug": "strategy-games",
+      "name": "Permainan strategi",
+      "description": "Beberapa dari kita suka mematikan otak kita dan tombol mash. Yang lain lebih memilih tantangan intelektual, secara metodis merencanakan setiap dan setiap langkah. Tantangan otak Anda dengan permainan ini."
+    },
+    {
+      "id": "146",
+      "slug": "indie-games",
+      "name": "Permainan indie",
+      "description": "Begitu banyak gairah dan cinta yang masuk ke dalam permainan independen. Sungguh luar biasa apa yang dapat dilakukan dengan anggaran yang kecil dan hanya beberapa orang."
+    },
+    {
+      "id": "145",
+      "slug": "adventure-games",
+      "name": "Permainan petualangan",
+      "description": "Seperti petualangan, tetapi menghargai hidup Anda? Itu bisa dimengerti. Itu bisa dimengerti. Itu bisa dimengerti. Itu bisa dimengerti. Untungnya, kita dapat menjelajahi ruang bawah tanah yang berbahaya dan laut yang tak kenal ampun dari kenyamanan rumah kita. Masukkan perlengkapan Anda dan bersiap-siap untuk waktu yang hebat."
+    },
+    {
+      "id": "144",
+      "slug": "action-games",
+      "name": "Permainan Aksi",
+      "description": "Apakah Anda ingin permainan Anda terasa seperti mereka diciptakan oleh Michael Bay? Periksa judul-judul yang memompa jantung ini jika Anda adalah penggemar adegan sinematik dan aksi over-the - top."
+    },
+    {
+      "id": "143",
+      "slug": "horror-games",
+      "name": "Permainan Horor",
+      "description": "Jangan  masuk  ke  sana . Baik lah ,  lakukan  itu  dan  kemudian  beritahu  kami  apa  yang  terjadi .  / Baik lah ,  lakukan  itu  dan  kemudian  beritahu  kami  apa  yang  terjadi .🙈 "
+    },
+    {
+      "id": "142",
+      "slug": "platformers",
+      "name": "Platformers (Platformers)",
+      "description": "Platformers telah ada untuk waktu yang lama dalam permainan video dan untuk alasan yang baik. Melompat-lompat melalui dunia Mario yang berwarna-warni untuk bahaya yang tak kenal ampun di Super Meat Boy."
+    },
+    {
+      "id": "141",
+      "slug": "driving-games",
+      "name": "Mengemudi permainan",
+      "description": "Kita semua suka berkendara dengan cepat. Polisi tidak suka kalau kau ingin menjadi Ricky Bobby selama satu sore, naiklah ke belakang kemudi speedster ini."
+    },
+    {
+      "id": "140",
+      "slug": "rpgs",
+      "name": "RPGs",
+      "description": "Anda memiliki sebuah quest baru! Berbicaralah dengan pembuat dan temukan game favorit baru Anda."
+    },
+    {
+      "id": "139",
+      "slug": "first-person-shooter",
+      "name": "First Person Shooter (penembak orang pertama)",
+      "description": "Kunci dan Load! Sudah waktunya untuk melompat ke dalam aksi berhadapan langsung dengan zombie, robot, dan ninja. Semoga berhasil."
+    },
+    {
+      "id": "138",
+      "slug": "meditation",
+      "name": "Meditasi (meditation)",
+      "description": "Teknologi dapat meningkatkan tekanan darah kita, tetapi juga dapat membantu menyembuhkan kecemasan sehari-hari. Beristirahatlah, jernihkan pikiran Anda, dan meringankan stres. Ada sebuah aplikasi untuk itu."
+    },
+    {
+      "id": "137",
+      "slug": "moving-storage",
+      "name": "Pindah & Penyimpanan",
+      "description": "Apakah Anda bergerak di seluruh dunia atau membersihkan sampah di bawah tangga Anda, ada begitu banyak layanan untuk membantu (dan menyelamatkan punggung Anda)."
+    },
+    {
+      "id": "135",
+      "slug": "branding",
+      "name": "Branding (branding)",
+      "description": "Ketahui siapa Anda dan pastikan orang lain melakukannya."
+    },
+    {
+      "id": "134",
+      "slug": "icons",
+      "name": "Ikon-ikon",
+      "description": "Bukan Cher. Jenis lain dari ikon - dan banyak dari mereka."
+    },
+    {
+      "id": "132",
+      "slug": "typography",
+      "name": "Tipografi (Typography)",
+      "description": "Selamat hari untuk semua orang kecuali mereka yang default untuk Comic Sans."
+    },
+    {
+      "id": "131",
+      "slug": "spreadsheets",
+      "name": "Spreadsheets",
+      "description": "Tabel raksasa informasi untuk kesenangan organisasi Anda. Masukkan angka di dalamnya. Masukkan kata-kata di dalamnya. Masukkan GIF di dalamnya! Itu terserah Anda."
+    },
+    {
+      "id": "130",
+      "slug": "a-b-testing",
+      "name": "Pengujian A / B",
+      "description": "Tidak ada inovasi tanpa eksperimen. Biarkan audiens Anda memutuskan apa yang bekerja paling baik dengan alat-alat ini."
+    },
+    {
+      "id": "128",
+      "slug": "email-marketing",
+      "name": "Pemasaran Email (email marketing)",
+      "description": "Email masih merupakan salah satu saluran yang paling lengket untuk berkomunikasi dengan pengguna Anda. Email lebih baik dengan beberapa alat pemasaran ini."
+    },
+    {
+      "id": "125",
+      "slug": "hardware",
+      "name": "Perangkat keras (hardware)",
+      "description": "Perangkat lunak mungkin memakan dunia, tetapi itu tidak ada apa-apa tanpa perangkat keras."
+    },
+    {
+      "id": "124",
+      "slug": "ad-blockers",
+      "name": "Ad Blockers adalah",
+      "description": "Jelajahi web lebih cepat dan menyingkirkan pop-up menjengkelkan dan iklan menjengkelkan dengan penghalang iklan untuk komputer dan smartphone Anda. Jangan khawatir, kami tidak akan memberitahukan."
+    },
+    {
+      "id": "123",
+      "slug": "customer-communication",
+      "name": "Komunikasi Pelanggan",
+      "description": "Pelanggan  selalu  benar ,  kan ? Dari  alat  dukungan  pelanggan  hingga  layanan  kartu  tulisan  tangan ,  ada  begitu  banyak  cara  untuk  membuat  pengguna  Anda  tersenyum .😊"
+    },
+    {
+      "id": "122",
+      "slug": "prototyping",
+      "name": "Prototyping (Prototyping)",
+      "description": "Bawalah ide Anda ke kehidupan super cepat dengan cepat dan kotor wireframe, mockup, dan prototipe fungsional. Jangan khawatir jika tidak sempurna."
+    },
+    {
+      "id": "119",
+      "slug": "payments",
+      "name": "Pembayaran",
+      "description": "Bayarlah! Bayarlah! Pertukaran uang menggunakan lebih dari sekedar kertas-kertas kuno dan hunks logam."
+    },
+    {
+      "id": "117",
+      "slug": "backpacks",
+      "name": "Backpacks (Backpacks)",
+      "description": "Menyebabkan postur tubuh yang buruk sejak taman kanak-kanak, ransel bisa menjadi rasa sakit. Tapi mereka juga cukup berguna, apakah Anda menggiring tas P.MAI yang stylish atau ransel hantu Snapchat yang menyenangkan (non-sementara)."
+    },
+    {
+      "id": "116",
+      "slug": "tennis",
+      "name": "Tennis (Tennis) Tennis (Tennis)",
+      "description": "Anda  mungkin  perlu  bekerja  pada  back s wing  Anda ,  tetapi  semua  orang  menyukai  tenis !🎾"
+    },
+    {
+      "id": "115",
+      "slug": "golf",
+      "name": "Golf",
+      "description": "Golf mungkin salah satu olahraga yang paling lambat ditemukan tetapi juga salah satu yang paling menantang, di mana bahkan kesalahan terkecil akan dikenakan biaya jaket hijau. Sekarang kami memiliki aplikasi dan teknologi canggih untuk membantu kami mencapai hasil tingkat Tiger.⛳️"
+    },
+    {
+      "id": "114",
+      "slug": "soccer",
+      "name": "Sepak bola (sepak bola)",
+      "description": "Beberapa orang mungkin tidak setuju dengan nama sebenarnya, tetapi kita semua dapat setuju bahwa itu fantastis!∗ ∗ ∗️"
+    },
+    {
+      "id": "113",
+      "slug": "football",
+      "name": "Sepak bola sepak bola",
+      "description": "Tidak  ada  yang  seperti  me lem par kan  di  sekitar  kulit  babi  ole .  Tidak  ada  yang  seperti  me lem par kan  di  sekitar  kulit  babi  ole . Apa  lagi  hari  Minggu  untuk ?🏈"
+    },
+    {
+      "id": "112",
+      "slug": "basketball",
+      "name": "Bola basket bola basket bola basket",
+      "description": "Anda  mungkin  tidak  6  ' 6  \" tapi  Anda  masih  dapat  menikmati  5  vs  5  permainan  basket  (atau  H . O . R . S . E . bersama  beberapa  teman).🏀"
+    },
+    {
+      "id": "111",
+      "slug": "sports",
+      "name": "Olahraga Olahraga",
+      "description": "Apakah  mereka  melibatkan  men end ang ,  me lem par ,  atau  menangkap ,  kita  semua  kita  semua  mencintai  olahraga .∗   ∗   ∗️🏈🏀"
+    },
+    {
+      "id": "110",
+      "slug": "robots",
+      "name": "Robot-robot",
+      "description": "Tentu, mereka mungkin suatu hari nanti mengambil alih dunia, tetapi untuk saat ini robot cukup keren! Mari kita nikmati mereka sementara kita bisa."
+    },
+    {
+      "id": "108",
+      "slug": "analytics",
+      "name": "Analisis analitik (analytical analysis)",
+      "description": "Dari menganalisis lalu lintas situs web untuk memahami perilaku pelanggan, aplikasi analitik teratas ini membuat mendapatkan wawasan berharga menjadi hal yang mudah. "
+    },
+    {
+      "id": "107",
+      "slug": "storage",
+      "name": "Penyimpanan",
+      "description": "Simpan dan memiliki akses ke semua file Anda kapan pun dan di mana pun Anda berada."
+    },
+    {
+      "id": "105",
+      "slug": "gifs",
+      "name": "GIFs",
+      "description": "Tidak  ada  pe anut  butter  di  sini . Hanya  GIF .😉"
+    },
+    {
+      "id": "104",
+      "slug": "social-media",
+      "name": "Media Sosial Media Sosial",
+      "description": "# GrowthHack Anda Twitter berikut dan menjadi ninja media sosial dengan alat-alat ini. Tapi pertama-tama, ikuti kami di @ ProductHunt. # TeamFollowBack"
+    },
+    {
+      "id": "103",
+      "slug": "dating",
+      "name": "Kencan",
+      "description": "Tem ukan  bela han  jiwa  Anda  (atau  mungkin  hanya  teman  baru)  dalam  beberapa  ges ekan ,  ket ukan ,  dan  pertukaran  emo ji .😽"
+    },
+    {
+      "id": "102",
+      "slug": "social-network",
+      "name": "Jaringan Sosial (Social Network)",
+      "description": "Terhubung dan tetap berhubungan dengan semua orang yang pernah Anda temui. Secara digital."
+    },
+    {
+      "id": "101",
+      "slug": "twitter",
+      "name": "Twitter",
+      "description": "Bagikan pikiran Anda dengan dunia dalam 140 karakter. Kecuali jika Anda menggunakan OneShot. Tweet seperti seorang pro dan jelajahi alam semesta yang luas dari aplikasi Twitter."
+    },
+    {
+      "id": "100",
+      "slug": "movies",
+      "name": "Film-film",
+      "description": "Long live film! Temukan go-to - flick Anda berikutnya dengan produk-produk ini."
+    },
+    {
+      "id": "97",
+      "slug": "3d-printer",
+      "name": "printer 3d printer",
+      "description": "Magically pergi dari rendering digital ke prototipe yang dapat disentuh. Pencetakan 3D memungkinkan Anda untuk berpikir, membuat dan membangun hal-hal multidimensi, dari perhiasan hingga mainan hingga selfie (ya, benar-benar)."
+    },
+    {
+      "id": "96",
+      "slug": "notes",
+      "name": "Catatan-catatan:",
+      "description": "Masih menggunakan post-its untuk semua tugas-tugas penting itu? Cobalah alat ini sebagai gantinya."
+    },
+    {
+      "id": "95",
+      "slug": "public-relations",
+      "name": "Hubungan Masyarakat (Public Relations)",
+      "description": "Mendapatkan cerita Anda kepada orang yang tepat bisa sulit, tetapi dengan alat seperti PR in a Box dan PR Stack, itu menjadi lebih mudah."
+    },
+    {
+      "id": "94",
+      "slug": "fintech",
+      "name": "Fintech adalah",
+      "description": "Siapa yang akan menjadi Stripe berikutnya, Coinbase, atau Revolut?"
+    },
+    {
+      "id": "93",
+      "slug": "user-experience",
+      "name": "Pengalaman Pengguna (User Experience)",
+      "description": "Apakah produk Anda mudah dipahami dan digunakan oleh orang lain? Jika Anda tidak yakin, berikut adalah beberapa alat untuk mengetahuinya."
+    },
+    {
+      "id": "92",
+      "slug": "cars",
+      "name": "Mobil-mobil",
+      "description": "V room  v room ,  be ep ,  be ep ! Meng ubah  Son ata  Anda  menjadi  mobil  pintar  dengan  otomatis ,  berk end ara  lebih  aman  dengan  Nav dy ,  atau  memiliki  camb uk  baru  yang  dikirim kan  kepada  Anda  dengan  S kur t .🚗💨"
+    },
+    {
+      "id": "90",
+      "slug": "writing",
+      "name": "Menulis",
+      "description": "Shakespeare tidak menggunakan aplikasi mewah, tetapi kita tidak semua Shakespeare. Berikut adalah beberapa hal yang akan membantu Anda menulis dengan lebih baik."
+    },
+    {
+      "id": "89",
+      "slug": "open-source",
+      "name": "Sumber terbuka (Open Source)",
+      "description": "Berbagi adalah peduli. Membangun hal-hal hebat bersama."
+    },
+    {
+      "id": "88",
+      "slug": "api-1",
+      "name": "API API API",
+      "description": "Produk API-first memudahkan para pengembang untuk membangun, mengintegrasikan, dan skala perangkat lunak. Periksa kategori-kategori ini untuk mengeksplorasi alat dan platform yang digunakan tim untuk mengirim dan mengadopsi API:\r\n\r\n- ** [Unified API] (https://www.producthunt.com/categories/unified-api) ** - API yang mengabstraksi beberapa layanan di balik antarmuka tunggal, membuat integrasi lebih cepat dan mengurangi overhead pemeliharaan.\r\n- ** [Platforms] (https://www.producthunt.com/categories/platforms) ** - Platform pengembang yang mengekspos API sebagai t"
+    },
+    {
+      "id": "87",
+      "slug": "weather",
+      "name": "Cuaca cuaca",
+      "description": "Anda bisa melihat ke luar untuk melihat apakah hujan, atau Anda bisa melihat smartphone Anda. Memprediksi masa depan dan rencanakan hari Anda dengan aplikasi cuaca yang ajaib dan peramal."
+    },
+    {
+      "id": "85",
+      "slug": "newsletters",
+      "name": "Newsletters - Newsletters",
+      "description": "Email  masih  jauh  dari  mati . Bahkan ,  ini  adalah  rumah  bagi  beberapa  konten  terbaik  di  Internet ,  seperti  Product  Hunt  harian .😁"
+    },
+    {
+      "id": "84",
+      "slug": "events",
+      "name": "Peristiwa-peristiwa",
+      "description": "Merencanakan pesta pernikahan, pesta, atau brunch dengan teman-teman? Alat-alat ini akan membantu."
+    },
+    {
+      "id": "82",
+      "slug": "parenting",
+      "name": "Parenting (Parenting)",
+      "description": "Jadilah orang yang mengetahui dan menikmati perjalanan liar dari orang tua. Jika Anda membutuhkan bantuan, ada beberapa sumber daya dan aplikasi hebat untuk Anda dan keluarga Anda."
+    },
+    {
+      "id": "81",
+      "slug": "adult-coloring-books",
+      "name": "Buku Mewarnai Dewasa",
+      "description": "Buku  me war nai  bukan  hanya  untuk  anak - anak . Meng ambil  beban  off  dan  ber san tai  dengan  warna . Pastikan  untuk  tetap  berada  di  garis .🎨"
+    },
+    {
+      "id": "80",
+      "slug": "wine",
+      "name": "Anggur (wine)",
+      "description": "Produk-produk ini memiliki catatan kebesaran dan kaki untuk menetes ke dalam rotasi malam Anda."
+    },
+    {
+      "id": "79",
+      "slug": "surfing",
+      "name": "Surfing",
+      "description": "Co wab unga  saya  dud es  &  dud ettes ! S nag  papan  dan  mari  kita  memukul  air .  S nag  papan  dan  mari  kita  memukul  air .🏄"
+    },
+    {
+      "id": "78",
+      "slug": "dogs",
+      "name": "Anjing-anjing",
+      "description": "Itu  fu zzy  ' ol  anak  anjing  dengan  lidah  keluar  adalah  teman  terbaik mu . Ada  banyak  cara  untuk  menunjukkan  cinta  Anda  kepadanya ,  jadi  pastikan  dia  memiliki  perawatan  terbaik  untuk  menjaga  anjing  Anda  tersenyum .🐶"
+    },
+    {
+      "id": "76",
+      "slug": "art",
+      "name": "Seni Seni",
+      "description": "Ada sejuta cara untuk membuat seni dan ada banyak alat untuk membantu membuat jus kreatif mengalir. Mengekspresikan diri sendiri!"
+    },
+    {
+      "id": "74",
+      "slug": "fashion",
+      "name": "Fashion Fashion Fashion Fashion",
+      "description": "Kau punya kursi depan di catwalk ini. Kau punya kursi depan di catwalk ini. Apa yang sedang terjadi di dalam tas?"
+    },
+    {
+      "id": "73",
+      "slug": "home",
+      "name": "Rumah > Produk-produk >",
+      "description": "Hiduplah di masa depan dengan perangkat terkoneksi terbaru, furnitur yang dibangun untuk kenyamanan, dan robot. Ya, robot-robot."
+    },
+    {
+      "id": "72",
+      "slug": "freelance",
+      "name": "Freelance adalah freelance",
+      "description": "Kami melihat Anda, freelancer. Misi Anda adalah penggilingan tetapi alat-alat yang berguna dan komunitas ada di sini."
+    },
+    {
+      "id": "71",
+      "slug": "sales",
+      "name": "Penjualan",
+      "description": "Sebuah produk yang hebat tidak banyak tanpa penjualan. Tingkatkan percakapan Anda dan sampai ke titik dekat dengan beberapa alat yang berguna ini."
+    },
+    {
+      "id": "70",
+      "slug": "jewelry",
+      "name": "Perhiasan",
+      "description": "Sarapan pagi di Tiffany 's bukanlah cara yang buruk untuk memulai hari Anda, tetapi ada banyak pilihan untuk menambahkan bakat dengan pakaian Anda. Temukan desain yang sempurna yang berbicara kepada Anda atau buat potongan Anda sendiri yang unik untuk Anda."
+    },
+    {
+      "id": "68",
+      "slug": "video-streaming",
+      "name": "Video Streaming (Video Streaming)",
+      "description": "Masih melihat? Jelas. Beristirahatlah untuk menggulir melalui yang terbaru dalam streaming."
+    },
+    {
+      "id": "67",
+      "slug": "standing-desks",
+      "name": "Meja yang berdiri",
+      "description": "Jika  ilmu  pengetahuan  mengatakan  berdiri ,  kita  akan  berdiri .👫. Dari  $25  hingga  $2. 500 ,  ada  meja  berdiri  untuk  semua  orang ."
+    },
+    {
+      "id": "66",
+      "slug": "soundcloud",
+      "name": "SoundCloud adalah",
+      "description": "Jelajahi komunitas artis, band, podcasters dan pembuat musik terbesar, dan semua aplikasi yang dibangun di atas platform suara yang luar biasa ini."
+    },
+    {
+      "id": "65",
+      "slug": "spotify",
+      "name": "Spotify",
+      "description": "Apa  cara  favorit  Anda  untuk  mem utar  musik  terbaik ? Tet apkan  suasana  hati  dengan  daftar  put ar  yang  sempurna  atau  mulai lah  pesta  bump in  dengan  bang ers  yang  paling  sakit .🎶"
+    },
+    {
+      "id": "64",
+      "slug": "amazon",
+      "name": "Amazon",
+      "description": "\"Toko buku\" yang menjual T.P. dan apa pun yang Anda cari."
+    },
+    {
+      "id": "63",
+      "slug": "instagram",
+      "name": "Instagram adalah sebuah aplikasi yang",
+      "description": "Tah ukah  Anda  bahwa  Anda  dapat  menjad wal kan  posting  Instagram  Anda ,  mengubah  foto  terbaik  Anda  menjadi  mar sh mal low  yang  dapat  dimakan ,  dan  mendapatkan  analisis  rinci  untuk  semua  foto  Anda ? Ada  beberapa  aplikasi  untuk  itu .📷"
+    },
+    {
+      "id": "61",
+      "slug": "anonymous",
+      "name": "Anonim Anonim Anonim",
+      "description": "Siapa kau? Siapa kau? Siapa yang kau bicarakan? Apakah dia tahu siapa dia? Apakah dia tahu siapa dia? Apakah dia tahu siapa dia?👻 Aku juga tidak tahu. Aku juga tidak tahu. Aku juga tidak tahu. Aku juga tidak tahu."
+    },
+    {
+      "id": "60",
+      "slug": "messaging",
+      "name": "Messaging",
+      "description": "Teks biasa bisa menjadi sangat membosankan. Temukan cara baru untuk membumbui komunikasi Anda."
+    },
+    {
+      "id": "59",
+      "slug": "sneakers-shoes",
+      "name": "Sneakers & Sepatu",
+      "description": "Sneakers, stilettos, atau crocks dengan kaus kaki? Kami tidak menghakimi, tapi Anda bisa."
+    },
+    {
+      "id": "57",
+      "slug": "music",
+      "name": "Music",
+      "description": "Skip atau repeat? Apakah tunage favorit Anda yang baru di sini? Apakah tunage favorit Anda yang baru di sini? "
+    },
+    {
+      "id": "55",
+      "slug": "customer-success",
+      "name": "Keberhasilan Pelanggan (Klien Success)",
+      "description": "Sebutkan sesuatu yang lebih baik daripada pengalaman pelanggan yang menyenangkan. Kami akan menunggu."
+    },
+    {
+      "id": "54",
+      "slug": "custom-keyboards",
+      "name": "Keyboard Kustom Keyboard Kustom Keyboard",
+      "description": "Keyboard adalah untuk lebih dari sekedar mengetik. Bagikan lokasi Anda, kirim GIF yang sempurna, dan berbicara dalam emoji menggunakan keyboard kustom mewah di iPhone Anda."
+    },
+    {
+      "id": "53",
+      "slug": "dj-khaled",
+      "name": "DJ Khaled adalah",
+      "description": "\"Anotha satu,\" angkat tangan Anda jika Anda sudah tahu siapa yang kita bicarakan."
+    },
+    {
+      "id": "52",
+      "slug": "celebrities",
+      "name": "Selebriti",
+      "description": "Kami menyukai Hollywood yang bertemu dengan crossover teknologi."
+    },
+    {
+      "id": "51",
+      "slug": "politics",
+      "name": "Politik",
+      "description": "Sayap kiri, sayap kanan, Partai Hijau, Anarkis, Tea Party... Daftarnya terus berlanjut. Dapatkan politik! Daftarnya terus berlanjut. Dapatkan politik!"
+    },
+    {
+      "id": "50",
+      "slug": "news",
+      "name": "Berita Berita",
+      "description": "Tetaplah di dalam pengetahuan. Tetaplah up to date. Lihatlah apa yang terjadi di dunia."
+    },
+    {
+      "id": "49",
+      "slug": "alarms",
+      "name": "Alarm Alarm Alarm",
+      "description": "Masih  menggunakan  alarm  default  di  ponsel  Anda ? Coba lah  sesuatu  yang  baru ,  tetapi  peringatan :  tidak  semua  dari  mereka  datang  dengan  tombol  tidur  siang .😴"
+    },
+    {
+      "id": "48",
+      "slug": "task-management",
+      "name": "Manajemen Tugas (Task Management)",
+      "description": "Mengelola waktu Anda sangat sulit tanpa rencana. Buatlah daftar, periksa dua kali, lihat tugas mana yang mudah dan bagus.✔"
+    },
+    {
+      "id": "46",
+      "slug": "productivity",
+      "name": "Produktivitas (Productivity)",
+      "description": "Jika waktu adalah yang paling berharga, maka koleksi lifehacks ini sangat berharga. Jadilah lebih produktif dan mengoptimalkan hidup Anda."
+    },
+    {
+      "id": "45",
+      "slug": "emoji",
+      "name": "Emoji adalah",
+      "description": "Jadi lah  lebih  ekspresi f  dengan  komunikasi  Anda .😁😮😜"
+    },
+    {
+      "id": "44",
+      "slug": "design-tools",
+      "name": "Desain alat-alat",
+      "description": "Desain adalah lebih dari sekedar pixels yang cantik (tidak ada pelanggaran, pixels yang cantik). Alat desain yang baik dapat meningkatkan UX Anda, meningkatkan alur kerja Anda, dan membantu mewujudkan ide-ide kreatif Anda. "
+    },
+    {
+      "id": "43",
+      "slug": "health-fitness",
+      "name": "Kesehatan & Fitness",
+      "description": "Keh ilangan  Berat  Badan ? Men ambah  berat  badan ? Ada  begitu  banyak  sumber  daya  yang  tersedia ,  dari  aplikasi  peng hit ungan  kalori  hingga  pelatih  pribadi  di  saku  Anda .💪"
+    },
+    {
+      "id": "42",
+      "slug": "funny",
+      "name": "Lucu, lucu, lucu",
+      "description": "Knock knock. Siapa yang ada di sana? Lelucon buruk, permainan kata-kata kucing dan banyak lagi. Bersiap-siaplah untuk meow dengan benar."
+    },
+    {
+      "id": "41",
+      "slug": "hiring",
+      "name": "Hiring",
+      "description": "Produk API-first memudahkan para pengembang untuk membangun, mengintegrasikan, dan skala perangkat lunak. Periksa kategori-kategori ini untuk mengeksplorasi alat dan platform yang digunakan tim untuk mengirim dan mengadopsi API:\r\n\r\n- ** [Unified API] (https://www.producthunt.com/categories/unified-api) ** - API yang mengabstraksi beberapa layanan di balik antarmuka tunggal, membuat integrasi lebih cepat dan mengurangi overhead pemeliharaan.\r\n- ** [Platforms] (https://www.producthunt.com/categories/platforms) ** - Platform pengembang yang mengekspos API sebagai t"
+    },
+    {
+      "id": "39",
+      "slug": "email",
+      "name": "Email Email",
+      "description": "Suka  atau  benci ,  email  adalah  bagian  besar  dari  hidup  Anda  tetapi  untung nya  ada  begitu  banyak  aplikasi  dan  ek sten si  untuk  membuatnya  lebih  mudah  dik elola . PSA :  Tolong  jangan   \" M emba las  Semua   \"  untuk  segala  sesuatu .😁"
+    },
+    {
+      "id": "37",
+      "slug": "tabletop-games",
+      "name": "Permainan Tabletop",
+      "description": "Kumpulkan teman-teman Anda dan mainkan beberapa permainan di sekitar meja (atau lantai). Game desktop juga bekerja pada platform tersebut)."
+    },
+    {
+      "id": "36",
+      "slug": "board-games",
+      "name": "Permainan papan",
+      "description": "Tidak ada yang lebih menghangatkan hati daripada mendapatkan peeps Anda bersama-sama dan berdebat tentang permainan [mengisi kosong]."
+    },
+    {
+      "id": "34",
+      "slug": "chrome-extensions",
+      "name": "Ekstensi Chrome",
+      "description": "Ting kat kan  Chrome  Anda  dengan  ek sten si  browser  super . Selamat  ber sel an car .🏄"
+    },
+    {
+      "id": "31",
+      "slug": "drones",
+      "name": "Drones adalah",
+      "description": "Ini adalah seekor burung! Ini sebuah pesawat! Nope, ini adalah drone. Kendaraan udara tak berawak semakin populer, mulai dari DGI Phantom hingga drone Lily otonom. Bahkan Amazon mungkin akan segera mengirimkan T.P. dari langit."
+    },
+    {
+      "id": "30",
+      "slug": "virtual-reality",
+      "name": "Realitas virtual (virtual reality)",
+      "description": "Saatnya untuk memakai headset VR Anda. Kami akan bertemu dengan Anda di metaverse."
+    },
+    {
+      "id": "29",
+      "slug": "telegram",
+      "name": "Telegram (Telegram)",
+      "description": "Aplikasi pesan multi-platform gratis yang digunakan oleh lebih dari 100 juta orang setiap bulan adalah rumah bagi bot untuk setiap kasus penggunaan. Berikut ini adalah beberapa integrasi terbaik."
+    },
+    {
+      "id": "28",
+      "slug": "ridesharing",
+      "name": "Ridesharing",
+      "description": "Get from A to B, the smartest way. Your private driver, on-demand."
+    },
+    {
+      "id": "27",
+      "slug": "gear-vr",
+      "name": "Gear VR",
+      "description": "Tergelincir ke dalam dunia virtual reality kapan pun Anda mau dengan Samsung Gear VR."
+    },
+    {
+      "id": "26",
+      "slug": "apple-tv",
+      "name": "Apple TV Apple TV",
+      "description": "Setelah  sehari an  yang  panjang  di  kantor ,  temukan  kes end irian  di  dunia  TV  dan  film  yang  luas  di  Apple  TV  Anda . So fa  tidak  termasuk .📺"
+    },
+    {
+      "id": "25",
+      "slug": "htc-vive",
+      "name": "HTC Vive adalah",
+      "description": "Steam mengambil virtual reality (VR), berfokus pada mobilitas dan game yang hebat."
+    },
+    {
+      "id": "24",
+      "slug": "playstation-vr",
+      "name": "PlayStation VR (Pemainkan VR)",
+      "description": "Sony PlayStation bertujuan untuk membawa realitas virtual (VR) kepada siapa saja dengan PS4. Tidak memerlukan PC yang mahal."
+    },
+    {
+      "id": "23",
+      "slug": "oculus-rift",
+      "name": "Oculus Rift adalah",
+      "description": "Oculus Facebook berusaha merevolusi cara kita mengkonsumsi media dan berkomunikasi dengan dunia, melalui realitas virtual (VR)."
+    },
+    {
+      "id": "22",
+      "slug": "slack",
+      "name": "Melakukan Slack",
+      "description": "Real-time chat with everyone. Use it with your team, family, and friends."
+    },
+    {
+      "id": "21",
+      "slug": "web-app",
+      "name": "Aplikasi Web (Web App)",
+      "description": "Kau tahu tempat itu dengan semua gambar kucing dan GIF? Ini juga memiliki beberapa hal yang rapi lainnya."
+    },
+    {
+      "id": "19",
+      "slug": "mac",
+      "name": "Mac",
+      "description": "The Legendary Foundations of Apple Computers (Legenda Dasar Komputer Apple). Mereka mudah digunakan dan mudah untuk dicintai. Go ahead, hop on the🍎 Bandwagon."
+    },
+    {
+      "id": "18",
+      "slug": "windows",
+      "name": "Windows Windows Windows Windows",
+      "description": "Komputer Pribadi mengubah cara kita hidup dan bekerja, diciptakan oleh Bill Gates yang legendaris dengan visi untuk menempatkan \"komputer di setiap meja \"."
+    },
+    {
+      "id": "17",
+      "slug": "ebook-reader",
+      "name": "Pembaca eBook",
+      "description": "Kumpulkan dan baca buku-buku yang tidak akan mengumpulkan debu di Amazon Kindle yang handal dan portabel."
+    },
+    {
+      "id": "16",
+      "slug": "browser-extensions",
+      "name": "Ekstensi Browser",
+      "description": "Ekstensi browser adalah add-on yang meningkatkan pengalaman web Anda: perisai privasi, perbaikan penulisan, penangkapan tugas, kolaborasi real-time, alat pengembang, dan AI."
+    },
+    {
+      "id": "15",
+      "slug": "safari-extensions",
+      "name": "Ekstensi Safari",
+      "description": "Ekstensi Safari menambahkan alat ke browser Apple, mulai dari pemblokiran privasi dan iklan hingga bookmark, catatan, dan timer fokus untuk siswa, profesional, dan tim."
+    },
+    {
+      "id": "13",
+      "slug": "linux",
+      "name": "Linux adalah Linux.",
+      "description": "Bagi orang-orang yang suka memasak makanan mereka sendiri. Red Hat, Fedora dan Ubuntu. Anda akan memiliki pilihan Anda."
+    },
+    {
+      "id": "12",
+      "slug": "apple-watch",
+      "name": "Apple Watch Apple Watch",
+      "description": "Ketika Anda tidak memiliki cukup notifikasi di ponsel Anda untuk mengalihkan perhatian Anda, dapatkan mereka di pergelangan tangan Anda. Apple 's sexy wearable bisa mengubah hidup Anda."
+    },
+    {
+      "id": "11",
+      "slug": "card-games",
+      "name": "Permainan kartu",
+      "description": "Tahukah Anda bahwa permainan kartu digunakan untuk dimainkan IRL dengan kertas laminasi bukan di iPad? Gila kan?!"
+    },
+    {
+      "id": "9",
+      "slug": "ipad",
+      "name": "iPad iPad iPad iPad",
+      "description": "Sebuah lempengan dari jenius komputasi Apple, sekarang dalam beberapa ukuran tablet: Mini, Air, dan Pro."
+    },
+    {
+      "id": "8",
+      "slug": "ios",
+      "name": "iOS adalah",
+      "description": "\" P onsel   \"  ter cinta  yang  mengubah  cara  kita  berkomunikasi ,  bermain  game ,  dan  mengambil  foto .📱"
+    },
+    {
+      "id": "7",
+      "slug": "wii-u",
+      "name": "Wii U adalah",
+      "description": "Hidupkan kembali masa kecil Anda dengan Mario, Zelda, dan Pokemon di konsol gerak-sensing Nintendo."
+    },
+    {
+      "id": "6",
+      "slug": "nintendo",
+      "name": "Nintendo Nintendo Nintendo",
+      "description": "Raja dari game genggam masih berada di atas. Mainkan game klasik, dari Mario hingga Pokemon, yang direka ulang dalam 3D tanpa perlu kacamata yang bodoh."
+    },
+    {
+      "id": "5",
+      "slug": "vita",
+      "name": "Vita",
+      "description": "Handheld kedua Sony membawa game berkualitas konsol langsung ke ujung jari Anda. Mainkan Vita eksklusif atau bahkan streaming game langsung dari PS4 Anda."
+    },
+    {
+      "id": "4",
+      "slug": "playstation",
+      "name": "Playstation adalah",
+      "description": "Playstation mengumpulkan esensi game konsol: penembak blockbuster, aksi retro, pembangun sandbox, mesin dev, obrolan, panduan, dan peringatan game Plus yang tepat waktu."
+    },
+    {
+      "id": "3",
+      "slug": "xbox",
+      "name": "XBox XBox",
+      "description": "Konsol Microsoft membawa Anda permainan mengagumkan seperti Halo dan Gears of War dan ganda sebagai perangkat media rumah pembunuh."
+    },
+    {
+      "id": "2",
+      "slug": "android",
+      "name": "Android",
+      "description": "Salah satu platform yang paling cepat berkembang sepanjang masa, bot hijau kecil tinggal di saku Anda dan melakukan apa saja."
+    },
+    {
+      "id": "1",
+      "slug": "pc",
+      "name": "PC PC PC PC",
+      "description": "PC mengelompokkan perangkat lunak dan perangkat keras yang memberi daya komputasi: penjelajahan pribadi, pencarian, bantuan AI, pembuatan 3D, desain, GPU awan dan game untuk gamer, pembuat, tim."
+    }
+  ]
+}

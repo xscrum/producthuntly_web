@@ -1,0 +1,248 @@
+{
+  "meta": {
+    "version": "v1",
+    "updatedAt": "2026-05-22T02:34:55.627267"
+  },
+  "translations": [
+    {
+      "id": "1152148",
+      "slug": "tycoon-ai",
+      "name": "Tycoon AI ",
+      "tagline": "Gérer des entreprises uniques entièrement avec des agents d'IA",
+      "description": "Tycoon.us vous  permet  de  g érer  une  entreprise  enti ère  avec  des  agents  d ' IA ,  aliment és  par  A stra ,  un  PD G  d ' IA ,  et  plus  de  10  agents  d ' IA  prêts  à  l ' emploi  parmi  lesquels  vous  pouvez  cho isir ,  du  C MO  qui  g ère  X  au  C TO  qui  code . A stra  g ère  aussi  Claude  Code  / Her mes . Don nez  à  A stra  un  K PI  ou  un  projet ,  comme   «  10 x  le  trafic  ce  mois - ci   » ,  ou   «  lan cer  des  flux  d ' intég ration   » . Elle  cr ée  un  plan ,  assig ne  des  agents ,  suit  les  progrès  et  demande  l ' ap prob ation  si  nécessaire . Cha que  agent  est  hors  de  la  bo îte ,  donc  aucune  configur ation ,  co dage  ou  clé  API  n ' est  nécessaire .",
+      "core_features": "Gérer des entreprises à un seul homme entièrement avec des agents d'IA ; Tycoon"
+    },
+    {
+      "id": "1151355",
+      "slug": "google-antigravity-2-0",
+      "name": "Google Antigravité 2.0",
+      "tagline": "Orchestration de flux de travail multi-agents à partir d'une application de bureau",
+      "description": "Google Antigravity 2.0 est une application de bureau autonome pour orchestrer plusieurs agents d'IA en parallèle, avec des tâches en arrière-plan planifiées, des flux de travail de sous-agents et des intégrations natives avec AI Studio, Firebase et Android. Conçu pour les développeurs qui créent des applications de production.",
+      "core_features": "Orchestration des flux de travail multi-agents à partir d'une application de bureau ; Google Antigravity 2"
+    },
+    {
+      "id": "779554",
+      "slug": "weweb-3-0",
+      "name": "WeWeb 3.0",
+      "tagline": "Applications Vibe-code avec le filet de sécurité d'un éditeur sans code",
+      "description": "WeWeb est le seul créateur d'applications AI qui donne un contrôle complet de l'édition aux non-codeurs. Demandez à l'IA de générer votre application, puis affiner chaque écran, flux de travail et base de données dans un puissant éditeur sans code où vous comprenez toujours ce qui se passe sous le capot. Plus de boîtes noires.",
+      "core_features": "Applications de code Vibe avec le filet de sécurité d'un éditeur sans code ; WeWeb est le seul constructeur d'applications d'IA qui donne un contrôle complet de l'édition aux non-codeurs"
+    },
+    {
+      "id": "1148000",
+      "slug": "mintlify-workflows-2",
+      "name": "Mintlify Workflows",
+      "tagline": "Base de connaissances auto-actualisée",
+      "description": "Gardez vos documents en mouvement aussi rapidement que votre produit. Mintlify Workflows permet aux équipes d'activer des automatisations pré - intégrées qui mettent à jour les bases de connaissances, génèrent des journaux de changement, maintiennent les traductions et gèrent des tâches de documentation répétitives chaque fois qu ' elles sont déclenchées. Plutôt que de suivre manuellement chaque changement de produit, les équipes peuvent configurer des flux de travail une fois et laisser Mintlify garder les documents précis, à jour et prêts pour les utilisateurs.",
+      "core_features": "Base de connaissances auto-actualisée ; Gardez vos documents en mouvement aussi vite que votre produit"
+    },
+    {
+      "id": "1151769",
+      "slug": "slideshot",
+      "name": "Slideshot",
+      "tagline": "Vidéos de démonstration du produit, enregistrées par votre agent d'IA",
+      "description": "Donnez à votre agent d'IA un flux de produit à enregistrer Slideshot pilote votre application Web à travers MCP, capture la balade et renvoie une vidéo de démo et un GIF poli avec zoom, mouvement du curseur et animation d'introduction personnalisée. Pas d'enregistrement ou d'édition manuelle.",
+      "core_features": "Vidéos de démonstration de produit, enregistrées par votre agent d'IA ; Donnez à votre agent d'IA un flux de produit à enregistrer"
+    },
+    {
+      "id": "1151420",
+      "slug": "warmintro",
+      "name": "Chauffage",
+      "tagline": "Outil gratuit pour trouver votre chemin le plus chaud dans n'importe quelle entreprise",
+      "description": "L'outreach froid ne fonctionne pas WarmIntro trouve les employés de n'importe quelle entreprise cible qui partagent le plus vos antécédents - université partagée, employeurs passés, ville et titre, de sorte que chaque introduction commence à partir d'un endroit de connexion authentique.",
+      "core_features": "Outil gratuit pour trouver votre chemin le plus chaud dans n'importe quelle entreprise ; La diffusion froide ne fonctionne pas"
+    },
+    {
+      "id": "1151771",
+      "slug": "vivaldi-8-0",
+      "name": "Vivaldi 8.0",
+      "tagline": "Un nouveau look audacieux pour le navigateur qui est tout à vous",
+      "description": "Treize ans plus tard, nous venons d'envoyer notre mise à jour la plus ambitieuse à ce jour. Vivaldi 8.0 a un nouveau look audacieux, que nous appelons Unified. Chaque barre d'outils est maintenant située sur une surface continue, vous offrant de nouvelles façons de personnaliser votre navigateur sur toute la fenêtre, d'un bord à l'autre. Avec six mises en page à partir de - puis faites-en tout le vôtre. Chaque couleur, chaque barre d'outils, chaque pixel. Votre navigateur. vos règles.",
+      "core_features": "Un nouveau look audacieux pour le navigateur qui est tout à vous ; treize ans après, nous venons de livrer notre mise à jour la plus ambitieuse à ce jour."
+    },
+    {
+      "id": "1152064",
+      "slug": "mixpanel-headless",
+      "name": "Mixpanel sans tête",
+      "tagline": "Accès programmatique aux analyses de produits pour les agents et les développeurs",
+      "description": "Mixpanel Headless est un SDK Python qui rend programmable toute la surface du produit, de sorte que les agents et les développeurs peuvent creuser dans les données sans quitter leur IDE.",
+      "core_features": "Accès programmatique aux analyses de produits pour les agents et les développeurs ; Mixpanel Headless est un SDK Python qui rend toute la surface du produit programmable, de sorte que les agents et les développeurs peuvent creuser dans les données sans quitter leur IDE."
+    },
+    {
+      "id": "1107041",
+      "slug": "visual-usability-checker",
+      "name": "Vérificateur d'utilisabilité visuel",
+      "tagline": "Validez instantanément vos décisions de conception avec des informations d'IA",
+      "description": "Obtenez des recommandations IA instantanées pour améliorer votre conception. Détectez la charge cognitive, voyez où les utilisateurs se concentrent, détectez les problèmes précoces et comparez les variations, afin de prendre et défendre des décisions de conception en toute confiance avec des informations appuyées sur des données.",
+      "core_features": "Validez instantanément vos décisions de conception avec des informations d'IA ; Obtenez des recommandations d'IA instantanées pour améliorer votre conception"
+    },
+    {
+      "id": "1151186",
+      "slug": "tonguetype-for-macos",
+      "name": "TongueType pour macOS",
+      "tagline": "Dictation locale pour macOS sans abonnement",
+      "description": "TongueType est une application de dictée vocale macOS alimentée par Whisper AI exécutée localement sur Apple Silicon. Pas de cloud, pas de comptes, pas d'abonnements. Tenez une clé, parlez, libérez. Vos mots apparaissent. Prend en charge 12 langues et la transcription de fichiers audio TongueType vous offre un raccourci press-to - talk configurable, la transcription de fichiers audio et vidéo, et des règles de post-traitement configurables. C'est personnalisable et amusant (essayez le mode arc-en - ciel !) et il est conçu pour être le flux de travail de dictation le plus rapide possible.",
+      "core_features": "Dictation locale pour macOS sans abonnement ; TongueType est une application de dictation vocale macOS alimentée par Whisper AI fonctionnant localement sur Apple Silicon"
+    },
+    {
+      "id": "1146304",
+      "slug": "catchall-by-newscatcher",
+      "name": "CatchAll par NewsCatcher",
+      "tagline": "Créer n'importe quel jeu de données à partir du Web. Filtrée selon vos critères.",
+      "description": "CatchAll est une API de recherche Web qui construit des jeux de données structurés à partir du Web ouvert. Envoyez une requête et elle analyse des milliers de pages Web, valide chaque résultat et renvoie des enregistrements propres et dédupliqués - pas une liste classée de liens, mais un ensemble de données d'événements réels, prêts pour les flux de travail et les pipelines.",
+      "core_features": "Créer n'importe quel jeu de données à partir du Web. Filtrée selon vos critères. CatchAll est une API de recherche Web qui construit des ensembles de données structurés à partir du Web ouvert."
+    },
+    {
+      "id": "1152268",
+      "slug": "tacet",
+      "name": "Tacet",
+      "tagline": "Le moniteur de cerveau pour les scores de santé cognitive",
+      "description": "Vous suivez vos pas. Votre rythme cardiaque. vos calories. Mais qu ' en est-il de votre cerveau ? Tacet vous donne un score quotidien de fitness cognitif et un suivi de la qualité du sommeil, tiré du rythme de la façon dont vous tapuez votre téléphone. Ces modèles de synchronisation apportent un signal étonnamment précis sur votre état cognitif. Pas de casque, pas de matériel coûteux, pas d'installation. Suivi passif, basé sur la recherche en neurosciences de l'Université de Leiden. La surveillance cérébrale traditionnelle est coûteuse. Tacet l'emmène dans votre poche. Commencez aujourd ' hui !",
+      "core_features": "Le moniteur de cerveau pour les scores de santé cognitive ; Vous suivez vos pas"
+    },
+    {
+      "id": "1151424",
+      "slug": "ente-locker",
+      "name": "Le Locker",
+      "tagline": "Vault partagé pour vos documents les plus importants",
+      "description": "La plupart des applications de stockage sont incroyablement complexes et sont conçues pour vous pendant que vous êtes en vie. Mais qu ' est-ce qui se passe après ? Ente Locker est conçu pour la transmission de vos documents, mots de passe et notes importants. Ajoutez vos proches en tant que contacts de confiance - pour lorsque votre conjoint a besoin de l'acte de propriété et que vous n'êtes pas là pour l'envoyer. Locker est chiffré de bout en bout et open source, de sorte que vos informations restent vraiment les vôtres.",
+      "core_features": "Coffre-fort partagé pour vos documents les plus importants ; La plupart des applications de stockage sont incroyablement complexes et conçues pour vous pendant que vous êtes en vie"
+    },
+    {
+      "id": "1152182",
+      "slug": "framed-c90a5d08-c4b3-4477-b295-15cad286c2a0",
+      "name": "Framé",
+      "tagline": "Transformez les captures d'écran, les vidéos et le code en visuels polis",
+      "description": "Framed est une application MacOS qui aide les fabricants à transformer le contenu brut du produit en visuels polis pour les lancements, les pages de l'App Store, les pages de destination, les publications sociales, les journaux de changement, les partages de code et les clips de démo. Vous commencez par une capture d'écran, une vidéo, un extrait de code ou un message social, puis ajoutez des cadres, des arrière-plans, des annotations, des calques, du mouvement, de l'audio et du polissage prêt à l'exportation. Conçu pour Mac, avec un workflow ciblé qui évite les frais généraux d'une application de conception complète. Achat unique, le vôtre pour toujours. Jamais souscription.",
+      "core_features": "Transformez les captures d'écran, les vidéos et le code en visuels polis ; Framed est une application MacOS qui aide les fabricants à transformer le contenu brut du produit en visuels polis pour les lancements, les pages de l'App Store, les pages de destination, les publications sociales, les journaux de changement, les partages de code et les clips de démo."
+    },
+    {
+      "id": "1116988",
+      "slug": "novi-notes-1-1",
+      "name": "Nouvelles Notes 1.1",
+      "tagline": "Une couche de mémoire IA locale pour votre Mac",
+      "description": "Novi est la couche de mémoire AI de votre Mac - un éditeur de blocs rapide pour les notes quotidiennes, les documents et les post-its. Claude, Codex ou Gemini lisent et écrivent vos notes directement via MCP. Pas de clés API, pas de cloud, pas d'installation. Nouveau dans 1.1 - Compétences AI : transformer une invite répétée en une commande de barrage en un clic.Écrivez-le dans Markdown, déployez-le dans Claude Code, Codex ou Gemini. Plus les modes de sauvegarde GitHub et Markdown de lecture. locaux uniquement. Achat unique. Pas de souscription.",
+      "core_features": "Une couche de mémoire AI locale pour votre Mac ; Novi est la couche de mémoire AI de votre Mac - un éditeur de blocs rapide pour les notes quotidiennes, les documents et les post-it"
+    },
+    {
+      "id": "1151426",
+      "slug": "instavm",
+      "name": "InstaVM",
+      "tagline": "Ordinateurs instantanés dans des environnements isolés pour les agents d'IA",
+      "description": "Le plan de contrôle de production pour les agents de l'IA. Exécutez des agents comme des serveurs de production : isolés, observables et contrôlés. Firecracker microVMs avec démarrage sous 200ms.",
+      "core_features": "Ordinateurs instantanés dans des environnements isolés pour les agents d'IA ; Le plan de contrôle de production pour les agents d'IA"
+    },
+    {
+      "id": "1152170",
+      "slug": "basedash-skills",
+      "name": "Compétences basées",
+      "tagline": "Instructions IA réutilisables pour chaque surface Basedash.",
+      "description": "Les compétences sont des paquets d'instructions réutilisables que chaque surface d'IA Basedash peut lire à la demande. Définissez vos métriques une fois et n'importe quel agent d'IA dans votre espace de travail reprendra la compétence lorsque cela sera pertinent. Plus de coller les mêmes avertissements dans chaque invité. Chaque compétence est un court manuel en langage clair pour un concept. Les administrateurs les gèrent ; l'IA de tous les autres en bénéficie. Ajoutez-les au fur et à mesure - plus vous enseignez Basedash, plus il agit comme un analyste qui connaît déjà votre entreprise.",
+      "core_features": "Instructions IA réutilisables pour chaque surface Basedash. Les compétences sont des paquets d'instructions réutilisables que chaque surface d'IA Basedash peut lire à la demande."
+    },
+    {
+      "id": "1152138",
+      "slug": "allihat",
+      "name": "AlliHat",
+      "tagline": "Claude AI dans votre barre latérale Safari",
+      "description": "Claude avait une extension Chrome. Safari ne l'a pas fait. J'ai donc construit AlliHat. Ouvrez la barre latérale et il voit la page sur laquelle vous êtes. Demandez n'importe quoi. Sélectionnez le texte pour des explications instantanées. Le mode Agent clique, remplit les formulaires et navigue. Les workflows exécutent des tâches répétées en un clic. La mémoire signifie que vous ne vous réexpliquez jamais. L'historique est enregistré par domaine. Apportez votre propre clé API Claude ou utilisez Apple Intelligence sur votre appareil. Votre clé va directement vers Anthropic. Pas de tracking. Pas d'analystes. 29,99 €/ an après un essai gratuit.",
+      "core_features": "Claude AI dans votre barre latérale Safari ; Claude avait une extension Chrome"
+    },
+    {
+      "id": "1151677",
+      "slug": "autosubtitles-2-0",
+      "name": "Auto-sous - sous-titres 2.0",
+      "tagline": "AI sous-titres et sous-titres animés avec édition plus rapide",
+      "description": "AutoSubtitles 2.0 est un générateur de sous-titres AI de nouvelle génération pour créer des légendes animées et du contenu vidéo engageant directement dans le navigateur. Générez des sous-titres précis, éditez avec une chronologie et un éditeur de toile, appliquez des préréglages de légendes de style viral, ajoutez des améliorations d'IA comme des émojis automatiques et exportez des vidéos polies sans logiciel de montage compliqué.",
+      "core_features": "Sous-titres AI et sous-titres animés avec édition plus rapide ; AutoSubtitles 2"
+    },
+    {
+      "id": "1150274",
+      "slug": "rigyd",
+      "name": "Rigyd",
+      "tagline": "Des actifs 3D prêts à la simulation pour la simulation robotique, à grande échelle",
+      "description": "L'apprentissage du robot n'est que aussi bon que ses données. Pour les équipes sim-first, le succès dépend de la randomisation du domaine. Entraînez un humanoïde dans 1M de cuisines simulées afin qu 'il ne faille pas dans la vraie. Ou entraînez un bras robotique sur des milliers d'objets de tailles, masses et matériaux variables. Les deux nécessitent un contenu 3D physiquement précis à l'échelle. Rigyd génère automatiquement et randomisera des objets et des mondes 3D physiquement précis à l'échelle, débloquant des scénarios sim-to - réel qui étaient auparavant impossibles.",
+      "core_features": "Des actifs 3D prêts à la simulation pour la simulation robotique, à l'échelle ; l'apprentissage du robot n'est que aussi bon que ses données"
+    },
+    {
+      "id": "1133157",
+      "slug": "gistr-2",
+      "name": "Gistr",
+      "tagline": "Votre espace de réflexion pour l'apprentissage et la recherche",
+      "description": "Les outils d'IA qui résument le contenu ne manquent pas. Gistr fait quelque chose de différent : il est conçu pour la compréhension. Enregistrez une vidéo YouTube, un podcast, un article ou un PDF ; Gistr extrait ce qui compte, fonde chaque idée dans la source et vous donne un plan modifiable à utiliser pour réfléchir - pas seulement lire. Ajoutez vos propres idées, connectez plusieurs sources et vérifiez chaque affirmation. Si vous consommez beaucoup et conservez très peu, Gistr a été conçu pour vous.",
+      "core_features": "Votre espace de réflexion pour l'apprentissage et la recherche ; Les outils d'IA qui résument le contenu ne manquent pas"
+    },
+    {
+      "id": "1149854",
+      "slug": "mitzu-2",
+      "name": "Mitzu",
+      "tagline": "Analyse de produits Agentic qui s'exécute sur votre entrepôt de données",
+      "description": "Mitzu est une plateforme d'analyse de produits agentique qui s'exécute sur votre entrepôt de données, conçue pour répondre au pourquoi, pas seulement au quoi. Posez des questions complexes comme « pourquoi la rétention de la semaine 2 a-t - elle baissé ? L'agent analytique enquête sur les entonnoirs, les cohortes et les segments, renvoyant une réponse synthétisée. Pas d'hallucinations SQL : un moteur déterministe produit des requêtes méthodologiquement correctes à chaque fois. Vos données restent dans Snowflake, BigQuery, Databricks, Redshift ou ClickHouse.",
+      "core_features": "Analyse de produits Agentic qui s'exécute sur votre entrepôt de données ; Mitzu est une plateforme d'analyse de produits Agentic qui s'exécute sur votre entrepôt de données - conçue pour répondre au pourquoi, pas seulement au quoi"
+    },
+    {
+      "id": "973437",
+      "slug": "serphouse",
+      "name": "Le SERPHouse",
+      "tagline": "SERPHouse - L'API SERP la plus fiable et la plus rapide.",
+      "description": "Créez de meilleurs outils SEO avec de meilleures données. SERPHouse vous fournit des données SERP précises et évolutives avec des temps de réponse améliorés, une couverture plus profonde des résultats (Top 100) et de nouvelles API pour les emplois, les vidéos et les courts-métrages. Conçu pour réduire les coûts tout en augmentant les performances, afin que votre produit puisse se développer sans limites.",
+      "core_features": "SERPHouse - L'API SERP la plus fiable et la plus rapide. Construire de meilleurs outils SEO avec de meilleures données"
+    },
+    {
+      "id": "1136894",
+      "slug": "app-store-operator",
+      "name": "Opérateur App Store",
+      "tagline": "Le MCP de l'App Store pour les développeurs qui ne quittent jamais Claude",
+      "description": "Serveur MCP qui connecte Claude à l'App Store Competitive Intelligence. Recherchez des concurrents, obtenez des données de téléchargement et de chiffre d'affaires, et recherchez dans l'App Store Un serveur MCP pour Claude qui intègre la recherche concurrente, les classements de l'App Store et la génération de copies d'événements dans l'application dans votre flux de travail. Demandez en anglais, obtenez des données structurées en quelques secondes. Pas de navigateur, pas de clés d'API Une commande à installer.",
+      "core_features": "L'App Store MCP pour les développeurs qui ne quittent jamais Claude ; serveur MCP qui relie Claude à l'intelligence concurrentielle de l'App Store"
+    },
+    {
+      "id": "1150668",
+      "slug": "climbx",
+      "name": "ClimbX",
+      "tagline": "Augmentez votre audience. Monétisez sur X.",
+      "description": "Un stratège en IA qui vous aide à croître sur X. Idées de contenu, brouillons vocaux, opportunités d'engagement et idées de croissance, le tout en un seul endroit.",
+      "core_features": "Augmentez votre audience. Monétisez sur X. ; Un stratège en IA qui vous aide à grandir sur X"
+    },
+    {
+      "id": "1144238",
+      "slug": "platformpilot-3",
+      "name": "Plateforme pilote",
+      "tagline": "Donnez à votre entreprise un cerveau qui évolue et agit.",
+      "description": "Les connaissances sont dispersées à travers vos outils. Les agents AI oublient et partent de zéro à chaque fois. Un cerveau d'entreprise ne devrait pas. PlatformPilot connecte votre pile entière une fois et apprend comment votre entreprise fonctionne réellement, selon vos termes, pas par défaut générique. Demandez quoi que ce soit. Obtenez des réponses et des actions que vous pouvez exécuter à partir de n'importe quel canal. Plus de 200 intégrations. Connectez votre cerveau à n'importe quel agent via MCP. Un cerveau d'entreprise qui se construit des souvenirs composés, devient plus intelligent chaque semaine et reste le vôtre.",
+      "core_features": "Donnez à votre entreprise un cerveau qui évolue et agit. La connaissance est dispersée dans vos outils"
+    },
+    {
+      "id": "1150750",
+      "slug": "libraryai",
+      "name": "Le livre",
+      "tagline": "Ne lisez pas des livres seuls ",
+      "description": "LibraryAI est la plateforme de lecture tout-en - un qui rend les livres à nouveau sociaux.· Recommandations de livres basées sur votre comportement de lecture réel · BookMatch - glisser des livres comme Tinder · Lignes de lecture jumelées avec des amis · Liges de lecture et classements inspirés · Suivi quotidien des lignes et analyses de lecture · Audiolivres, ebooks, faits saillants et progrès - le tout en un seul endroit Nous voulions que la lecture soit moderne, compétitive et addictive de la meilleure manière possible.",
+      "core_features": "Ne lisez pas des livres seuls ; LibraryAI est la plateforme de lecture d'IA tout-en - un qui rend les livres sociaux à nouveau"
+    },
+    {
+      "id": "1151283",
+      "slug": "mod-2",
+      "name": "Le mode",
+      "tagline": "Laisser une vibe sur la carte. Faites de la mémoire une place à nouveau.",
+      "description": "MOD est un appareil photo qui transforme les moments quotidiens en une carte d'humeur vivante. Capturez une ambiance, laissez-la tomber sur un endroit, et un animal de compagnie AI - développé à partir de vos propres moments, pas un chatbot générique - le lit, se souvient de lui et tend la main quand quelque chose semble digne de marquer. Collectez de petits « souvenirs » de vrais endroits que vous avez visité. Peignez la carte avec les humeurs autour de vous ! Chaque vendredi, votre animal de compagnie fait une revue hebdomadaire de l'endroit où votre semaine s'est réellement sentie bien. La mémoire mérite une place, pas seulement un aliment.",
+      "core_features": "Laisser une vibe sur la carte. Faites de la mémoire une place à nouveau. ; MOD est une caméra qui transforme les moments quotidiens en une carte d'humeur vivante"
+    },
+    {
+      "id": "1150112",
+      "slug": "anderro",
+      "name": "Anderro",
+      "tagline": "Marché d'affiliation reliant entreprises et créateurs",
+      "description": "Anderro est un marché d'affiliation avec un suivi intégré. Les entreprises énumèrent leur produit, fixent un taux de commission, et les affiliés qui naviguent sur le marché les découvrent et commencent à promouvoir. Chaque clic, inscription et vente sont suivis dans un tableau de bord. Contrairement à d'autres outils d'affiliation, vous n'avez pas à trouver d'affiliés. Ils vous trouvent. Travaille pour les services SaaS, les abonnements et les produits digitaux. Gratuite pour les affiliés. Démarre à 21 $/ mois pour les entreprises.",
+      "core_features": "Marché d'affiliation reliant les entreprises et les créateurs ; Anderro est un marché d'affiliation avec un suivi intégré"
+    },
+    {
+      "id": "1152185",
+      "slug": "stable-audio-3-0",
+      "name": "Stable Audio 3.0",
+      "tagline": "Famille de modèles audio génératifs pour compositions complètes",
+      "description": "Stable Audio 3.0 est une famille de modèles formés sur des données entièrement sous licence, conçus pour être la base de ce que la communauté audio construira ensuite. Trois des modèles sont des poids ouverts, gratuits à télécharger et à développer.",
+      "core_features": "Famille de modèles audio génératifs pour compositions complètes ; Stable Audio 3"
+    }
+  ]
+}

@@ -1,0 +1,2600 @@
+{
+  "meta": {
+    "version": "v1",
+    "updatedAt": "2026-05-22T01:34:52.216635"
+  },
+  "translations": [
+    {
+      "id": "1428",
+      "slug": "pitch-dubai",
+      "name": "Pitch Dubai",
+      "description": "Der Pitch von Dubai"
+    },
+    {
+      "id": "1427",
+      "slug": "pitch-singapore",
+      "name": "Pitch Singapur",
+      "description": "The Pitch von Sasha: Singapur"
+    },
+    {
+      "id": "1426",
+      "slug": "pitch-tel-aviv",
+      "name": "Pitch Tel Aviv",
+      "description": "The Pitch: Tel Aviv"
+    },
+    {
+      "id": "1425",
+      "slug": "pitch-nyc",
+      "name": "Pitch NYC",
+      "description": "The Pitch by Deel: NYC"
+    },
+    {
+      "id": "1392",
+      "slug": "pitch-london",
+      "name": "Pitch London",
+      "description": "The Pitch by Deel: London"
+    },
+    {
+      "id": "1359",
+      "slug": "vercel-day",
+      "name": "Vercel Tag",
+      "description": ""
+    },
+    {
+      "id": "1326",
+      "slug": "pitch-berlin",
+      "name": "Pitch Berlin",
+      "description": "The Pitch von der Band: Berlin"
+    },
+    {
+      "id": "1293",
+      "slug": "pitch-paris",
+      "name": "Pitch Paris",
+      "description": "The Pitch by Deel: Paris"
+    },
+    {
+      "id": "1260",
+      "slug": "alpha",
+      "name": "Alpha",
+      "description": "Ein erstmaliger, nie zuvor gesehener öffentlicher Start "
+    },
+    {
+      "id": "1227",
+      "slug": "yc-application",
+      "name": "YC Anwendung",
+      "description": ""
+    },
+    {
+      "id": "1194",
+      "slug": "vibe-coding",
+      "name": "Vibe Coding",
+      "description": "Vibe Coding verwandelt Ideen schnell in Web-Apps: KI-Tools generieren UI und vollständige Stacks für schnelle Prototypen, Dashboards und Websites für Entwickler, Gründer und Designer."
+    },
+    {
+      "id": "1167",
+      "slug": "apple-vision-pro",
+      "name": "Apple Vision Pro",
+      "description": "Apps für Apple Vision Pro"
+    },
+    {
+      "id": "1128",
+      "slug": "psychedelics",
+      "name": "Psychedelika",
+      "description": "Open your mind with these products"
+    },
+    {
+      "id": "1095",
+      "slug": "intimacy",
+      "name": "Intimität",
+      "description": "Produkte, die Ihnen helfen, gemütlich mit einem Partner oder sich selbst zu sein!"
+    },
+    {
+      "id": "1062",
+      "slug": "snow-sports",
+      "name": "Schneesport",
+      "description": "Produkte, die Ihnen helfen, in die Berge zu kommen und abzubauen."
+    },
+    {
+      "id": "1029",
+      "slug": "inclusivity",
+      "name": "Inklusion",
+      "description": "Produkte, die eine zugänglichere Welt schaffen."
+    },
+    {
+      "id": "996",
+      "slug": "nft",
+      "name": "NFT",
+      "description": "Alles von digitaler Kunst bis hin zu Dienstleistungen, die für das Web3 entwickelt wurden."
+    },
+    {
+      "id": "963",
+      "slug": "notion",
+      "name": "Notion",
+      "description": "Unendliche Möglichkeiten für den Betrieb von Arbeit und Leben mit diesen Produkten, die mit und für Notion gebaut wurden."
+    },
+    {
+      "id": "930",
+      "slug": "edge-extensions",
+      "name": "Edge Erweiterungen",
+      "description": "Super Laden Sie Ihren Edge-Browser mit Erweiterungen, die Ihre Web-Erfahrung anpassen.️"
+    },
+    {
+      "id": "877",
+      "slug": "business-travel",
+      "name": "Business Travel",
+      "description": "Wenn Sie für die Arbeit auf die Straße (oder in die Luft) kommen müssen. Diese Produkte haben Ihr Ticket!"
+    },
+    {
+      "id": "876",
+      "slug": "hotels",
+      "name": "Hotels",
+      "description": "Wenn Sie eine Änderung der Landschaft brauchen, machen Sie eine Reise und bestellen Sie in einigen Zimmerservices mit diesen Produkten. "
+    },
+    {
+      "id": "875",
+      "slug": "motorcycles",
+      "name": "Motorräder",
+      "description": "Motorräder bieten Einfachheit, wenn es darum geht, auf der offenen Straße zu reisen, aber diese Produkte können dazu beitragen, diese Reise angenehmer zu machen oder Sie sogar sicher zu halten."
+    },
+    {
+      "id": "874",
+      "slug": "electric-cars",
+      "name": "Elektroautos",
+      "description": "Die Zukunft ist elektrisch. Der Verkehr verändert sich und Elektroautos tragen dazu bei, sauberere Mobilitätsmöglichkeiten für Menschen auf der ganzen Welt zu schaffen. "
+    },
+    {
+      "id": "873",
+      "slug": "racing",
+      "name": "Racing",
+      "description": "Produkte für, wenn Sie das Leben eine Viertel Meile zu einer Zeit leben."
+    },
+    {
+      "id": "872",
+      "slug": "climbing",
+      "name": "Klettern",
+      "description": "Wenn die Schwerkraft Sie nicht halten kann, überprüfen Sie diese Produkte, um Ihnen zu helfen, durch den Kern."
+    },
+    {
+      "id": "871",
+      "slug": "college-sports",
+      "name": "College Sport",
+      "description": "College-Sport - Tools, die NCAA-Fandom antreiben: Bracket-Predikatoren, Pools, Social-Buzz - Tracker, Krypto-Handel, Support, Recruiting und Athleten-Vernetzung."
+    },
+    {
+      "id": "870",
+      "slug": "community",
+      "name": "Gemeinschaft",
+      "description": "Die Community sammelt Tools, die Menschen helfen, sich zu verbinden, zu erstellen und zu wachsen - Foren, Launches, Newsletters, Zahlungen, KI-Workflows und Meetups für Builder und Fans."
+    },
+    {
+      "id": "869",
+      "slug": "chat-rooms",
+      "name": "Chat Rooms",
+      "description": "Chat-Räume sind Räume für Echtzeit-Talk - Text -, Sprach - und Video-Verbindungs - Communities, KI-Helfer, Web3 - Brieftaschen, Handelszentren und Beratungen, Zusammenarbeit."
+    },
+    {
+      "id": "868",
+      "slug": "personal-shopper",
+      "name": "Persönlicher Shopper",
+      "description": "Persönliche Shopper-Tools, die für Sie ausgewählt werden: KI-Geschenksucher, Styling - und Hautpflege-Auswahlen, Preis-Drop - Benachrichtigungen, Öko-Thrive, Auto-Geschenken, Maker-Markt - Fit-Checks."
+    },
+    {
+      "id": "867",
+      "slug": "food-delivery",
+      "name": "Food Delivery",
+      "description": "Lebensmittellieferung umfasst Bestell-Apps, Lebensmittel-Bots, LKW-Lastwagen - Drop-offs, hausgemachte und pflanzliche Mahlzeiten, Restaurant-Tools, sowie die Suche, die Ihnen hilft, schnell Essen zu finden."
+    },
+    {
+      "id": "866",
+      "slug": "physics",
+      "name": "Physik",
+      "description": "Die Physik erklärt Materie, Bewegung und Kräfte. Entdecken Sie Multi-Physik - FEA, Formelsuche, virtuelle Schaltkreiselabore und Raumverfolgung für Studenten und Fachleute weltweit."
+    },
+    {
+      "id": "865",
+      "slug": "security",
+      "name": "Sicherheit",
+      "description": "Sicherheit umfasst Tools, die Logins, Daten und Zahlungen schützen: Identität, Passwortmanager, Compliance-Automatisierung, Webverteidigung und KI mit Unternehmenssteuerungen."
+    },
+    {
+      "id": "864",
+      "slug": "encryption",
+      "name": "Verschlüsselung",
+      "description": "Verschlüsselungstools sperren E-Mails, Chats, Dateien und Cloud-Daten und helfen Teams und Einzelpersonen dabei, Geheimnisse sicher über Apps und Workflows hinweg zu teilen, zu speichern und zu verwalten."
+    },
+    {
+      "id": "863",
+      "slug": "password-manager",
+      "name": "Passwortmanager",
+      "description": "Tools, die Logins sichern und automatisch ausfüllen, starke Passwörter generieren, 2FA verwalten und überprüfte Freigabe für Einzelpersonen, Teams und datenschutzorientierte Organisationen ermöglichen."
+    },
+    {
+      "id": "862",
+      "slug": "vpn",
+      "name": "VPN",
+      "description": "Virtuelle private Netzwerke (VPNs) verschlüsseln das Surfen, überwinden geografische Grenzen und verbinden Flotten. Produkte umfassen mobile Privatsphäre, Heimrouter und WireGuard-Meshes."
+    },
+    {
+      "id": "861",
+      "slug": "webcam",
+      "name": "Webcam",
+      "description": "Webcam-Tools verwandeln Kameras in Hubs für Aufnahme, Streaming und Forschungs-Video - Bearbeitung, Hosting, Verbesserungen, Eye-Tracking und Telefon-as - Camera."
+    },
+    {
+      "id": "860",
+      "slug": "photo-editing",
+      "name": "Foto Editing",
+      "description": "Erfahren Sie, wie Bildworkflows zusammenkommen: Plattformen hosten KI-Modelle, Apps führen Text-zu - Bild, Hintergrund-Schnitte, präzise Bearbeitungen, 3D / Video-Rendering, Batch-APIs durch."
+    },
+    {
+      "id": "859",
+      "slug": "dslrs",
+      "name": "DSLRs",
+      "description": "DSLRs: Ausrüstung und Apps, mit denen Sie einfangen, steuern und teilen können. Erwarten Sie KI-Assistenten, drahtlose Fernbedienungen, Vermietungen, Smartphone-Steuerungen, 360 und sofortige Drucke."
+    },
+    {
+      "id": "858",
+      "slug": "video-cameras",
+      "name": "Video Kameras",
+      "description": "Tools, die Videos erfassen, streamen und neu verwenden: mobile Aufnahme, Webcams, Bildschirmrecorder, Effekte und KI auf dem Gerät für Kreatoren, Vertrieb und DIY-Präparation."
+    },
+    {
+      "id": "857",
+      "slug": "video",
+      "name": "Video",
+      "description": "Video beinhaltet Tools, um sich zu treffen, Bildschirme aufzunehmen, Clips zu generieren, Sprache zu transkribieren und interaktive Demos zu unterstützen, die Teams, Kreatoren und Entwickler zusammenarbeiten."
+    },
+    {
+      "id": "856",
+      "slug": "aquarium",
+      "name": "Aquarium",
+      "description": "Aquarium-Technologie kombiniert intelligente Tanks, Reinigungsroboter, Leucht-Exponate und Task-Tracker, um die Pflege zu vereinfachen, Wissenschaft zu unterrichten und Räume für Hobbyisten und Schulen zu verschönern."
+    },
+    {
+      "id": "855",
+      "slug": "local-news",
+      "name": "Lokale Nachrichten",
+      "description": "Lokale Nachrichten vereinen Tools für Community-Informationen: Stellen in der Nähe finden, Kandidaten vergleichen, Preiserhöhungen in der Türkei verfolgen, unabhängige Berichterstattung ansehen und lokal teilen."
+    },
+    {
+      "id": "854",
+      "slug": "health-news",
+      "name": "Gesundheit News",
+      "description": "Gesundheitsnachrichten deckt Werkzeuge, die die Versorgung verschieben: Symptomuntersuchungen, Erinnerungen an die Einhaltung, Forschungs-Dagests, Bildgebung und Notizen-Technologie, Ausbruch-Tracking und Abrechnungskostenkürzungen."
+    },
+    {
+      "id": "853",
+      "slug": "tech-news",
+      "name": "Tech News",
+      "description": "Tech-Nachrichten decken darauf ab, wie wir Technologie erstellen und konsumieren: Analytics, Automatisierung, Newsletter, KI-Communities, Paywall-Unlockings und zivile Microblogging für Maker."
+    },
+    {
+      "id": "852",
+      "slug": "political-news",
+      "name": "Politische Nachrichten",
+      "description": "Politische Nachrichten-Tools, die Politik verfolgen, Kandidaten vergleichen, Quellen bewerten, hosten Debatten, umgehen Paywalls und Handwerk Erklärer - für Wähler und Analysten."
+    },
+    {
+      "id": "851",
+      "slug": "camping",
+      "name": "Camping",
+      "description": "Camping umfasst Werkzeuge und Aufenthalte, die Standorte finden, Routen planen, Ausrüstung verwalten und die Spielzeit unterstützen Camper, Vanlifers und Teams gemeinsam im Freien zu erkunden."
+    },
+    {
+      "id": "850",
+      "slug": "survival",
+      "name": "Überleben",
+      "description": "Überlebenswerkzeuge umfassen Krisenhilfe, Peer-Support, CPR Erste Hilfe, Offline-Know - how und Sicherheitskontrollen - Menschen helfen, sich vorzubereiten, zu reagieren und in Verbindung zu bleiben im Chaos."
+    },
+    {
+      "id": "849",
+      "slug": "plants",
+      "name": "Pflanzen",
+      "description": "Pflanzen umfasst Werkzeuge zum Anbau, Identifizieren und Einkaufen von Grün; Garten-Tracker; Spiele auf Bäumen und Wurzeln; Wiederaufforstung durch Streaming; plus ein naturinspiriertes Handwerk."
+    },
+    {
+      "id": "848",
+      "slug": "gps",
+      "name": "GPS",
+      "description": "GPS-Auswahl, die Workouts verfolgt, Fotos markiert, Standort gefälscht und geolokalisierte Medien und Karten anbietet. Planen Sie Reisen, verwalten Sie GPX und entdecken oder teilen Sie Orte in der Nähe."
+    },
+    {
+      "id": "847",
+      "slug": "hiking",
+      "name": "Hiking",
+      "description": "Wandern umfasst Planung und Navigation; diese Tools finden Wege, arbeiten offline, Spitzen verfolgen, Ausrüstung verwalten, Ideen an das Wetter maßgeschneidert, Führung Self-Touren, verbessern Fotos."
+    },
+    {
+      "id": "846",
+      "slug": "nature",
+      "name": "Natur",
+      "description": "Naturwerkzeuge, die Ihnen dabei helfen, zu erkunden, zu beobachten und sich zu entspannen: Vögel zu identifizieren, Wildtiere zu verfolgen, Strände zu finden, Klanglandschaften zu streamen und tägliche nachhaltige Gewohnheiten aufzubauen."
+    },
+    {
+      "id": "845",
+      "slug": "social-media-marketing",
+      "name": "Social Media Marketing",
+      "description": "Social Media Marketing fördert Marken über Posts und Videos; Diese Tools erstellen und lokalisieren Clips, aufzeichnen Bildschirme, planen und verfolgen, monetarisieren und integrieren."
+    },
+    {
+      "id": "844",
+      "slug": "affiliate-marketing",
+      "name": "Affiliate Marketing",
+      "description": "Affiliate-Marketing - Tools, die Links verfolgen, Überweisungsprogramme ausführen und das Wachstum skalieren. Konzipiert für SaaS und Entwickler: Zuschreibung, Auszahlungen, Inhalte und Community."
+    },
+    {
+      "id": "843",
+      "slug": "event-marketing",
+      "name": "Event Marketing",
+      "description": "Event-Marketing verwendet Tools, um Events zu planen, zu fördern, zu veranstalten und zu messen, um Leads und Community aufzubauen, von Veranstaltungsorten und KI-Inhalten bis hin zu Ticketing, AR und Umfragen."
+    },
+    {
+      "id": "842",
+      "slug": "influencer-marketing",
+      "name": "Influencer Marketing",
+      "description": "Diese Kategorie umfasst Tools, um Kreatoren zu finden, Social Commerce zu verfolgen, Partnerschaften zu verwalten und Online-Verkäufe zu verkaufen, die Marken helfen, datengetriebenen Kampagnen in großem Maßstab durchzuführen."
+    },
+    {
+      "id": "841",
+      "slug": "marketing-calendar",
+      "name": "Marketingkalender",
+      "description": "Ein Marketingkalender organisiert Kampagnen, Inhalte und Veranstaltungen; diese Tools planen Beiträge, koordinieren Teams, automatisieren die Reichweite und berichten schnell über Ergebnisse."
+    },
+    {
+      "id": "840",
+      "slug": "marketing-attribution",
+      "name": "Marketing Attribution",
+      "description": "Marketing Attribution Tracks, welche Touchpoints den Umsatz steigern. Diese Tools verknüpfen Anzeigen, Influencer, QR-Links, Standort und Shopify-Daten mit ROAS und User Journeys."
+    },
+    {
+      "id": "839",
+      "slug": "marketing-automation",
+      "name": "Marketing Automation",
+      "description": "Marketing-Automatisierungstools rationalisieren Lead-Erfassung, Content - und E-Mail - Kampagnen und App-Workflows für Wachstumsteams mit KI, Integrationen und No-Code - Builders."
+    },
+    {
+      "id": "838",
+      "slug": "spirituality",
+      "name": "Spiritualität",
+      "description": "Spiritualitätswerkzeuge, die Glaubenspraxis, Achtsamkeit und Wachstum kombinieren: Erwachen zum Gebet, lernen die Schrift, meditieren, KI-Lehrweise erhalten, sich mit Klang konzentrieren. Bleiben Sie auf der Spur!"
+    },
+    {
+      "id": "837",
+      "slug": "diy",
+      "name": "DIY",
+      "description": "DIY bedeutet, Projekte selbst zu machen. Diese Mischung hilft Ihnen, KI-Ideen, Expertenhilfe, Zahlungen, Selbstpflege, Hobby-Guides zu erstellen, zu verkaufen, zu beheben und zu personalisieren."
+    },
+    {
+      "id": "836",
+      "slug": "military",
+      "name": "Militär",
+      "description": "Militärische Themen umfassen Verteidigungstechnologie und Hilfsbemühungen: von VTOL-Aufklärungsdrohnen für schnelle Missionen bis hin zu kuratierten Verzeichnissen, die Spenden für die Unterstützung der Ukraine leiten."
+    },
+    {
+      "id": "835",
+      "slug": "career",
+      "name": "Karriere",
+      "description": "Entdecken Sie Karriere-Tools, die die Suche nach Rollen, die Einstellung und das Wachstum unterstützen: Vernetzung, Lebenslauf-Schneiderei, Screening, Gehaltsabrechnung, Projektverfolgung und Erlöse für Kreatoren."
+    },
+    {
+      "id": "834",
+      "slug": "lgbtq",
+      "name": "LGBTQ +",
+      "description": "LGBTQ + - Tools für Verbindung, Sicherheit und Gesundheit. Finden Sie Spiele, verfolgen Sie sexuelle Gesundheit, melden Sie Hass, finden Sie sichere Räume, erhalten Sie Übergangshilfe, feiern Sie den Stolz."
+    },
+    {
+      "id": "833",
+      "slug": "babies",
+      "name": "Babys",
+      "description": "Babys: Werkzeuge für Planung, Pflege und neugierige Blicke nach vorne. Von Namens - und Fruchtbarkeitsoptionen bis hin zu Trackern und Schlafführern, sowie KI-Vorschauungen für zukünftige Gesichter."
+    },
+    {
+      "id": "832",
+      "slug": "family",
+      "name": "Familie",
+      "description": "Familien-Tools, die sich kümmern, verbinden und sich erinnern: Warnungen für Betreuer, private Fotojournal, Kinder-ready - Geschichten-Macher und stressfreie persönliche Darlehen-Tracking."
+    },
+    {
+      "id": "831",
+      "slug": "pregnancy",
+      "name": "Schwangerschaft",
+      "description": "Schwangerschaftsauswahlen, die Sie von der Planung bis zur postpartalen Unterstützung unterstützen: KI-Chat, lokale Gemeinschaften, Arbeit Atmung, Ernährung, Diabetes-Tipps, Fütterung und Windel Hilfe."
+    },
+    {
+      "id": "830",
+      "slug": "toddlers",
+      "name": "Toddler",
+      "description": "Diese Kategorie umfasst frühe Lernwerkzeuge für Eltern und Kleinkinder: interaktive Geschichten, Bildschirmfreies Spiel und Flashkarten für Bindung, Sprache und Denken."
+    },
+    {
+      "id": "829",
+      "slug": "toys",
+      "name": "Spielzeug",
+      "description": "Spielzeug verbindet verspielte Technik und DIY-Spaß: STEM-Codierung, virtuelle Haustiere, LEGO-Werkzeuge, Färbungsanwendungen und physisch-digitales Spiel für Familien, Sammler und Pädagogen."
+    },
+    {
+      "id": "828",
+      "slug": "home-services",
+      "name": "Home Services",
+      "description": "Home Services bietet Werkzeuge für die Führung eines Haushalts und seines Unternehmens: Umzug, Immobilieninvestitionen, Sicherheitschecks, Planung, Buchung, Wachstumstools."
+    },
+    {
+      "id": "827",
+      "slug": "furniture",
+      "name": "Möbel",
+      "description": "Ausstattung von Häusern und Arbeitsplätzen: KI-Preisüberprüfungen, Design-Tools, DIY-ready - Stücke, ergonomische Ausrüstung und mietenfreundliche Auswahl für Käufer, Gastgeber und Designer."
+    },
+    {
+      "id": "826",
+      "slug": "home-security",
+      "name": "Home Security",
+      "description": "Home-Sicherheit schützt Menschen, Eigentum und Netzwerke: Zugriffssteuerung, Kamera-Einrichtung, Familien - und Alleingangskontrollen, Firewalls, Hintergrundkontrollen für Häuser und Teams."
+    },
+    {
+      "id": "825",
+      "slug": "interior-design",
+      "name": "Interior Design",
+      "description": "Innenarchitektur-Tools planen, visualisieren und möblieren Räume: KI-Renderer, 3D-Scans, Möbelkuration, Zusammenarbeit und Inspiration für Hausbesitzer und Profis."
+    },
+    {
+      "id": "824",
+      "slug": "home-theater",
+      "name": "Home Theater",
+      "description": "Home Theater sammelt Ausrüstung für einen reichen Heimsound, wie drahtlose Turntables, die Vinyl über Bluetooth, UPnP oder Roon-fähige Systeme zu Multiroom - Lautsprechern streamen."
+    },
+    {
+      "id": "823",
+      "slug": "home-improvement",
+      "name": "Home Verbesserungen",
+      "description": "Tools für die Verbesserung der Heimat, die Ihren Raum planen, aktualisieren und verwalten: DIY-Anleitung, Innenarchitektur, Energie - und CO2 - Tracking, Inventar, Komfort-Upgrades."
+    },
+    {
+      "id": "822",
+      "slug": "neighborhood",
+      "name": "Nachbarschaft",
+      "description": "Nachbarschaft Tools helfen Ihnen, zu leben, zu verbinden und zu entscheiden, wohnungs - und Mitbewohner lokal zu finden, teilzunehmen lokale chats, beurteilen Gefahren, erkunden Städte, bleiben in der Nähe von Freunden."
+    },
+    {
+      "id": "821",
+      "slug": "home-office",
+      "name": "Home Office",
+      "description": "Ein Home Office Hub: Ausrüstung und Apps für Produktivität und Arbeitsbereich Ideen - verwalten Sie PDFs, schreiben, Bildschirme erfassen, Zwischentafeln synchronisieren, Anzeigen abstimmen und Pausen machen."
+    },
+    {
+      "id": "820",
+      "slug": "weightlifting",
+      "name": "Gewichtheben",
+      "description": "Gewichtheben baut Kraft durch strukturiertes Training auf. Diese Tools planen Trainingseinheiten, Track-Sets, Zeitruhen und maßgeschneiderte Ernährung für Athleten, Anfänger und Trainer."
+    },
+    {
+      "id": "819",
+      "slug": "running",
+      "name": "Running",
+      "description": "Ausführen von Apps, die Ihre Meilen verfolgen, gamifizieren und führen - allein oder mit Freunden. Finden Sie Pacing-Tools, Cadence-Beats, Datensynchronisierung, NFT-Belohnungen für Anfänger bis Rennfahrer."
+    },
+    {
+      "id": "818",
+      "slug": "fitness",
+      "name": "Fitness",
+      "description": "Entdecken Sie Werkzeuge, die gesunde Routinen in die Tat umsetzen: Trainierungen verfolgen, KI-Coaching erhalten, Communities beitreten, Belohnungen verdienen und Schlaf / HRV überwachen - sogar über einen Ring für jeden."
+    },
+    {
+      "id": "817",
+      "slug": "health",
+      "name": "Gesundheit",
+      "description": "Gesundheitstools, die die tägliche Pflege informieren und unterstützen: Antworten finden, HRV und Hautveränderungen verfolgen, Konzentration und psychische Gesundheit fördern und die Pflege im Ausland für Nomaden abdecken."
+    },
+    {
+      "id": "816",
+      "slug": "cell-phone",
+      "name": "Mobiltelefon",
+      "description": "Handy essentials umfassen Geräte, Betriebssystem und Dienste, die Anrufe, Fotos, Suche und Reisedaten arbeiten - plus Fokus-Tools, virtuelle Nummern und Unternehmen."
+    },
+    {
+      "id": "815",
+      "slug": "sensors",
+      "name": "Sensoren",
+      "description": "Sensoren Power-Tools, die Räume, Sicherheit und Server-Buslastung überwachen, Schreibtische zählen, Beacons senden Warnungen und Agenten überwachen Backups für IT, HR und Gruppen."
+    },
+    {
+      "id": "814",
+      "slug": "computers",
+      "name": "Computer",
+      "description": "Computer bündeln Cloud-KI, On-Device - Technologie, Entwickler-Plattformen, Office-Apps und Uptime-Tools - alles für das tägliche Computing - für Programmierer, Teams und Kreatoren."
+    },
+    {
+      "id": "813",
+      "slug": "tablet",
+      "name": "Tabletten",
+      "description": "Ein Tablet ist ein tragbarer Touch-Computer für vielseitige Apps. Diese Auswahl umfasst Kreativität, Bildung, Bürowerkzeuge und E-Ink - Lesen für Lernende, Profis und Teams."
+    },
+    {
+      "id": "812",
+      "slug": "appliances",
+      "name": "Appliances",
+      "description": "Geräte umfassen intelligentere Heimhelfer - Brauereien, Heizungen, immer-on - Displays - und Apps, um sie zu entdecken, zu teilen oder zu finanzieren. Für Köche, Fans, umweltfreundliche Haushalte."
+    },
+    {
+      "id": "811",
+      "slug": "animation",
+      "name": "Animation",
+      "description": "Entdecken Sie Animations-Tools für Web -, Apps - und Video-KI - Bearbeitung, Vektor-JSON - Bewegung, Keyframeing und Design-Tool - Exporte für Designer, Entwickler und Kreatoren."
+    },
+    {
+      "id": "810",
+      "slug": "design-templates",
+      "name": "Design Templates",
+      "description": "Design-Vorlagen sind kuratierte Blöcke für UI und Workflows über Entwickler - und No-Code - Tools hinweg, die Teams und Solos dabei helfen, schneller Prototypen zu entwickeln und kohärente Apps zu liefern."
+    },
+    {
+      "id": "809",
+      "slug": "design-resources",
+      "name": "Design Ressourcen",
+      "description": "Design-Ressourcen, die die Benutzeroberfläche und die Erstellung von Inhalten beschleunigen: Benutzeroberfläche-Bibliotheken, Vorlagen, Vektoren, Animationen, Stockbilder, KI-Tools und Inspiration für Kreatoren."
+    },
+    {
+      "id": "808",
+      "slug": "logo-design",
+      "name": "Logo Design",
+      "description": "Logo-Design bietet Tools zum Erstellen und Bereitstellen von Markenzeichen: KI-Generatoren, geprüfte Designer, Asset-Bibliotheken, Hiring Hubs, Website-Builder, APIs und Marketplaces."
+    },
+    {
+      "id": "807",
+      "slug": "ux-design",
+      "name": "UX Design",
+      "description": "Das User Experience (UX) - Design prägt, wie Menschen Apps und Websites nutzen. Diese Tools umfassen UI-Layout, Prototypen, 3D, Forschung, Analytics, Onboarding und Dev Handoff."
+    },
+    {
+      "id": "806",
+      "slug": "wireframing",
+      "name": "Wireframeing",
+      "description": "Wireframing bildet Ideen in einfache Bildschirme und Benutzerflüsse vor dem Code. Diese Tools kombinieren Sitemaps, Mockups und Prototypen für Designer, PMs und Teams."
+    },
+    {
+      "id": "805",
+      "slug": "web-design",
+      "name": "Webdesign",
+      "description": "Webdesign umfasst Tools, die Ideen von Pixeln in die Produktion bringen: visuelle Builder, No-Code - App-Maker, UI-Kits, Auth / Payments und CMS, die von Designern und Entwicklern verwendet werden."
+    },
+    {
+      "id": "804",
+      "slug": "graphic-design",
+      "name": "Graphic Design",
+      "description": "Grafikdesign verwandelt Ideen in visuelle Bilder. Diese Tools umfassen KI-Redakteure, Aktien, Foto-Reinigung, Logos, Websites, Freiberufler und Vermarkter, KMU, Startups und Kreatoren."
+    },
+    {
+      "id": "803",
+      "slug": "3d-modeling",
+      "name": "3D Modellierung",
+      "description": "Mit der 3D-Modellierung werden Ideen in virtuelle Objekte für Spiele, Film und AR / VR verarbeitet. Dieser Mix umfasst Erstellungstools, KI-Asset - Generatoren, Engines, GPUs und Collab-Hubs."
+    },
+    {
+      "id": "802",
+      "slug": "design",
+      "name": "Design",
+      "description": "Design umfasst hier das Erstellen, Prototyping, Präsentieren und Verkauf von digitalen Erfahrungen - UI / UX, Grafik, Apps, Newsletters und konforme Abrechnung - für Kreatoren und Teams."
+    },
+    {
+      "id": "801",
+      "slug": "graphics",
+      "name": "Grafiken",
+      "description": "Grafik umfasst Tools zum Erstellen, Rendering, Bearbeiten und Versenden von Visualen, von GPUs und Kunst-Apps bis hin zu KI-Cutouts, Mockup-Tools, Feedback und Lizenzierung für digitale Assets."
+    },
+    {
+      "id": "800",
+      "slug": "farming",
+      "name": "Landwirtschaft",
+      "description": "Landwirtschaftliche Tools umfassen Crop Analytics, IoT, Task-Apps, Finanzierung, Handel, Investitionen, Forschung und Farm-to - Door-Verkäufe - die den Züchtern helfen, zu planen, zu überwachen und zu verdienen."
+    },
+    {
+      "id": "799",
+      "slug": "dieting",
+      "name": "Diät",
+      "description": "Diät-Tools, die Mahlzeiten planen, Nahrungsmittel protokollieren und Nährstoffe mit KI verfolgen. Apps reduzieren Abfall, passen Kalorien an und trainieren Langlebigkeit für Hausköche und Gesundheitsnerds."
+    },
+    {
+      "id": "798",
+      "slug": "nutrition",
+      "name": "Ernährung",
+      "description": "Ernährungswerkzeuge, die Mahlzeiten protokollieren, Menüs planen, Nahrungsergänzungsmittel analysieren und Diäten an Allergien oder Fasten anpassen. Ideal für gesundheitsbewusste Benutzer, Hauskoche und Lernende."
+    },
+    {
+      "id": "797",
+      "slug": "alcohol",
+      "name": "Alkohol",
+      "description": "Erforschen Sie Alkohol-Tools: AR-Mix - Guides, Rezeptgeneratoren, Party-Spiele, ABV-Rechner und nüchterne Herausforderungen für Hausbarkeeper und neue Trinker zu Hause."
+    },
+    {
+      "id": "796",
+      "slug": "dining",
+      "name": "Dining",
+      "description": "Dining umfasst Kochen, Essen und Hosting: Werkzeuge zum Planen von Mahlzeiten, Nacktischen, Aufteilung von Rechnungen, Einstellung von Köchen, Verfolgung von Snacks, Schiffessen und Betrieb von Restaurants."
+    },
+    {
+      "id": "795",
+      "slug": "credit-card",
+      "name": "Kreditkarte",
+      "description": "Entdecken Sie Kreditkarten-Tools, die Karten ausstellen, Ausgaben verfolgen und Turbo-Belohnungen erwerben - die Geschäftskosten, Reisepunkte, Cash-Back und Verbraucherkredite umfassen."
+    },
+    {
+      "id": "794",
+      "slug": "banking",
+      "name": "Banken",
+      "description": "Banking bedeutet Dienstleistungen, um Zahlungen zu akzeptieren, Konten zu betreiben, Ersparnisse zu wachsen und grenzüberschreitende Überweisungen für Startups, Freiberufler, Paare und Krypto-Nutzer zu senden."
+    },
+    {
+      "id": "793",
+      "slug": "budgeting",
+      "name": "Budgeting",
+      "description": "Budgeting vereint Apps, die Ausgaben verfolgen, Reisen planen, Business Cashflow prognostizieren, Compliance automatisieren und sicheres Banking für Einzelpersonen und KMU ermöglichen."
+    },
+    {
+      "id": "792",
+      "slug": "personal-finance",
+      "name": "Persönliche Finanzen",
+      "description": "Personal Finance-Tools helfen Ihnen, Geld zu verdienen, zu verfolgen und zu wachsen: Budgetierung, Banking, Eigenkapital, Zahlungen und soziale Investitionen für Einzelpersonen, Kreatoren und Startups."
+    },
+    {
+      "id": "791",
+      "slug": "fundraising",
+      "name": "Fundraising",
+      "description": "Fundraising Tools für Gründer: Verwalten Sie Aktien -, Bank - und Rechtsdokumente, finden Sie Investoren über warme Intros, teilen Sie Pitch-Dateien mit Analytics und Coach-Decks."
+    },
+    {
+      "id": "790",
+      "slug": "mixed-reality",
+      "name": "Mixed Reality",
+      "description": "Mixed Reality (MR) vermischt digitale Inhalte mit dem realen Leben. Diese Tools erstellen, streamen und spielen AR / VR-Erlebnisse für Kreatoren, Marken, Fitness und Bildung."
+    },
+    {
+      "id": "789",
+      "slug": "live-events",
+      "name": "Live Events",
+      "description": "Live Events bietet Tools zum Hosting von Streams, zum Einbeziehen von Publikum und zum Planen von 24 / 7 - Übertragungen bis hin zu Emoji-Feedback, einkaufbaren Streams, Musik-IDs und Gig-Promo."
+    },
+    {
+      "id": "788",
+      "slug": "ticketing",
+      "name": "Ticketing",
+      "description": "Ticketing-Tools umfassen Veranstaltungsverkäufe und unterstützen Warteschlangen - Sitzplätze verkaufen, Buchungen verwalten und Routenanfragen. Erwarten Sie Formulare, Zahlungen, Discord / HR-Verbindungen, NFTs, Such-APIs."
+    },
+    {
+      "id": "787",
+      "slug": "sporting-events",
+      "name": "Sportliche Events",
+      "description": "Tools für Sportveranstaltungen, die Turniere planen, kartieren, tickets und durchführen - auf Feldern und online. Für Organisatoren, Trainer, Clubs und Spieler, die Zeitpläne, Updates benötigen."
+    },
+    {
+      "id": "786",
+      "slug": "theater",
+      "name": "Theater",
+      "description": "Theaterwerkzeuge, die die Bühne antreiben: Schreiben Sie Drehbücher schneller, üben Sie Improvisationen mit Aufforderungen und verwalten Sie Events und Ticketing. Für Dramatiker, Schauspieler, Organisatoren."
+    },
+    {
+      "id": "785",
+      "slug": "concerts",
+      "name": "Konzerte",
+      "description": "Konzerte decken Tools ab, die Songs finden, Künstler verfolgen, Festivals planen und Tickets vergleichen. Entdecken Sie Shows, verwalten Sie Events und schnupfen Sie Sitzplätze intelligenter, online oder virtuell."
+    },
+    {
+      "id": "784",
+      "slug": "memes",
+      "name": "Memes",
+      "description": "Memes sind kleine Witze und Reaktionen. Dieser Hub umfasst KI-Macher, Sound-Bisse, Suche, Monetarisierung-Tools für Kreatoren und Vermarkter, um zu erstellen, zu finden, zu teilen."
+    },
+    {
+      "id": "783",
+      "slug": "pop-culture",
+      "name": "Popkultur",
+      "description": "Popkultur bedeutet hier die geteilten geschichten, spiele und visuelle, die wir täglich für trivia, zitate, tees, tarot, bildbearbeitungen, trend - und identitätserklärung tauschen."
+    },
+    {
+      "id": "782",
+      "slug": "online-learning",
+      "name": "Online-Lernen",
+      "description": "Online-Lernen liefert Fähigkeiten über Web-Tools: KI-Tutoren, Kohortenkurse, Entdeckungsmaschinen und Wissensknotenpunkte, die Profis und Studenten bei der Forschung und Schaffung unterstützen."
+    },
+    {
+      "id": "781",
+      "slug": "school",
+      "name": "Schule",
+      "description": "Schulwahlen, die Lernen, Lehren und das Leben unterstützen: KI-Notizen, Prüfungsvorbereitung, College-Anleitung, Homeschool - Tipps, Fokus-Tools und kollaboratives Mapping."
+    },
+    {
+      "id": "780",
+      "slug": "hacking",
+      "name": "Das Hacking",
+      "description": "Ethische Sicherheits-Tools, die Apps und Netzwerke testen, Bug-Bounty ausführen, SSH-Schlüsseln überprüfen, Daten-Expositionen aufdecken und Teams mit geprüften Experten und KI-Scans verbinden."
+    },
+    {
+      "id": "779",
+      "slug": "development-language",
+      "name": "Sprache Entwicklung",
+      "description": "Entdecken Sie den Stapel hinter dem Erstellen und Lernen des Programmiers: Web-Frameworks, Web3 - Infra, KI-Helfer, CSS-Tools, Design-to - Code, Kurse und Interview-Praxis"
+    },
+    {
+      "id": "778",
+      "slug": "sdk",
+      "name": "SDK",
+      "description": "Ein SDK bündelt APIs und Tools zum schnellen Erstellen von Apps; diese Auswahl umfasst Hosting, KI, Autorität, Echtzeit-Kollaboration, Voice und Daten für Entwickler, die das moderne Web versenden."
+    },
+    {
+      "id": "777",
+      "slug": "change-management",
+      "name": "Change Management",
+      "description": "Das Change Management koordiniert Menschen, Tools und Richtlinien, sodass das Land reibungslos aktualisiert wird. Diese Auswahl umfasst Feedback, Workflow, Infra, Einstellung und Teamgewohnheiten im Maßstab"
+    },
+    {
+      "id": "776",
+      "slug": "statistical-analysis",
+      "name": "Statistische Analyse",
+      "description": "Statistische Analyse-Tools verwandeln hier raw Clicks, Chats, Puzzles und Umfragen in Trends für Analysten und PMs - Dashboards, Benchmarks, intelligentere Entscheidungen."
+    },
+    {
+      "id": "775",
+      "slug": "data-visualization",
+      "name": "Datenvisualisierung",
+      "description": "Die Datenvisualisierung verwandelt Metriken in Diagramme und Dashboards für Produkt -, Web - und Vertriebsdaten, die Verhalten, Launch, Retention und Privacy-First - Reporting abdecken."
+    },
+    {
+      "id": "774",
+      "slug": "business-intelligence",
+      "name": "Business Intelligence",
+      "description": "Business Intelligence (BI) - Tools verwandeln Unternehmensdaten in entscheidungsspannende Analysen, Dashboards und KI-gesteuerte Ops für Analysten, SaaS-Teams, Vertrieb und Support."
+    },
+    {
+      "id": "773",
+      "slug": "data-science",
+      "name": "Data Science",
+      "description": "Data Science verwandelt Rohdaten in Entscheidungen. Diese Tools umfassen Analysen, KI-Apps, Dashboards, Datenschutz-First - Builds und Verifizierung für Analysten und Ingenieure."
+    },
+    {
+      "id": "772",
+      "slug": "database",
+      "name": "Datenbank",
+      "description": "Ein Datenbank-Hub für Apps zum Speichern, Synchronisieren, Abfragen und Sichern von Daten, die serverlose Postgres, Vektorsuche, ORMs, No / Low-Code - Builder und Edge-Delivery abdecken."
+    },
+    {
+      "id": "771",
+      "slug": "data",
+      "name": "Daten",
+      "description": "Daten-Tools, die Informationen sammeln, analysieren, verschieben und schützen - analytik, KI, serverlose Stores, CDPs, Integrationen und Datenschutz - für PMs, Entwickler, Vermarkter"
+    },
+    {
+      "id": "770",
+      "slug": "monetization",
+      "name": "Monetarisierung",
+      "description": "Monetarisierungs-Tools verwandeln Inhalte und Software in Einnahmen: Newsletter, Sponsoren, Paywalls, Mitgliedschaften und Nutzungsabrechnung für Creators, Marken und SaaS-Teams."
+    },
+    {
+      "id": "769",
+      "slug": "crm",
+      "name": "CRM",
+      "description": "CRM-Tools zentralisieren Kontakte, automatisieren Vertrieb, Marketing und Support, synchronisieren E-Mail, LinkedIn und WhatsApp, um Pipelines zu verfolgen und die Aufbewahrung zu verbessern."
+    },
+    {
+      "id": "768",
+      "slug": "human-resources",
+      "name": "Human Ressourcen",
+      "description": "HR-Tools umfassen hier Einstellung, Gehaltsabrechnung, Compliance, Feedback, Training und Auszahlungen, die globale Teams unterstützen, Remote-Arbeit und Video-led Onboarding. mehr Auftragnehmer."
+    },
+    {
+      "id": "767",
+      "slug": "construction",
+      "name": "Konstruktion",
+      "description": "Bauwerkzeuge laufen von der Blaupause bis zum Bau: Messen Sie Räume, Kartieren Sie Standorte offline, kommentieren Sie Pläne, schätzen die Kosten, verwalten Sie Jobs und finden Sie vorgefertigte Häuser."
+    },
+    {
+      "id": "766",
+      "slug": "consulting",
+      "name": "Beratung",
+      "description": "Beratungsgruppen Tools für Expertenberatung, Live - oder asynchrone SEO-Audits, Dev-Support, KI-Workflows, Strategievisuelle und Vernetzung für Gründer und Teams"
+    },
+    {
+      "id": "765",
+      "slug": "operations",
+      "name": "Operationen",
+      "description": "Operations-Tools rationalisieren die Geschäftsführung: Automatisieren Sie Workflows, Finanzen und Recht, trainieren Sie Teams, verwalten Sie Meetings, Assets und verwandeln Sie Daten in KPI-Einblicke."
+    },
+    {
+      "id": "764",
+      "slug": "accounting",
+      "name": "Buchhaltung",
+      "description": "Buchhaltungstools, die Bücher, Abrechnung, Steuern und Berichterstattung für Startups, KMU automatisieren. Enthält KI-Kategorisierung, Bank / Stripe-Synchronisation, OCR auf Rechnungen, Workflows."
+    },
+    {
+      "id": "763",
+      "slug": "coding-books",
+      "name": "Coding Bücher",
+      "description": "Lernen Sie Programmieren mit Büchern, Anleitungen, interaktiven Tools und Spielen für Kinder bis zu Profis. Bauen Sie JavaScript, SQL, React-Apps, Debugging, Backend und Datenbankfähigkeiten."
+    },
+    {
+      "id": "762",
+      "slug": "textbooks",
+      "name": "Textbücher",
+      "description": "Lehrbücher hier umfassen sichere Kursmaterialien, Programmierungstunden, KI-Tutoren und Prüfungsvorbereitungstools, die lehren, Inhalte schützen und Schülern und Lehrern helfen, zu lernen."
+    },
+    {
+      "id": "761",
+      "slug": "business-books",
+      "name": "Business Bücher",
+      "description": "Business Books zeigt die Strategie in Aktion mit Tools und Anleitungen: CRM, Support-Inboxen, Research Hubs, Marketing Insights, E-Commerce, kuratierte Lesungen für Gründer."
+    },
+    {
+      "id": "760",
+      "slug": "defi",
+      "name": "DeFi",
+      "description": "DeFi ermöglicht es Ihnen, Krypto wie Geldmärkte zu nutzen. Dieser Mix umfasst Staking Yields, DEX-Analytik, Wallets und Sicherheit, KI-Portfolio - Tools, Dev Infrastructure und On-Chain - Identität."
+    },
+    {
+      "id": "759",
+      "slug": "blockchain",
+      "name": "Blockchain",
+      "description": "Blockchain bedeutet dezentrale Apps und Assets. Diese Tools helfen Ihnen beim Erstellen, Durchsuchen, Analysieren und Wachsen von Web - 3 - Entwickler -, Infra -, Brieftaschen -, Identitäts - und Communities."
+    },
+    {
+      "id": "758",
+      "slug": "cryptocurrency",
+      "name": "Kryptowährung",
+      "description": "Kryptowährungs-Tools helfen dabei, Zahlungen zu akzeptieren, Märkte zu verfolgen, über APIs zu handeln, NFTs zu verwalten, IDs zu aktivieren und das Publikum zu wachsen - für Händler, Kreatoren und Unternehmen."
+    },
+    {
+      "id": "757",
+      "slug": "dapp",
+      "name": "DApp",
+      "description": "Dezentralisierte Apps sind die Peer-to - Peer Cousins der Anwendungen, die wir heute verwenden. Wenn Sie nicht möchten, dass Ihre Daten bei einem einzigen Unternehmen gesperrt werden, überprüfen Sie diese Blockchain-basierten Alternativen, um Ihnen die Kontrolle über Ihre Informationen zu geben. "
+    },
+    {
+      "id": "756",
+      "slug": "dao",
+      "name": "Das DAO",
+      "description": "Dezentralisierte autonome Organisationen bringen Menschen zusammen, sich selbst zu organisieren und ihre Ziele auf offene Weise zu erreichen."
+    },
+    {
+      "id": "755",
+      "slug": "bitcoin",
+      "name": "Bitcoin",
+      "description": "Bitcoin-Tools, mit denen Sie kaufen, speichern, ausgeben, verdienen und verfolgen können: Brieftaschen, DCA-Apps, Prämienkarten, Marktdaten, Gaming - und Chat-Tipps - für Neulinge und Profis."
+    },
+    {
+      "id": "754",
+      "slug": "ethereum",
+      "name": "Ethereum",
+      "description": "Ethereum bietet programmierbares Geld. Diese Tools helfen Ihnen, ETH zu verwalten, Anteil an Renditen zu gewinnen, dApps zu finden, NFTs zu starten und Verträge für Kreatoren und Händler zu implementieren."
+    },
+    {
+      "id": "753",
+      "slug": "clothing",
+      "name": "Kleider",
+      "description": "Entdecken Sie Tools und Plattformen für Bekleidung: Design mit KI, Outfit-Teams, Premium-Deals, Unterstützung für eine bessere Haltung, Probieren Sie es in 3D und Umfragen Sie Käufer auf Passform."
+    },
+    {
+      "id": "752",
+      "slug": "cosmetics",
+      "name": "Kosmetik",
+      "description": "Kosmetik-Tools, die Ihnen helfen, Routinen auszuwählen und zu personalisieren - Zutaten-Scanner, Kreator-Auswahl und Duft-Matcher - für Anfänger, Enthusiasten und Profis."
+    },
+    {
+      "id": "751",
+      "slug": "streetwear",
+      "name": "Streetwear",
+      "description": "Streetwear vereint Mode, Kunst und Kreativkultur. Diese Tools und Marktplätze helfen bei der Gestaltung, Präsentation und dem Verkauf von benutzerdefinierten Bekleidung und Sneakers an Fans online."
+    },
+    {
+      "id": "749",
+      "slug": "hip-hop",
+      "name": "Hip-Hop",
+      "description": "Hip-Hop dreht sich um Rhythmus, Wortspiel und Reichweite. Diese Auswahl hilft MCs, strengere Verse zu erstellen und Vermarktern bei der Verfolgung von Kampagnen, dem Erstellen von Apps und der Erweiterung des Publikums."
+    },
+    {
+      "id": "748",
+      "slug": "comedy",
+      "name": "Komödie",
+      "description": "Komödie bedeutet hier Werkzeuge, die Lachen und soziale Play-Browse - Memes, Witze und KI-Röst entfachen, Witzideen und verspielte Geschenke erstellen und das Publikum einbeziehen."
+    },
+    {
+      "id": "747",
+      "slug": "classical-music",
+      "name": "Klassische Musik",
+      "description": "Entdecken Sie Tools für klassische Musik, mit denen Sie üben, komponieren, Performances streamen, Trivia testen und Schüler, Pädagogen, Darsteller und Fans teilen können."
+    },
+    {
+      "id": "746",
+      "slug": "concert",
+      "name": "Konzert",
+      "description": "Entdecken Sie Tools für Live-Musik - Events: Sie zentralisieren Lineups, aktualisieren in Echtzeit und erstellen persönliche Zeitpläne - perfekt für Festivalbesucher, Veranstalter und Fans."
+    },
+    {
+      "id": "745",
+      "slug": "tuning",
+      "name": "Tuning",
+      "description": "Tuning bedeutet hier die Verfeinerung der Audio-Erstellung und - Wiedergabe. Tools reinigen Rauschen, beheben Pitch, bauen Site-Player, streamen Stationen und generieren SFX für Kreatoren."
+    },
+    {
+      "id": "744",
+      "slug": "radio",
+      "name": "Radio",
+      "description": "Radio bedeutet hier Streaming-Audio: Live-Sendern, Podcasts, Fokusbeats und Creator-Tools. Es eignet sich für Zuhörer, Remote-Mitarbeiter und Moderatoren, die Live-Shows leiten."
+    },
+    {
+      "id": "743",
+      "slug": "live-music",
+      "name": "Live Musik",
+      "description": "Live-Musik bedeutet Auftritte, die Sie besuchen; diese Tools helfen Ihnen, Shows zu finden, Tickets zu vergleichen, Festivals zu planen, Künstler zu entdecken, Radio zu streamen und Musiker zu treffen."
+    },
+    {
+      "id": "742",
+      "slug": "electronic-music",
+      "name": "Elektronische Musik",
+      "description": "Elektronische Musik-Tools, mit denen Sie Tracks komponieren, sequenzieren, generieren, entdecken und teilen können - von KI-Songmakern und Drummaschinen bis hin zu Playlists und Remote-DAW - Collaborations."
+    },
+    {
+      "id": "741",
+      "slug": "calligraphy",
+      "name": "Kalligraphie",
+      "description": "Kalligraphie ist ein künstlerisches Schreiben. Diese Tools lehren Skripte, verfeinern Sie die Striche, beschleunigen Sie das Notizen machen, passen Tintefarben zusammen und helfen den Schriftstellern, Schriftgelehrungen zu handeln."
+    },
+    {
+      "id": "740",
+      "slug": "video-art",
+      "name": "Video Kunst",
+      "description": "Video art vereint KI-Video - Erstellung, avatar-gesteuerte Erzählung und Plattformen für die Suche und hilft den Makern, filmische Geschichten zu prototypieren, zu lokalisieren und zu teilen."
+    },
+    {
+      "id": "739",
+      "slug": "illustration",
+      "name": "Illustration",
+      "description": "Illustration umfasst Tools zum Erstellen, Quellen, Bearbeiten und Verkauf von Vektorvisuellen für UI, Websites, Folien und Werbeanzeigen-vereinigende KI, Bibliotheken, UI-Kits, Figma-Plugins und MoR."
+    },
+    {
+      "id": "738",
+      "slug": "crafting",
+      "name": "Crafting",
+      "description": "Ihr Guide zum Herstellen: Schnelle Messung Mathematik, Hobby-Entdeckung, DIY-Videos, 3D-Animation, Kerzen-Tools, Smart Labels und Planer für Anfänger und Profis."
+    },
+    {
+      "id": "737",
+      "slug": "modeling",
+      "name": "Modellierung",
+      "description": "Modellierung bedeutet, 3D-Modelle, Daten oder Finanzen zu erstellen. Diese Tools erstellen, rendern, versionen, simulieren und prognostizieren für Designer, Entwickler und Analysten."
+    },
+    {
+      "id": "736",
+      "slug": "digital-art",
+      "name": "Digitale Kunst",
+      "description": "Digitale Kunstwerkzeuge umfassen KI-Bildmacher, Modell-APIs und Creator-Commerce und helfen Künstlern, visuelle Bilder zu generieren, Workflows zu automatisieren und ihre Arbeit zu verkaufen oder zu finanzieren."
+    },
+    {
+      "id": "735",
+      "slug": "printing",
+      "name": "Drucken",
+      "description": "Druck umfasst Werkzeuge zum Erstellen, Verkauf und Ausgabe druckfertiger Dokumente und Produkte - von Aufklebern, Kunst bis hin zu Zeitschriften und Broschüren - für Schöpfer und kleine Geschäfte."
+    },
+    {
+      "id": "734",
+      "slug": "painting",
+      "name": "Gemälde",
+      "description": "Painting sammelt Tools und Websites zum Erstellen, Lernen und Verkaufen von Kunst: Farbpickers, Kunst-Apps, Galerien, DIY-Videos, Referenzsuche und NFT / physische Verkäufe."
+    },
+    {
+      "id": "733",
+      "slug": "coloring",
+      "name": "Coloring",
+      "description": "Coloring umfasst Werkzeuge zum Erstellen und Verwalten von Farbpaletten für Design - und Branding-Schema, zum Bearbeiten von Visuellen, zur Sicherstellung von Kontrast und zur Organisation von Assets für Kreatoren."
+    },
+    {
+      "id": "732",
+      "slug": "drawing",
+      "name": "Zeichnen",
+      "description": "Das Zeichnen umfasst digitale Skizzen, UI-Mockups, KI-Kunst und Kinderarbeitsblätter - Werkzeuge, die hier helfen, Ideen zu illustrieren, Fotos zu bearbeiten, Storyboard-Filme und zusammenarbeiten."
+    },
+    {
+      "id": "717",
+      "slug": "social-networking",
+      "name": "Social Networking",
+      "description": "Soziale Netzwerke verbinden Menschen, Schöpfer und Teams über Chat, Video, Microblogs, Meetups und Publishing-plus - CRMs, Matching und Infra-Securing Communities."
+    },
+    {
+      "id": "713",
+      "slug": "shopping",
+      "name": "Shopping",
+      "description": "Shopping umfasst Tools zum Suchen, Kaufen und Verkaufen von Online-Shop - Buildern, Marktplätzen, Wunschlisten, Belohnungen Add-ons, Support-Widgets, einkauffähiges Video und Suche."
+    },
+    {
+      "id": "711",
+      "slug": "science",
+      "name": "Wissenschaft",
+      "description": "Wissenschafts-Tools, die Ihnen helfen, Studien zu suchen, Papiere zu erfassen, Crunch-Modelle, Typografie Mathematik, Quantencode ausführen und Pre-Drucke zu veröffentlichen, die für Forscher und Studenten erstellt wurden."
+    },
+    {
+      "id": "692",
+      "slug": "photo-video",
+      "name": "Foto & Video",
+      "description": "Photo & Video umfasst Werkzeuge für die Erstellung, Bearbeitung und Lokalisierung von visuellen und Sound-AI - Bild / Video-Generierung, TTS-Dobbing, Stock-Assets und die Suche nach Creators."
+    },
+    {
+      "id": "680",
+      "slug": "nature-outdoors",
+      "name": "Natur & Outdoors",
+      "description": "Nature & Outdoors gruppiert Werkzeuge, die Vögel identifizieren, Wanderwege kartieren, Safaris buchen und achtsame, nachhaltige Gewohnheiten aufbauen - ideal für Wanderer, Studenten und Reisende."
+    },
+    {
+      "id": "665",
+      "slug": "lifestyle",
+      "name": "Lifestyle",
+      "description": "Lifestyle-Tools, die das Leben erleichtern: Planen Sie Wetter und Gewohnheiten, Tagebuch Wachstum, verkaufen und einkaufen Waren, bauen Sie Communities und chatten Sie mit KI-Assistenten für Kreatoren."
+    },
+    {
+      "id": "659",
+      "slug": "kids-parenting",
+      "name": "Kinder & Parenting",
+      "description": "Kinder & Erziehung Werkzeuge, die Familien mit Schlaf, Lesen, Sicherheit, Bildschirmzeit, Routinen, Journaling und Make-Believe - Briefe-praktische Auswahl für Eltern helfen."
+    },
+    {
+      "id": "624",
+      "slug": "graphics-design",
+      "name": "Grafik & Design",
+      "description": "Graphics & Design versammelt Tools zum Erstellen, Animieren, Prototypen und Versenden von Visualen - AI-Bildgenerierer, Editoren, Bibliotheken und Website-Builder - für Social, Anzeigen, Apps und Decks."
+    },
+    {
+      "id": "617",
+      "slug": "food-drink",
+      "name": "Essen & Trinken",
+      "description": "Food & Drink-Tools umfassen Rezeptfindern, KI-Mahlzeitenideen, Kochroboter, Kalorien-Tracker und Essens-Recruces - Heimkochern, Reisenden helfen zu planen, kochen und entdecken."
+    },
+    {
+      "id": "611",
+      "slug": "finance",
+      "name": "Finanzen",
+      "description": "Sie müssen kein Buchhalter sein, um Ihre eigenen Zahlen zu knirschen. Diese Finanz-Apps sind der perfekte Zählbegleiter und vieles mehr! "
+    },
+    {
+      "id": "609",
+      "slug": "extended-reality",
+      "name": "Erweiterte Realität",
+      "description": "Extended Reality kombiniert AR / VR, um digitale Inhalte an realen Orten zu überlagern, was Stadttouren, virtuelle Haustiere, Training, Einkaufsmöglichkeiten, Reiseführer und achtsame Gesundheit ermöglicht."
+    },
+    {
+      "id": "600",
+      "slug": "entertainment",
+      "name": "Unterhaltung",
+      "description": "Diese Kategorie vereint Dinge, die fesselnd sind: On-Demand - Video, Kreator Hubs, KI-Media - Maker, Meme-Spiele, Reise-Story - Erzählung, Rollenspiel und interaktives Lernen."
+    },
+    {
+      "id": "589",
+      "slug": "development",
+      "name": "Entwicklung",
+      "description": "Entwicklungswerkzeuge umfassen Tools, die Apps entwerfen, codieren, testen und bereitstellen - UI-Design, Komponenten, repos / CI, Backend, Hosting und KI-Agenten - für Prototypen zur Skalierung."
+    },
+    {
+      "id": "582",
+      "slug": "data-analytics",
+      "name": "Daten & Analytics",
+      "description": "Tauchen Sie tief in die Einsichten ein, die zählen. Diese praktischen Daten - und Analytics-Apps sind alles, was Sie brauchen, um erfolgreich zu sein.   "
+    },
+    {
+      "id": "570",
+      "slug": "business",
+      "name": "Business",
+      "description": "Business-Tools, die Gründer bei der Forschung, dem Start, dem Verkauf und der Skalierung unterstützen, um Suche, Finanzierung, E-Mail - Wachstum, Planung, Communities, KI-Video, Produkt-Einblicke zu decken."
+    },
+    {
+      "id": "553",
+      "slug": "beauty-fashion",
+      "name": "Beauty & Fashion",
+      "description": "Beauty & Fashion Tools, die Sie stilisieren, Marken wachsen und Ideen organisieren. Von virtuellen Stylisten und Face Fitness bis hin zu Creator Links, Umfragen und ethischem Einkaufen."
+    },
+    {
+      "id": "501",
+      "slug": "web3",
+      "name": "Web3",
+      "description": "Blockchain ist der Name des Spiels. Entdecken Sie die Möglichkeiten des neuen dezentralen Webs mit den besten Web3 - Apps für Finanzen, Gaming, Social Media und vieles mehr!"
+    },
+    {
+      "id": "472",
+      "slug": "diversity-inclusion",
+      "name": "Diversität & Inklusion",
+      "description": "Wir wachsen schneller, wenn die Stimme aller gehört wird. Diese Produkte können Ihnen auf dem Weg helfen."
+    },
+    {
+      "id": "471",
+      "slug": "audio",
+      "name": "Audio",
+      "description": "Audio umfasst Tools für das Streaming von Musik / Podcasts, Sprachanrufe und AI-Sprache - TTS, STT, Dubbing, Voice-Agents - und die Plattformen zum Host, Skalieren und Integrieren."
+    },
+    {
+      "id": "470",
+      "slug": "no-code",
+      "name": "Nicht-Code",
+      "description": "Keine Coding-Fähigkeiten? Kein Problem! Entdecken Sie diese No-Code - Apps und stärken Sie Ihre Kreativität "
+    },
+    {
+      "id": "469",
+      "slug": "social-impact",
+      "name": "Soziale Auswirkungen",
+      "description": "Wir  w enden  uns  diesen  Produk ten  zu ,  um  uns  über  unsere  Welt  hoff n ungs voll  zu  fü hlen .😊"
+    },
+    {
+      "id": "468",
+      "slug": "remote-work",
+      "name": "Remote-Arbeit",
+      "description": "Egal, ob Sie auf einer Couch, an einem tropischen Strand oder an den Hängen sind, finden Sie hier einige entfernte Inspo."
+    },
+    {
+      "id": "435",
+      "slug": "femtech",
+      "name": "FemTech",
+      "description": "Konzentrieren wir uns auf die Frauen Fruchtbarkeitslösungen, Periode-Tracking - App, Schwangerschaft und Pflege, sexuelles Wohlbefinden von Frauen, Fortpflanzungssystem Gesundheitsversorgung und mehr."
+    },
+    {
+      "id": "402",
+      "slug": "growth-hacks",
+      "name": "Growth Hacks ",
+      "description": "Growth Hacks demystifiziert: Tools für SaaS und Startups - Datenpipelines, E-Mail - Automatisierung, Social Proof, Influencer, Launches - um Benutzer zu gewinnen, zu konvertieren und zu binden."
+    },
+    {
+      "id": "375",
+      "slug": "startup-lessons",
+      "name": "Start-up - Lektionen",
+      "description": "Starten Sie Ihren MVP, sprechen Sie mit Ihren Kunden, so etwas."
+    },
+    {
+      "id": "374",
+      "slug": "money",
+      "name": "Geld",
+      "description": "Geld-Tools, die Unternehmen helfen, bezahlt zu werden, Online-Banking, Ausgaben zu kontrollieren und Steuern zu behandeln. Die Auswahl umfasst Zahlungen, Startup-Banking, Karten und Abrechnung für Teams."
+    },
+    {
+      "id": "373",
+      "slug": "work-in-progress",
+      "name": "Arbeit in Progress ",
+      "description": "Dieses Thema „Work in Progress\" kuratiert Werkzeuge, um Ideen in Ergebnisse zu verwandeln: Erstellen von Apps und Websites, Umfragen von Benutzern, Bearbeiten von Videos, Rekrutieren von Talenten, Finanzierung und Start."
+    },
+    {
+      "id": "372",
+      "slug": "side-project",
+      "name": "Projekt Side",
+      "description": "Nebenprojekte sind selbst gestartete Unternehmungen Diese Tools helfen Ihnen bei der Planung von Aufgaben, beim Codieren, bei der Recherche, beim Start mit Feedback, bei der Einstellung von Talenten, bei der Schauarbeit und bei der Monetarisierung von Fans."
+    },
+    {
+      "id": "371",
+      "slug": "maker-tools",
+      "name": "Maker Tools",
+      "description": "Erstellen, starten und schneller versenden: Planen, hosten, automatisieren, verkaufen, sammeln Beweise, protokollieren Updates, entdecken Sie sich. Für Indie-Entwickler, Startups und Kreatoren mit KI."
+    },
+    {
+      "id": "366",
+      "slug": "medical",
+      "name": "Medical",
+      "description": "Intelligente Geräte und Technologien revolutionieren Medizin und Gesundheitswesen"
+    },
+    {
+      "id": "365",
+      "slug": "cannabis",
+      "name": "Cannabis",
+      "description": "Marihuana ist der neue Alkohol. Mit der Legalisierung, die alle 50 Staaten durchfegt, startet eine Welle von Startups, um Ihnen zu helfen, es zu genießen."
+    },
+    {
+      "id": "364",
+      "slug": "quantified-self",
+      "name": "Quantifiziertes Selbst",
+      "description": "Lifelogging Detaillierte Daten können helfen, bessere Entscheidungen zu treffen"
+    },
+    {
+      "id": "363",
+      "slug": "arkit",
+      "name": "ARKit",
+      "description": "Ein Framework für die Erstellung von Augmented Reality-Erfahrungen für iOS"
+    },
+    {
+      "id": "362",
+      "slug": "apple",
+      "name": "Apple",
+      "description": "Jedes neue iDevice, App und Computer von den größten🍎 In der Welt."
+    },
+    {
+      "id": "361",
+      "slug": "search",
+      "name": "Suchen",
+      "description": "Von  Su che ,  E - Mail  und  Video  bis  hin  zu  A . I . Selbst fahr ende  Aut os ,  und  VR ,  Google  macht  es  alles . Ver passen  Sie  nicht  die  neu esten  Produk te ,  Projek te  und  Res sour cen  von  Google - Te ams  rund  um  die  Welt .🌏."
+    },
+    {
+      "id": "359",
+      "slug": "wallpaper",
+      "name": "Wallpaper",
+      "description": "Verschönern und dekorieren Sie alle Ihre Bildschirme mit allem, von Sonnenuntergängen über Bergen bis hin zu kunstvollen Fotos von Kiessteinen."
+    },
+    {
+      "id": "358",
+      "slug": "home-automation",
+      "name": "Home Automation",
+      "description": "Ok, Google! Was sind einige der großartigen Dinge, die Sie tun können?"
+    },
+    {
+      "id": "357",
+      "slug": "alexa-skills",
+      "name": "Alexa Skills",
+      "description": "🗣 Alexa, was für tolle Dinge kannst du tun?"
+    },
+    {
+      "id": "356",
+      "slug": "touch-bar-apps",
+      "name": "Touch Bar Apps",
+      "description": "Apps für die neue Touch Bar von Apple👇"
+    },
+    {
+      "id": "355",
+      "slug": "vacation",
+      "name": "Urlaub",
+      "description": "Reisen Sie die Welt und erleben Sie einen Ort, wie Sie dort leben."
+    },
+    {
+      "id": "354",
+      "slug": "books",
+      "name": "Bücher",
+      "description": "Es gibt einfach nichts wie ein gutes Buch. Erweitern Sie Ihr Wissen oder schicken Sie einfach mit einem großartigen Abenteuer zurück."
+    },
+    {
+      "id": "353",
+      "slug": "games",
+      "name": "Spiele",
+      "description": "Finden Sie etwas Neues und Spannendes zum Spielen zu Hause oder unterwegs. Die Arbeit kann warten. Habt ein bisschen Spaß."
+    },
+    {
+      "id": "352",
+      "slug": "tech",
+      "name": "Tech",
+      "description": "Hardware oder Software. Erfindung oder Innovation. Wenn jemand die Technologie vorantreibt, finden Sie sie hier."
+    },
+    {
+      "id": "351",
+      "slug": "imessage-apps",
+      "name": "iMessage Apps",
+      "description": "Neu in iOS 10 sind Apps in die Nachrichten auf Ihrem iPhone integriert, um Inhalte einfach zu erstellen und zu teilen, Aufkleber hinzuzufügen, Zahlungen zu tätigen und vieles mehr, ohne die Konversation zu verlassen. "
+    },
+    {
+      "id": "349",
+      "slug": "climate-tech",
+      "name": "Klima Tech",
+      "description": "Die Welt zu einem sauberen Ort machen"
+    },
+    {
+      "id": "348",
+      "slug": "pokemon",
+      "name": "Pokemon",
+      "description": "Ich muss sie alle fangen. Sie müssen Ihre Favoriten abwählen."
+    },
+    {
+      "id": "346",
+      "slug": "facebook-messenger",
+      "name": "Facebook Messenger",
+      "description": "Facebook Messenger Tools verbinden Chats mit CRMs, Helpdesks, Chatbots und Formularen. Automatisieren Sie den Support, erfassen Sie Leads, planen Sie Beiträge, vereinheitlichen Sie Kundengespräche"
+    },
+    {
+      "id": "345",
+      "slug": "outdoors",
+      "name": "Outdoors",
+      "description": "Outdoors bedeutet Zeit hinter der Tür: Apps zum Planen von Routen, zum Finden von Wanderwegen und Campingplätzen, zum Mieten von Ausrüstung, zur Auswahl von Stränden, zur Navigation offline, zur Erweiterung von WLAN, zur Überprüfung neuer Ausrüstungsideen."
+    },
+    {
+      "id": "343",
+      "slug": "linkedin",
+      "name": "LinkedIn",
+      "description": "Das professionellste Netzwerk von allen ist mehr als nur die Website. Hier sind eine Vielzahl von Apps und Hacks, die auf der Plattform aufgebaut sind."
+    },
+    {
+      "id": "342",
+      "slug": "bots",
+      "name": "Bots",
+      "description": "Es gibt einen bot für fast alles, von restaurantempfehlungen bis zu katzengifs. Bleep-Bloop - Beep-Beep"
+    },
+    {
+      "id": "341",
+      "slug": "medium",
+      "name": "Medium",
+      "description": "Alles Medium. Tools, die Ihr Schreiberlebnis verbessern, in die Medium-API einplugn und vieles mehr!"
+    },
+    {
+      "id": "308",
+      "slug": "maps",
+      "name": "Maps",
+      "description": "There's a map for that 🌎"
+    },
+    {
+      "id": "307",
+      "slug": "star-wars",
+      "name": "Star Wars",
+      "description": "Jedi, Droiden, Stormtroopers und vieles mehr. Liebt diese Produkte, die Sie werden."
+    },
+    {
+      "id": "303",
+      "slug": "menu-bar-apps",
+      "name": "Menu Bar Apps",
+      "description": "Kleine kleine Apps, die magische Dinge tun und in Ihrer OS X-Menüleiste leben. Sammeln Sie alle!"
+    },
+    {
+      "id": "283",
+      "slug": "reddit",
+      "name": "reddit",
+      "description": "Die Frontseite des Internets"
+    },
+    {
+      "id": "282",
+      "slug": "virtual-assistants",
+      "name": "Virtuelle Assistenten",
+      "description": "Jeder kann einen persönlichen Assistenten benötigen. Laden Sie Ihre To-Do - Liste ab und sparen Sie Zeit mit diesen hilfreichen Diensten."
+    },
+    {
+      "id": "280",
+      "slug": "snapchat",
+      "name": "Snapchat",
+      "description": "Das  hei ß este  \" ne ue \"  eph em äre  so ziale  Netz werk ,  das  für  mehr  als  nur  Sel fies  verwendet  wird . Fol gen  Sie  dem  Product H unt Te am .👻"
+    },
+    {
+      "id": "279",
+      "slug": "youtube",
+      "name": "YouTube",
+      "description": "Der  Ort ,  um  Kat zen  zu  beoba chten  (und  alles  andere  im  Internet)📽. Hier  sind  einige  Apps  und  Web sites ,  um  YouTube  besser  zu  machen ."
+    },
+    {
+      "id": "278",
+      "slug": "e-commerce",
+      "name": "E-Commerce",
+      "description": "Steigern Sie Ihr Geschäft oder Einkaufen von zu Hause aus mit den besten E-Commerce - Apps für Preisvergleich, Cashflow Management und Umsatzwachstum. Ka-ching!"
+    },
+    {
+      "id": "277",
+      "slug": "delivery",
+      "name": "Lieferung",
+      "description": "Bis wir Teleportation haben, ist dies Ihre beste Wette, um etwas von Punkt A nach Punkt B zu bekommen.📦"
+    },
+    {
+      "id": "276",
+      "slug": "product-hunt",
+      "name": "Produktjagd",
+      "description": "Der Ort, um Ihr nächstes Lieblingsspiel zu entdecken. Jagen Sie Produkte, suchen Sie nach Inspiration oder bauen Sie mit uns. Unsere community hat bereits eine tonne großartiger websites, erweiterungen und apps mit unserer api erstellt."
+    },
+    {
+      "id": "275",
+      "slug": "on-demand",
+      "name": "On-Demand",
+      "description": "Holen Sie sich, was Sie wollen, wenn Sie es wollen, mit ein paar Klicks. Heben Sie keinen Finger... Vielleicht nur ein Finger."
+    },
+    {
+      "id": "274",
+      "slug": "wi-fi",
+      "name": "Wi-Fi",
+      "description": "Notwendigkeit in diesen Tagen. Es gibt viele hilfreiche Produkte, die Ihnen helfen können, 24 / 7 in Verbindung zu bleiben. (P.S. Spiele nicht gut mit Flugzeugen (noch)"
+    },
+    {
+      "id": "273",
+      "slug": "donald-trump",
+      "name": "Donald Trump",
+      "description": "Politik er ,  Geschäfts mann ,  Fern seh pers ön lichkeit  und  möglich erweise  der  nächste  Präsident  der  Vereinigten  Staaten ... Wir  werden  hier  nicht  über  Politik  reden .😁"
+    },
+    {
+      "id": "272",
+      "slug": "github",
+      "name": "GitHub",
+      "description": "Software, die Ihnen beim Schreiben von Software hilft."
+    },
+    {
+      "id": "271",
+      "slug": "sketch",
+      "name": "Sketch",
+      "description": "Eine Alternative zu Photoshop und Illustrator, die oft zum Entwerfen der beliebtesten Apps und Websites von heute verwendet wird."
+    },
+    {
+      "id": "269",
+      "slug": "augmented-reality",
+      "name": "Augmented Reality",
+      "description": "AR hat das Potenzial, unser Leben zu verändern."
+    },
+    {
+      "id": "268",
+      "slug": "artificial-intelligence",
+      "name": "Künstliche Intelligenz",
+      "description": "Künstliche Intelligenz treibt Produkte an, die schreiben, argumentieren, Daten analysieren und für Sie handeln können. Diese Kategorien decken die wichtigsten Möglichkeiten ab, wie KI heute gebaut und genutzt wird.\n\n- * * [AI Agents] (https://www.producthunt.com/categories/ai-agents) * * - Tools, die KI verwenden, um Aktionen über Tools und Workflows hinweg zu planen, zu argumentieren und zu ergreifen und häufig mehrstufige Aufgaben mit minimalen menschlichen Eingängen zu erledigen.\n- * * [LLMs] (https://www.producthunt.com/categories/llms) * * - Plattformen und Werkzeuge, die um große Sprachmodelle herum aufgebaut sind "
+    },
+    {
+      "id": "267",
+      "slug": "developer-tools",
+      "name": "Developer Tools",
+      "description": "Software, die Ihnen beim Schreiben von Software hilft."
+    },
+    {
+      "id": "266",
+      "slug": "streaming-services",
+      "name": "Streaming-Dienste",
+      "description": "Es gibt alle Arten von Apps, um \"Netflix und chill\" (im buchstäblichen Sinne) und verbessern Sie Ihre TV / Film-Streaming - Erfahrung."
+    },
+    {
+      "id": "265",
+      "slug": "kanye-west",
+      "name": "Kanye West",
+      "description": "Ye, Yeezy, Yeezus, Pablo... Ich lasse Sie beenden, aber dies sind einige der besten Produkte aller Zeiten."
+    },
+    {
+      "id": "264",
+      "slug": "biohacking",
+      "name": "Biohacking",
+      "description": "Die Biotechnologie ist ein faszinierendes Feld, in dem Wissenschaftler und Innovatoren lebende Systeme manipulieren, um unsere Funktionsweise zu verbessern."
+    },
+    {
+      "id": "261",
+      "slug": "wearables",
+      "name": "Wearables",
+      "description": "Von  H unde band s  bis  hin  zu  Ar mb and uh ren  gibt  es  tra gb are  Technolog ie  für  alles . Es  ist  jetzt  einfa cher  denn  je ,  den  Fortsch ritt  Ihrer  Ne uja hr sv ors ätze  (oder  deren  Feh len)  zu  m essen .😁"
+    },
+    {
+      "id": "260",
+      "slug": "drake",
+      "name": "Drake",
+      "description": "Es  war  Gottes  Plan  für  Sie ,  über  diese  Way  2  Se xy  Produk te  zu  stol per n .😉"
+    },
+    {
+      "id": "259",
+      "slug": "legal",
+      "name": "Rechtlich",
+      "description": "Sie stellten ihren Fall vor. Jetzt sind Sie der Richter dieser legalen Apps und Dienste."
+    },
+    {
+      "id": "258",
+      "slug": "transportation",
+      "name": "Transportation",
+      "description": "Leider können wir uns immer noch nicht teleportieren, aber zumindest gibt es Apps, die uns helfen können, die effizienteste Route zu finden und uns dorthin zu bringen."
+    },
+    {
+      "id": "256",
+      "slug": "calendar",
+      "name": "Kalender",
+      "description": "Kalender-Ping - Pong ist ein schreckliches Spiel. Diese Apps und Dienste können Ihnen helfen, Ihren Zeitplan zu verwalten und eine Menge Zeit zu sparen."
+    },
+    {
+      "id": "254",
+      "slug": "coffee",
+      "name": "Kaffee",
+      "description": "The kind of java that's not object-oriented. ☕️"
+    },
+    {
+      "id": "253",
+      "slug": "tv",
+      "name": "Fernsehen",
+      "description": "Sch nur sch ne ider  haben  heute  so  viele  Op tionen . B inge  scha uen  Sie  sich  die  neu este  Netflix - O rig inal  -  Serie  an  oder  fallen  Sie  in  die  end lose  Serie  von  Kat zen vide os  auf  YouTube . Die  größ te  Hera us forder ung  besteht  darin ,  zu  entsche iden ,  was  man  ans cha uen  soll . Diese  Apps  und  Web sites  können  Ihnen  helfen .📺"
+    },
+    {
+      "id": "252",
+      "slug": "meetings",
+      "name": "Meetings",
+      "description": "Willkommen im Erwachsenenalter, in dem Treffen unvermeidlich sind. Stellen Sie einfach sicher, dass Sie die richtigen Werkzeuge verwenden, um produktive Meetings zu planen und durchzuführen."
+    },
+    {
+      "id": "251",
+      "slug": "photography",
+      "name": "Fotografie",
+      "description": "E gal ,  ob  Sie  Instagram - ber üh mt  oder  einfach  ein  Fot ografie - En th usi ast  sind ,  es  gibt  so  viele  Apps  und  Produk te ,  um  dieses  Self ie  oder  den  Time - L ap per  -  Sonn ena uf gang  noch  schön er  zu  machen .📷"
+    },
+    {
+      "id": "250",
+      "slug": "travel",
+      "name": "Reisen",
+      "description": "So viele Orte zum Sehen. Von den Stränden bis in die Berge, erkunden Sie die Welt und befriedigen Sie Ihre innere Wunderlust"
+    },
+    {
+      "id": "249",
+      "slug": "global-nomad",
+      "name": "Globale Nomaden",
+      "description": "Nicht alle, die wandern, sind verloren. Manche reisen mit ihrem Zuhause auf dem Rücken, leben und arbeiten in Städten auf der ganzen Welt.🌍 Jetzt gibt es Websites, um Nomaden zu helfen, sich zu treffen, einen Platz zu buchen und vor allem, kostenloses WLAN zu finden."
+    },
+    {
+      "id": "248",
+      "slug": "privacy",
+      "name": "Privatsphäre",
+      "description": "Sie müssen keinen Zinnhut tragen, um sich vor der NSA zu verstecken. Es gibt Apps dafür."
+    },
+    {
+      "id": "247",
+      "slug": "software-engineering",
+      "name": "Software Engineering",
+      "description": "Software, die Ihnen beim Schreiben von Software hilft."
+    },
+    {
+      "id": "246",
+      "slug": "emulators",
+      "name": "Die Emulatoren",
+      "description": "Juckreiz, um Ihr Lieblingsspiel aus Ihrer Kindheit zu laufen? Aber haben Sie Ihre alte Atari beim Familiengaragenverkauf aufgegeben? Gut, dass es dafür einen Emulator gibt."
+    },
+    {
+      "id": "243",
+      "slug": "website-builder",
+      "name": "Website Builder",
+      "description": "Erstellen und gestalten Sie Ihre eigene schöne Website ohne eine Zeile Code."
+    },
+    {
+      "id": "242",
+      "slug": "wordpress",
+      "name": "WordPress",
+      "description": "Das Content-Management - System, das Sie wahrscheinlich täglich verwenden, ohne es zu wissen. WordPress powers 25% des gesamten Internets. Das ist eine Menge Internet."
+    },
+    {
+      "id": "237",
+      "slug": "saas",
+      "name": "SaaS",
+      "description": "Software is eating the world. We've gathered the culprits here."
+    },
+    {
+      "id": "232",
+      "slug": "internet-of-things",
+      "name": "Das Internet der Dinge",
+      "description": "Verbinden Sie alles mit dem Internet, von Ihrer Heimbeleuchtung bis zu verbundenen Espressos. Vielen Dank für den Kaffee, Jarvis."
+    },
+    {
+      "id": "231",
+      "slug": "seo",
+      "name": "SEO",
+      "description": "Die erste Seite einer Google-Suche ist so wichtig, weil, lasst uns es ehrlich sein, wer schafft es tatsächlich auf Seite 2? Verbessern Sie Ihre Sichtbarkeit, erhöhen Sie Ihr Ranking und gewinnen Sie mehr Besucher, indem Sie einige dieser Tipps, Tricks und Tools implementieren. "
+    },
+    {
+      "id": "230",
+      "slug": "crowdfunding",
+      "name": "Crowdfunding",
+      "description": "J edes  St ück  hil ft . Und  auch  diese  Crow d fund - To ols ,  wenn  Sie  suchen💰."
+    },
+    {
+      "id": "228",
+      "slug": "beauty",
+      "name": "Beauty",
+      "description": "Wunderschöne, wunderschöne Menschen teilen ihre Lieblings-Schönheitsprodukte hier."
+    },
+    {
+      "id": "227",
+      "slug": "space",
+      "name": "Raum",
+      "description": "Erkunden Sie neue Galaxien vom Komfort eines VR-Headsets aus oder starten Sie in ein Science-Fiction - Buch in den Weltraum. Pro Tipp: Die Antwort lautet 42✨"
+    },
+    {
+      "id": "226",
+      "slug": "djing",
+      "name": "DJing",
+      "description": "Dreht den Bass hoch! Holen Sie sich einen Booth und einige Hilfe von diesen:"
+    },
+    {
+      "id": "224",
+      "slug": "baseball",
+      "name": "Baseball",
+      "description": "Schnappen Sie sich Ihre Erdnüsse und Crackerjacks, es ist Zeit, in einen der beliebtesten (und nostalgischen) Sportarten der Welt einzutauchen.⚾️"
+    },
+    {
+      "id": "223",
+      "slug": "party",
+      "name": "Party",
+      "description": "Sch nap pen  Sie  Ihre  Freunde👯 De ine  beste  Play list🎶. Las sen  Sie  sich  lo ose !🎉"
+    },
+    {
+      "id": "221",
+      "slug": "comics-graphic-novels",
+      "name": "Comics und Graphic Novels",
+      "description": "Wenn  das  ges amte  Multi vers um  in  Ihrem  Feed  ers che int . Manga  auch .😍"
+    },
+    {
+      "id": "220",
+      "slug": "boxing",
+      "name": "Boxen",
+      "description": "Wir f  iP unch  Smart  Hand s chu he  an  und  arbe ite  an  diesem  rechten  Hak en ,  oder  beg inne  lang sam  mit  einem  mob ilen  Spiel  wie  Real  Box ing  2  C RE ED . Sch wim men  wie  ein  Sch met ter ling  und  ste chen  wie  eine  Bi ene .👊"
+    },
+    {
+      "id": "219",
+      "slug": "swimming",
+      "name": "Schwimmen",
+      "description": "Schnappen Sie sich Ihre Speedos, bekommen Sie Ihre Technik richtig, und tumble Drehen wie ein Profi. Oder einfach nur Doggy Paddle."
+    },
+    {
+      "id": "218",
+      "slug": "skateboarding",
+      "name": "Skateboarding",
+      "description": "Vielleicht bist du nicht Tony Hawk (noch). Sie können jedoch trotzdem Kickflip-Fotos auf Krak teilen und an dem elektrisch angetriebenen Boosted Board arbeiten."
+    },
+    {
+      "id": "217",
+      "slug": "couples",
+      "name": "Paare",
+      "description": "Komm uni zi eren  und  te ilen  Sie  Ihre  Liebe  privat  mit  Ihrem  Boo .😘"
+    },
+    {
+      "id": "214",
+      "slug": "photoshop",
+      "name": "Photoshop",
+      "description": "Werkzeuge für die Menschen, die ihre Schichten benennen. Gut - und auch die, die es nicht tun"
+    },
+    {
+      "id": "213",
+      "slug": "text-editors",
+      "name": "Text-Editoren",
+      "description": "Wenn Post-Its es nicht mehr schneiden, verwenden Sie diese, um alles zu bearbeiten, was Sie schreiben."
+    },
+    {
+      "id": "212",
+      "slug": "crypto",
+      "name": "Krypto",
+      "description": "Bitcoin, Litecoin und Dogecoin. Kryptowährung hat die Fähigkeit, die Art und Weise zu verändern, wie wir Transaktionen und vieles mehr."
+    },
+    {
+      "id": "211",
+      "slug": "batteries",
+      "name": "Batterien",
+      "description": "Die  Angst  vor  nied riger  Bat ter ie  ist  das  schlim m ste  Problem  der  ersten  Welt . Hier  sind  einige  ex terne  Bat teri en  und  Produk te ,  um  Ihre  Ger äte  voll  auf gela den  zu  halten .🔋"
+    },
+    {
+      "id": "210",
+      "slug": "accessories",
+      "name": "Accessories",
+      "description": "Es  gibt  nichts  Sch lim mer es  als  ein  ger iss ener  Telefon bild sch irm ,  aber  F älle  können  viel  mehr  tun ,  als  nur  Ihr  Telefon  zu  sch ützen . Pr ong  vers or gt  Mobil tele fone  den  ganzen  Tag ,  Hand L  ist  gri ff los  und  kommt  mit  einem  Stand ,  und  S no op  ' s  L ighter  Case  kommt  mit  -  Sie  haben  es  er raten  -  einem  Feuer zeug .🔥"
+    },
+    {
+      "id": "209",
+      "slug": "languages",
+      "name": "Sprachen",
+      "description": "Komm herein! Eintritt! Eintritt hinein! Intra! Das ist \"come in\", wenn Sie noch kein Ployglot sind."
+    },
+    {
+      "id": "208",
+      "slug": "venture-capital",
+      "name": "Venture Capital",
+      "description": "Las sen  Sie  uns  wissen ,  wie  wir  hil fre ich  sein  können .🙃"
+    },
+    {
+      "id": "207",
+      "slug": "advertising",
+      "name": "Advertising",
+      "description": "Wir nutzen dank Werbung so viele kostenlose Dienste. Holen Sie das Beste aus Ihrem Werbebudget und verdienen Sie Einnahmen mit einigen dieser Tools."
+    },
+    {
+      "id": "206",
+      "slug": "growth-hacking",
+      "name": "Growth Hacking",
+      "description": "Wir alle suchen nach dem Hockey-Stick. Hier sind ein paar Dinge, die helfen könnten, aber zuerst folgen Sie diesem Thema JETZT. # GrowthHacking"
+    },
+    {
+      "id": "205",
+      "slug": "time-tracking",
+      "name": "Zeitverfolgung",
+      "description": "Die Zeit entflichtet uns immer. Verfolgen Sie, was Sie tun, damit Sie mit der kostbarsten Ressource des Lebens effizienter sein können."
+    },
+    {
+      "id": "204",
+      "slug": "education",
+      "name": "Education",
+      "description": "Lernen, tun, lehren. Lernen Sie immer!"
+    },
+    {
+      "id": "203",
+      "slug": "investing",
+      "name": "Investing",
+      "description": "Diese könnten Sie einfach \"in den Moooon\" bringen🚀"
+    },
+    {
+      "id": "202",
+      "slug": "novels",
+      "name": "Romane",
+      "description": "Öffnen Sie Ihre Fantasie und verlieren Sie sich in eine gute Geschichte."
+    },
+    {
+      "id": "199",
+      "slug": "pets",
+      "name": "Pets",
+      "description": "Dein neuer bester Freund, der nicht zurück spricht (weil er kein Mensch ist)."
+    },
+    {
+      "id": "198",
+      "slug": "cats",
+      "name": "Katzen",
+      "description": "Das  L ieb lings tier  des  Intern ets . Me ow !😸"
+    },
+    {
+      "id": "194",
+      "slug": "thriller-books",
+      "name": "Thriller Bücher",
+      "description": "Seitendreher, die sich drehen und drehen und uns am Rand unseres Sitzplatzes halten."
+    },
+    {
+      "id": "193",
+      "slug": "horror-books",
+      "name": "Horrorbücher",
+      "description": "Drehen Sie das Nachtlicht ein und sich mit einem erschreckenden Roman zusammenziehen."
+    },
+    {
+      "id": "182",
+      "slug": "science-books",
+      "name": "Wissenschaftliche Bücher",
+      "description": "Wir haben dieses Buch über Helium gelesen. Wir konnten es nicht runter legen."
+    },
+    {
+      "id": "181",
+      "slug": "fashion-books",
+      "name": "Fashion Bücher",
+      "description": "Anna Wintour wäre stolz auf Ihre Mode-Bewusstsein. Lesen Sie Ihren Weg zu einem fabelhaften Look."
+    },
+    {
+      "id": "180",
+      "slug": "yoga-books",
+      "name": "Yoga Bücher",
+      "description": "Finde dein inneres Zen (und bekomme eine gute Arbeit) mit den Techniken, die in diesen Büchern geteilt werden."
+    },
+    {
+      "id": "179",
+      "slug": "design-books",
+      "name": "Design Bücher",
+      "description": "Der nächste Jony Ive zu werden, ist schwer, aber dies sind ein guter Ort, um zu beginnen."
+    },
+    {
+      "id": "178",
+      "slug": "startup-books",
+      "name": "Start-up Bücher",
+      "description": "Einige Gründer und Startup-Leute dachten, man könnte aus diesen Büchern lernen."
+    },
+    {
+      "id": "177",
+      "slug": "crime-books",
+      "name": "Verbrechen Bücher",
+      "description": "Verwandeln Sie sich in Sherlock Holmes, ohne Ihr Bett zu verlassen. Schnappen Sie sich ein Buch und sehen Sie, ob Sie das Verbrechen vor dem letzten Kapitel lösen können."
+    },
+    {
+      "id": "176",
+      "slug": "cooking",
+      "name": "Kochen",
+      "description": "Verwandeln Sie Rohzutaten in leckere Mahlzeiten für Ihre Familie und Freunde. Es ist wie Zauber."
+    },
+    {
+      "id": "175",
+      "slug": "art-books",
+      "name": "Kunst Bücher",
+      "description": "Versprechen Sie, Sie nicht zu beurteilen, wenn Sie diese nur für Ihren Kaffeetisch kaufen."
+    },
+    {
+      "id": "174",
+      "slug": "cookbooks",
+      "name": "Cookbooks",
+      "description": "Haben Sie schon die Kunst des französischen Kochens beherrscht?! Versuchen Sie es, Chef."
+    },
+    {
+      "id": "173",
+      "slug": "history-books",
+      "name": "Geschichte Bücher",
+      "description": "Lernen Sie mehr über die Vergangenheit, denn die Vergangenheit wiederholt sich, so dass Sie besser vorbereitet sind."
+    },
+    {
+      "id": "172",
+      "slug": "biking",
+      "name": "Biking",
+      "description": "Rutschen Sie auf Ihrem Spandex, strecken Sie Ihre Beine und erkunden Sie diese Produkte, bevor Sie auf Ihr Fahrrad springen."
+    },
+    {
+      "id": "170",
+      "slug": "charity-giving",
+      "name": "Charity & Giving",
+      "description": "Es gibt so viele Möglichkeiten, anderen mit ein paar Tipps auf Ihrem Telefon zu helfen. Spenden Sie Ihre Zeit oder Geld für Obdachlose, Behinderte und andere, die Hilfe brauchen."
+    },
+    {
+      "id": "168",
+      "slug": "fighting-games",
+      "name": "Kampfspiele",
+      "description": "Diese sind für alle von euch, die heute Morgen aufgewacht sind und Gewalt gewählt haben."
+    },
+    {
+      "id": "167",
+      "slug": "crafting-games",
+      "name": "Crafting Spiele",
+      "description": "Es ist wie DIY in Videospielen. Mache deinen eigenen Spaß."
+    },
+    {
+      "id": "166",
+      "slug": "simulation-games",
+      "name": "Simulation Spiele",
+      "description": "Von der Ziege bis zum LKW-Fahren, es gibt einen Simulator für alles. Lebe ein anderes Leben ohne deinen Vollzeitjob zu verlassen."
+    },
+    {
+      "id": "165",
+      "slug": "isometric-games",
+      "name": "Isometrische Spiele",
+      "description": "2D kann sehr eingeschränkt sein. Schieben Sie die Ansicht und erkunden Sie diese wunderschönen isometrischen Titel."
+    },
+    {
+      "id": "164",
+      "slug": "marketing",
+      "name": "Marketing",
+      "description": "Sprechen Sie das Wort: Marketing-Apps können Ihnen helfen, Ihre Reichweite zu maximieren, Ihr Publikum zu engagieren und Conversions auf einfache Weise zu steigern "
+    },
+    {
+      "id": "163",
+      "slug": "historical-games",
+      "name": "Historische Spiele",
+      "description": "Es  ist  Zeit ,  dieses  groß arti ge  Ele f anten ged ä cht nis  mit  einem  dieser  Sp iele  zu  zeigen .🐘"
+    },
+    {
+      "id": "162",
+      "slug": "tower-defense-games",
+      "name": "Tower Defense Spiele",
+      "description": "Der Feind nähert sich. Stellen Sie Ihre Barrieren auf und stellen Sie sicher, dass niemand hereinkommt."
+    },
+    {
+      "id": "161",
+      "slug": "word-games",
+      "name": "Word Spiele",
+      "description": "Bist du bereit für eine Herausforderung, die über dein tägliches Wordle hinausgeht?"
+    },
+    {
+      "id": "160",
+      "slug": "funny-games",
+      "name": "Lustige Spiele",
+      "description": "Wenn man diese Spiele verliert, hat man zumindest gelacht."
+    },
+    {
+      "id": "159",
+      "slug": "drinking",
+      "name": "Trinken",
+      "description": "Vi el  Glück  für  neue  Get rän ke  und  neue  Möglich keiten ,  sie  zu  gen ie ßen !🍻 "
+    },
+    {
+      "id": "157",
+      "slug": "kids",
+      "name": "Kinder",
+      "description": "Spiele können Spaß machen und lehrreich sein. Diese Spiele werden Ihrem Kind helfen, zu lernen, zu wachsen und eine tolle Zeit zu haben."
+    },
+    {
+      "id": "156",
+      "slug": "retro-games",
+      "name": "Retro-Spiele",
+      "description": "Wie oft werden Sie von einer „Welle der Nostalgie\" getroffen? Ja, uns auch. Legen Sie es mit diesen ein:"
+    },
+    {
+      "id": "155",
+      "slug": "zombie-games",
+      "name": "Zombie-Spiele",
+      "description": "Werden Sie die Zombie-Apokalypse überleben? Hier sind ein paar Möglichkeiten, um es herauszufinden."
+    },
+    {
+      "id": "154",
+      "slug": "fantasy-games",
+      "name": "Fantasy Spiele",
+      "description": "Das echte Leben kann langweilig werden. Fliegt Drachen, wirft Zauber und kämpft Trolle in Ihren Pyjamas."
+    },
+    {
+      "id": "153",
+      "slug": "sci-fi-games",
+      "name": "Sci-Fi - Spiele",
+      "description": "Erkunde unwirkliche und unerreichbare Welten vom Weltraum bis zu jurasischen Dschungeln."
+    },
+    {
+      "id": "152",
+      "slug": "free-games",
+      "name": "Freie Spiele",
+      "description": "Wir alle lieben Spiele, aber wir haben nicht immer das Geld für sie. Diese Spiele werden Ihnen eine Menge Spaß geben, ohne Ihr Budget zu betonen."
+    },
+    {
+      "id": "151",
+      "slug": "mmos",
+      "name": "MMO",
+      "description": "Spiele sind mit anderen besser. Verbinden Sie sich mit Freunden für einen Überfall oder finden Sie neue Freunde in fernen Ländern."
+    },
+    {
+      "id": "150",
+      "slug": "puzzle-games",
+      "name": "Puzzle Spiele",
+      "description": "Bringen Sie Ihr Gehirn zu Überstunden mit mind-bending Puzzles."
+    },
+    {
+      "id": "149",
+      "slug": "sports-games",
+      "name": "Sportspiele",
+      "description": "Fußball, Fußball, Hockey, Basketball, Baseball Jetzt können Sie alle spielen, ohne einen Schweiß zu brechen."
+    },
+    {
+      "id": "148",
+      "slug": "open-world-games",
+      "name": "Open World Games",
+      "description": "Mit diesen Spielen können Sie gehen, wo immer Sie wollen, wann immer Sie wollen. Zeit zu erkunden."
+    },
+    {
+      "id": "147",
+      "slug": "strategy-games",
+      "name": "Strategie Spiele",
+      "description": "Manche von uns mögen es, unser Gehirn und Masch-Knöpfe auszuschalten. Andere bevorzugen eine intellektuelle Herausforderung, planen methodisch jeden einzelnen Schritt. Herausfordern Sie Ihr Gehirn mit diesen Spielen."
+    },
+    {
+      "id": "146",
+      "slug": "indie-games",
+      "name": "Indie-Spiele",
+      "description": "So viel Leidenschaft und Liebe geht in unabhängige Spiele. Es ist bemerkenswert, was mit einem kleinen Budget und nur wenigen Leuten erreicht werden kann."
+    },
+    {
+      "id": "145",
+      "slug": "adventure-games",
+      "name": "Abenteuer Spiele",
+      "description": "Liebt es Abenteuer, schätzt aber das Leben? Das ist nachvollziehbar. Glücklicherweise können wir gefährliche Dungeons und gnadenlose Meere von zu Hause aus erkunden. Laden Sie Ihre Ausrüstung und machen Sie sich bereit für eine tolle Zeit."
+    },
+    {
+      "id": "144",
+      "slug": "action-games",
+      "name": "Action Games",
+      "description": "Möchten Sie, dass sich Ihre Spiele anfühlen, als ob sie von Michael Bay erstellt wurden? Schauen Sie sich diese herzpumpenden Titel an, wenn Sie ein Fan von filmischen Szenen und über-the - top-Action sind."
+    },
+    {
+      "id": "143",
+      "slug": "horror-games",
+      "name": "Horror-Spiele",
+      "description": "Geh  nicht  h ine in . Okay ,  mach  es  und  sag  uns ,  was  passiert .🙈 "
+    },
+    {
+      "id": "142",
+      "slug": "platformers",
+      "name": "Plattformen",
+      "description": "Plattformler gibt es schon seit langer Zeit in Videospielen und aus gutem Grund. Springe durch die farbenfrohe Welt von Mario zu den gnadenlosen Gefahren in Super Meat Boy."
+    },
+    {
+      "id": "141",
+      "slug": "driving-games",
+      "name": "Fahrspiele",
+      "description": "Wir alle lieben es, schnell zu fahren. Wenn du für einen Nachmittag Ricky Bobby werden willst, steige hinter das Lenkrad dieser Speedster."
+    },
+    {
+      "id": "140",
+      "slug": "rpgs",
+      "name": "RPGs",
+      "description": "Du hast eine neue Quest! Sprechen Sie mit den Herstellern und entdecken Sie Ihr neues Lieblingsspiel."
+    },
+    {
+      "id": "139",
+      "slug": "first-person-shooter",
+      "name": "First Person Shooter",
+      "description": "Lock und Load! Es ist Zeit, in die Action zu springen und mit Zombies, Robotern und Ninjas von Angesicht zu Angesicht zu treten. Viel Glück."
+    },
+    {
+      "id": "138",
+      "slug": "meditation",
+      "name": "Meditation",
+      "description": "Technologie kann unseren Blutdruck erhöhen, aber sie kann auch helfen, alltägliche Angstzustände zu heilen. Machen Sie eine Pause, klären Sie Ihren Geist, entlasten Sie den Stress. Dafür gibt es eine App."
+    },
+    {
+      "id": "137",
+      "slug": "moving-storage",
+      "name": "Moving & Storage",
+      "description": "Egal, ob Sie sich auf der ganzen Welt bewegen oder den Müll unter Ihrer Treppe aufräumen, es gibt so viele Dienstleistungen, die Ihnen helfen (und Ihren Rücken retten)."
+    },
+    {
+      "id": "135",
+      "slug": "branding",
+      "name": "Branding",
+      "description": "Wissen Sie, wer Sie sind und stellen Sie sicher, dass es alle anderen tun."
+    },
+    {
+      "id": "134",
+      "slug": "icons",
+      "name": "Icons",
+      "description": "Nicht Cher! Die andere Art von Ikonen - und viele von ihnen."
+    },
+    {
+      "id": "132",
+      "slug": "typography",
+      "name": "Typographie",
+      "description": "Guten Tag an alle, außer denen, die Comic Sans nicht verwenden."
+    },
+    {
+      "id": "131",
+      "slug": "spreadsheets",
+      "name": "Spreadsheets",
+      "description": "Riesige Informationstabellen für Ihr Organisationsvergnügen. Stellen Sie Zahlen in sie. Wörter hinein. Setzen Sie GIFs in sie! Es liegt an dir."
+    },
+    {
+      "id": "130",
+      "slug": "a-b-testing",
+      "name": "A / B-Testing",
+      "description": "Es gibt keine Innovation ohne Experimente. Lassen Sie Ihr Publikum entscheiden, was mit diesen Tools am besten funktioniert."
+    },
+    {
+      "id": "128",
+      "slug": "email-marketing",
+      "name": "E-Mail Marketing",
+      "description": "E-Mail ist immer noch einer der häufigsten Kanäle, um mit Ihren Benutzern zu kommunizieren. E-Mail besser mit einigen dieser Marketing-Tools."
+    },
+    {
+      "id": "125",
+      "slug": "hardware",
+      "name": "Hardware",
+      "description": "Software mag die Welt fressen, aber es ist nichts ohne Hardware."
+    },
+    {
+      "id": "124",
+      "slug": "ad-blockers",
+      "name": "Ad Blocker",
+      "description": "Surfen Sie schneller im Internet und loswerden Sie diese lästigen Popups und lästigen Anzeigen mit Werbeblockern für Ihren Computer und Smartphone. Keine Sorge, wir erzählen es nicht."
+    },
+    {
+      "id": "123",
+      "slug": "customer-communication",
+      "name": "Kundenkommunikation",
+      "description": "Der  Kun de  hat  immer  Recht ,  oder ? Von  Kund ens up port - To ols  bis  hin  zu  hand gesch rieben en  Kar ten dien sten  gibt  es  so  viele  Möglich keiten ,  Ihre  Ben ut zer  zum  Lä ch eln  zu  bringen .😊"
+    },
+    {
+      "id": "122",
+      "slug": "prototyping",
+      "name": "Prototyping",
+      "description": "Bringen Sie Ihre Idee super schnell zum Leben mit schnellen und schmutzigen Drahtframes, Mockups und funktionalen Prototypen. Mach dir keine Sorgen, wenn es nicht perfekt ist."
+    },
+    {
+      "id": "119",
+      "slug": "payments",
+      "name": "Zahlungen",
+      "description": "Zahlen Sie! Tauschen Sie Geld mit mehr als nur diesen alten Papieren und Hunken von Metall."
+    },
+    {
+      "id": "117",
+      "slug": "backpacks",
+      "name": "Backpacks",
+      "description": "Schlechte Haltung verursacht seit dem Kindergarten, Rucksäcke kann ein Schmerz sein. Aber sie sind auch sehr nützlich, egal ob Sie eine stilvolle P.MAI-Tasche oder einen verspielten (nicht ephemären) Snapchat-Ghost - Rucksack rocken."
+    },
+    {
+      "id": "116",
+      "slug": "tennis",
+      "name": "Tennis",
+      "description": "Sie  müssen  vielleicht  an  Ihrem  Rück sch wung  arbeiten ,  aber  jeder  lieb t  T ennis !🎾"
+    },
+    {
+      "id": "115",
+      "slug": "golf",
+      "name": "Golf",
+      "description": "Golf mag einer der langsamsten Sportarten sein, aber es ist auch einer der anspruchsvollsten, wo selbst der kleinste Fehler Sie die grüne Jacke kosten wird. Jetzt haben wir Apps und fortschrittliche Technologien, die uns helfen, Ergebnisse auf Tigerniveau zu erzielen.⛳️"
+    },
+    {
+      "id": "114",
+      "slug": "soccer",
+      "name": "Fußball",
+      "description": "Manche mögen über seinen tatsächlichen Namen nicht einverstanden sein, aber wir können uns alle einigen, dass es fantastisch ist!⚽️"
+    },
+    {
+      "id": "113",
+      "slug": "football",
+      "name": "Fußball",
+      "description": "Es  gibt  nichts ,  als  um  die  ole  Schwe ine ha ut  zu  wer fen . Wo zu  sonst  sind  Sonn tage ?🏈"
+    },
+    {
+      "id": "112",
+      "slug": "basketball",
+      "name": "Basketball",
+      "description": "Sie  sind  vielleicht  nicht  6 ' 6  \",  aber  Sie  können  immer  noch  ein  5  -  gegen  -  5  -  Basket ball - S pi el  gen ie ßen  (oder  H . O . R . S . E . mit  einigen  Fre unden).🏀"
+    },
+    {
+      "id": "111",
+      "slug": "sports",
+      "name": "Sport",
+      "description": "E gal ,  ob  es  sich  um  Kick ing ,  Wer fen  oder  Fang  handelt ,  wir  alle  li eben  Sport .⚽️🏈🏀"
+    },
+    {
+      "id": "110",
+      "slug": "robots",
+      "name": "Roboter",
+      "description": "Sicher, sie könnten eines Tages die Welt übernehmen, aber für den Moment sind Roboter ziemlich cool! Genießen wir es, solange wir können."
+    },
+    {
+      "id": "108",
+      "slug": "analytics",
+      "name": "Analytics",
+      "description": "Von der Analyse des Website-Traffics bis zum Verständnis des Kundenverhaltens machen diese Top-Analytik - Apps das Erhalten von wertvollen Erkenntnissen ein Schritt weiter. "
+    },
+    {
+      "id": "107",
+      "slug": "storage",
+      "name": "Storage",
+      "description": "Speichern Sie und haben Sie Zugriff auf alle Ihre Dateien, wann immer und überall Sie sind."
+    },
+    {
+      "id": "105",
+      "slug": "gifs",
+      "name": "Gifs",
+      "description": "Ke in  Pe anut  Butter  hier . Nur  GIF s .😉"
+    },
+    {
+      "id": "104",
+      "slug": "social-media",
+      "name": "Social Media",
+      "description": "# GrowthHack Ihre Twitter-Follower und werden Sie ein Social-Media - Ninja mit diesen Tools. Folgen Sie uns bei @ ProductHunt. # TeamFollowback"
+    },
+    {
+      "id": "103",
+      "slug": "dating",
+      "name": "Dating",
+      "description": "F inden  Sie  Ihren  Se elen ver wand ten  (oder  vielleicht  nur  einen  neuen  Freund)  in  ein  paar  W ischen ,  Tip ps  und  Emo jis - A ustausch .😽"
+    },
+    {
+      "id": "102",
+      "slug": "social-network",
+      "name": "Soziales Netzwerk",
+      "description": "Verbinden Sie sich und bleiben Sie in Kontakt mit allen, die Sie jemals getroffen haben. digital."
+    },
+    {
+      "id": "101",
+      "slug": "twitter",
+      "name": "Twitter",
+      "description": "Teilen Sie Ihre Gedanken mit der Welt in 140 Zeichen. Es sei denn, du benutzt OneShot. Tweet wie ein Profi und erkunden Sie das riesige Universum der Twitter-Apps."
+    },
+    {
+      "id": "100",
+      "slug": "movies",
+      "name": "Filme",
+      "description": "Lang lebe das Kino! Finden Sie Ihren nächsten Go-to - Flick mit diesen Produkten."
+    },
+    {
+      "id": "97",
+      "slug": "3d-printer",
+      "name": "3D Drucker",
+      "description": "Magisch geht es von digitalen Darstellungen bis zu berührbaren Prototypen. Mit dem 3D-Druck können Sie mehrdimensionale Dinge denken, erstellen und bauen, von Schmuck über Spielzeug bis hin zu Selfies (ja, wirklich)."
+    },
+    {
+      "id": "96",
+      "slug": "notes",
+      "name": "Notizen",
+      "description": "Verwenden Sie immer noch Post-it für all diese wichtigen To-Dos? Probieren Sie stattdessen diese Tools aus."
+    },
+    {
+      "id": "95",
+      "slug": "public-relations",
+      "name": "Public Relations",
+      "description": "Es kann schwierig sein, Ihre Geschichte an die richtigen Leute zu bringen, aber mit Tools wie PR in a Box und PR Stack wird es immer einfacher."
+    },
+    {
+      "id": "94",
+      "slug": "fintech",
+      "name": "Fintech",
+      "description": "Wer wird der nächste Streifen sein, Coinbase oder Revolut?"
+    },
+    {
+      "id": "93",
+      "slug": "user-experience",
+      "name": "User Experience",
+      "description": "Ist Ihr Produkt einfach für Menschen zu verstehen und zu verwenden? Wenn Sie sich nicht sicher sind, hier sind einige Werkzeuge, um es herauszufinden."
+    },
+    {
+      "id": "92",
+      "slug": "cars",
+      "name": "Autos",
+      "description": "V room  V room ,  Be ep ,  Be ep ! Ver wand eln  Sie  Ihre  Son ata  mit  Autom atic  in  ein  intellig entes  Auto ,  fahren  Sie  sicher er  mit  Nav dy  oder  lassen  Sie  sich  mit  S kur t  eine  neue  Pe its che  lie fern .🚗💨"
+    },
+    {
+      "id": "90",
+      "slug": "writing",
+      "name": "Schreiben",
+      "description": "Shakespeare benutzte keine Fancy Apps, aber wir sind nicht alle Shakespeare. Hier sind einige Dinge, die Ihnen helfen, besser zu schreiben."
+    },
+    {
+      "id": "89",
+      "slug": "open-source",
+      "name": "Open Source",
+      "description": "Sharing ist Caring. Bauen Sie gemeinsam großartige Dinge."
+    },
+    {
+      "id": "88",
+      "slug": "api-1",
+      "name": "API",
+      "description": "API-first - Produkte machen es Entwicklern einfach, Software zu erstellen, zu integrieren und zu skalieren. Schauen Sie sich diese Kategorien an, um die Tools und Plattformen zu erkunden, mit denen Teams APIs bereitstellen und übernehmen können:\r\n\r\n- * * [Unified APIs] (https://www.producthunt.com/categories/unified-api) * * - APIs, die mehrere Dienste hinter einer einzigen Schnittstelle abstrahieren, wodurch Integrationen schneller werden und Wartungskosten reduziert werden.\r\n- * * [Plattformen] (https://www.producthunt.com/categories/platforms) * * - Entwickler-Plattformen, die APIs als"
+    },
+    {
+      "id": "87",
+      "slug": "weather",
+      "name": "Wetter",
+      "description": "Du könntest nach draußen schauen, ob es regnet, oder du könntest auf dein Smartphone schauen. Vorhersagen Sie die Zukunft und planen Sie Ihren Tag mit magischen Wetter-Apps."
+    },
+    {
+      "id": "85",
+      "slug": "newsletters",
+      "name": "Newsletter",
+      "description": "E - Mail  ist  weit  von  tot . T ats äch lich  be her ber gt  es  einige  der  besten  In hal te  im  Internet ,  wie  das  tä gli che  Dig est  von  Product  Hunt .😁"
+    },
+    {
+      "id": "84",
+      "slug": "events",
+      "name": "Ereignisse",
+      "description": "Planen Sie eine Hochzeit, eine Party oder einen Brunch mit Freunden? Diese Werkzeuge werden helfen."
+    },
+    {
+      "id": "82",
+      "slug": "parenting",
+      "name": "Parenting",
+      "description": "Seien Sie erfahren und genießen Sie die wilde Fahrt der Elternschaft. Wenn Sie Hilfe brauchen, gibt es einige großartige Ressourcen und Apps für Sie und Ihre Familie."
+    },
+    {
+      "id": "81",
+      "slug": "adult-coloring-books",
+      "name": "Erwachsene Coloring Bücher",
+      "description": "Mal b ü cher  sind  nicht  nur  für  Kinder . Neh men  Sie  eine  Last  ab  und  entsp annen  Sie  sich  mit  Far be . Ach ten  Sie  darauf ,  in  den  L ini en  zu  bleiben .🎨"
+    },
+    {
+      "id": "80",
+      "slug": "wine",
+      "name": "Wein",
+      "description": "Diese Produkte haben Noten von Größe und Beinen für das Tropfen in Ihre nächtliche Rotation."
+    },
+    {
+      "id": "79",
+      "slug": "surfing",
+      "name": "Surfen",
+      "description": "Co wab unga  my  dud es  &  dud ettes ! Sch nap pen  Sie  ein  Bret ter  und  las st  uns  das  Wasser  sch lagen .🏄"
+    },
+    {
+      "id": "78",
+      "slug": "dogs",
+      "name": "Hunde",
+      "description": "Dieser  fu zzy - ol  -  Wel p  mit  der  Z unge  ist  dein  bes ter  Freund . Es  gibt  viele  Möglich keiten ,  ihm  deine  Liebe  zu  zeigen ,  also  stellen  Sie  sicher ,  dass  er  die  beste  Pf lege  hat ,  um  Ihren  Hund  lä ch eln  zu  lassen .🐶"
+    },
+    {
+      "id": "76",
+      "slug": "art",
+      "name": "Art",
+      "description": "Es gibt eine Million Möglichkeiten, Kunst zu erschaffen, und es gibt viele Werkzeuge, die helfen, diese kreativen Säfte fließen zu lassen. Ausdrücken Sie sich!"
+    },
+    {
+      "id": "74",
+      "slug": "fashion",
+      "name": "Mode",
+      "description": "Sie haben den vorderen Sitz auf diesem Catwalk. Was ist denn in der Tasche los?"
+    },
+    {
+      "id": "73",
+      "slug": "home",
+      "name": "Home",
+      "description": "Leben Sie in der Zukunft mit den neuesten vernetzten Geräten, Möbeln, die für den Komfort gebaut wurden, und Robotern. Ja, Roboter."
+    },
+    {
+      "id": "72",
+      "slug": "freelance",
+      "name": "Freelance",
+      "description": "Wir sehen uns, Freelancer. Ihre mission ist eine schleife, aber hilfreiche tools und gemeinschaft sind hier."
+    },
+    {
+      "id": "71",
+      "slug": "sales",
+      "name": "Verkauf",
+      "description": "Ein großartiges Produkt ist nicht viel ohne Verkäufe. Verbessern Sie Ihre Konversation und kommen Sie mit einigen dieser nützlichen Tools zum Schluss."
+    },
+    {
+      "id": "70",
+      "slug": "jewelry",
+      "name": "Jewelry",
+      "description": "Das Frühstück bei Tiffany 's ist nicht eine schlechte Art, Ihren Tag zu beginnen, aber es gibt viele Möglichkeiten, um Ihrem Kleidung Flair hinzuzufügen. Finden Sie das perfekte Design, das zu Ihnen spricht, oder machen Sie Ihr eigenes Stück, das für Sie einzigartig ist."
+    },
+    {
+      "id": "68",
+      "slug": "video-streaming",
+      "name": "Video Streaming",
+      "description": "Noch zusehen? Natürlich. Machen Sie eine Pause, um durch die neuesten im Streaming zu scrollen."
+    },
+    {
+      "id": "67",
+      "slug": "standing-desks",
+      "name": "Standing Desks",
+      "description": "Wenn  die  Wiss enschaft  sagt ,  dass  wir  stehen ,  werden  wir  stehen👫. Von  $25  bis  $2. 500  gibt  es  einen  Ste ht isch  für  jeden ."
+    },
+    {
+      "id": "66",
+      "slug": "soundcloud",
+      "name": "SoundCloud",
+      "description": "Entdecken Sie die größte Community von Künstlern, Bands, Podcastern und Musikern und alle Apps, die auf dieser erstaunlichen Plattform für Sound erstellt wurden."
+    },
+    {
+      "id": "65",
+      "slug": "spotify",
+      "name": "Spotify",
+      "description": "Was  ist  Ihre  L ieb lings meth ode ,  um  die  beste  Musik  zu  stre amen ? Set zen  Sie  die  Stim mung  mit  einer  perf ekten  Play list  oder  starten  Sie  die  Party - B ump in  mit  den  k rank sten  Bang ers .🎶"
+    },
+    {
+      "id": "64",
+      "slug": "amazon",
+      "name": "Amazon",
+      "description": "Der „Buchladen\", der T.P. und alles verkauft, was Sie suchen."
+    },
+    {
+      "id": "63",
+      "slug": "instagram",
+      "name": "Instagram",
+      "description": "W us sten  Sie ,  dass  Sie  Ihre  Instagram - Pos ts  planen ,  Ihre  besten  Fotos  in  ess bare  Marsh mal lo ws  ver wand eln  und  deta illi erte  Analys en  für  alle  Ihre  Bil der  erhalten  können ? Es  gibt  Apps  dafür .📷"
+    },
+    {
+      "id": "61",
+      "slug": "anonymous",
+      "name": "Anonyme",
+      "description": "Wer bist du?Über wen reden Sie? Weiß er, wer sie ist?👻 Ich weiß es auch nicht."
+    },
+    {
+      "id": "60",
+      "slug": "messaging",
+      "name": "Messaging",
+      "description": "Ein einfacher Text kann so langweilig sein. Finden Sie einen neuen Weg, um Ihre Kommunikation zu verbessern."
+    },
+    {
+      "id": "59",
+      "slug": "sneakers-shoes",
+      "name": "Sneakers & Schuhe",
+      "description": "Sneakers, Stilettos oder Krücke mit Socken? Wir urteilen nicht, aber du kannst."
+    },
+    {
+      "id": "57",
+      "slug": "music",
+      "name": "Musik",
+      "description": "Skip oder Wiederholung? Dein Lieblings-Tunage ist da? "
+    },
+    {
+      "id": "55",
+      "slug": "customer-success",
+      "name": "Kunden Erfolg",
+      "description": "Nennen Sie etwas Besseres als eine angenehme Kundenerfahrung. Wir werden warten."
+    },
+    {
+      "id": "54",
+      "slug": "custom-keyboards",
+      "name": "Custom Keyboards",
+      "description": "Tastaturen dienen mehr als nur zum Tippen. Teilen Sie Ihren Standort, senden Sie das perfekte GIF und sprechen Sie in Emojis mit ausgefallenen benutzerdefinierten Tastaturen auf Ihrem iPhone."
+    },
+    {
+      "id": "53",
+      "slug": "dj-khaled",
+      "name": "DJ Khaled",
+      "description": "„Anotha eins\", heben Sie Ihre Hand, wenn Sie bereits wissen, von wem wir sprechen."
+    },
+    {
+      "id": "52",
+      "slug": "celebrities",
+      "name": "Celebrities",
+      "description": "Wir lieben einen Hollywood-Meets - Tech-Crossover."
+    },
+    {
+      "id": "51",
+      "slug": "politics",
+      "name": "Politik",
+      "description": "Linke Flügel, Rechte Flügel, Grüne Partei, Anarchist, Tea Party... Die Liste geht weiter: Politik!"
+    },
+    {
+      "id": "50",
+      "slug": "news",
+      "name": "News",
+      "description": "Bleiben Sie im Wissen. Bleiben Sie up to date. Sehen Sie, was in der Welt vor sich geht."
+    },
+    {
+      "id": "49",
+      "slug": "alarms",
+      "name": "Alarme",
+      "description": "Ver w enden  Sie  immer  noch  den  Standard - A lar m  auf  Ihrem  Telefon ? Pro bi eren  Sie  etwas  Ne ues  aus ,  aber  War nung :  Nicht  alle  von  ihnen  kommen  mit  einem  Sch laf kn op f .😴"
+    },
+    {
+      "id": "48",
+      "slug": "task-management",
+      "name": "Task Management",
+      "description": "Die Verwaltung Ihrer Zeit ist schwierig ohne einen Plan. Machen Sie eine Liste, überprüfen Sie sie zweimal und sehen Sie, welche Aufgaben einfach und nett sind.✔ ️"
+    },
+    {
+      "id": "46",
+      "slug": "productivity",
+      "name": "Produktivität",
+      "description": "Wenn Zeit am kostbarsten ist, ist diese Sammlung von Lifehacks so, so kostbar. Seien Sie produktiver und optimieren Sie Ihr Leben."
+    },
+    {
+      "id": "45",
+      "slug": "emoji",
+      "name": "Emoji",
+      "description": "Sei en  Sie  aus d ru cks vol ler  bei  Ihrer  Kommunik ation .😁😮😜"
+    },
+    {
+      "id": "44",
+      "slug": "design-tools",
+      "name": "Design-Tools",
+      "description": "Design ist mehr als nur hübsche Pixel (keine Beleidigung, hübsche Pixel). Ein gutes Design-Tool kann Ihre UX verbessern, Ihren Workflow verbessern und Ihre kreativen Ideen zum Leben erwecken. "
+    },
+    {
+      "id": "43",
+      "slug": "health-fitness",
+      "name": "Gesundheit & Fitness",
+      "description": "Ge wicht  zu  verli eren ? Ge wi chts z unah me ? Es  gibt  so  viele  Res sour cen  zur  Verfügung ,  von  Kal ori enz ä hl - App s  bis  hin  zu  persön lichen  Coach es  in  Ihrer  Tas che .💪"
+    },
+    {
+      "id": "42",
+      "slug": "funny",
+      "name": "Lustig",
+      "description": "Knock Knock. Wer ist da? Schlechte Witze, Katzenworte und mehr. Machen Sie sich bereit, richtig meow zu laufen."
+    },
+    {
+      "id": "41",
+      "slug": "hiring",
+      "name": "Hiring",
+      "description": "API-first - Produkte machen es Entwicklern einfach, Software zu erstellen, zu integrieren und zu skalieren. Schauen Sie sich diese Kategorien an, um die Tools und Plattformen zu erkunden, mit denen Teams APIs bereitstellen und übernehmen können:\r\n\r\n- * * [Unified APIs] (https://www.producthunt.com/categories/unified-api) * * - APIs, die mehrere Dienste hinter einer einzigen Schnittstelle abstrahieren, wodurch Integrationen schneller werden und Wartungskosten reduziert werden.\r\n- * * [Plattformen] (https://www.producthunt.com/categories/platforms) * * - Entwickler-Plattformen, die APIs als"
+    },
+    {
+      "id": "39",
+      "slug": "email",
+      "name": "E-Mail",
+      "description": "Liebe  es  oder  has se  es ,  E - Mail  ist  ein  gro ßer  Teil  de ines  Lebens ,  aber  zum  Glück  gibt  es  so  viele  Apps  und  Er we iter ungen ,  um  es  ver walt bar er  zu  machen . PS :  Bitte  ant wor te  nicht  auf  alles .😁"
+    },
+    {
+      "id": "37",
+      "slug": "tabletop-games",
+      "name": "Tabletop Spiele",
+      "description": "Sammeln Sie Ihre Freunde und spielen Sie einige Spiele um einen Tisch (oder Boden). Tischspiele funktionieren auch auf dieser Plattform)."
+    },
+    {
+      "id": "36",
+      "slug": "board-games",
+      "name": "Board Games",
+      "description": "Nichts ist herz wärmer, als deine peeps zusammen zu bringen und über ein spiel zu streiten."
+    },
+    {
+      "id": "34",
+      "slug": "chrome-extensions",
+      "name": "Chrome Erweiterungen",
+      "description": "Verb ess ern  Sie  Ihren  Chrome  mit  Super  Bro wser - Er we iter ungen . Glück liches  Sur fen !🏄"
+    },
+    {
+      "id": "31",
+      "slug": "drones",
+      "name": "Drohnen",
+      "description": "Es ist ein Vogel! Das ist ein Flugzeug! Nein, das ist eine Drohne. Unbemannte Luftfahrzeuge werden immer beliebter, vom DGI Phantom bis zur autonomen Lily-Drohne. Sogar Amazon könnte bald T.P. vom Himmel liefern."
+    },
+    {
+      "id": "30",
+      "slug": "virtual-reality",
+      "name": "Virtual Reality",
+      "description": "Zeit, um Ihr VR-Headset anzusetzen. Wir sehen uns im Metaverse."
+    },
+    {
+      "id": "29",
+      "slug": "telegram",
+      "name": "Telegramm",
+      "description": "Die kostenlose, multiplattformige Messaging-App, die von über 100 Millionen Menschen jeden Monat verwendet wird, ist die Heimat für Bots für jeden Anwendungsfall. Hier einige der besten Integrationen."
+    },
+    {
+      "id": "28",
+      "slug": "ridesharing",
+      "name": "Ridesharing",
+      "description": "Gehen Sie von A nach B, der klügste Weg. Ihr privater Fahrer, auf Anfrage."
+    },
+    {
+      "id": "27",
+      "slug": "gear-vr",
+      "name": "Gear VR",
+      "description": "Tauchen Sie in die Welt der virtuellen Realität, wann immer Sie mit dem Samsung Gear VR wollen."
+    },
+    {
+      "id": "26",
+      "slug": "apple-tv",
+      "name": "Apple TV",
+      "description": "Nach  einem  lang en  Tag  im  Büro  finden  Sie  Eins am keit  in  der  ries igen  Welt  von  TV  und  Film  auf  Ihrem  Apple  TV . Cou ch  nicht  enthalten .📺"
+    },
+    {
+      "id": "25",
+      "slug": "htc-vive",
+      "name": "HTC Vive",
+      "description": "Steams Annahme der virtuellen Realität (VR), konzentriert sich auf Mobilität und großartiges Gaming."
+    },
+    {
+      "id": "24",
+      "slug": "playstation-vr",
+      "name": "PlayStation VR",
+      "description": "Die Sony PlayStation zielt darauf ab, Virtual Reality (VR) für jeden mit einer PS4 zu bringen. Kein teurer PC benötigt"
+    },
+    {
+      "id": "23",
+      "slug": "oculus-rift",
+      "name": "Das Oculus Rift",
+      "description": "Oculus von Facebook will die Art und Weise revolutionieren, wie wir Medien konsumieren und mit der Welt kommunizieren, durch virtuelle Realität (VR)."
+    },
+    {
+      "id": "22",
+      "slug": "slack",
+      "name": "Slack",
+      "description": "Real-time chat with everyone. Use it with your team, family, and friends."
+    },
+    {
+      "id": "21",
+      "slug": "web-app",
+      "name": "Web App",
+      "description": "Kennen Sie diesen Ort mit all diesen Katzenbildern und GIFs? Es hat auch ein paar andere schöne Sachen."
+    },
+    {
+      "id": "19",
+      "slug": "mac",
+      "name": "Mac",
+      "description": "Die legendären Grundlagen von Apple Computers. Sie sind einfach zu bedienen und einfach zu lieben. Weiter geht 's, hop on the🍎 Bandwagon."
+    },
+    {
+      "id": "18",
+      "slug": "windows",
+      "name": "Windows",
+      "description": "Der Personal Computer veränderte die Art und Weise, wie wir leben und arbeiten, und wurde von dem legendären Bill Gates mit der Vision geschaffen, einen Computer auf jeden Schreibtisch zu platzieren."
+    },
+    {
+      "id": "17",
+      "slug": "ebook-reader",
+      "name": "eBook Reader",
+      "description": "Sammeln und lesen Sie Bücher, die auf dem praktischen, tragbaren Amazon Kindle nicht Staub sammeln."
+    },
+    {
+      "id": "16",
+      "slug": "browser-extensions",
+      "name": "Browser-Erweiterungen",
+      "description": "Browser-Erweiterungen sind Add-ons, die Ihre Web-Erfahrung verbessern: Privacy Shields, Schreibfixes, Task-Erfassung, Echtzeit-Zusammenarbeit, Dev-Tools und KI."
+    },
+    {
+      "id": "15",
+      "slug": "safari-extensions",
+      "name": "Safari Erweiterungen",
+      "description": "Safari-Erweiterungen erweitern Apples Browser mit Tools, von Datenschutz - und Werbeblockierung bis hin zu Lesezeichen, Notizen und Fokustimer für Studenten, Profis und Teams."
+    },
+    {
+      "id": "13",
+      "slug": "linux",
+      "name": "Linux",
+      "description": "Für diejenigen, die es lieben, ihre eigenen Wünsche zu gestalten. Fedora, Red Hat und Ubuntu. Du wirst deinen Pick haben."
+    },
+    {
+      "id": "12",
+      "slug": "apple-watch",
+      "name": "Apple Watch",
+      "description": "Wenn Sie nicht genug Benachrichtigungen auf Ihrem Telefon haben, um Sie abzulenken, holen Sie sie an Ihr Handgelenk. Apples sexy Wearable könnte Ihr Leben verändern."
+    },
+    {
+      "id": "11",
+      "slug": "card-games",
+      "name": "Kartenspiele",
+      "description": "Wussten Sie, dass Kartenspiele früher mit Laminatpapier statt auf einem iPad gespielt wurden? Verrückt, oder?"
+    },
+    {
+      "id": "9",
+      "slug": "ipad",
+      "name": "iPad",
+      "description": "Eine Platte des Computing-Genie von Apple, jetzt in mehreren Tablet-Größen: Mini, Air und Pro."
+    },
+    {
+      "id": "8",
+      "slug": "ios",
+      "name": "iOS",
+      "description": "Das  geli eb te   „ Tele fon \" ,  das  die  Art  und  Weise  ver ändert  hat ,  wie  wir  komm uni zi eren ,  Sp iele  spielen  und  Fotos  machen .📱"
+    },
+    {
+      "id": "7",
+      "slug": "wii-u",
+      "name": "Wii U",
+      "description": "Erlebe deine Kindheit mit Mario, Zelda und Pokemon auf der Bewegungs-Sensing - Konsole von Nintendo."
+    },
+    {
+      "id": "6",
+      "slug": "nintendo",
+      "name": "Nintendo",
+      "description": "Der König des Handheld-Gaming ist immer noch an der Spitze. Spielen Sie die Klassiker, von Mario bis Pokemon, in 3D neu erfunden, ohne die Notwendigkeit einer dummen Brille."
+    },
+    {
+      "id": "5",
+      "slug": "vita",
+      "name": "Vita",
+      "description": "Das zweite Handheld von Sony bringt Spiele in Konsolenqualität direkt an Ihre Fingerspitzen. Spielen Sie Vita-Exklusiven oder streamen Sie sogar Spiele direkt von Ihrer PS4 aus."
+    },
+    {
+      "id": "4",
+      "slug": "playstation",
+      "name": "Playstation",
+      "description": "Die Playstation sammelt Konsolenspielessentiale: Blockbuster-Shooter, Retro-Action, Sandbox-Builder, Entwicklungs-Engines, Chat, Guides und zeitgemäße Plus-Spiel - Benachrichtigungen."
+    },
+    {
+      "id": "3",
+      "slug": "xbox",
+      "name": "XBox",
+      "description": "Microsofts Konsole bietet Ihnen tolle Spiele wie Halo und Gears of War und verdoppelt sich als ein Killer-Home - Media-Gerät."
+    },
+    {
+      "id": "2",
+      "slug": "android",
+      "name": "Android",
+      "description": "Eine der am schnellsten wachsenden Plattformen aller Zeiten, der kleine grüne Bot lebt in Ihrer Tasche und tut fast alles."
+    },
+    {
+      "id": "1",
+      "slug": "pc",
+      "name": "PC",
+      "description": "PC-Gruppe Software und Hardware, die das Rechenbetriebssystem antreibt: Privates Browsing, Suche, KI-Hilfe, 3D-Erstellung, Design, Cloud-GPUs und Gaming für Gamer, Maker und Teams."
+    }
+  ]
+}

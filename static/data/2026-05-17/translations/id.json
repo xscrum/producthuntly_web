@@ -1,0 +1,248 @@
+{
+  "meta": {
+    "version": "v1",
+    "updatedAt": "2026-05-22T16:19:58.669886"
+  },
+  "translations": [
+    {
+      "id": "1136169",
+      "slug": "fere-ai",
+      "name": "Fere AI",
+      "tagline": "Penerapan Memori Persisten dalam Kode Claude, Codex, dan Agen Pengkodean (Codex, Codex, and Coding Agent)",
+      "description": "Sekarang Anda dapat menyediakan memori tak terbatas untuk Hermes, Claude Code, dan Codex. Agenmemory menjadi populer di GitHub dan telah mendapatkan lebih dari 5.000 bintang. CLAUDE md dapat menempatkan lebih dari 22.000 kata ke dalam konteks dalam 240 pengamatan, sedangkan agentmemory hanya 1.900 kata, menghemat ruang sebesar 92%. Dalam 1.000 pengamatan, 80 persen dari ingatan terbina dalam Anda tidak terlihat. Sementara agentmemory tetap 100% searchability. agentmemory tetap 100% searchability. agentmemory tetap 100%. Dalam benchmarking dari 240 sesi pengkodean nyata, kosa kata per sesi berkurang hingga 95% - 200 kali lebih banyak panggilan alat sebelum batas konteks tercapai - dan sepenuhnya open source.",
+      "keywords": "Memori persisten, Claude Code, Codex, Agen pemrograman, Agentmemory, GitHub, sumber terbuka, manajemen memori, asisten kode, manajemen konteks, pengoptimalan token, efisiensi pemrograman, jumlah pengamatan"
+    },
+    {
+      "id": "1146113",
+      "slug": "vivago-video-agent",
+      "name": "Vivago Video Agent",
+      "tagline": "Sutradara AI Anda membuat Anda membuat video seperti film dengan mudah. < / p > < p >",
+      "description": "Katakan ide Anda kepada Loova dalam bahasa sehari-hari yang sederhana, dan agen Loova akan bertindak seperti direktur pribadi Anda, merencanakan, mengarahkan, dan memproduksi film untuk Anda. Apakah itu iklan yang menarik, video pendek, atau video produk, mereka dapat melakukannya dengan cepat. Dengan ruang kreatif yang tak terbatas, agen Loova membuat narasi video profesional menjadi mudah. & Nbsp;",
+      "keywords": "Agen Loova, Sutradara AI, Produksi Film dan TV, Penciptaan Film, Video Pendek, Produksi Iklan, Video Produk, Cerita Video, Video Kreatif, Sutradara Mudah, Kreatif Tanpa Batas, Produksi Sederhana, Pribadi"
+    },
+    {
+      "id": "942860",
+      "slug": "sun-to-spotify",
+      "name": "SUN-to-Spotify ",
+      "tagline": "Cara yang lebih baik untuk berbagi layar di macOS",
+      "description": "Raybeam adalah aplikasi macOS yang memungkinkan Anda untuk berbagi area layar yang dapat diseret dan disesuaikan ukuran, yang sangat cocok untuk pengaturan layar lebar dan multi-monitor. Ini mendukung banyak platform seperti Zoom, Slack, dan Teams.",
+      "keywords": "Raybeam, berbagi layar, aplikasi macOS, drag-and - drop, ukuran yang dapat disesuaikan, layar ultra lebar, multi-monitor, untuk Zoom, untuk Slack, untuk Tim, alat berbagi layar"
+    },
+    {
+      "id": "1144087",
+      "slug": "files-sdk",
+      "name": "Files SDK",
+      "tagline": "Model Gemini Ringan untuk Pipa Kecerdasan Buatan dengan Throughput Tinggi Model Gemini Ringan untuk Pipa Kecerdasan Buatan",
+      "description": "Gemini 3.1 Flash-Lite menyediakan API untuk memanggil, mengklasifikasikan, menerjemahkan, dan memproses multimodal melalui platform proxy perusahaan Gemini dari Google. Teknik ini sangat cocok untuk insinyur AI yang perlu membangun pipa proxy yang efisien dan latensi rendah di lingkungan produksi.",
+      "keywords": "Gemini 3.1, Flash-Lite, ringan, pipa AI, kapasitas tinggi, panggilan alat, klasifikasi, terjemahan, pemrosesan multimodal, API, Google, platform proxy perusahaan Gemini, insinyur AI"
+    },
+    {
+      "id": "1148297",
+      "slug": "kirki",
+      "name": "Kirki",
+      "tagline": "Panduan Keuangan Pribadi yang Didorong oleh ChatGPT",
+      "description": "Pemberitahuan untuk pengguna profesional: Pengalaman manajemen keuangan pribadi baru di ChatGPT. < / p > Pengguna profesional di Amerika Serikat dapat dengan aman menghubungkan akun keuangan mereka, memahami aliran dana, dan mengajukan pertanyaan berdasarkan informasi yang dipilih untuk terhubung. Sekarang, keuangan Anda lengkap di ChatGPT.",
+      "keywords": "Kewangan Pribadi, ChatGPT, Panduan Keuangan, Pengalaman Keuangan Pribadi, Pengguna Pro, Sambungan Aman, Rekening Keuangan, Aliran Uang, Masalah Keuangan, Informasi Keuangan, Posisi Keuangan Lengkap, Pengguna AS"
+    },
+    {
+      "id": "1148721",
+      "slug": "offshelf-learn-focus",
+      "name": "OffShelf: Learn & Focus",
+      "tagline": "Alat-alat pengembang yang dapat diakses hanya dengan satu klik menu. alat pengembang yang dapat diakses hanya dengan satu klik menu.",
+      "description": "Wring adalah aplikasi bilah menu macOS offline yang menawarkan 12 alat pengembang yang mencakup fitur seperti JWT, hash, ekspresi reguler, JSON, Base64, timestamp, tugas waktu, warna, UUID, perbandingan perbedaan, pemantauan beban, dan kunci lingkungan. Tidak perlu mendaftarkan akun, tidak perlu menganalisis data, tidak perlu terhubung ke Internet. < / p >",
+      "keywords": "Wring, alat pengembang, macOS, aplikasi bilah menu, JWT, hash, ekspresi reguler, JSON, Base64, stempel waktu, cron, warna, UUID, perbandingan perbedaan, beban"
+    },
+    {
+      "id": "1148541",
+      "slug": "chessbout",
+      "name": "ChessBout",
+      "tagline": "Next Generation Research Platform",
+      "description": "ScholarXIV adalah platform penelitian generasi berikutnya yang menyediakan berbagai alat dan fitur yang kuat untuk membuat penelitian lebih mendalam dan wawasan. Anda dapat membangun perpustakaan penelitian Anda sendiri, melakukan tinjauan literatur, melakukan simulasi di kotak pasir, menghasilkan dokumen, dan bahkan memiliki fitur proaktif yang disebut Pulse yang dapat menghemat waktu Anda dengan mengubah makalah yang Anda sukai dan bookmark baru-baru ini menjadi artikel penelitian interdisipliner yang cepat. Cari tahu lebih lanjut tentang ScholarXIV dan temukan lebih banyak fitur!",
+      "keywords": "ScholarXIV, platform penelitian generasi berikutnya, alat penelitian, tinjauan literatur, perpustakaan penelitian, simulasi berjalan, pembuatan file, fungsi Pulse, artikel penelitian cepat, penelitian hemat waktu, pengalaman penelitian mendalam, spesialisasi penelitian"
+    },
+    {
+      "id": "1148485",
+      "slug": "ugo-autonomous-marketing",
+      "name": "UGO — Autonomous Marketing",
+      "tagline": "Sebuah pasar yang dibuat untuk alat-alat AI, bukan semua-segala hal. \"",
+      "description": "Pengembang AI independen cenderung tidak memiliki rasa kepemilikan yang sebenarnya. pengembang AI independen cenderung tidak memiliki rasa kepemilikan yang sebenarnya. Pasar besar mengunci Anda pada platform tertentu, dan situs direktori tidak dapat melakukan perdagangan. & Nbsp; Fiverr mengenakan komisi 20% dan Upwork mengenakan komisi 10%. AppSumo akan mengontrol harga dan diskon Anda. Mysoft.ai adalah pasar AI bebas platform - tidak ada penguncian, tidak ada penolakan sewenang-wenang, dan komisi terendah di pasar. 100 penjual pendiri teratas akan menerima komisi 5% seumur hidup. & Nbsp; & Nbsp; Anda dapat mendaftar agen AI, alur kerja, GPT, alat SaaS, dan layanan konsultasi di sini. Kami menawarkan sertifikat badge, layanan hosting dan pembayaran Stripe. Tidak ada penghalang perantara.",
+      "keywords": "mysoft.ai\" Saya  tidak  tahu  apa  yang  terjadi ,   \"  kata  dia , \"  tapi  saya  tidak  tahu  apa  yang  terjadi .   \""
+    },
+    {
+      "id": "1148712",
+      "slug": "buy-blocker",
+      "name": "Buy Blocker",
+      "tagline": "Alur kerja garment singkat dengan Pusat Pemenuhan Publik (MCP)",
+      "description": "Kami menghasilkan karya seni yang dapat dicetak langsung, menyintesisnya pada pakaian, dan memproses pesanan melalui Printful atau Webhook pabrik Anda. Ada empat adaptor yang sedang dalam antrian. Ada empat adaptor yang sedang dalam antrian. Ada empat adaptor yang sedang dalam antrian. MCP publik melakukan 275 tes. MCP publik melakukan 275 tes. MCP publik melakukan 275 tes. Proses ini cocok untuk non-pogramer yang bekerja sendiri, semua berpasangan dengan Claude (Claude).",
+      "keywords": "Incultnito Studio, Alur Kerja Pakaian Pendek, Public Fulfillment MCP, Seni Persiapan Cetak, Komposisi Pakaian, Printful, Webhook Pabrik, Public MCP, 275 Tes,"
+    },
+    {
+      "id": "1148750",
+      "slug": "mourning",
+      "name": "Mourning",
+      "tagline": "Tautan file sekali pakai, tidak valid setelah dibuka. Tautan file sekali pakai, tidak valid setelah dibuka.",
+      "description": "Burn After memungkinkan Anda untuk mengirim file sensitif melalui tautan satu kali yang tidak valid setelah kunjungan pertama. Penerima tidak perlu mendaftarkan akun. penerima tidak perlu mendaftarkan akun. penerima tidak perlu mendaftarkan akun. penerima tidak perlu mendaftarkan akun. Alat ini sangat cocok untuk mengirim dokumen pajak, bukti identitas, kontrak, dokumen PDF, atau dokumen apa pun yang Anda tidak ingin orang lain tinggal di kotak surat mereka untuk waktu yang lama. Anda hanya mengunggah file, berbagi link, dan begitu orang membuka link, file akan dihapus dan link akan berakhir.",
+      "keywords": "Link file sekali pakai, berbagi file, transfer file yang aman, link kedaluwarsa, file sensitif, tidak meninggalkan jejak, upload file, perlindungan privasi, dokumen pajak, kartu identitas, kontrak,"
+    },
+    {
+      "id": "1147802",
+      "slug": "dashbuster",
+      "name": "DashBuster",
+      "tagline": "Yang membuat siklus berita AI menjadi sedikit lebih konyol. \" Yang membuat siklus berita AI menjadi sedikit lebih konyol. \"",
+      "description": "Nextish News mengubah ide-ide teknologi Anda menjadi sebuah artikel palsu yang indah dengan judul, subjudul, bagian, dan tautan publik yang dapat dibagikan. Ini dirancang khusus untuk obrolan tim, saluran Slack, dan rekan-rekan yang membaca terlalu banyak berita pendanaan.",
+      "keywords": "Nextish News, Artificial Intelligence, Berita, Berita Humor, Dunia Teknologi, Artikel Palsu, Judul, Subtitle, Link Berbagi, Group Chat, Saluran Slack, Rekan Kerja, Berita Pembiayaan"
+    },
+    {
+      "id": "1148363",
+      "slug": "codebreak",
+      "name": "CodeBreak",
+      "tagline": "Papan pengembangan tinta elektronik berwarna 4 inci, dilengkapi dengan ESP32 dan antarmuka input dan output audio.",
+      "description": "PaperColor memiliki layar tinta elektronik 4 inci penuh warna, dilengkapi dengan chip ESP32 - S3, mendukung Wi-Fi, sensor, dan fungsi audio. Sangat cocok untuk signage Internet of Things, terminal suara dan pemantauan lingkungan. & Nbsp;",
+      "keywords": "M5Stack, PaperColor, 4 inci, tinta elektronik berwarna, papan pengembangan, ESP32, input dan output audio, Wi-Fi, sensor, signage IoT, terminal suara,"
+    },
+    {
+      "id": "1147459",
+      "slug": "gossipic",
+      "name": "Gossipic",
+      "tagline": "Asisten AI pribadi Anda dapat berkomunikasi melalui iMessage dan Telegram.",
+      "description": "Asisten AI pribadi Anda dapat digunakan di iMessage dan Telegram. Ini memiliki fungsi memori dan dapat melakukan perhitungan yang sebenarnya. Ini memiliki fungsi memori dan dapat melakukan perhitungan yang sebenarnya. Anda dapat berbicara dengan itu seperti Anda berbicara dengan seorang teman. Anda dapat berbicara dengan itu seperti Anda berbicara dengan seorang teman.",
+      "keywords": "Clawputer, asisten AI pribadi, iMessage, Telegram, fungsi memori, komputer nyata, komunikasi manusiawi, asisten obrolan"
+    },
+    {
+      "id": "1148539",
+      "slug": "digital-twin-curators",
+      "name": "Digital Twin Curators",
+      "tagline": "Buat ruang pribadi untuk orang-orang terdekat Anda",
+      "description": "Mudu adalah ruang crypto end-to - end pribadi untuk pasangan, keluarga, dan teman-teman dekat. Tidak ada pelacakan, tidak ada penambangan perhatian, tidak ada aliran informasi terbuka di sini. Ini adalah tempat yang tenang untuk merasa lebih dekat dan dipahami, untuk terhubung melalui hal-hal kecil dalam kehidupan sehari-hari.",
+      "keywords": "Mùdu, ruang pribadi, end-to - end enkripsi, mitra intim, keluarga, teman dekat, tidak ada pelacakan, penambangan tanpa iklan, sosial pribadi, terhubung, memahami,"
+    },
+    {
+      "id": "1148764",
+      "slug": "ludr-ai-understand-any-screen",
+      "name": " Ludr AI — Understand Any Screen",
+      "tagline": "Apa pun bisa dipilih.",
+      "description": "Mengambil dan mengekstrak teks, termasuk gambar dan video, dari mana saja di layar Mac Anda. Anda dapat menerjemahkan secara instan (untuk macOS 26 dan yang lebih baru), mendengarkan konten menggunakan sintesis suara, dan dapat menyembunyikan informasi sensitif.",
+      "keywords": "Opsional, OCR, menangkap teks, ekstraksi teks, Mac, tangkapan layar, gambar, video, terjemahan langsung, TTS, sintesis suara, perlindungan data sensitif"
+    },
+    {
+      "id": "1148740",
+      "slug": "skipthemid-2",
+      "name": "SkipTheMid",
+      "tagline": "Agentic CLI: Alat baris perintah untuk pengkodean, pembuatan, dan otomatisasi alur kerja",
+      "description": "Grok Build adalah alat baris perintah cerdas yang mampu merencanakan dari terminal, menugaskan tugas ke beberapa sub-agen paralel, dan melakukan tugas pengkodean dan otomatisasi. Saat ini, layanan ini sedang dalam tes awal untuk pelanggan SuperGrok Heavy.",
+      "keywords": "Grok Build, CLI proxy, pengkodean, membangun, otomatisasi alur kerja, eksekusi tugas, terminal, sub-agen paralel, Super Grok Heavy, beta awal"
+    },
+    {
+      "id": "1148784",
+      "slug": "screenshot-beautifier-pro",
+      "name": "Screenshot Beautifier Pro",
+      "tagline": "Mengubah data real estat dengan cepat menjadi klien bernilai tinggi (high net worth). Mengubah data real estat dengan cepat menjadi klien bernilai tinggi.",
+      "description": "Plotbook adalah platform intelijen kekayaan geospasial yang dirancang untuk membantu manajer kekayaan menemukan klien bernilai tinggi melalui peta industri interaktif, potret pemilik yang digerakkan oleh kecerdasan buatan, dan data kontak yang diverifikasi.",
+      "keywords": "Geospasial, Wealth Intelligence, Nasabah bernilai tinggi, Manajemen Keuangan, Data Properti, Peta Interaktif, Kecerdasan Buatan, Analisis Pelanggan, Data Kontak, Manajemen Investasi"
+    },
+    {
+      "id": "1148562",
+      "slug": "been-there-2",
+      "name": "Been There",
+      "tagline": "Tes diagnostik yang tidak pernah diberikan oleh Duolingo kepada Anda🦤",
+      "description": "Sebagian besar orang membuka Duolingo, memilih Spanyol karena semua orang belajar bahasa Spanyol, dan kemudian menyerah setelah tiga minggu. Ini bukan karena mereka malas, tetapi karena mereka memilih bahasa yang tidak sesuai dengan cara berpikir dan kebutuhan praktis mereka. Lingotype adalah alat penilaian 9 pertanyaan yang dapat membantu Anda menemukan jenis pembelajaran yang tepat untuk Anda dan memberi tahu Anda bahasa yang paling mungkin untuk tetap belajar dan bagaimana cara belajar. Tidak ada persyaratan pembelajaran berkelanjutan, tidak ada elemen gamification (gamification). Tidak ada persyaratan pembelajaran berkelanjutan, tidak ada elemen gamification (gaming). Hanya ada satu hasil, satu program studi, dengan biaya hanya $2,99.",
+      "keywords": "Lingotype, Pembelajaran Bahasa, Diagnosis Bahasa, Jenis Pelajar, Pilihan Bahasa Asing, Alternatif Duolingo, Rencana Pembelajaran Bahasa, Penyesuaian Bahasa, Strategi Pembelajaran, 9 Pertanyaan, Aktivitas Pembelajaran"
+    },
+    {
+      "id": "1148788",
+      "slug": "snapsub-subscriptions-hub",
+      "name": "SnapSub - subscriptions hub",
+      "tagline": "Berhenti memposting secara anonim. Berhenti memposting secara anonim. Berhenti memposting secara anonim. Berhenti memposting secara anonim.",
+      "description": "Menghubungkan repositori GitHub Anda dan secara otomatis menghasilkan log pembaruan yang indah dan terlihat oleh pengguna dari permintaan tarik gabungan Anda. Anda dapat membuat proyek, menautkan gudang, dan menghasilkan log pembaruan dengan satu klik saja. Ini membantu Anda menjaga pekerjaan Anda transparan dan mengurangi permintaan dukungan dengan menunjukkan kepada pengguna bahwa Anda secara aktif mempublikasikan pembaruan. Layanan ini menawarkan halaman log pembaruan publik, widget situs web pemasaran, dan bahkan ringkasan email mingguan yang memastikan pengguna tetap up to date dengan perubahan terbaru.",
+      "keywords": "ShipLog, log perubahan, GitHub, Auto-generation, Merge Pull Request, Manajemen Proyek, Visualisasi, Antarmuka Pengguna, Pemberitahuan Pembaruan, Tickets Dukungan, Halaman Log Perubahan Publik, Pemasaran"
+    },
+    {
+      "id": "1148230",
+      "slug": "frankki-briefe-schreiben-und-versenden",
+      "name": "FrankKi Briefe schreiben und versenden.",
+      "tagline": "",
+      "description": "",
+      "keywords": ""
+    },
+    {
+      "id": "1148273",
+      "slug": "abakada-org",
+      "name": "Abakada.org",
+      "tagline": "",
+      "description": "",
+      "keywords": ""
+    },
+    {
+      "id": "1147544",
+      "slug": "noteshell",
+      "name": "Noteshell",
+      "tagline": "Ruang kerja yang berwawasan ke depan",
+      "description": "Fungsi utama dari sebagian besar aplikasi produktivitas adalah untuk menyimpan informasi, sementara MindMesh dirancang untuk membantu Anda mengatur pikiran Anda. Alih-alih sibuk beralih antara catatan, tugas, obrolan AI, dokumen, dan alat penelitian yang tersebar, MindMesh menggabungkan semuanya ke dalam ruang kerja kognitif yang digerakkan oleh Nova - sistem kecerdasan buatan yang dirancang untuk membantu Anda mengatur pikiran, menghasilkan struktur, mengurangi beban mental, dan mengubah ide-ide yang tersebar menjadi tindakan nyata. Ini dirancang untuk pendiri, pencipta, operator, dan mereka yang lelah dengan alur kerja yang terfragmentasi.",
+      "keywords": "MindMesh, ruang kerja berpikir, aplikasi produktivitas, penyimpanan informasi, persiapan berpikir, manajemen tugas, obrolan AI, manajemen dokumen, alat penelitian, ruang kerja kognitif, Nova, sistem AI, pemikiran organisasi"
+    },
+    {
+      "id": "1148347",
+      "slug": "elvixs",
+      "name": "Elvixs",
+      "tagline": "Sebuah log memori pribadi yang Anda catat melalui telegram atau halaman web. < / p > < p >",
+      "description": "Sebagian besar aplikasi pencatatan ingin Anda mengatur konten Anda sendiri, sedangkan Memory4Me mengaturnya secara otomatis untuk Anda. Anda dapat mengirim pesan melalui bot Telegram, atau mengetikkannya langsung di halaman web. < / p > Kecerdasan buatan akan menguraikan setiap catatan ke dalam kategori, entitas, nilai, lokasi, dan orang-orang yang Anda sebutkan. Anda hanya perlu mengajukan pertanyaan dalam bahasa Inggris sederhana (seperti \"Apa pendapat saya tentang Pai?\"), Kecerdasan buatan akan mengubahnya menjadi kondisi penyaringan. kecerdasan buatan akan mengubahnya menjadi kondisi penyaringan. Dirancang untuk privasi: akun Anda, data Anda, tidak akan pernah digunakan untuk melatih model. Tidak ada iklan, tidak ada algoritma, tidak ada berbagi. Tidak ada iklan, tidak ada algoritma, tidak ada berbagi. Ini menawarkan uji coba gratis, setelah itu biaya $2 per bulan (Basic) atau $6 per bulan (Pro).",
+      "keywords": "Memori log, Memory4Me, memori pribadi, Telegram, aplikasi web, aplikasi catatan, klasifikasi AI, privasi data, pencatatan teks, manajemen memori, uji coba gratis, langganan berbayar"
+    },
+    {
+      "id": "1148694",
+      "slug": "founderstackhub",
+      "name": "FounderStackHub",
+      "tagline": "Menggunakan Artificial Intelligence untuk Membangun Situs Web yang Baik untuk Pertumbuhan",
+      "description": "Webhub adalah alat pembangun situs web AI yang membuat halaman web yang siap untuk pertumbuhan dari hari pertama. Ini dirancang untuk perusahaan B2B dan B2C, lembaga, serta tim yang berkembang yang ingin melampaui situs statis. Hanya dengan memasukkan latar belakang bisnis Anda, Webhub dapat menghasilkan situs web lengkap dan berubah menjadi mesin pertumbuhan yang terus dioptimalkan tanpa khawatir dikunci oleh vendor melalui sistem manajemen konten berbasis AI (CMS), optimasi mesin pencari (SEO), optimasi kecerdasan buatan (AIO), geo-optimasi (GEO), kemampuan menangkap prospek, dan kode yang terbuka dan portabel.",
+      "keywords": "Webhub, Pembangunan Situs Web AI, Situs Web Pertumbuhan, Situs Web B2B, Situs Web B2C, Generator Situs Web, Optimalisasi Berkelanjutan, Sistem Manajemen Konten AI, Optimalisasi Mesin Pencarian, Penangkapan Leads"
+    },
+    {
+      "id": "1148229",
+      "slug": "taskflow-7",
+      "name": "TaskFlow",
+      "tagline": "Maamria AI - Claude Code, pembuat ruang kerja kecerdasan buatan (AI)",
+      "description": "Maamria AI dapat menghasilkan file ruang kerja terstruktur (termasuk proxy, keterampilan, perintah, dan aturan) yang memberikan Claude Code, Copilot, dan Cursor gambaran keseluruhan tentang konteks proyek sejak hari pertama. Selamat tinggal pada pengulangan, selamat tinggal pada saran umum, selamat tinggal pada token yang terbuang. < / p > Penggunaan gratis, tidak perlu kartu kredit!",
+      "keywords": "Maamria AI, kecerdasan buatan, pembangun ruang kerja, kode Claude, Copilot, kursor, file ruang kerja terstruktur, proxy, keterampilan, perintah, aturan, konteks proyek, penggunaan gratis"
+    },
+    {
+      "id": "1148508",
+      "slug": "appstorestatistics-2",
+      "name": "AppStoreStatistics",
+      "tagline": "Berbagi tautan Figma dengan mudah dan mudah. Berbagi tautan Figma dengan mudah dan mudah. Berbagi tautan Figma dengan mudah dan mudah.",
+      "description": "Sebuah gadget yang dapat menghapus argumen yang tidak berguna dan string panjang karakter dari link Figma Anda, membuat link menjadi singkat secara instan. Tidak perlu lagi membagikan tautan-tautan panjang yang buruk. \" Tidak perlu lagi membagikan tautan panjang yang buruk. Link yang ringkas untuk komunikasi yang lebih lancar🤝🏻",
+      "keywords": "FGMA, Bersih Link Figma, Berbagi Link Figma, Hapus Parameter Tidak Berguna, Link File yang Jelas, Optimalkan Alat Link, Memfasilitasi Berbagi, Meningkatkan Komunikasi, Generasi Link Pendek, Meningkatkan Efisiensi Komunikasi"
+    },
+    {
+      "id": "1148794",
+      "slug": "ticoai",
+      "name": "TicoAI",
+      "tagline": "Ini bukan hanya tentang melacak kebiasaan Anda, tetapi tentang percaya pada disiplin diri Anda. & Nbsp;",
+      "description": "Sebagian besar alat pelacak kebiasaan hanyalah daftar tugas digital yang mudah diabaikan. VeriFive (V5) dirancang untuk benar-benar membantu Anda mengembangkan disiplin diri. (lebih ...) Ini menggabungkan kepekaan terhadap kerugian, tanggung jawab sosial, dan hadiah tak terduga seperti dalam permainan peran yang membantu Anda mempersingkat jarak antara diri Anda yang sebenarnya dan diri Anda yang ideal. Perpisahan dengan janji kosong - di sini Anda akan menunjukkan ketahanan Anda melalui tantangan nyata dan komunitas yang bekerja bersama Anda.",
+      "keywords": "Pelacak Kebiasaan, VeriFive, Disiplin Sendiri, Daftar Periksa Digital, Tanggung Jawab Sosial, Gaya Permainan RPG, Ketidakpuasan Kehilangan, Taruhan Otentik, Tujuan Tercapai, Dukungan Masyarakat, Perilaku"
+    },
+    {
+      "id": "1148651",
+      "slug": "testlaunch-pro",
+      "name": "TestLaunch Pro",
+      "tagline": "",
+      "description": "",
+      "keywords": ""
+    },
+    {
+      "id": "1148220",
+      "slug": "hearless-convert-whatsapp-voice-to-text",
+      "name": "Hearless: Convert Whatsapp Voice to Text",
+      "tagline": "Kirim surat asli ke Gedung Putih seharga $5. < / p > < p >",
+      "description": "Gedung Putih masih membaca surat-surat kertas. Gedung Putih masih membaca surat-surat kertas. MailThePresident membuat proses ini sangat sederhana. Hanya beritahu kami apa yang Anda pikirkan, dan AI akan membantu Anda menulis surat yang sebenarnya, yang kami cetak, capkan, dan kirimkan ke 1600 Pennsylvania Avenue sebagai surat prioritas. Hanya $5, tidak perlu mendaftar untuk akun, dan seluruh proses hanya membutuhkan waktu 3 menit. Layanan ini cocok untuk siapa saja yang ingin menuliskan suara mereka di atas kertas, apakah mereka pendukung, kritikus, atau netral.",
+      "keywords": "Menulis surat, Gedung Putih, MailThePresident, surat fisik, surat nyata, layanan surat, menulis AI, 1600 Pennsylvania Avenue, $5, tidak ada akun, cepat dan mudah,"
+    },
+    {
+      "id": "1148833",
+      "slug": "token-monitor-ai-context-tracker",
+      "name": "Token Monitor: AI Context Tracker",
+      "tagline": "Sebuah platform software-as - a-service (SaaS) yang membantu pembuat podcast untuk meneliti program baru.",
+      "description": "Hubungkan podcast Anda dengan tautan Spotify. Dalam 60 detik, AI akan menghasilkan pengantar singkat untuk setiap episode, mengacu pada acara sebelumnya dan umpan balik pendengar Anda. Dirancang untuk pembawa acara yang ingin lebih fokus pada produksi acara. & Nbsp; & Nbsp; $29 per bulan dengan uji coba gratis 7 hari. & Nbsp; & Nbsp;",
+      "keywords": "PrepCast, Podcast, Asisten Podcast, SaaS, Generasi AI, Ringkasan Acara, Link Spotify, Penelitian Episode Baru, Tuan Rumah, Mudah Mempersiapkan, $29 per bulan, 7 hari gratis"
+    }
+  ]
+}

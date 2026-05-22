@@ -1,0 +1,224 @@
+{
+  "meta": {
+    "version": "v1",
+    "updatedAt": "2026-05-22T08:40:51.827750"
+  },
+  "translations": [
+    {
+      "id": "1143406",
+      "slug": "loova-agents-3",
+      "name": "Agen Loova",
+      "tagline": "Kerangka kerja kecerdasan buatan sumber terbuka yang berpusat pada orang (human-centered artificial intelligence framework)",
+      "description": "90% dari mereka yang mencoba menggunakan asisten AI akhirnya menyerah. Ada tiga alasan utama: memori yang di-reset setiap sesi, data Anda disimpan di cloud orang lain, dan terminal yang rumit saat memulai. Ini adalah hambatan-hambatan praktis. Ini adalah hambatan-hambatan praktis. Ini adalah hambatan-hambatan praktis. OpenHuman memecahkan semua masalah ini. OpenHuman memecahkan semua masalah ini. OpenHuman memecahkan semua masalah ini. Ini memprioritaskan lokal dan privasi, mampu mengingat segala sesuatu tentang Anda, dan semakin banyak Anda menggunakannya, semakin pintar Anda menjadi. Semua fungsi terpusat dalam antarmuka sederhana, sepenuhnya open source, dengan satu klik untuk mengatur. Catatan: Produk ini saat ini dalam tahap beta dan mungkin ada beberapa bug, tetapi kami sedang memperbaiki dan merilis dengan cepat.",
+      "keywords": "OpenHuman, open source AI, desain manusiawi, prioritas lokal, perlindungan privasi, memori adaptif, antarmuka sederhana, pengaturan satu klik, pengujian beta, user friendly, asisten AI, keamanan data,"
+    },
+    {
+      "id": "1144164",
+      "slug": "agentmemory",
+      "name": "Agen Memori",
+      "tagline": "Layanan web crawling untuk agen kecerdasan buatan (AI) Layanan web crawling untuk agen kecerdasan buatan (AI)",
+      "description": "HasData adalah layanan web crawling yang dikelola yang dirancang khusus untuk pipa data dan agen kecerdasan buatan. Cukup kirim URL apa pun dan Anda akan mendapatkan data JSON atau Markdown yang bersih dengan satu panggilan API. Kami menangani masalah-masalah seperti proxy, rendering browser, percobaan ulang, dan deteksi anti-bot. Lebih dari 50 alat penjelajahan siap pakai yang mencakup Google Search, Maps, News, Zillow, Indeed, serta platform e-commerce utama. Fungsi ekstraksi AI dapat menangani URL lain dan hanya dapat digunakan melalui teks biasa. & Nbsp; Anda dapat melakukan panggilan melalui MCP melalui Claude, ChatGPT, atau agen AI Anda sendiri, sementara yang lain dapat dilakukan melalui antarmuka baris perintah (CLI).",
+      "keywords": "Layanan perayap web, pipa data, proxy AI, format JSON, format Markdown, panggilan API, manajemen proxy, rendering browser, mekanisme percobaan ulang, teknologi anti-bot, alat perayap, pencarian Google, Google"
+    },
+    {
+      "id": "1148119",
+      "slug": "raybeam",
+      "name": "Raybeam Raybeam Raybeam",
+      "tagline": "Memprediksi proyek pendanaan Seri A berikutnya yang dirilis dari ProductHunt",
+      "description": "PHBench: Benchmark publik pertama yang memprediksi kemungkinan produk untuk mendapatkan pembiayaan Seri A setelah Product Hunt diluncurkan. Kami menganalisis 67.292 proyek online yang dipilih selama tujuh tahun dan menghubungkannya dengan 528 pendanaan Seri A yang terverifikasi melalui Crunchbase. Model kami sangat baik, dengan akurasi prediksi 4,7 kali lebih baik daripada dugaan acak. \" Ukuran tim dan keterlibatan masyarakat adalah sinyal prediktor terkuat; domain B2B (misalnya API, pembayaran, fintech) memiliki tingkat konversi 3 kali lebih tinggi dari baseline; dan proyek peringkat pertama memiliki kapasitas pembiayaan 2,2 kali lebih besar daripada proyek yang tidak peringkat. Dataset, kode, dan tolok ukur tersedia untuk umum. dataset, kode, dan tolok ukur tersedia untuk umum. Silakan kunjungi phbench.com untuk mengirimkan proyek dan berlangganan pembaruan proyek pendanaan dengan probabilitas tinggi setiap minggu.",
+      "keywords": "PHBench, pemburu produk, pembiayaan Seri A, tolok ukur publik, sinyal peluncuran, analisis data, startup, B2B, API, pembayaran, fintech, keterlibatan masyarakat, dataset,"
+    },
+    {
+      "id": "1144056",
+      "slug": "gemini-3-1-flash-lite-4",
+      "name": "Gemini 3.1 Flash-Lite",
+      "tagline": "Mengubah data peserta pameran menjadi pertemuan penjualan yang dijadwalkan. Mengubah data peserta pameran menjadi pertemuan penjualan yang dijadwalkan.",
+      "description": "Tidak seperti database kontak biasa, Lensmor berfokus pada data peserta pameran, membantu tim menemukan acara yang relevan, menemukan perusahaan yang berpartisipasi, mengidentifikasi pengambil keputusan, mendapatkan email yang diverifikasi, dan membuat janji pertemuan sebelum pameran dimulai. Fitur-fitur yang menonjolnya termasuk lebih dari 160.000 acara global, pencarian peserta pameran, kueri balik dari perusahaan ke acara, kemampuan ekspor CSV, dan asisten AI untuk mengembangkan prospek dan merencanakan penjangkauan.",
+      "keywords": "Lensmor, data peserta pameran, pertemuan penjualan yang dijadwalkan, basis data kontak, acara terkait, perusahaan pameran, pengambil keputusan, kotak surat verifikasi, janji pertemuan, acara global, pencarian peserta pameran, perusahaan dan acara terbalik"
+    },
+    {
+      "id": "1147936",
+      "slug": "chatgpt-for-personal-finance",
+      "name": "ChatGPT untuk keuangan pribadi",
+      "tagline": "Gunakan alat agen desain untuk merancang, membangun, dan mengoperasikan situs web Anda.",
+      "description": "Lokuma 2.0 adalah alat proxy situs web yang berfokus pada desain. Sebagian besar pembangun AI hanya dapat menghasilkan draft awal, tetapi situs web yang sebenarnya harus memiliki struktur, rasa, konsistensi merek, editing, posting, bentuk, dan pembaruan berkelanjutan. Lokuma mengintegrasikan perencanaan, desain, gaya, materi, status situs, pengeditan, dan publikasi ke dalam alur kerja yang cerdas yang membuat situs web Anda tidak hanya dihasilkan tetapi dirancang dengan baik. Dengan alat ini, Anda dapat dengan mudah merancang, membangun, dan mengoperasikan situs web Anda.",
+      "keywords": "Pembuat situs web Agentic, Lokuma, desain situs web, pembuatan situs web AI, struktur situs web, konsistensi merek, pengeditan dan penerbitan, aset situs web, pembaruan situs web, agen desain, alur kerja situs web, alat pembuatan situs web,"
+    },
+    {
+      "id": "1147756",
+      "slug": "wring",
+      "name": "Wring Wring",
+      "tagline": "Sebuah game online multiplayer yang dimainkan melalui dialog dengan model bahasa besar (LLM).",
+      "description": "Gradient Bang adalah perangkat lunak baru yang dikembangkan oleh AI asli, benar-benar dimulai dari nol dan dirancang untuk menggunakan model bahasa besar (LLMs) di mana-mana. Permainan ini memiliki antarmuka pengguna yang dinamis, yang didukung oleh LLM, dan juga mendukung input suara dialogik. Untuk memenangkan permainan, Anda harus mengelola armada sub-agen AI. < / p > Anda bahkan dapat memprogram untuk membuat sub-agen sendiri dan menjalankannya di kotak pasir Vercel. Perangkat lunak ini dikembangkan dengan menggunakan Pipecat, Daily WebRTC, Supabase dan Vercel.",
+      "keywords": "\"Saya tidak tahu apa yang terjadi, tapi saya tahu bahwa saya tidak tahu apa yang terjadi, \" katanya."
+    },
+    {
+      "id": "1147791",
+      "slug": "scholarxiv-4",
+      "name": "ScholarXIV",
+      "tagline": "Alat gratis untuk membantu Anda mengoptimalkan LinkedIn dan membuat lebih mudah bagi perekrut AI untuk menemukan Anda",
+      "description": "Sekarang, alat perekrutan AI menyaring kandidat sebelum siapa pun melihat nama Anda. Cukup paste URL LinkedIn Anda dan Anda akan mendapatkan skor adaptasi AI Anda dalam waktu 30 detik. Anda akan mendapatkan gambaran yang jelas tentang faktor-faktor apa yang mempengaruhi visibilitas Anda, dan mendapatkan profil yang ditulis ulang dan saran perbaikan prioritas yang memungkinkan perekrut untuk benar-benar menemukan Anda. Ini semua gratis!",
+      "keywords": "Crustimate, alat gratis, pengoptimalan LinkedIn, perekrutan AI, peningkatan visibilitas, skor kesiapan AI, penulisan ulang profil, visibilitas perekrut, daftar perbaikan prioritas, alat kecerdasan buatan, pencari kerja"
+    },
+    {
+      "id": "1148091",
+      "slug": "mysoft-ai",
+      "name": "mysoft.ai",
+      "tagline": "Panduan untuk Manajer Produk",
+      "description": "Memungkinkan manajer produk untuk mengubah umpan balik pelanggan menjadi kebutuhan AI yang dapat digunakan langsung untuk pengembangan. & Nbsp;",
+      "keywords": "Mia, manajer produk, kursor, sinyal pelanggan, konversi permintaan, pengembangan AI, alat manajemen produk, manajemen permintaan, analisis data, umpan balik pengguna"
+    },
+    {
+      "id": "1147311",
+      "slug": "burn-after",
+      "name": "membakar setelah",
+      "tagline": "Asisten AI self-hosted yang mampu menghubungkan lebih dari 1000 aplikasi yang berjalan di platform Vercel.",
+      "description": "TrustClaw adalah asisten AI pribadi yang Anda dapat meng-host sendiri di Vercel dengan satu perintah. Ini didukung oleh Composio, mampu menghubungkan lebih dari 1000 aplikasi melalui OAuth, menjalankan tugas-tugas waktu secara mandiri, dan juga berbicara dengan Anda melalui halaman web atau Telegram. Ini benar-benar open source, menggunakan lisensi MIT dan Anda selalu dipersilakan untuk mengambil alih!",
+      "keywords": "TrustClaw, Composio, AI yang dikelola sendiri, Vercel, koneksi aplikasi, 1000 + aplikasi, OAuth, tugas waktu, sumber terbuka, lisensi MIT, agen AI pribadi, obrolan Telegram, interaksi web"
+    },
+    {
+      "id": "1147725",
+      "slug": "nextish-news",
+      "name": "Berita Nextish",
+      "tagline": "Sebuah konsol yang terbangun saat Anda bekerja sebagai agen. Sebuah konsol yang terbangun saat Anda bekerja sebagai agen.",
+      "description": "Di sidebar editor Anda, ada konsol game yang terbangun ketika asisten AI Anda sedang bekerja, dan kemudian disimpan ketika asisten berhenti bekerja.",
+      "keywords": "Standboy, konsol game, agen AI, sidebar editor, bangun otomatis, berhenti bekerja, bantuan game, permainan portabel, asisten cerdas, alat kreatif"
+    },
+    {
+      "id": "1147161",
+      "slug": "grok-build",
+      "name": "Grok membangun",
+      "tagline": "Jangan mengulangi hal yang sama untuk setiap AI. Jangan mengulangi hal yang sama untuk setiap AI. Jangan mengulangi hal yang sama untuk setiap AI.",
+      "description": "Setiap kali Anda memulai obrolan AI baru, ulangi dan paste konteks yang sama - tumpukan keterampilan Anda, keputusan, kendala, dan kemajuan terakhir.🛠️ Relay dapat memecahkan masalah ini. Ini akan merekam informasi penting dalam obrolan AI Anda dan membuat presentasi proyek yang dinamis tersedia setiap saat. Dengan satu klik, Anda dapat menyuntikkan konteks lengkap ke dalam percakapan baru apa pun🦾 Dengan MCP, asisten IDE Anda (seperti Cursor, Claude Code, Windsurf, Codex, dll) dapat membaca dan menulis presentasi yang sama dan secara otomatis sinkronisasi. Kompatibel dengan: ChatGPT, Claude, Gemini, Grok, dll, digunakan secara gratis.",
+      "keywords": "Relay, obrolan AI, manajemen konteks, briefing proyek, sinkronisasi otomatis, asisten obrolan, dukungan multi-AI, injeksi satu klik, alat pengembang, peningkatan produktivitas, penggunaan gratis, inovasi teknologi,"
+    },
+    {
+      "id": "1147659",
+      "slug": "selectable-ocr-text-capture",
+      "name": "Pilihan: OCR & Teks Capture",
+      "tagline": "Membangun Agen Pengkodean Runtime Open Source Berbasis Plugin (Plugin-Based Open Source Runtime Coding Agent)",
+      "description": "Cline SDK adalah runtime proxy TypeScript open source yang mengadopsi arsitektur plug-in dan mendukung sub-proxy lokal, MCP (Multi-Channel Protocol), checkpoint, timed task, dan fungsi web scraping. Ini sangat cocok untuk pengembang yang ingin membangun agen pengkodean kustom atau alat baris perintah.",
+      "keywords": "Cline SDK, Open Source, TypeScript, Agen Pengkodean, Arsitektur Plugin, Sub-Agen Asli, Dukungan MCP, Checkpoint, Tugas Waktu, Akuisisi Jaringan, Pengembang, Agen Pengkodean Khusus, Alat CLI"
+    },
+    {
+      "id": "1148020",
+      "slug": "plotbook",
+      "name": "Buku plot",
+      "tagline": "Sebuah jembatan yang menghubungkan agen kecerdasan buatan dengan jaringan real-time (real-time network)",
+      "description": "Kimi WebBridge adalah ekstensi browser yang dirancang khusus untuk agen kecerdasan buatan. Ini dapat membantu AI membuka halaman web, mengklik tombol, mengisi formulir, mengekstrak informasi, dan bahkan mengotomatisasi berbagai tugas di halaman web.",
+      "keywords": "Kimi WebBridge, proxy AI, ekstensi browser, konektivitas, real-time networking, otomatisasi, operasi halaman web, ekstraksi informasi, pengisian formulir, otomatisasi tugas"
+    },
+    {
+      "id": "1147940",
+      "slug": "lingotype",
+      "name": "Lingotipe (Lingotype)",
+      "tagline": "Alternatif sederhana untuk Google Analytics untuk web modern.",
+      "description": "Sleek Analytics adalah alat analisis web modern yang berfokus pada privasi dan merupakan alternatif untuk Google Analytics. Ini menawarkan analisis situs web real-time, pelacakan tanpa cookie, dan dasbor cepat. Kami membuat Sleek untuk membuat analisis yang mudah dimengerti, tanpa memerlukan gelar doktor. Hanya menempelkan baris kode dan dalam beberapa detik Anda dapat melihat apa yang pengunjung nyata lakukan di situs Anda secara real time. Tidak ada pengaturan yang membosankan, tidak ada bilah petunjuk cookie, hanya data yang bersih dan ringkas.",
+      "keywords": "Sleek Analytics, Alternatif Google Analytics, Privasi Pertama, Web Modern, Analisis Situs Web Real-Time, Tanpa Pelacakan Cookie, Dasbor Cepat, Analisis Sederhana, Tempelkan Kode,"
+    },
+    {
+      "id": "1147108",
+      "slug": "shiplog-b5a2e03a-e348-4bda-9594-794fa1322d8f",
+      "name": "Shiplog",
+      "tagline": "Anda dapat mendapatkan situs web langsung dengan menyisipkan tautan. Anda dapat mendapatkan situs web langsung dengan menyisipkan tautan.",
+      "description": "Sebagian besar alat-alat membangun situs web menghasilkan halaman-halaman yang terlihat seragam dan tidak memiliki fitur yang sama. Wowable, yang mengubah komentar, profil media sosial, tangkapan layar, dan daftar bisnis menjadi situs web lengkap, memanfaatkan apa yang sudah ada di perusahaan Anda secara online. Hanya menempelkan tautan Google Maps, profil Instagram, halaman TripAdvisor, profil LinkedIn, atau bahkan tangkapan layar - Wowable dapat mengubah informasi ini menjadi situs web yang terlihat nyata dan bukan buatan AI. Tidak ada penulisan, tidak ada desain, tidak ada pengaturan yang rumit, tidak ada pengaturan yang rumit.",
+      "keywords": "Wowable, pembuat situs web, situs web nyata, konten online, tautan Google Maps, profil Instagram, halaman TripAdvisor, profil LinkedIn, tangkapan layar, daftar bisnis, tidak perlu menulis, tidak perlu"
+    },
+    {
+      "id": "1147979",
+      "slug": "memory4me",
+      "name": "Memori4Me",
+      "tagline": "Jelaskan strategi perdagangan, bagaimana Mobius membangun, menguji kembali, dan menjalankan strategi ini. < / p >",
+      "description": "Pedagang ritel menghadapi dilema: mereka memiliki alat tanpa kode yang mudah digunakan tetapi memiliki kemampuan terbatas, dan kerangka kerja perdagangan kuantitatif yang rumit membutuhkan waktu berminggu-minggu untuk dibangun. Meskipun ide-ide itu cepat, tetapi implementasinya tidak cukup cepat. [10] Meskipun ide-ide itu cepat, tapi implementasinya tidak cukup cepat. Munculnya Mobius mengubah semua ini, yang dapat mengubah strategi bahasa Inggris sederhana menjadi robot perdagangan yang sebenarnya digunakan yang melakukan backtest berdasarkan data pasar nyata dan memanfaatkan beberapa sinyal alternatif seperti perdagangan Kongres, perdagangan kolam gelap, dan analisis sentimen Reddit. Tidak ada kode yang harus ditulis, tidak ada konteks yang harus ditransfer, dan tidak ada pengurangan dalam keuntungan. Strategi, backtesting, trading real-time, semuanya dilakukan dalam beberapa menit.",
+      "keywords": "Mobius, strategi perdagangan, perdagangan otomatis, tes balik, kode nol, alat kode nol, perdagangan kuantitatif, data pasar, sinyal alternatif, perdagangan kongres, perdagangan kolam hitam, sentimen Reddit, cepat"
+    },
+    {
+      "id": "1147758",
+      "slug": "claurst",
+      "name": "Claurst adalah",
+      "tagline": "Satu koneksi dapat mendukung lebih dari 140 model AI gambar dan video.",
+      "description": "Dengan MCP, AI Assistant dapat terhubung ke berbagai alat melalui tautan tunggal yang dapat digunakan kembali. Server MCP Picsart berfungsi seperti kotak alat terpadu yang menyediakan lebih dari 140 model AI untuk gambar, video, dan audio. Permintaan pengguna dibuat dalam bahasa Inggris sederhana, asisten memilih model yang sesuai, dan hasilnya disajikan secara instan. Tidak perlu mengatur secara manual, beralih alat, atau mempelajari antarmuka yang rumit, satu koneksi dapat menangani semuanya.",
+      "keywords": "Picsart MCP, asisten AI, pengolahan gambar, pengolahan video, pengolahan audio, 140 model AI, tautan tunggal, kotak alat terpadu, hasil instan, permintaan sederhana, tidak perlu pengaturan manual, mudah"
+    },
+    {
+      "id": "1148164",
+      "slug": "clawputer",
+      "name": "Clawputer adalah",
+      "tagline": "Melacak eksposur merek Anda dalam model AI (Artificial Intelligence Model) Melacak eksposur merek Anda dalam model AI (Artificial Intelligence Model)",
+      "description": "PromptScout membantu pendiri, konsultan SEO, dan agensi untuk memahami visibilitas AI. Pertama, Anda dapat melakukan audit siap AI teknis gratis, kemudian membuat akun gratis untuk melacak bagaimana asisten AI menyebutkan merek Anda, mengutip halaman Anda, dan mengungkapkan pesaing Anda. Anda dapat memantau bagaimana ChatGPT, Gemini, Google AI Overview, dan Perplexity menyebutkan merek Anda dalam jawaban AI, mengutip halaman Anda, dan menampilkan informasi tentang pesaing.",
+      "keywords": "Visibilitas merek, model AI, PromptScout, konsultan SEO, pendiri, audit teknis gratis, kesiapan AI, melacak merek, asisten AI, pesaing, ChatGPT, Gemini, Google AI, Perplex"
+    },
+    {
+      "id": "1147814",
+      "slug": "health-dashboard-see-watch-data-on-mac",
+      "name": "Dasbor Kesehatan, lihat Watch data di Mac.",
+      "tagline": "Robot tip stablecoin untuk Discord, Telegram, Twitch, dan platform X",
+      "description": "Robot hadiah stablecoin multi-chain yang tidak dikelola dirancang khusus untuk para pencipta. & Nbsp; Anda bisa menjalankan sendiri. Mendukung empat blok. Tidak perlu hosting, tidak perlu akun, mudah dan mudah. Tidak perlu hosting, tidak perlu akun, mudah dan mudah.",
+      "keywords": "Hanya Tips, stablecoin, bot tip, Discord, Telegram, Twitch, X, tidak dikelola, multi-chain, pencipta, dikelola sendiri, empat rantai, tidak perlu hosting, tidak perlu akun, sederhana"
+    },
+    {
+      "id": "1148130",
+      "slug": "mailthepresident",
+      "name": "MailThePresiden",
+      "tagline": "Secara otomatis menyembunyikan informasi sensitif dari tangkapan layar Mac",
+      "description": "Whiteout adalah alat yang dapat dijalankan di bilah menu Mac Anda, yang memantau tangkapan layar Anda dan secara otomatis mengidentifikasi informasi sensitif seperti nomor telepon, nomor jaminan sosial, informasi kartu kredit, dan kunci API. Ini secara otomatis menyimpan salinan yang bersih, sementara menyembunyikan tangkapan layar asli. < / p > Perangkat lunak ini benar-benar offline, dan dijual seharga $9,99 untuk pembelian satu kali.",
+      "keywords": "\"Saya tidak tahu apa yang terjadi, tapi saya tahu bahwa saya tidak tahu apa yang terjadi, \" katanya."
+    },
+    {
+      "id": "1148116",
+      "slug": "mindmesh-4",
+      "name": "MindMesh",
+      "tagline": "Sebelum Anda berangkat ke bandara, perkirakan waktu tunggu keamanan Anda. < / p > < p >",
+      "description": "Sebelum Anda tiba di bandara, perkirakan waktu tunggu untuk pemeriksaan keamanan. & Nbsp; & Nbsp; Alat-alat lain hanya memberi tahu Anda tentang antrian saat ini, sedangkan Atlas memberi tahu Anda tentang antrian ketika Anda tiba. Model pembelajaran mesin kami telah dilatih berdasarkan jutaan data waktu tunggu nyata dari lebih dari 100 bandara AS. Dengan hanya dua klik, Anda dapat melaporkan waktu tunggu keamanan Anda. < / p > < p > Setiap laporan membuat prediksi yang lebih akurat, yang menguntungkan semua orang. & Nbsp; & Nbsp; Benar-benar gratis, tidak ada paywall, dan tidak ada paywall. Sebelum berangkat, cari tahu apa yang terjadi. Sebelum berangkat, cari tahu apa yang terjadi.",
+      "keywords": "\"Saya tidak tahu apa yang terjadi, tapi saya tahu bahwa saya tidak tahu apa yang terjadi, \" katanya."
+    },
+    {
+      "id": "1124881",
+      "slug": "franz-functional-programming-language",
+      "name": "Franz: Bahasa pemrograman fungsional",
+      "tagline": "Kecerdasan buatan mengubah deskripsi adegan menjadi pertunjukan suara (suara)",
+      "description": "Model Text-to - Speech (TTS) harus memberi Anda dua hal: kinerja kelas Oscar dan tanda tangan yang dapat diverifikasi yang membuktikan bahwa suara itu milik Anda. DramaBox adalah model pertama yang melakukan kedua hal tersebut. Anda dapat menggambarkan adegan seperti Anda menggambarkan aktor, seperti \"pembawa acara bincang-bincang berpura-pura terkejut, kemudian tertawa,\" dan model akan menerjemahkan itu menjadi pertunjukan. Setiap output dilengkapi dengan tanda air yang menyerupai untuk memastikan keunikan output. < / p > Saat ini model ini open source dan hanya mendukung bahasa Inggris, dan Anda dapat menemukannya di akun Resemble atau Hugging Face Anda.",
+      "keywords": "DramaBox, menyerupai AI, pertunjukan suara, deskripsi adegan, teks ke suara, model TTS, kinerja bertaraf Oscar, tanda air, sumber terbuka, bahasa Inggris, Hugging Face, pertunjukan"
+    },
+    {
+      "id": "1147512",
+      "slug": "beast-teleprompter",
+      "name": "Beast Teleprompter adalah sebuah",
+      "tagline": "Sebuah aplikasi menulis yang mudah digunakan, tanpa fungsi yang rumit dan kecerdasan buatan (artificial intelligence).",
+      "description": "✨ Magic Notebook ✨ adalah aplikasi penulisan yang dirancang khusus untuk orang-orang yang ingin berkonsentrasi pada menulis. Sederhana dan bersih, tidak ada fungsi yang rumit dan sistem yang rumit, juga tidak ada gangguan kecerdasan buatan.",
+      "keywords": "Buku catatan ajaib, aplikasi penulisan, penulisan sederhana, tidak ada sistem yang rumit, tidak ada kecerdasan buatan, dukungan DOCX, menyisipkan gambar, menyisipkan tabel, penyimpanan lokal, penulisan terfokus, alat penulis,"
+    },
+    {
+      "id": "1147473",
+      "slug": "loopnote",
+      "name": "Loopnote adalah",
+      "tagline": "Pengalaman Pengguna dengan Browser Agentic dan Kode Claude",
+      "description": "Nimbus adalah browser cerdas yang terinspirasi oleh pengalaman pengguna dari Claude Code. Anda hanya perlu memberi tahu kebutuhan Anda dalam bahasa Inggris sederhana, dan itu akan menangani semua operasi yang membosankan: klik, mengisi formulir, memilih file, mengoordinasikan beberapa tab, dan juga menjeda pertanyaan ketika Anda diminta untuk membuat keputusan. Desainnya terinspirasi oleh pengalaman pemrograman Claude Code, tetapi dibangun untuk seluruh web. Nimbus dibangun dari awal, bukan sebagai ekstensi. 500 pengguna terdaftar teratas dapat menggunakannya secara gratis secara permanen.",
+      "keywords": "Nimbus, Proxy Browser, Claude Code UX, Bahasa Inggris Sederhana, Otomatisasi Pekerjaan, Klik, Formulir, Pemilih File, Koordinasi Multi-Tab, Browser Interaktif, Pengalaman Pengguna, Gratis, Pengguna Pendiri, Web Browsing"
+    },
+    {
+      "id": "1127078",
+      "slug": "incultnito-studio",
+      "name": "Studio Incultnito",
+      "tagline": "Menggunakan AI untuk membangun kembali situs web Anda yang ada",
+      "description": "Cukup menempel URL situs web Anda dan Repaint akan membangunnya kembali dengan AI. < / p > Ini dapat membuat ulang halaman Anda, memindahkan sumber daya Anda, mempertahankan gaya Anda, atau mendesain ulang situs Anda ke arah yang sama sekali baru.",
+      "keywords": "Repaint, Website Rebuilding, Artificial Intelligence, URL Rebuilding, Page Rebuilding, Migrasi Aset, Retensi Gaya, Desain Website Rebuilding, Website Rebuilding, Teknologi AI"
+    },
+    {
+      "id": "1147759",
+      "slug": "maamria-ai",
+      "name": "Maamria adalah",
+      "tagline": "Spesialis Operasi Produk AI, khusus melayani tim dengan AI sebagai inti. Spesialis Operasi Produk AI, khusus melayani tim dengan AI sebagai inti.",
+      "description": "Sebagian besar tim produk kecil menghabiskan berhari-hari membaca ratusan umpan balik pelanggan, masalah GitHub, dan catatan kesalahan proxy kode untuk mencari tahu apa yang harus dikembangkan selanjutnya. Di era ini, tim B2B kecil yang berfokus pada AI dapat mengungguli perusahaan besar, dan Cleo dapat melakukan pekerjaan itu untuk Anda. Hanya menghubungkan sumber data Anda, klik Run, dan Cleo akan menghasilkan briefing satu halaman: termasuk proyek yang paling potensial, kebutuhan pelanggan, rantai bukti, dan spesifikasi awal. Cleo juga akan memantau metrik Anda dan jujur memberi tahu Anda hasil: efektif, efektif parsial, tidak efektif, atau terlalu dini.",
+      "keywords": "Cleo AI, operasi produk kecerdasan buatan, tim asli AI, tim produk kecil, analisis umpan balik pelanggan, masalah GitHub, kegagalan agen pengkodean, B2B, keunggulan kompetitif, koneksi data, pelaporan otomatis,"
+    },
+    {
+      "id": "1148147",
+      "slug": "played-in-russia",
+      "name": "Bermain di Rusia",
+      "tagline": "Alat perekaman layar dengan konsol, jaringan, pesan kesalahan, dan komentar",
+      "description": "DevRecorder adalah ekstensi Chrome yang dapat merekam layar Anda pada timeline yang disinkronkan sambil menangkap log konsol, permintaan web, dan peristiwa navigasi. Cukup klik rekaman, re-create kesalahan, dan kemudian berbagi link tersebut. < / p > Tim Anda dapat melihat video, dan setiap log, header permintaan, body respons, dan perubahan routing dikunci bersama dengan gambar yang akurat. Ini cocok untuk lingkungan pengembangan lokal, lingkungan pengujian, dan lingkungan produksi. & Nbsp; & Nbsp; Dengan koneksi MCP, alat AI seperti Claude Code, Cursor, dan Windsurf dapat membaca rekaman Anda sebagai konteks terstruktur.",
+      "keywords": "DevRecorder, perekaman layar, log konsol, permintaan web, catatan kesalahan, fitur komentar, ekstensi Chrome, sinkronisasi timeline, merekam video, reproduksi bug, berbagi link, kelompok"
+    }
+  ]
+}

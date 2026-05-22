@@ -1,0 +1,2600 @@
+{
+  "meta": {
+    "version": "v1",
+    "updatedAt": "2026-05-22T01:34:52.239798"
+  },
+  "translations": [
+    {
+      "id": "1428",
+      "slug": "pitch-dubai",
+      "name": "Pitch Dubai",
+      "description": "O lançamento de Dubai: Dubai"
+    },
+    {
+      "id": "1427",
+      "slug": "pitch-singapore",
+      "name": "Pitch Singapore",
+      "description": "O Pitch de Sendai: Singapura"
+    },
+    {
+      "id": "1426",
+      "slug": "pitch-tel-aviv",
+      "name": "Pitch Tel Aviv",
+      "description": "O lançamento do jogo: Tel Aviv"
+    },
+    {
+      "id": "1425",
+      "slug": "pitch-nyc",
+      "name": "Pitch em NYC",
+      "description": "O Pitch de Kesha: NYC"
+    },
+    {
+      "id": "1392",
+      "slug": "pitch-london",
+      "name": "Pitch Londres",
+      "description": "The Pitch de Rana: Londres"
+    },
+    {
+      "id": "1359",
+      "slug": "vercel-day",
+      "name": "Dia Vercel",
+      "description": ""
+    },
+    {
+      "id": "1326",
+      "slug": "pitch-berlin",
+      "name": "Pitch Berlim",
+      "description": "The Pitch by Deel: Berlin"
+    },
+    {
+      "id": "1293",
+      "slug": "pitch-paris",
+      "name": "Pitch em Paris",
+      "description": "O lançamento do jogo: Paris"
+    },
+    {
+      "id": "1260",
+      "slug": "alpha",
+      "name": "Alpha",
+      "description": "Um lançamento público pela primeira vez, nunca antes visto "
+    },
+    {
+      "id": "1227",
+      "slug": "yc-application",
+      "name": "Aplicação YC",
+      "description": ""
+    },
+    {
+      "id": "1194",
+      "slug": "vibe-coding",
+      "name": "Codificação Vibe",
+      "description": "A codificação do Vibe transforma ideias em aplicativos da web rapidamente: ferramentas de IA geram UI e pilhas completas para protótipos rápidos, painéis e sites para desenvolvedores, fundadores e designers."
+    },
+    {
+      "id": "1167",
+      "slug": "apple-vision-pro",
+      "name": "Apple Vision Pro",
+      "description": "Aplicações para Apple Vision Pro"
+    },
+    {
+      "id": "1128",
+      "slug": "psychedelics",
+      "name": "Psicodélicos",
+      "description": "Abra a mente com esses produtos"
+    },
+    {
+      "id": "1095",
+      "slug": "intimacy",
+      "name": "Intimidade",
+      "description": "Produtos que ajudam você a ficar confortável com um parceiro ou você mesmo!"
+    },
+    {
+      "id": "1062",
+      "slug": "snow-sports",
+      "name": "Snow sports",
+      "description": "Produtos que o ajudam a subir e descer as montanhas."
+    },
+    {
+      "id": "1029",
+      "slug": "inclusivity",
+      "name": "Inclusivity",
+      "description": "Produtos que criam um mundo mais acessível."
+    },
+    {
+      "id": "996",
+      "slug": "nft",
+      "name": "NFTs",
+      "description": "Tudo, desde arte digital até utilitários criados para a web3."
+    },
+    {
+      "id": "963",
+      "slug": "notion",
+      "name": "Noção",
+      "description": "Possibilidades infinitas para operar o trabalho e a vida com esses produtos construídos com e para a Notion."
+    },
+    {
+      "id": "930",
+      "slug": "edge-extensions",
+      "name": "Extensões Edge",
+      "description": "Super carga do seu navegador Edge com extensões que personalizam a sua experiência na web ⚡️"
+    },
+    {
+      "id": "877",
+      "slug": "business-travel",
+      "name": "Viagens de negócios",
+      "description": "Quando você precisa chegar na estrada (ou no ar) para o trabalho. Estes produtos têm o seu bilhete."
+    },
+    {
+      "id": "876",
+      "slug": "hotels",
+      "name": "Hotéis",
+      "description": "Quando você precisar de uma mudança de cenário, faça uma viagem e encomenda em algum serviço de quarto com esses produtos. "
+    },
+    {
+      "id": "875",
+      "slug": "motorcycles",
+      "name": "Motocicletas",
+      "description": "As motocicletas oferecem simplicidade quando se trata de viajar em estrada aberta, mas esses produtos podem ajudar a tornar essa viagem mais agradável ou até mesmo mantê - lo seguro."
+    },
+    {
+      "id": "874",
+      "slug": "electric-cars",
+      "name": "Carros elétricos",
+      "description": "O futuro é elétrico. O transporte está mudando e os carros elétricos estão ajudando a criar opções de mobilidade mais limpas para as pessoas em todo o mundo. "
+    },
+    {
+      "id": "873",
+      "slug": "racing",
+      "name": "Racing",
+      "description": "Produtos para quando você vive a vida um quarto de milha de cada vez."
+    },
+    {
+      "id": "872",
+      "slug": "climbing",
+      "name": "Escalada",
+      "description": "Quando a gravidade não pode segurá - lo, confira esses produtos para ajudá - lo a atravessar o quintal."
+    },
+    {
+      "id": "871",
+      "slug": "college-sports",
+      "name": "Esportes Faculdade",
+      "description": "Ferramentas esportivas da faculdade que alimentam o fandom da NCAA: preditores de bracket, piscinas, rastreadores de zumbido social, negociação de criptomoedas, suporte, recrutamento e networking de atletas."
+    },
+    {
+      "id": "870",
+      "slug": "community",
+      "name": "Comunidade",
+      "description": "A Comunidade reúne ferramentas que ajudam as pessoas a se conectar, criar e crescer - fóruns, lançamentos, newsletters, pagamentos, fluxos de trabalho de IA e encontros para construtores e fãs."
+    },
+    {
+      "id": "869",
+      "slug": "chat-rooms",
+      "name": "Salas de Chat",
+      "description": "As salas de bate-papo são espaços para comunidades de comunicação de texto, voz e vídeo em tempo real, ajudantes de IA, carteiras Web3, centros de negociação e consultoria, colaboração."
+    },
+    {
+      "id": "868",
+      "slug": "personal-shopper",
+      "name": "Shopper pessoal",
+      "description": "Ferramentas pessoais de comprador que escolhem para você: buscadores de presentes de IA, escolhas de estilo e cuidados com a pele, alertas de queda de preço, eco-thrys, auto-gifting, cheques de mercado de fabricação."
+    },
+    {
+      "id": "867",
+      "slug": "food-delivery",
+      "name": "Entrega de alimentos",
+      "description": "A entrega de alimentos abrange aplicativos de pedido, bots de mercearia, entregas de caminhoneiros, refeições caseiras e à base de plantas, ferramentas de restaurante, além de pesquisa que o ajuda a encontrar comida rapidamente."
+    },
+    {
+      "id": "866",
+      "slug": "physics",
+      "name": "Física",
+      "description": "A física explica matéria, movimento e forças. Explore FEA multi-física, pesquisa de fórmula, laboratórios de circuitos virtuais e rastreamento espacial para estudantes e profissionais em todo o mundo."
+    },
+    {
+      "id": "865",
+      "slug": "security",
+      "name": "Segurança",
+      "description": "A Segurança abrange ferramentas que protegem logins, dados e pagamentos: identidade, gerenciadores de senhas, automação de conformidade, defesa da web e IA com controles empresariais."
+    },
+    {
+      "id": "864",
+      "slug": "encryption",
+      "name": "Encriptação",
+      "description": "As ferramentas de criptografia bloqueiam e-mails, chats, arquivos e dados na nuvem, ajudando equipes e indivíduos a compartilhar, armazenar e gerenciar segredos de forma segura em aplicativos e fluxos de trabalho."
+    },
+    {
+      "id": "863",
+      "slug": "password-manager",
+      "name": "Gestor de Password",
+      "description": "Ferramentas que protegem e preenchem logins automaticamente, geram senhas fortes, gerenciam 2FA e permitem compartilhamento auditado para indivíduos, equipes e organizações focadas em privacidade."
+    },
+    {
+      "id": "862",
+      "slug": "vpn",
+      "name": "VPN",
+      "description": "As redes privadas virtuais (VPNs) criptograpam a navegação, superam os limites geográficos e conectam frotas. Os produtos abrangem privacidade móvel, roteadores domésticos e malhas WireGuard."
+    },
+    {
+      "id": "861",
+      "slug": "webcam",
+      "name": "Webcam",
+      "description": "As ferramentas de webcam transformam câmeras em hubs para gravação, streaming e edição de vídeo de pesquisa, hospedagem, aprimoramentos, rastreamento de olhos e telefone como câmera."
+    },
+    {
+      "id": "860",
+      "slug": "photo-editing",
+      "name": "Edição de fotos",
+      "description": "Aprenda como os fluxos de trabalho de imagem se unem: as plataformas hospedam modelos de IA, os aplicativos fazem texto para imagem, cortes de fundo, edições precisas, renderizações 3D / vídeo, APIs em lote."
+    },
+    {
+      "id": "859",
+      "slug": "dslrs",
+      "name": "DSLRs",
+      "description": "DSLRs: equipamentos e aplicativos que ajudam você a capturar, controlar e compartilhar. Espere assistentes de IA, remotos sem fio, aluguéis, controles de smartphone, 360 e impressões instantâneas."
+    },
+    {
+      "id": "858",
+      "slug": "video-cameras",
+      "name": "câmeras de vídeo",
+      "description": "Ferramentas que capturam, transmitem e reutilizam vídeo: captura móvel, webcams, gravadores de tela, efeitos e IA no dispositivo para criadores, vendas e aparelhos DIY."
+    },
+    {
+      "id": "857",
+      "slug": "video",
+      "name": "Vídeo",
+      "description": "O vídeo inclui ferramentas para se reunir, gravar telas, gerar clips, transcrever discurso e fazer demos interativos que ajudam equipes, criadores e desenvolvedores a colaborarem."
+    },
+    {
+      "id": "856",
+      "slug": "aquarium",
+      "name": "Aquário",
+      "description": "A tecnologia de aquário combina tanques inteligentes, robôs de limpeza, exposições de brilho e rastreadores de tarefas para simplificar os cuidados, ensinar ciência e embelezar espaços para amadores e escolas."
+    },
+    {
+      "id": "855",
+      "slug": "local-news",
+      "name": "Notícias locais",
+      "description": "Notícias locais unem ferramentas para informações da comunidade: encontrar empregos próximos, comparar candidatos, acompanhar os aumentos de preços na Turquia, ver reportagens independentes e compartilhar localmente."
+    },
+    {
+      "id": "854",
+      "slug": "health-news",
+      "name": "Notícias de Saúde",
+      "description": "As notícias de saúde cobrem ferramentas que mudam os cuidados: verificações de sintomas, lembretes de adesão, resumos de pesquisa, tecnologia de imagem e notas, rastreamento de surtos e cortes de custos de faturamento."
+    },
+    {
+      "id": "853",
+      "slug": "tech-news",
+      "name": "Tecnologia News",
+      "description": "As notícias sobre tecnologia cobrem como criamos e consumimos tecnologia: análise, automação, newsletters, comunidades de IA, desbloqueio de paywall e microblogging civil para fabricantes."
+    },
+    {
+      "id": "852",
+      "slug": "political-news",
+      "name": "Notícias Políticas",
+      "description": "Ferramentas de notícias políticas que acompanham a política, comparam candidatos, classificam fontes, hospedam debates, ignoram muros de pagamento e criam explicadores para eleitores e analistas."
+    },
+    {
+      "id": "851",
+      "slug": "camping",
+      "name": "Campamento",
+      "description": "O camping abrange ferramentas e estadias que encontram locais, planejam rotas, gerenciam equipamentos e ajudam campistas, vanlifers e equipes a explorar o ar livre juntos."
+    },
+    {
+      "id": "850",
+      "slug": "survival",
+      "name": "Sobrevivência",
+      "description": "Ferramentas de sobrevivência abrangem ajuda de crise, apoio entre pares, primeiros socorros de RCP, know-how offline e verificações de segurança - ajudando as pessoas a se preparar, responder e permanecer conectadas no caos."
+    },
+    {
+      "id": "849",
+      "slug": "plants",
+      "name": "Plantas",
+      "description": "Plantas abrange ferramentas para cultivar, identificar e comprar vegetação; rastreadores de jardim; jogos em árvores e raízes; reflorestamento por streaming; além de um artesanato inspirado na natureza."
+    },
+    {
+      "id": "848",
+      "slug": "gps",
+      "name": "GPS",
+      "description": "GPS seleções que rastrear exercícios, etiquetar fotos, localização falsificada, e poder geolocalizado mídia e mapas. Planeje viagens, gere o GPX e descubra ou compartilhe pontos próximos."
+    },
+    {
+      "id": "847",
+      "slug": "hiking",
+      "name": "Hiking",
+      "description": "Trekking abrange o planejamento e a navegação; essas ferramentas encontram trilhas, trabalham offline, rastream picos, gerenciam equipamentos, adaptam ideias ao clima, guiam self-tours, aumentam fotos."
+    },
+    {
+      "id": "846",
+      "slug": "nature",
+      "name": "Natureza",
+      "description": "Ferramentas da natureza que o ajudam a explorar, observar e relaxar: identificar aves, rastrear a vida selvagem, encontrar praias, transmitir paisagens sonoras e criar hábitos sustentáveis diários."
+    },
+    {
+      "id": "845",
+      "slug": "social-media-marketing",
+      "name": "Marketing de mídia social",
+      "description": "O marketing de mídia social promove marcas através de postagens e vídeos; essas ferramentas criam e localizam clips, gravam telas, agendam e rastream, monetizam e integram."
+    },
+    {
+      "id": "844",
+      "slug": "affiliate-marketing",
+      "name": "Marketing de afiliados",
+      "description": "Ferramentas de marketing de afiliados que rastream links, executam programas de referência e escalam o crescimento. Criado para SaaS e criadores: atribuição, pagamentos, conteúdo e comunidade."
+    },
+    {
+      "id": "843",
+      "slug": "event-marketing",
+      "name": "Event Marketing",
+      "description": "O marketing de eventos usa ferramentas para planejar, promover, hospedar e medir eventos para criar leads e comunidade, desde locais e conteúdo de IA até bilheteria, AR e pesquisas."
+    },
+    {
+      "id": "842",
+      "slug": "influencer-marketing",
+      "name": "Marketing de influência",
+      "description": "Esta categoria abrange ferramentas para encontrar criadores, rastrear comércio social, gerenciar parcerias e vender online, ajudando marcas a executar campanhas baseadas em dados em escala."
+    },
+    {
+      "id": "841",
+      "slug": "marketing-calendar",
+      "name": "Calendário de Marketing",
+      "description": "Um calendário de marketing organiza campanhas, conteúdo e eventos; essas ferramentas agendam postagens, coordenam equipes, automatizam o alcance e relatam resultados rapidamente."
+    },
+    {
+      "id": "840",
+      "slug": "marketing-attribution",
+      "name": "Atribuição de marketing",
+      "description": "Atribuição de marketing traça quais pontos de contato impulsionam as vendas. Essas ferramentas ligam anúncios, influenciadores, links QR, localização e dados da Shopify ao ROAS e às jornadas do usuário."
+    },
+    {
+      "id": "839",
+      "slug": "marketing-automation",
+      "name": "Automatização de Marketing",
+      "description": "Ferramentas de automação de marketing simplificam a captura de leads, campanhas de conteúdo e e-mail e fluxos de trabalho de aplicativos para equipes de crescimento usando IA, integrações e construtores sem código."
+    },
+    {
+      "id": "838",
+      "slug": "spirituality",
+      "name": "Espiritualidade",
+      "description": "Ferramentas de espiritualidade que misturam prática de fé, mindfulness e crescimento: acordar para oração, aprender as escrituras, meditar, obter orientação de IA, focar com som. Mantenha-se no caminho."
+    },
+    {
+      "id": "837",
+      "slug": "diy",
+      "name": "DIY",
+      "description": "DIY significa fazer projetos você mesmo. Esta mistura ajuda você a criar, vender, corrigir e personalizar ideias de IA, ajuda especializada, pagamentos, auto-cuidado, guias de hobby."
+    },
+    {
+      "id": "836",
+      "slug": "military",
+      "name": "Militar",
+      "description": "Os tópicos militares abrangem a tecnologia de defesa e os esforços de socorro: de drones de reconhecimento VTOL para missões rápidas a diretórios curados que orientam doações para apoiar a Ucrânia."
+    },
+    {
+      "id": "835",
+      "slug": "career",
+      "name": "Carreira",
+      "description": "Explore ferramentas de carreira que potenciam a busca de papéis, contratação e crescimento: networking, adaptação de currículos, triagem, folha de pagamento, rastreamento de projetos e receita de criadores."
+    },
+    {
+      "id": "834",
+      "slug": "lgbtq",
+      "name": "LGBTQ +",
+      "description": "Ferramentas LGBTQ + para conectividade, segurança e saúde. Encontre jogos, acompanhe o bem-estar sexual, relate o ódio, encontre espaços seguros, obtenha ajuda na transição, celebre o Orgulho."
+    },
+    {
+      "id": "833",
+      "slug": "babies",
+      "name": "Bebês",
+      "description": "Bebês: ferramentas para planejamento, cuidado e olhar curioso para o futuro. De opções de nomeação e fertilidade a rastreadores e guias de sono, além de previsões de IA para rostos futuros."
+    },
+    {
+      "id": "832",
+      "slug": "family",
+      "name": "Família",
+      "description": "Ferramentas familiares que se importam, conectam e lembram: alertas para cuidadores, diários de fotos privados, fabricantes de histórias para crianças e rastreamento de empréstimos pessoais sem estresse."
+    },
+    {
+      "id": "831",
+      "slug": "pregnancy",
+      "name": "Gravidez",
+      "description": "Escolhas de gravidez que a apoiam do planejamento ao pós-parto: bate-papo de IA, comunidades locais, respiração de trabalho de parto, nutrição, dicas de diabetes, alimentação e ajuda para fraldas."
+    },
+    {
+      "id": "830",
+      "slug": "toddlers",
+      "name": "Toddlers",
+      "description": "Esta categoria abrange ferramentas de aprendizagem precoce para pais e crianças pequenas: histórias interativas, jogos sem tela e cartões flash para ligação, fala e pensamento."
+    },
+    {
+      "id": "829",
+      "slug": "toys",
+      "name": "Brinquedos",
+      "description": "Os brinquedos misturam tecnologia lúdica e diversão de bricolagem: codificação STEM, animais de estimação virtuais, ferramentas LEGO, aplicativos de coloração e jogos físicos-digitais para famílias, colecionadores e educadores."
+    },
+    {
+      "id": "828",
+      "slug": "home-services",
+      "name": "Serviços domésticos",
+      "description": "Os serviços domésticos incluem ferramentas para administrar uma casa e seus negócios: mudança, investimento em imóveis, check-ins de segurança, agendamento, reservas, ferramentas de crescimento."
+    },
+    {
+      "id": "827",
+      "slug": "furniture",
+      "name": "Móveis",
+      "description": "Desempenho de casas e espaços de trabalho: Verificações de preços de IA, ferramentas de design, peças prontas para bricolage, equipamentos ergonômicos e escolhas de aluguel para compradores, anfitriões e designers."
+    },
+    {
+      "id": "826",
+      "slug": "home-security",
+      "name": "Home Segurança",
+      "description": "A segurança doméstica protege pessoas, propriedades e redes: controle de acesso, configuração de câmeras, verificações familiares e individuais, firewalls, verificações de antecedentes para casas e equipes."
+    },
+    {
+      "id": "825",
+      "slug": "interior-design",
+      "name": "Design Interior",
+      "description": "Ferramentas de design de interiores planejam, visualizam e mobilizam espaços: renderizadores de IA, scans 3D, curadoria de móveis, colaboração e inspiração para proprietários e profissionais."
+    },
+    {
+      "id": "824",
+      "slug": "home-theater",
+      "name": "Home Theater",
+      "description": "O home theater reúne equipamentos para um som doméstico rico, como turntables sem fio que transmitem vinil para alto-falantes multiroom via Bluetooth, UPnP ou sistemas prontos para Roon."
+    },
+    {
+      "id": "823",
+      "slug": "home-improvement",
+      "name": "Home Melhoria",
+      "description": "Ferramentas de melhoria domiciliar que planejam, atualizam e gerenciam seu espaço: orientação DIY, design de interiores, rastreamento de energia e carbono, inventário de ativos, atualizações de conforto."
+    },
+    {
+      "id": "822",
+      "slug": "neighborhood",
+      "name": "vizinhança",
+      "description": "Ferramentas de bairro ajudam você a viver, se conectar e decidir localmente - encontrar habitação e companheiros de quarto, participar de bate-papo local, avaliar perigos, explorar cidades, ficar perto de amigos."
+    },
+    {
+      "id": "821",
+      "slug": "home-office",
+      "name": "Home Office",
+      "description": "Um Home Office Hub: equipamentos e aplicativos para produtividade e idéias de espaço de trabalho - gerenciar PDFs, escrever, capturar telas, sincronizar clipboards, afinar exibições e fazer pausas."
+    },
+    {
+      "id": "820",
+      "slug": "weightlifting",
+      "name": "Peso levantamento",
+      "description": "O levantamento de pesos constrói a força através de treinamento estruturado. Essas ferramentas planejam treinos, conjuntos de trilhas, descansos de tempo e nutrição personalizada para atletas, iniciantes e treinadores."
+    },
+    {
+      "id": "819",
+      "slug": "running",
+      "name": "Correndo",
+      "description": "Executar aplicativos que rastream, gamificam e guiam suas milhas sozinho ou com amigos. Encontre ferramentas de ritmo, batidas de cadência, sincronização de dados, recompensas NFT para iniciantes a corredores."
+    },
+    {
+      "id": "818",
+      "slug": "fitness",
+      "name": "Fitness",
+      "description": "Descubra ferramentas que transformam rotinas saudáveis em ação: acompanhe exercícios, obtenha treinamento de IA, junte-se a comunidades, ganhe recompensas e monitore o sono / VHR - até mesmo através de um anel para qualquer pessoa."
+    },
+    {
+      "id": "817",
+      "slug": "health",
+      "name": "Saúde",
+      "description": "Ferramentas de saúde que informam e apoiam os cuidados diários: encontrar respostas, acompanhar a VHR e as alterações da pele, aumentar o foco e a saúde mental e cobrir os cuidados no exterior para nômades."
+    },
+    {
+      "id": "816",
+      "slug": "cell-phone",
+      "name": "Telefone celular",
+      "description": "Os elementos essenciais do telefone celular abrangem dispositivos, sistemas operacionais e serviços que fazem chamadas, fotos, pesquisas e dados de viagem funcionar, além de ferramentas de foco, números virtuais e negócios."
+    },
+    {
+      "id": "815",
+      "slug": "sensors",
+      "name": "Sensores",
+      "description": "Ferramentas elétricas de sensores que rastream espaços, segurança e contagens de ocupação de servidores, mesas, beacons enviam alertas e agentes assistem a backups para TI, RH e grupos."
+    },
+    {
+      "id": "814",
+      "slug": "computers",
+      "name": "Computadores",
+      "description": "Os computadores combinam IA em nuvem, tecnologia em dispositivos, plataformas de desenvolvimento, aplicativos de escritório e ferramentas de tempo de atividade - tudo para a computação diária - para programadores, equipes e criadores."
+    },
+    {
+      "id": "813",
+      "slug": "tablet",
+      "name": "Tablet",
+      "description": "Um tablet é um computador touch portátil para aplicativos versáteis. Essas escolhas abrangem criatividade, educação, ferramentas de escritório e leitura de tinta eletrônica para alunos, profissionais e equipes."
+    },
+    {
+      "id": "812",
+      "slug": "appliances",
+      "name": "Aplicativos",
+      "description": "Eletrodomésticos abrange ajudantes domésticos mais inteligentes - cervejarias, aquecedores, displays sempre ligados - e aplicativos para descobri-los, compartilhá - los ou financiá - los. Para cozinheiros, fãs, famílias eco-savvy."
+    },
+    {
+      "id": "811",
+      "slug": "animation",
+      "name": "Animação",
+      "description": "Descubra ferramentas de animação para web, aplicativos e edição de vídeo-IA, movimento vetorial JSON, keyframing e exportações de ferramentas de design para designers, desenvolvedores e criadores."
+    },
+    {
+      "id": "810",
+      "slug": "design-templates",
+      "name": "Design Templates",
+      "description": "Os modelos de design são blocos curados para UI e fluxos de trabalho em ferramentas de desenvolvimento e não-código, ajudando equipes e solos a criar protótipos mais rápido e enviar aplicativos coesos."
+    },
+    {
+      "id": "809",
+      "slug": "design-resources",
+      "name": "Design de recursos",
+      "description": "Recursos de design que aceleram a criação de UI e conteúdo: bibliotecas de UI, modelos, vetores, animações, imagens de stock, ferramentas de IA e inspiração para criadores."
+    },
+    {
+      "id": "808",
+      "slug": "logo-design",
+      "name": "Logo Design",
+      "description": "O design de logotipos combina ferramentas para criar e implantar marcas: geradores de IA, designers verificados, bibliotecas de ativos, hubs de contratação, construtores de sites, APIs e mercados."
+    },
+    {
+      "id": "807",
+      "slug": "ux-design",
+      "name": "Design do UX",
+      "description": "O design da experiência do usuário (UX) molda como as pessoas usam aplicativos e sites. Essas ferramentas cobrem layout de interface do usuário, protótipos, 3D, pesquisa, análises, onboarding e dev handoff."
+    },
+    {
+      "id": "806",
+      "slug": "wireframing",
+      "name": "Wireframing (em inglês)",
+      "description": "O Wireframeing mapeia ideias em telas simples e fluxos de usuário antes do código. Estas ferramentas combinam sitemaps, maquetas e protótipos para designers, PMs e equipes."
+    },
+    {
+      "id": "805",
+      "slug": "web-design",
+      "name": "Web Design",
+      "description": "O design da Web abrange ferramentas que levam ideias de pixels para a produção: construtores visuais, criadores de aplicativos sem código, kits de UI, auth / pagamentos e CMS usados por designers, desenvolvedores."
+    },
+    {
+      "id": "804",
+      "slug": "graphic-design",
+      "name": "Design gráfico",
+      "description": "O design gráfico transforma ideias em imagens. Essas ferramentas abrangem editores de IA, stock, limpeza de fotos, logotipos, sites, freelancers e vendedores, pequenas e médias empresas, startups e criadores."
+    },
+    {
+      "id": "803",
+      "slug": "3d-modeling",
+      "name": "Modelagem 3D",
+      "description": "A modelagem 3D transforma ideias em objetos virtuais para jogos, filmes e AR / VR. Esta mistura abrange ferramentas de criação, geradores de ativos de IA, motores, GPUs e hubs de colaboração."
+    },
+    {
+      "id": "802",
+      "slug": "design",
+      "name": "Design de",
+      "description": "O design aqui abrange a construção, prototipagem, apresentação e venda de experiências digitais - UI / UX, gráficos, aplicativos, newsletters e faturamento compatível - para criadores e equipes."
+    },
+    {
+      "id": "801",
+      "slug": "graphics",
+      "name": "Gráficos",
+      "description": "Gráficos abrange ferramentas para criar, renderizar, editar e enviar visuais, de GPUs e aplicativos de arte a recortes de IA, ferramentas de maquetas, feedback e licenciamento de ativos digitais."
+    },
+    {
+      "id": "800",
+      "slug": "farming",
+      "name": "Agricultura",
+      "description": "As ferramentas agrícolas abrangem análise de culturas, IoT, aplicativos de tarefas, financiamento, negociação, investimento, pesquisa e vendas de casa a casa - ajudando os produtores a planejar, monitorar e ganhar."
+    },
+    {
+      "id": "799",
+      "slug": "dieting",
+      "name": "Dieta",
+      "description": "Ferramentas de dieta que planejam refeições, registam alimentos e rastream nutrientes com IA. Os aplicativos reduzem o desperdício, adaptam as calorias e treinam a longevidade para cozinheiros caseiros e nerds da saúde."
+    },
+    {
+      "id": "798",
+      "slug": "nutrition",
+      "name": "Nutrição",
+      "description": "Ferramentas de nutrição que registram refeições, planejam menus, analisam suplementos e ajustam dietas a alergias ou jejum. Ideal para usuários conscientes da saúde, cozinheiros caseiros e aprendizes."
+    },
+    {
+      "id": "797",
+      "slug": "alcohol",
+      "name": "Álcool",
+      "description": "Explore as ferramentas de álcool: Guia de mistura de AR, geradores de receitas, jogos de festa, calculadoras ABV e desafios sóbrios para bartenders em casa e novos bebedores em casa."
+    },
+    {
+      "id": "796",
+      "slug": "dining",
+      "name": "Refeição",
+      "description": "Refeições abrange cozinhar, comer fora e hospedagem: ferramentas para planejar refeições, mesas snag, dividir contas, contratar chefs, acompanhar lanches, navios comem e administrar restaurantes."
+    },
+    {
+      "id": "795",
+      "slug": "credit-card",
+      "name": "Cartão de Crédito",
+      "description": "Explore ferramentas de cartão de crédito que emitem cartões, rastream despesas e recompensas turbocharged - abrangendo gastos de negócios, pontos de viagem, reembolso de dinheiro e crédito ao consumidor."
+    },
+    {
+      "id": "794",
+      "slug": "banking",
+      "name": "Banco",
+      "description": "Serviços bancários são serviços para aceitar pagamentos, gerir contas, aumentar poupanças e enviar transferências transfronteiriças para startups, freelancers, casais e usuários de criptomoedas."
+    },
+    {
+      "id": "793",
+      "slug": "budgeting",
+      "name": "orçamento",
+      "description": "O orçamento reúne aplicativos que rastream gastos, planejam viagens, prevêem fluxo de caixa de negócios, automatizam a conformidade e fornecem serviços bancários seguros, criados para indivíduos e PME."
+    },
+    {
+      "id": "792",
+      "slug": "personal-finance",
+      "name": "Finanças pessoais",
+      "description": "Ferramentas de finanças pessoais ajudam você a ganhar, rastrear e crescer dinheiro: orçamento, banca, patrimônio, pagamentos e investimento social para indivíduos, criadores e startups."
+    },
+    {
+      "id": "791",
+      "slug": "fundraising",
+      "name": "Fundraisão",
+      "description": "Ferramentas de captação de recursos para fundadores: Gerencie ações, documentos bancários e legais, encontre investidores por meio de intros quentes, compartilhe arquivos de pitch com análises e coach decks."
+    },
+    {
+      "id": "790",
+      "slug": "mixed-reality",
+      "name": "Realidade mista",
+      "description": "A realidade mista (MR) combina conteúdo digital com a vida real. Essas ferramentas criam, transmitem e reproduzem experiências de AR / VR para criadores, marcas, fitness e educação."
+    },
+    {
+      "id": "789",
+      "slug": "live-events",
+      "name": "Eventos ao vivo",
+      "description": "O Live Events reúne ferramentas para hospedar streams, envolver audiências e agendar - de transmissões 24 / 7 a feedback emojis, streams compráveis, IDs de música e promoções de shows."
+    },
+    {
+      "id": "788",
+      "slug": "ticketing",
+      "name": "Ticketing",
+      "description": "Ferramentas de bilhetes abrangem vendas de eventos e suportam filas - vendem assentos, gerenciam reservas e pedidos de rota. Expere formulários, pagamentos, vínculos Discord / HR, NFTs, APIs de pesquisa."
+    },
+    {
+      "id": "787",
+      "slug": "sporting-events",
+      "name": "Eventos esportivos",
+      "description": "Ferramentas de eventos esportivos que planejam, mapeiam, bilhetam e executam competições - em campos e online. Para organizadores, treinadores, clubes e jogadores que precisam de horários, atualizações."
+    },
+    {
+      "id": "786",
+      "slug": "theater",
+      "name": "Teatro",
+      "description": "Ferramentas de teatro que alimentam o palco: escreva roteiros mais rápido, ensai improvisações com prompts e gerencia eventos e bilhetes. Para dramaturgos, atores, organizadores."
+    },
+    {
+      "id": "785",
+      "slug": "concerts",
+      "name": "Concertos",
+      "description": "Ferramentas de cobertura de concertos que encontram músicas, rastream artistas, planejam festivais, comparam ingressos. Descubra shows, gerenciar eventos e acertar assentos de forma mais inteligente, online ou virtual."
+    },
+    {
+      "id": "784",
+      "slug": "memes",
+      "name": "Memes",
+      "description": "Memes são piadas e reações. Este hub abrange criadores de IA, bites de som, pesquisa, ferramentas de monetização para criadores e profissionais de marketing para criar, encontrar, compartilhar."
+    },
+    {
+      "id": "783",
+      "slug": "pop-culture",
+      "name": "Cultura Pop",
+      "description": "A cultura pop aqui significa as histórias compartilhadas, jogos e visuais que trocamos diariamente - aplicativos por trivialidades, citações, tees, tarô, edições de imagem, tendências e insights de identidade."
+    },
+    {
+      "id": "782",
+      "slug": "online-learning",
+      "name": "Aprendizagem Online",
+      "description": "A aprendizagem on-line oferece habilidades através de ferramentas da web: tutores de IA, aulas de coorte, mecanismos de descoberta e centros de conhecimento que ajudam profissionais e estudantes a pesquisar e criar."
+    },
+    {
+      "id": "781",
+      "slug": "school",
+      "name": "Escola",
+      "description": "Escolhas escolares que apoiam o estudo, o ensino e a vida: anotação de IA, preparação para exames, orientação universitária, dicas de ensino em casa, ferramentas de foco e mapeamento colaborativo."
+    },
+    {
+      "id": "780",
+      "slug": "hacking",
+      "name": "Hacking",
+      "description": "Ferramentas de segurança éticas que testam aplicativos e redes, executam recompensas por bugs, auditam chaves SSH, revelam exposição de dados e conectam equipes com especialistas verificados e varreduras de IA."
+    },
+    {
+      "id": "779",
+      "slug": "development-language",
+      "name": "Desenvolvimento da linguagem",
+      "description": "Descubra a pilha por trás da construção e aprendizagem de codificação: frameworks web, infra Web3, auxiliares de IA, ferramentas CSS, design-to - code, cursos e prática de entrevista"
+    },
+    {
+      "id": "778",
+      "slug": "sdk",
+      "name": "SDK",
+      "description": "Um SDK agrupa APIs e ferramentas para criar aplicativos rapidamente; essas escolhas abrangem hospedagem, IA, auth, colaboração em tempo real, voz e dados para desenvolvedores que enviam a web moderna."
+    },
+    {
+      "id": "777",
+      "slug": "change-management",
+      "name": "Gestão de mudanças",
+      "description": "O gerenciamento de mudanças coordena as pessoas, ferramentas e políticas para atualizar o terreno sem problemas. Essas escolhas lidam com feedback, fluxo de trabalho, infraestrutura, contratação e hábitos de equipe em escala."
+    },
+    {
+      "id": "776",
+      "slug": "statistical-analysis",
+      "name": "Análise estatística",
+      "description": "As ferramentas de análise estatística aqui transformam cliques brutos, chats, quebra-cabeças e pesquisas em tendências para analistas e PMs - painéis, benchmarks, mais inteligentes."
+    },
+    {
+      "id": "775",
+      "slug": "data-visualization",
+      "name": "Visualização de dados",
+      "description": "A visualização de dados transforma métricas em gráficos e painéis para dados de produto, web e vendas, cobrindo comportamento, lançamentos, retenção e relatórios de privacidade em primeiro lugar."
+    },
+    {
+      "id": "774",
+      "slug": "business-intelligence",
+      "name": "Inteligência de negócios",
+      "description": "As ferramentas de Business Intelligence (BI) transformam os dados da empresa em análise de decisão, painéis e operações orientadas por IA para analistas, equipes de SaaS, vendas e suporte."
+    },
+    {
+      "id": "773",
+      "slug": "data-science",
+      "name": "Ciência de dados",
+      "description": "A ciência de dados transforma dados em. Essas ferramentas abrangem análises, aplicativos de IA, painéis, compilações de privacidade e verificação para analistas e engenheiros."
+    },
+    {
+      "id": "772",
+      "slug": "database",
+      "name": "Base de dados",
+      "description": "Um hub de banco de dados para aplicativos para armazenar, sincronizar, consultar e proteger dados, cobrindo Postgres sem servidor, pesquisa vetorial, ORMs, construtores de código não / baixo e entrega de borda."
+    },
+    {
+      "id": "771",
+      "slug": "data",
+      "name": "Dados",
+      "description": "Ferramentas de dados que coletam, analisam, movem e protegem informações - abrangendo análises, IA, lojas sem servidor, CDPs, integrações e privacidade - para PMs, desenvolvedores, profissionais de marketing"
+    },
+    {
+      "id": "770",
+      "slug": "monetization",
+      "name": "Monetização",
+      "description": "As ferramentas de monetização transformam conteúdo e software em receita: newsletters, patrocinadores, paywalls, associações e faturamento de uso para criadores, marcas e equipes de SaaS."
+    },
+    {
+      "id": "769",
+      "slug": "crm",
+      "name": "CRM",
+      "description": "As ferramentas de CRM centralizam os contatos, automatizam vendas, marketing e suporte, sincronizam e-mail, LinkedIn e WhatsApp para rastrear pipelines e melhorar a retenção."
+    },
+    {
+      "id": "768",
+      "slug": "human-resources",
+      "name": "Recursos Humanos",
+      "description": "As ferramentas de RH aqui abrangem contratação, folha de pagamento, conformidade, feedback, treinamento e pagamentos - equipes globais de potência, trabalho remoto e onboarding liderado por vídeo. Mais contratantes."
+    },
+    {
+      "id": "767",
+      "slug": "construction",
+      "name": "Construção",
+      "description": "Ferramentas de construção funcionam do projeto para a construção: medir espaços, mapear locais offline, anotar planos, estimar custos, gerenciar empregos e encontrar casas pré - fabricadas."
+    },
+    {
+      "id": "766",
+      "slug": "consulting",
+      "name": "Consultoria",
+      "description": "Ferramentas de grupos de consultoria para aconselhamento de especialistas, auditorias de SEO ao vivo ou assíncronas, suporte de desenvolvimento, fluxos de trabalho de IA, visuais de estratégia e networking para fundadores e equipes"
+    },
+    {
+      "id": "765",
+      "slug": "operations",
+      "name": "Operações",
+      "description": "As ferramentas de operações simplificam a forma como as empresas operam: automatizam fluxos de trabalho, finanças e legais, treinam equipes, gerenciam reuniões, ativos e transformam dados em insights de KPI."
+    },
+    {
+      "id": "764",
+      "slug": "accounting",
+      "name": "Contabilidade",
+      "description": "Ferramentas de contabilidade que automatizam livros, faturamento, impostos e relatórios para startups, pequenas e médias empresas. Inclui categorização de IA, sincronizações bancárias / Stripe, OCR em contas, fluxos de trabalho."
+    },
+    {
+      "id": "763",
+      "slug": "coding-books",
+      "name": "Livros de codificação",
+      "description": "Aprenda a codificar com livros, guias, ferramentas interativas e jogos para crianças e profissionais. Construa JavaScript, SQL, aplicativos React, depuração, backend e habilidades de banco de dados."
+    },
+    {
+      "id": "762",
+      "slug": "textbooks",
+      "name": "Textos",
+      "description": "Os livros didáticos aqui abrangem materiais de curso seguros, aulas de codificação, tutores de IA e ferramentas de preparação para exames que ensinam, protegem o conteúdo e ajudam estudantes e educadores a aprender."
+    },
+    {
+      "id": "761",
+      "slug": "business-books",
+      "name": "Livros de negócios",
+      "description": "Business Books mostra a estratégia em ação através de ferramentas e guias: CRM, caixas de entrada de suporte, centros de pesquisa, insights de marketing, comércio eletrônico, leituras curadas para fundadores."
+    },
+    {
+      "id": "760",
+      "slug": "defi",
+      "name": "DeFi",
+      "description": "O DeFi permite que você use criptomoedas como mercados monetários. Esta mistura abrange rendimentos de apostas, análise DEX, carteiras e segurança, ferramentas de portfólio de IA, infraestrutura de desenvolvimento e identidade on-chain."
+    },
+    {
+      "id": "759",
+      "slug": "blockchain",
+      "name": "Blockchain",
+      "description": "Blockchain significa aplicativos e ativos descentralizados. Essas ferramentas ajudam você a construir, navegar, analisar e crescer Web3 abrangendo desenvolvimento, infra, carteiras, identidade, comunidades."
+    },
+    {
+      "id": "758",
+      "slug": "cryptocurrency",
+      "name": "Criptomoeda",
+      "description": "Ferramentas de criptomoedas ajudam a aceitar pagamentos, rastrear mercados, negociar através de APIs, gerenciar NFTs, habilitar IDs e aumentar audiências - criadas para comerciantes, criadores e empresas."
+    },
+    {
+      "id": "757",
+      "slug": "dapp",
+      "name": "DApps",
+      "description": "Os aplicativos descentralizados são os primos peer-to - peer dos aplicativos que usamos hoje. Se você não quiser que seus dados sejam bloqueados com uma única empresa, confira essas alternativas baseadas em blockchain para lhe dar propriedade sobre suas informações. "
+    },
+    {
+      "id": "756",
+      "slug": "dao",
+      "name": "DAO",
+      "description": "As organizações autônomas descentralizadas estão reunindo as pessoas para se auto-organizarem e alcançarem seus objetivos de uma maneira mais aberta."
+    },
+    {
+      "id": "755",
+      "slug": "bitcoin",
+      "name": "Bitcoin",
+      "description": "Ferramentas de Bitcoin que permitem comprar, economizar, gastar, ganhar e rastrear: carteiras, aplicativos DCA, cartões de recompensas, dados de mercado, dicas de jogos e bate-papo - criadas para novatos e profissionais."
+    },
+    {
+      "id": "754",
+      "slug": "ethereum",
+      "name": "Ethereum",
+      "description": "O Ethereum alimenta dinheiro programável. Essas ferramentas ajudam você a gerenciar ETH, apostar por rendimento, encontrar dApps, lançar NFTs, implantar contratos criados para criadores e comerciantes."
+    },
+    {
+      "id": "753",
+      "slug": "clothing",
+      "name": "Vestimentos",
+      "description": "Descubra ferramentas e plataformas de vestuário: design com IA, equipes de vestuário, marque ofertas premium, suporte a uma postura melhor, experimente em 3D e pesquise compradores para se ajustar."
+    },
+    {
+      "id": "752",
+      "slug": "cosmetics",
+      "name": "Cosméticos",
+      "description": "Ferramentas de cosméticos que o ajudam a escolher e personalizar rotinas - scanners de ingredientes, escolhas de criadores e combinadores de aromas - para iniciantes, entusiastas e profissionais."
+    },
+    {
+      "id": "751",
+      "slug": "streetwear",
+      "name": "Streetwear",
+      "description": "Streetwear mistura moda, arte e cultura do criador. Essas ferramentas e mercados ajudam a projetar, mostrar e vender roupas personalizadas e tênis para fãs online."
+    },
+    {
+      "id": "749",
+      "slug": "hip-hop",
+      "name": "Hip Hop",
+      "description": "Hip-hop é sobre ritmo, jogo de palavras, e alcance. Essas escolhas ajudam os MCs a criar versos mais rígidos e ajudam os profissionais de marketing a rastrear campanhas, criar aplicativos e aumentar o público."
+    },
+    {
+      "id": "748",
+      "slug": "comedy",
+      "name": "Comédia",
+      "description": "Comédia aqui significa ferramentas que provocam risadas e memes de navegação social, piadas e asses de IA, ideias de brincadeiras de artesanato e presentes lúdicos e envolvem o público."
+    },
+    {
+      "id": "747",
+      "slug": "classical-music",
+      "name": "Música clássica",
+      "description": "Descubra ferramentas de música clássica que o ajudam a praticar, compor, transmitir performances, testar trivia e compartilhar alunos, educadores, artistas e fãs."
+    },
+    {
+      "id": "746",
+      "slug": "concert",
+      "name": "Concertos",
+      "description": "Explore ferramentas para eventos de música ao vivo: eles centralizam line-ups, atualizam em tempo real e criam horários pessoais - perfeitos para festivais, organizadores e fãs."
+    },
+    {
+      "id": "745",
+      "slug": "tuning",
+      "name": "Tuning em",
+      "description": "A sintonização aqui significa refinar a criação e reprodução de áudio. Ferramentas limpar ruído, corrigir o tom, construir players de site, estações de streaming e gerar SFX para criadores."
+    },
+    {
+      "id": "744",
+      "slug": "radio",
+      "name": "Rádio",
+      "description": "Rádio aqui significa streaming de áudio: estações ao vivo, podcasts, batidas de foco e ferramentas de criador. Ele é adequado para ouvintes, trabalhadores remotos e apresentadores que executam shows ao vivo."
+    },
+    {
+      "id": "743",
+      "slug": "live-music",
+      "name": "Música ao vivo",
+      "description": "Música ao vivo significa apresentações que você assiste; essas ferramentas ajudam você a encontrar shows, comparar ingressos, planejar festivais, descobrir artistas, transmitir rádio e conhecer músicos."
+    },
+    {
+      "id": "742",
+      "slug": "electronic-music",
+      "name": "Música eletrônica",
+      "description": "Ferramentas de música eletrônica que permitem compor, sequenciar, gerar, descobrir e compartilhar faixas - de compositores de IA e máquinas de bateria a listas de reprodução e colaborações remotas DAW."
+    },
+    {
+      "id": "741",
+      "slug": "calligraphy",
+      "name": "Calligrafia",
+      "description": "A caligrafia é a escrita artística. Essas ferramentas ensinam scripts, refinam traços, aceleram a tomada de notas, combinam cores de tinta e ajudam os criadores a trocar ativos de letras."
+    },
+    {
+      "id": "740",
+      "slug": "video-art",
+      "name": "Vídeo Arte",
+      "description": "A arte de vídeo une a criação de vídeo de IA, narração baseada em avatares e plataformas de pesquisa, ajudando os fabricantes a criar protótipos, localizar e compartilhar histórias cinematográficas."
+    },
+    {
+      "id": "739",
+      "slug": "illustration",
+      "name": "Ilustração",
+      "description": "A ilustração abrange ferramentas para criar, criar, editar e vender visuais vetoriais para UI, sites, slides e IA de união de anúncios, bibliotecas, kits de UI, plugins Figma e MoR."
+    },
+    {
+      "id": "738",
+      "slug": "crafting",
+      "name": "Crafting em",
+      "description": "Seu guia para fazer: matemática de medição rápida, descoberta de hobby, vídeos DIY, animação 3D, ferramentas de vela, rótulos inteligentes e planejadores para iniciantes e profissionais."
+    },
+    {
+      "id": "737",
+      "slug": "modeling",
+      "name": "Modelagem",
+      "description": "Modelagem significa construir modelos 3D, dados ou finanças. Essas ferramentas criam, renderizam, versão, simulação e previsão para designers, desenvolvedores e analistas."
+    },
+    {
+      "id": "736",
+      "slug": "digital-art",
+      "name": "Arte Digital",
+      "description": "As ferramentas de arte digital abrangem criadores de imagens de IA, APIs de modelo e comércio de criadores, ajudando os artistas a gerar imagens, automatizar fluxos de trabalho e vender ou financiar seu trabalho."
+    },
+    {
+      "id": "735",
+      "slug": "printing",
+      "name": "Impressão",
+      "description": "A impressão abrange ferramentas para criar, vender e produzir documentos e produtos prontos para impressão - de adesivos, arte a periódicos e folhetos - para criadores e pequenas lojas."
+    },
+    {
+      "id": "734",
+      "slug": "painting",
+      "name": "Pintura",
+      "description": "A Painting reúne ferramentas e sites para criar, aprender e vender arte: selecionadores de cores, aplicativos de arte, galerias, vídeos DIY, pesquisa de referência e vendas físicas / NFT."
+    },
+    {
+      "id": "733",
+      "slug": "coloring",
+      "name": "Coloração",
+      "description": "A coloração abrange ferramentas para criar e gerenciar paletas de cores para projetos e esquemas de geração de marca, editar visuais, garantir contraste e organizar ativos para criadores."
+    },
+    {
+      "id": "732",
+      "slug": "drawing",
+      "name": "Desenho",
+      "description": "Desenho abrange esboços digitais, maquetes de interface do usuário, arte de IA e planilhas de trabalho para crianças - ferramentas que ajudam a ilustrar ideias, editar fotos, filmes de storyboard e colaborar."
+    },
+    {
+      "id": "717",
+      "slug": "social-networking",
+      "name": "Rede Social",
+      "description": "As redes sociais conectam pessoas, criadores e equipes por meio de bate-papo, vídeo, microblogs, reuniões e publicação, além de CRMs, correspondência e infra-segurança."
+    },
+    {
+      "id": "713",
+      "slug": "shopping",
+      "name": "Shopping",
+      "description": "O shopping abrange ferramentas para encontrar, comprar e vender construtores de lojas on-line, mercados, listas de desejos, complementos de recompensas, widgets de suporte, vídeo comprável e pesquisa."
+    },
+    {
+      "id": "711",
+      "slug": "science",
+      "name": "Ciência",
+      "description": "Ferramentas de ciência que o ajudam a pesquisar estudos, compreender papéis, modelos crunch, matemática tipográfica, executar código quântico e publicar pré - impressões - criadas para pesquisadores e estudantes."
+    },
+    {
+      "id": "692",
+      "slug": "photo-video",
+      "name": "Foto & Vídeo",
+      "description": "Foto & Vídeo abrange ferramentas para criar, editar e localizar imagens e geração de imagem / vídeo de AI de som, dublagem de TTS, ativos de stock e busca de criadores."
+    },
+    {
+      "id": "680",
+      "slug": "nature-outdoors",
+      "name": "Natureza e Outdoors",
+      "description": "A Nature & Outdoors agrupa ferramentas que identificam aves, mapeam trilhas, reservam safaris e criam hábitos conscientes e sustentáveis - ideais para caminhantes, estudantes e viajantes."
+    },
+    {
+      "id": "665",
+      "slug": "lifestyle",
+      "name": "Estilo de vida",
+      "description": "Ferramentas de estilo de vida que facilitam a vida: planejam o tempo e os hábitos, diário de crescimento, vendem e compram bens, constrói comunidades e bate-papo com assistentes de IA para criadores."
+    },
+    {
+      "id": "659",
+      "slug": "kids-parenting",
+      "name": "Crianças e Parenting",
+      "description": "Ferramentas para crianças e pais que ajudam as famílias com o sono, a leitura, a segurança, o tempo de tela, as rotinas, o diário e as cartas de ficção - escolhas práticas para os pais."
+    },
+    {
+      "id": "624",
+      "slug": "graphics-design",
+      "name": "Graphics & Design",
+      "description": "Graphics & Design reúne ferramentas para criar, animar, protótipos e enviar visuais - geração de imagens de IA, editores, bibliotecas e construtores de sites - para redes sociais, anúncios, aplicativos e decks."
+    },
+    {
+      "id": "617",
+      "slug": "food-drink",
+      "name": "Alimentos e bebidas",
+      "description": "As ferramentas Food & Drink abrangem buscadores de receitas, idéias de refeições de IA, robôs de cozinha, rastreadores de calorias e reces de refeição - ajudando cozinheiros casal, viajantes a planejar, cozinhar e descobrir."
+    },
+    {
+      "id": "611",
+      "slug": "finance",
+      "name": "Finanças",
+      "description": "Você não precisa ser um contador para calcular seus próprios números. Estes aplicativos de finanças são o companheiro de contagem perfeito, e muito mais! "
+    },
+    {
+      "id": "609",
+      "slug": "extended-reality",
+      "name": "Realidade estendida",
+      "description": "A realidade estendida combina AR / VR para camadas de conteúdo digital em lugares reais, alimentando passeios por cidades, animais de estimação virtuais, treinamento, compras, guias de viagem e saúde consciente."
+    },
+    {
+      "id": "600",
+      "slug": "entertainment",
+      "name": "Entretenimento",
+      "description": "Esta categoria reúne coisas que cativam: vídeo sob demanda, hubs de criadores, criadores de mídia de IA, jogos de memes, narração de histórias de viagens, jogo de rol e aprendizagem interativa."
+    },
+    {
+      "id": "589",
+      "slug": "development",
+      "name": "Desenvolvimento",
+      "description": "O desenvolvimento abrange ferramentas que projetam, codificam, testam e implantam aplicativos - design de UI, componentes, repos / CI, backend, hospedagem e agentes de IA - para protótipos em escala."
+    },
+    {
+      "id": "582",
+      "slug": "data-analytics",
+      "name": "Dados e Analytics",
+      "description": "Cavar profundamente em insights que importam. Esses aplicativos práticos de dados e análises são tudo o que você precisa para ter sucesso.   "
+    },
+    {
+      "id": "570",
+      "slug": "business",
+      "name": "Negócios",
+      "description": "Ferramentas de negócios que ajudam os fundadores a pesquisar, lançar, vender e escalar a pesquisa, financiamento, crescimento de e-mail, agendamento, comunidades, vídeo de IA, insights de produtos."
+    },
+    {
+      "id": "553",
+      "slug": "beauty-fashion",
+      "name": "Beleza e Moda",
+      "description": "Ferramentas de beleza e moda que te estilam, crescem marcas e organizam ideias. De estilistas virtuais e fitness facial a links de criadores, pesquisas e compras éticas."
+    },
+    {
+      "id": "501",
+      "slug": "web3",
+      "name": "Web3",
+      "description": "Blockchain é o nome do jogo. Explore as possibilidades da nova web descentralizada com os melhores aplicativos Web3 para finanças, jogos, mídias sociais e muito mais!"
+    },
+    {
+      "id": "472",
+      "slug": "diversity-inclusion",
+      "name": "Diversidade e inclusão",
+      "description": "Nós crescemos mais rápido quando a voz de todos é ouvida. Estes produtos podem ajudar no caminho."
+    },
+    {
+      "id": "471",
+      "slug": "audio",
+      "name": "Áudio",
+      "description": "O áudio abrange ferramentas para streaming de música / podcasts, chamadas de voz e fala de IA - TTS, STT, dublagem, agentes de voz - e as plataformas para hospedar, escalar e integrar."
+    },
+    {
+      "id": "470",
+      "slug": "no-code",
+      "name": "Não-código",
+      "description": "Sem habilidades de codificação? Não há problema! Explore esses aplicativos sem código e fortaleça sua criatividade "
+    },
+    {
+      "id": "469",
+      "slug": "social-impact",
+      "name": "Impacto social",
+      "description": "Nós  nos  volt amos  para  esses  produtos  para  nos  sentir mos  esper an ços os  sobre  o  nosso  mundo .😊"
+    },
+    {
+      "id": "468",
+      "slug": "remote-work",
+      "name": "Trabalho remoto",
+      "description": "Se você está em um sofá, em uma praia tropical, ou nas encostas, encontre algum inspo remoto aqui."
+    },
+    {
+      "id": "435",
+      "slug": "femtech",
+      "name": "FemTech",
+      "description": "Vamos focar nas mulheres; soluções de fertilidade, aplicativo de acompanhamento do período, gravidez e cuidados de enfermagem, bem-estar sexual das mulheres, cuidados de saúde do sistema reprodutivo e muito mais."
+    },
+    {
+      "id": "402",
+      "slug": "growth-hacks",
+      "name": "Hacks de crescimento ",
+      "description": "Growth Hacks desmistificados: Ferramentas para SaaS e startups - pipelines de dados, automação de e-mail, prova social, influenciadores, lançamentos - para adquirir, converter e reter usuários."
+    },
+    {
+      "id": "375",
+      "slug": "startup-lessons",
+      "name": "Startup Lições",
+      "description": "Lance seu MVP, fale com seus clientes, esse tipo de coisa."
+    },
+    {
+      "id": "374",
+      "slug": "money",
+      "name": "Dinheiro",
+      "description": "Ferramentas de dinheiro que ajudam as empresas a serem pagas, bancárias online, controlar gastos e lidar com impostos. As escolhas abrangem pagamentos, serviços bancários de inicialização, cartões e faturamento para equipes."
+    },
+    {
+      "id": "373",
+      "slug": "work-in-progress",
+      "name": "Trabalho em progresso ",
+      "description": "Este tópico de Trabalho em Progresso apresenta ferramentas para transformar ideias em resultados: criar aplicativos e sites, pesquisar usuários, editar vídeos, recrutar talentos, financiar e lançar."
+    },
+    {
+      "id": "372",
+      "slug": "side-project",
+      "name": "Projeto Side",
+      "description": "Os projetos paralelos são empreendimentos auto-iniciados. Essas ferramentas ajudam você a planejar tarefas, codificar, pesquisar, lançar com feedback, contratar talentos, mostrar o trabalho e monetizar fãs."
+    },
+    {
+      "id": "371",
+      "slug": "maker-tools",
+      "name": "Ferramentas Maker",
+      "description": "Construa, lance e envie mais rápido: planeje, hospede, automatize, venda, colete provas, registre atualizações, seja descoberto. Para desenvolvedores indie, startups e criadores com AI."
+    },
+    {
+      "id": "366",
+      "slug": "medical",
+      "name": "Médico",
+      "description": "Aparelhos e tecnologias inteligentes revolucionam a medicina e os cuidados de saúde"
+    },
+    {
+      "id": "365",
+      "slug": "cannabis",
+      "name": "Cannabis",
+      "description": "A maconha é o novo álcool. Com a legalização varrendo todos os 50 estados, uma onda de startups está sendo lançada para ajudá - lo a desfrutar."
+    },
+    {
+      "id": "364",
+      "slug": "quantified-self",
+      "name": "Self quantificado",
+      "description": "Dados detalhados de Lifelogging podem ajudar a fazer melhores escolhas"
+    },
+    {
+      "id": "363",
+      "slug": "arkit",
+      "name": "ARKit",
+      "description": "Uma estrutura para criar experiências de Realidade Aumentada para iOS"
+    },
+    {
+      "id": "362",
+      "slug": "apple",
+      "name": "Apple",
+      "description": "Cada novo iDevice, aplicativo e computador da maior empresa🍎 do mundo."
+    },
+    {
+      "id": "361",
+      "slug": "search",
+      "name": "Pesquisa",
+      "description": "De  pes quisa ,  e - mail  e  vídeo  para  A . I ., Car ros  aut ôn omos ,  e  VR ,  o  Google  faz  tudo . Não  per ca  os  mais  rec entes  produtos ,  projet os  e  recursos  das  equip es  do  Google  em  todo  o  mundo .🌏."
+    },
+    {
+      "id": "359",
+      "slug": "wallpaper",
+      "name": "Wallpaper",
+      "description": "Embelleça e decore todas as suas telas com tudo e qualquer coisa, desde o pôr do sol sobre as montanhas até fotos artísticas de cascalhos."
+    },
+    {
+      "id": "358",
+      "slug": "home-automation",
+      "name": "Doméstica Automação",
+      "description": "Ok, Google! Quais são algumas das coisas incríveis que você pode fazer?"
+    },
+    {
+      "id": "357",
+      "slug": "alexa-skills",
+      "name": "Habilidades do Alexa",
+      "description": "🗣 Alexa, que coisas incríveis você pode fazer?"
+    },
+    {
+      "id": "356",
+      "slug": "touch-bar-apps",
+      "name": "Aplicações Touch Bar",
+      "description": "Aplicativos criados para a nova Touch Bar da Apple👇"
+    },
+    {
+      "id": "355",
+      "slug": "vacation",
+      "name": "Férias",
+      "description": "Viaje pelo mundo e experimente um lugar como você vive lá."
+    },
+    {
+      "id": "354",
+      "slug": "books",
+      "name": "Livros",
+      "description": "Não há nada como um bom livro. Expanda seus conhecimentos ou simplesmente volte com uma grande aventura."
+    },
+    {
+      "id": "353",
+      "slug": "games",
+      "name": "Jogos",
+      "description": "Encontre algo novo e emocionante para jogar em casa ou em movimento. O trabalho pode esperar. Tenha algum divertimento."
+    },
+    {
+      "id": "352",
+      "slug": "tech",
+      "name": "Tecnologia",
+      "description": "hardware ou software. invenção ou inovação. Se alguém está empurrando a tecnologia para a frente, você vai encontrá - lo aqui."
+    },
+    {
+      "id": "351",
+      "slug": "imessage-apps",
+      "name": "Aplicações iMessage",
+      "description": "Novos no iOS 10, os aplicativos estão integrados com mensagens no seu iPhone para criar e compartilhar conteúdo, adicionar adesivos, fazer pagamentos e muito mais, sem deixar a conversa. "
+    },
+    {
+      "id": "349",
+      "slug": "climate-tech",
+      "name": "Tecnologia Climática",
+      "description": "Tornar o mundo um lugar mais limpo"
+    },
+    {
+      "id": "348",
+      "slug": "pokemon",
+      "name": "Pokemon",
+      "description": "Gotta catch 'em all. Gotta upvote your favorites."
+    },
+    {
+      "id": "346",
+      "slug": "facebook-messenger",
+      "name": "Facebook Messenger",
+      "description": "As ferramentas do Facebook Messenger conectam os chats a CRMs, helpdesks, chatbots e formulários. Automatize o suporte, capture leads, agende postagens, unifique conversas com clientes"
+    },
+    {
+      "id": "345",
+      "slug": "outdoors",
+      "name": "Outdoors",
+      "description": "Outdoors significa tempo além da porta: aplicativos para planejar rotas, encontrar trilhas e campings, alugar equipamentos, escolher praias, navegar offline, estender Wi-Fi, testar novas ideias de equipamentos."
+    },
+    {
+      "id": "343",
+      "slug": "linkedin",
+      "name": "Linkedin",
+      "description": "A rede mais profissional de todos eles é mais do que apenas o site. Aqui está uma variedade de aplicativos e hacks construídos no topo da plataforma."
+    },
+    {
+      "id": "342",
+      "slug": "bots",
+      "name": "Bots",
+      "description": "Há um bot para praticamente tudo, desde recomendações de restaurantes até GIFs de gatos. BLEEP BLEEP BLEEP (em inglês)"
+    },
+    {
+      "id": "341",
+      "slug": "medium",
+      "name": "Médio",
+      "description": "Todas as coisas médias. Ferramentas que melhoram a sua experiência de escrita, conectam-se à API Medium e muito mais!"
+    },
+    {
+      "id": "308",
+      "slug": "maps",
+      "name": "Mapas",
+      "description": "Há um mapa para isso🌎"
+    },
+    {
+      "id": "307",
+      "slug": "star-wars",
+      "name": "Star Wars",
+      "description": "Jedi, droides, stormtroopers e muito mais. Você vai amar esses produtos."
+    },
+    {
+      "id": "303",
+      "slug": "menu-bar-apps",
+      "name": "Menu Bar Aplicações",
+      "description": "Pequenas aplicações que fazem coisas mágicas e vivem na barra de menu do OS X. Coletá - los todos!"
+    },
+    {
+      "id": "283",
+      "slug": "reddit",
+      "name": "Reddit",
+      "description": "A primeira página da Internet"
+    },
+    {
+      "id": "282",
+      "slug": "virtual-assistants",
+      "name": "Assistentes Virtuais",
+      "description": "Todos nós poderíamos usar um assistente pessoal. Descarregue sua lista de tarefas e economize tempo com esses serviços úteis."
+    },
+    {
+      "id": "280",
+      "slug": "snapchat",
+      "name": "Snapchat",
+      "description": "A  mais  qu ente  \" nova \"  rede  social  ef ím era  usada  para  mais  do  que  apenas  sel fies . Segu ir  o  Product H unt Te am .👻"
+    },
+    {
+      "id": "279",
+      "slug": "youtube",
+      "name": "YouTube",
+      "description": "O  lugar  para  assist ir  gat os  (e  tudo  o  mais  na  internet)📽. Aqui  estão  alguns  aplic ativos  e  sites  para  o  YouTube  melhor ."
+    },
+    {
+      "id": "278",
+      "slug": "e-commerce",
+      "name": "E-Commerce",
+      "description": "Aumente o seu negócio ou loja de casa com os melhores aplicativos de comércio eletrônico para comparação de preços, gerenciamento de fluxo de caixa e crescimento de vendas. Ka-ching! (tradução)"
+    },
+    {
+      "id": "277",
+      "slug": "delivery",
+      "name": "Entrega",
+      "description": "Até que tenhamos teletransporte, esta é a sua melhor aposta para obter qualquer coisa do ponto A para o ponto B.📦"
+    },
+    {
+      "id": "276",
+      "slug": "product-hunt",
+      "name": "Caça de Produtos",
+      "description": "O lugar para descobrir a sua próxima coisa favorita. Caça produtos, procure inspiração ou construa conosco. Nossa comunidade já criou uma tonelada de ótimos sites, extensões e aplicativos com nossa API."
+    },
+    {
+      "id": "275",
+      "slug": "on-demand",
+      "name": "On-Demand",
+      "description": "Obtenha o que quiser, quando quiser, com alguns toques. Não levante um dedo... Ok, talvez apenas um dedo."
+    },
+    {
+      "id": "274",
+      "slug": "wi-fi",
+      "name": "Wi-Fi",
+      "description": "Uma necessidade nos dias de hoje. Há um monte de produtos úteis que podem ajudá - lo a manter conectado 24 / 7. (P.S. Não joga muito bem com aviões (ainda)"
+    },
+    {
+      "id": "273",
+      "slug": "donald-trump",
+      "name": "Donald Trump",
+      "description": "Pol í tico ,  empres ário ,  persona lidade  da  televis ão ,  e  potencial mente  o  próximo  presidente  dos  Estados  Unidos ... Vamos  evitar  falar  de  política  aqui .😁"
+    },
+    {
+      "id": "272",
+      "slug": "github",
+      "name": "GitHub",
+      "description": "Software para ajudar você a escrever software."
+    },
+    {
+      "id": "271",
+      "slug": "sketch",
+      "name": "Sketch",
+      "description": "Uma alternativa ao Photoshop e Illustrator muitas vezes usado para projetar os aplicativos e sites mais populares de hoje."
+    },
+    {
+      "id": "269",
+      "slug": "augmented-reality",
+      "name": "Realidade Aumentada",
+      "description": "Transformando o mundo, a AR tem o potencial de mudar nossas vidas."
+    },
+    {
+      "id": "268",
+      "slug": "artificial-intelligence",
+      "name": "Inteligência Artificial",
+      "description": "A inteligência artificial alimenta produtos que podem escrever, raciocinar, analisar dados e tomar medidas por você. Essas categorias cobrem as principais maneiras como a IA está sendo construída e usada hoje.\n\n- * * [AI Agents] (https://www.producthunt.com/categories/ai-agents) * * - Ferramentas que usam IA para planejar, raciocinar e tomar ações em ferramentas e fluxos de trabalho, muitas vezes completando tarefas de várias etapas com entrada humana mínima.\n- * * [LLMs] (https://www.producthunt.com/categories/llms) * * - Plataformas e ferramentas construídas em torno de grandes modelos de linguagem "
+    },
+    {
+      "id": "267",
+      "slug": "developer-tools",
+      "name": "Ferramentas de Desenvolvedor",
+      "description": "Software para ajudar você a escrever software."
+    },
+    {
+      "id": "266",
+      "slug": "streaming-services",
+      "name": "Serviços de streaming",
+      "description": "Existem todos os tipos de aplicativos para \"Netflix e chill \" (no sentido literal) e melhorar sua experiência de streaming de TV / filmes."
+    },
+    {
+      "id": "265",
+      "slug": "kanye-west",
+      "name": "Kanye West",
+      "description": "Ye, Yeezy, Yeezus, Pablo, eu... Eu deixo você terminar, mas estes são alguns dos melhores produtos de todos os tempos."
+    },
+    {
+      "id": "264",
+      "slug": "biohacking",
+      "name": "Biohacking",
+      "description": "A biotecnologia é um campo fascinante onde cientistas e inovadores manipulam sistemas vivos para melhorar a maneira como funcionamos."
+    },
+    {
+      "id": "261",
+      "slug": "wearables",
+      "name": "Os wearables",
+      "description": "De  co lares  para  cã es  a  rel ó gios  de  pul so ,  há  tecnologia  vest ível  para  tudo . Agora  é  mais  fácil  do  que  nunca  medir  o  progres so  de  suas  resolu ções  de  Ano  Novo  (ou  a  falta  delas).😁"
+    },
+    {
+      "id": "260",
+      "slug": "drake",
+      "name": "Drake",
+      "description": "Era  o  plano  de  Deus  para  você  tr ope çar  com  esses  produtos  Way  2  Se xy .😉"
+    },
+    {
+      "id": "259",
+      "slug": "legal",
+      "name": "Legal",
+      "description": "Eles expuseram seu caso. Agora você é o juiz desses aplicativos e serviços legais."
+    },
+    {
+      "id": "258",
+      "slug": "transportation",
+      "name": "Transporte",
+      "description": "Infelizmente, ainda não podemos teletransportar, mas pelo menos existem aplicativos que podem nos ajudar a encontrar a rota mais eficiente e nos levar até lá."
+    },
+    {
+      "id": "256",
+      "slug": "calendar",
+      "name": "Calendário",
+      "description": "Calendário ping pong é um jogo terrível. Esses aplicativos e serviços podem ajudá - lo a gerenciar sua agenda e economizar uma tonelada de tempo."
+    },
+    {
+      "id": "254",
+      "slug": "coffee",
+      "name": "Café",
+      "description": "O tipo de Java que não é orientado a objetos PRODUÇÃO️"
+    },
+    {
+      "id": "253",
+      "slug": "tv",
+      "name": "Televisão",
+      "description": "Os  cort adores  de  cord os  têm  tantas  op ções  hoje . Ass ista  a  mais  recente  série  original  da  Netflix  ou  ca ia  na  série  inter min ável  de  ví deos  de  gat os  no  YouTube . O  maior  desa fio  é  decidir  o  que  ver . Es ses  sites  e  apps  podem  ajudar .📺"
+    },
+    {
+      "id": "252",
+      "slug": "meetings",
+      "name": "Reuniões",
+      "description": "Bem-vindo à idade adulta, onde as reuniões são inevitáveis. Apenas certifique-se de que você está usando as ferramentas certas para agendar e executar reuniões produtivas."
+    },
+    {
+      "id": "251",
+      "slug": "photography",
+      "name": "Fotografia",
+      "description": "Se  você  é  famoso  no  Instagram  ou  simples mente  um  ent usi asta  de  fotografia ,  exist em  muitos  aplic ativos  e  produtos  para  tornar  essa  selfie  ou  nas cer  do  sol  em  lap so  de  tempo  ainda  mais  bonita .📷"
+    },
+    {
+      "id": "250",
+      "slug": "travel",
+      "name": "Viagens",
+      "description": "Tantos lugares para ver. De praias, às montanhas, explore o mundo e satisfaça seu desejo interior de maravilha."
+    },
+    {
+      "id": "249",
+      "slug": "global-nomad",
+      "name": "Nômade Global",
+      "description": "Nem todos os que vagam estão perdidos. Alguns viajam com a sua casa nas costas, vivendo e trabalhando em cidades ao redor do mundo.🌍 Agora existem sites para ajudar os nômades a se encontrarem, reservar um lugar para ficar e, o mais importante, encontrar Wi-Fi gratuito."
+    },
+    {
+      "id": "248",
+      "slug": "privacy",
+      "name": "Privacidade",
+      "description": "Você não precisa usar um chapéu de folha de alumínio para se esconder da NSA. Existem apps para isso."
+    },
+    {
+      "id": "247",
+      "slug": "software-engineering",
+      "name": "Engenharia de Software",
+      "description": "Software para ajudar você a escrever software."
+    },
+    {
+      "id": "246",
+      "slug": "emulators",
+      "name": "Emuladores",
+      "description": "Coceira para executar o seu jogo favorito da sua infância? Mas desistiu do seu antigo Atari na venda de garagem familiar?É bom que existe um emulador para isso."
+    },
+    {
+      "id": "243",
+      "slug": "website-builder",
+      "name": "Construtor de site",
+      "description": "Crie e desenhe seu próprio site bonito sem uma linha de código."
+    },
+    {
+      "id": "242",
+      "slug": "wordpress",
+      "name": "WordPress",
+      "description": "O sistema de gerenciamento de conteúdo que você provavelmente usa todos os dias sem saber. WordPress alimenta 25% de toda a internet. Isso é muita internet."
+    },
+    {
+      "id": "237",
+      "slug": "saas",
+      "name": "SaaS é",
+      "description": "O software está comendo o mundo Nós reunimos aqui os culpados."
+    },
+    {
+      "id": "232",
+      "slug": "internet-of-things",
+      "name": "Internet das Coisas",
+      "description": "Conecte tudo à internet, desde a iluminação da sua casa até os expressos conectados. Obrigado por fazer café, Jarrett."
+    },
+    {
+      "id": "231",
+      "slug": "seo",
+      "name": "SEO",
+      "description": "A primeira página de uma pesquisa no Google é tão importante, porque, vamos encará - la, quem realmente chega à página 2? Melhorar a sua visibilidade, aumentar o seu ranking e obter mais visitantes, implementando algumas dessas dicas, truques e ferramentas. "
+    },
+    {
+      "id": "230",
+      "slug": "crowdfunding",
+      "name": "Crowdfunding",
+      "description": "Cada  pouco  ajuda . E  assim  também  fazem  essas  ferram entas  de  crowd fund ing  quando  você  está  procur ando💰."
+    },
+    {
+      "id": "228",
+      "slug": "beauty",
+      "name": "Beleza",
+      "description": "As pessoas lindas e lindas compartilham seus produtos de beleza favoritos aqui."
+    },
+    {
+      "id": "227",
+      "slug": "space",
+      "name": "Espaço",
+      "description": "Explore novas galáxias do conforto de um fone de ouvido de RV ou decolagem para o espaço através de um livro de ficção científica. PRO DICA: a resposta é 42. Não ✨"
+    },
+    {
+      "id": "226",
+      "slug": "djing",
+      "name": "DJing",
+      "description": "Mantenha o baixo! Obtenha uma cabine e alguma ajuda destes:"
+    },
+    {
+      "id": "224",
+      "slug": "baseball",
+      "name": "Baseball",
+      "description": "Pegue seus amendoim e crackerjacks, é hora de mergulhar em um dos esportes mais populares (e nostálgicos) do mundo. PRODUÇÃO SUN️"
+    },
+    {
+      "id": "223",
+      "slug": "party",
+      "name": "Partido",
+      "description": "Grab your friends 👯 and your best playlist 🎶. Get loose! 🎉"
+    },
+    {
+      "id": "221",
+      "slug": "comics-graphic-novels",
+      "name": "Comics e Graphic Novels",
+      "description": "Quando  todo  o  multi verso  aparece  em  seu  feed . Manga  também .😍"
+    },
+    {
+      "id": "220",
+      "slug": "boxing",
+      "name": "Boxe",
+      "description": "Colo que  lu vas  intelig entes  iP unch  e  trabal he  nesse  gan cho  direito ,  ou  come ce  lent amente  com  um  jogo  para  dispositivos  mó veis  como  o  Real  Box ing  2  C RE ED . Fl utu ando  como  uma  bor bo leta  e  pic ando  como  uma  ab el ha .👊"
+    },
+    {
+      "id": "219",
+      "slug": "swimming",
+      "name": "Natação",
+      "description": "Pegue seus speedos, obtenha sua técnica certa, e girar como um profissional. Ou simplesmente doggy paddle."
+    },
+    {
+      "id": "218",
+      "slug": "skateboarding",
+      "name": "Skateboarding",
+      "description": "Você pode não ser Tony Hawk (ainda!) Mas você ainda pode compartilhar fotos no Krak e viajar para trabalhar no Boosted Board elétrico."
+    },
+    {
+      "id": "217",
+      "slug": "couples",
+      "name": "Casais",
+      "description": "Comun ic ar  e  compar til har  o  seu  amor  em  particular  com  o  seu  boo .😘"
+    },
+    {
+      "id": "214",
+      "slug": "photoshop",
+      "name": "Photoshop",
+      "description": "Ferramentas para as pessoas que nomeam suas camadas. Bom - e os que não fazem, também"
+    },
+    {
+      "id": "213",
+      "slug": "text-editors",
+      "name": "Editores de texto",
+      "description": "Quando Post-Its não cortá - lo mais, use estes para editar tudo o que você escreve."
+    },
+    {
+      "id": "212",
+      "slug": "crypto",
+      "name": "Criptografia",
+      "description": "Bitcoin, Litecoin e Dogecoin. A criptomoeda tem a capacidade de mudar a forma como transacionamos e muito mais."
+    },
+    {
+      "id": "211",
+      "slug": "batteries",
+      "name": "Baterias",
+      "description": "A  ansi edade  de  bat eria  baixa  é  o  pior  dos  problemas  do  primeiro  mundo . Aqui  estão  algumas  bateri as  extern as  e  produtos  para  manter  seus  dispositivos  totalmente  car reg ados .🔋"
+    },
+    {
+      "id": "210",
+      "slug": "accessories",
+      "name": "Acessórios",
+      "description": "Não  há  nada  pior  do  que  uma  tela  de  telefone  rach ada ,  mas  os  casos  podem  fazer  muito  mais  do  que  apenas  proteger  o  seu  telefone . Pr ong  alimenta  telef ones  celu lares  o  dia  todo ,  Hand L  é  sem  ader ência  e  vem  com  um  su porte ,  e  o  caso  L ighter  da  S no op  vem  com   -  você  adi vin hou   -  um  is que iro .🔥"
+    },
+    {
+      "id": "209",
+      "slug": "languages",
+      "name": "Línguas",
+      "description": "Venha aqui! Entre! Entrando! Intra! Isso é \"entrar \" se você ainda não é um políglota."
+    },
+    {
+      "id": "208",
+      "slug": "venture-capital",
+      "name": "Venture Capital",
+      "description": "Vamos  saber  como  podemos  ser  ú te is .🙃"
+    },
+    {
+      "id": "207",
+      "slug": "advertising",
+      "name": "Publicidade",
+      "description": "Nós conseguimos usar tantos serviços gratuitos graças à publicidade. Aproveite ao máximo o seu orçamento de anúncios e ganhe receita com algumas dessas ferramentas."
+    },
+    {
+      "id": "206",
+      "slug": "growth-hacking",
+      "name": "Hacking de crescimento",
+      "description": "Todos nós estamos procurando o bastão de hóquei. Aqui estão algumas coisas que podem ajudar, mas primeiro siga este tópico agora. # GrowthHacking"
+    },
+    {
+      "id": "205",
+      "slug": "time-tracking",
+      "name": "Tempo de rastreamento",
+      "description": "O tempo está sempre nos escapando. Rastrear o que você está fazendo para que você possa ser mais eficiente com o recurso mais precioso da vida."
+    },
+    {
+      "id": "204",
+      "slug": "education",
+      "name": "Educação",
+      "description": "Aprender, fazer, ensinar. Aprenda sempre!"
+    },
+    {
+      "id": "203",
+      "slug": "investing",
+      "name": "Investimento",
+      "description": "Estes podem apenas levar você \"para o moooon\"🚀"
+    },
+    {
+      "id": "202",
+      "slug": "novels",
+      "name": "Novel",
+      "description": "Abra a sua imaginação e se perca em uma boa história."
+    },
+    {
+      "id": "199",
+      "slug": "pets",
+      "name": "Pets",
+      "description": "Seu novo melhor amigo que não fala de volta (porque eles não são humanos)."
+    },
+    {
+      "id": "198",
+      "slug": "cats",
+      "name": "Gatos",
+      "description": "O  animal  favor ito  da  internet . Me ow !😸"
+    },
+    {
+      "id": "194",
+      "slug": "thriller-books",
+      "name": "Livros Thriller",
+      "description": "Página giradores que torcem e giram e nos mantêm na borda do nosso assento."
+    },
+    {
+      "id": "193",
+      "slug": "horror-books",
+      "name": "Livros de terror",
+      "description": "Acenda a luz da noite e enrole-se com um romance assustador."
+    },
+    {
+      "id": "182",
+      "slug": "science-books",
+      "name": "Livros de ciência",
+      "description": "Limos este livro sobre hélio uma vez. Não conseguimos colocá - lo para baixo."
+    },
+    {
+      "id": "181",
+      "slug": "fashion-books",
+      "name": "Livros de moda",
+      "description": "Anna Wintour ficaria orgulhosa do seu conhecimento da moda. Leia o seu caminho para um visual fabuloso."
+    },
+    {
+      "id": "180",
+      "slug": "yoga-books",
+      "name": "Livros de Yoga",
+      "description": "Encontre o seu zen interior (e obtenha um bom exercício) com as técnicas compartilhadas nesses livros."
+    },
+    {
+      "id": "179",
+      "slug": "design-books",
+      "name": "Livros de design",
+      "description": "Tornar-se o próximo Jony Ive é difícil, mas estes são um bom lugar para começar."
+    },
+    {
+      "id": "178",
+      "slug": "startup-books",
+      "name": "Livros Startup",
+      "description": "Alguns fundadores e startups pensaram que você poderia aprender com esses livros."
+    },
+    {
+      "id": "177",
+      "slug": "crime-books",
+      "name": "Livros de crime",
+      "description": "Torne-se Sherlock Holmes, sem sair da cama. Pegue um livro e veja se você consegue resolver o crime antes do último capítulo."
+    },
+    {
+      "id": "176",
+      "slug": "cooking",
+      "name": "Cozinhar",
+      "description": "Transforme os ingredientes crus em deliciosas refeições para sua família e amigos.É como mágica."
+    },
+    {
+      "id": "175",
+      "slug": "art-books",
+      "name": "Livros de arte",
+      "description": "Prometa não julgá - lo se você obtê isso apenas para sua mesa de café."
+    },
+    {
+      "id": "174",
+      "slug": "cookbooks",
+      "name": "Cookbooks",
+      "description": "Você já dominou a arte da cozinha francesa?! Experimente isso, chefe."
+    },
+    {
+      "id": "173",
+      "slug": "history-books",
+      "name": "Livros de História",
+      "description": "Aprenda mais sobre o passado, porque o passado se repete, então é melhor estar preparado."
+    },
+    {
+      "id": "172",
+      "slug": "biking",
+      "name": "Bicicletas",
+      "description": "Deslize em seu spandex, alonge as pernas e explore esses produtos antes de pular em sua bicicleta."
+    },
+    {
+      "id": "170",
+      "slug": "charity-giving",
+      "name": "Caridade & Giving",
+      "description": "Há muitas maneiras de ajudar os outros com alguns toques no seu telefone. Doe seu tempo ou dinheiro para pessoas sem-teto, deficientes e outros que precisam de ajuda."
+    },
+    {
+      "id": "168",
+      "slug": "fighting-games",
+      "name": "Jogos de luta",
+      "description": "Estes são para todos vocês que acordaram esta manhã e escolheram a violência."
+    },
+    {
+      "id": "167",
+      "slug": "crafting-games",
+      "name": "Crafting Games (em inglês)",
+      "description": "É como o DIY nos videogames. Faça sua própria diversão."
+    },
+    {
+      "id": "166",
+      "slug": "simulation-games",
+      "name": "Simulação de jogos",
+      "description": "De cabras a caminhão, há um simulador para tudo. Viva uma vida diferente sem deixar seu trabalho em tempo integral."
+    },
+    {
+      "id": "165",
+      "slug": "isometric-games",
+      "name": "Jogos Isométricos",
+      "description": "O 2D pode ser muito limitante. Desvia a visão e explore esses lindos títulos isométricos."
+    },
+    {
+      "id": "164",
+      "slug": "marketing",
+      "name": "Marketing",
+      "description": "Espalhe a palavra: os aplicativos de marketing podem ajudá - lo a maximizar seu alcance, envolver seu público e gerar conversões da maneira fácil "
+    },
+    {
+      "id": "163",
+      "slug": "historical-games",
+      "name": "Jogos históricos",
+      "description": "É  hora  de  mostrar  essa  grande  mem ória  de  elef ante  com  um  desses  jogos .🐘"
+    },
+    {
+      "id": "162",
+      "slug": "tower-defense-games",
+      "name": "Jogos de Tower Defense",
+      "description": "A aproximação do inimigo. Coloque suas barreiras e certifique-se de que ninguém entre."
+    },
+    {
+      "id": "161",
+      "slug": "word-games",
+      "name": "Jogos de palavra",
+      "description": "Pronto para um desafio além do seu dia-a - dia?"
+    },
+    {
+      "id": "160",
+      "slug": "funny-games",
+      "name": "Jogos engraçados",
+      "description": "Se você perdeu esses jogos, pelo menos você teve uma risada."
+    },
+    {
+      "id": "159",
+      "slug": "drinking",
+      "name": "Beber",
+      "description": "Vi va  para  novas  beb idas  e  novas  mane iras  de  apreci á  -  las !🍻 "
+    },
+    {
+      "id": "157",
+      "slug": "kids",
+      "name": "crianças",
+      "description": "Os jogos podem ser divertidos e educativos. Estes jogos vão ajudar seu filho a aprender, crescer e ter um bom tempo."
+    },
+    {
+      "id": "156",
+      "slug": "retro-games",
+      "name": "Jogos Retro",
+      "description": "Quantas vezes você é atingido por uma \"onda de nostalgia \"? Sim, nós também. Leia-se nisso com estes:"
+    },
+    {
+      "id": "155",
+      "slug": "zombie-games",
+      "name": "Jogos Zombies",
+      "description": "Você vai sobreviver ao apocalipse zumbi? Aqui estão algumas maneiras de descobrir."
+    },
+    {
+      "id": "154",
+      "slug": "fantasy-games",
+      "name": "Jogos de fantasia",
+      "description": "A vida real pode ficar entediada. Voe dragões, lance feitiços e batalhe contra trolls em seus pijamas."
+    },
+    {
+      "id": "153",
+      "slug": "sci-fi-games",
+      "name": "Jogos de Sci-Fi",
+      "description": "Explore mundos irreais e inacessíveis do espaço às selvas jurássicas."
+    },
+    {
+      "id": "152",
+      "slug": "free-games",
+      "name": "Jogos gratuitos",
+      "description": "Todos nós amamos jogos, mas nem sempre temos o dinheiro para eles. Estes jogos lhe darão uma tonelada de diversão sem estender seu orçamento."
+    },
+    {
+      "id": "151",
+      "slug": "mmos",
+      "name": "MMOs",
+      "description": "Os jogos são melhores com os outros. Conecte-se com amigos para uma invasão, ou faça novos amigos em terras distantes."
+    },
+    {
+      "id": "150",
+      "slug": "puzzle-games",
+      "name": "Jogos de Puzzle",
+      "description": "Faça seu cérebro trabalhar horas extras com quebra-cabeças de mente."
+    },
+    {
+      "id": "149",
+      "slug": "sports-games",
+      "name": "Jogos esportivos",
+      "description": "Futebol, futebol, hóquei, basquete, beisebol. Agora você pode jogar todos eles, sem quebrar um suor."
+    },
+    {
+      "id": "148",
+      "slug": "open-world-games",
+      "name": "Jogos de Mundo Aberto",
+      "description": "Com esses jogos, você pode ir onde quiser, sempre que quiser. Tempo para explorar."
+    },
+    {
+      "id": "147",
+      "slug": "strategy-games",
+      "name": "Jogos de estratégia",
+      "description": "Alguns de nós gostam de desligar nossos cérebros e botões de mash. Outros preferem um desafio intelectual, planejam metodicamente cada movimento. Desafie o seu cérebro com esses jogos."
+    },
+    {
+      "id": "146",
+      "slug": "indie-games",
+      "name": "Jogos Indie",
+      "description": "Tanta paixão e amor vai para jogos independentes.É incrível o que se pode fazer com um orçamento pequeno e apenas algumas pessoas."
+    },
+    {
+      "id": "145",
+      "slug": "adventure-games",
+      "name": "Jogos de aventura",
+      "description": "Gosto de aventura, mas valorizando a sua vida? Isso é compreensível. Felizmente, podemos explorar masmorras perigosas e mares implacáveis do conforto de nossa casa. Carregue seu equipamento e prepare-se para um ótimo momento."
+    },
+    {
+      "id": "144",
+      "slug": "action-games",
+      "name": "Jogos de ação",
+      "description": "Você quer que seus jogos pareçam criados por Michael Bay? Confira esses títulos de bombeamento do coração se você é um fã de cenas cinematográficas e ação exagerada."
+    },
+    {
+      "id": "143",
+      "slug": "horror-games",
+      "name": "Jogos de terror",
+      "description": "Não  vá  lá  dentro . Então  fa ça  isso  e  diga - nos  o  que  acontece .🙈 "
+    },
+    {
+      "id": "142",
+      "slug": "platformers",
+      "name": "Plataformas",
+      "description": "Os platformers estão em torno de videogames há muito tempo e por uma boa razão. Jogue pelo mundo colorido de Mario para os perigos implacáveis em Super Meat Boy."
+    },
+    {
+      "id": "141",
+      "slug": "driving-games",
+      "name": "Jogos de condução",
+      "description": "Todos nós amamos dirigir rápido. Se você quer se tornar Ricky Bobby por uma tarde, pegue ao volante desses velocistas."
+    },
+    {
+      "id": "140",
+      "slug": "rpgs",
+      "name": "RPGs",
+      "description": "Você tem uma nova missão! Converse com os criadores e descubra o seu novo jogo favorito."
+    },
+    {
+      "id": "139",
+      "slug": "first-person-shooter",
+      "name": "Shooter em primeira pessoa",
+      "description": "Bloquear e carregar!É hora de entrar na ação cara a cara com zumbis, robôs e ninjas. Boa sorte."
+    },
+    {
+      "id": "138",
+      "slug": "meditation",
+      "name": "Meditação",
+      "description": "A tecnologia pode aumentar a pressão arterial, mas também pode ajudar a curar a ansiedade diária. Faça uma pausa, limpe a mente, alivie o estresse. Há um app para isso."
+    },
+    {
+      "id": "137",
+      "slug": "moving-storage",
+      "name": "Movimento & Armazenamento",
+      "description": "Se você está se movendo pelo mundo ou limpando o lixo sob a sua escada, há muitos serviços para ajudar (e salvar suas costas)."
+    },
+    {
+      "id": "135",
+      "slug": "branding",
+      "name": "Branding",
+      "description": "Saiba quem você é e certifique-se de que todos os outros o fazem."
+    },
+    {
+      "id": "134",
+      "slug": "icons",
+      "name": "ícones",
+      "description": "Não, Cher. O outro tipo de ícone - e muitos deles."
+    },
+    {
+      "id": "132",
+      "slug": "typography",
+      "name": "Tipografia",
+      "description": "Bom dia para todos, exceto para aqueles que não estão com o Comic Sans."
+    },
+    {
+      "id": "131",
+      "slug": "spreadsheets",
+      "name": "Spreadsheet (em inglês)",
+      "description": "Tabelas gigantes de informações para o seu prazer organizacional. Coloque os números neles. Coloque palavras neles. Coloque GIFs nele! Cabe a você."
+    },
+    {
+      "id": "130",
+      "slug": "a-b-testing",
+      "name": "Testes A / B",
+      "description": "Não existe inovação sem experimentação. Deixe seu público decidir o que funciona melhor com essas ferramentas."
+    },
+    {
+      "id": "128",
+      "slug": "email-marketing",
+      "name": "Email Marketing",
+      "description": "O e-mail ainda é um dos canais mais pegajosos para se comunicar com seus usuários. E-mail melhor com algumas dessas ferramentas de marketing."
+    },
+    {
+      "id": "125",
+      "slug": "hardware",
+      "name": "Hardware",
+      "description": "O software pode estar comendo o mundo, mas não é nada sem hardware."
+    },
+    {
+      "id": "124",
+      "slug": "ad-blockers",
+      "name": "Bloqueadores de Ad",
+      "description": "Navegue na web mais rápido e livre-se desses pop-ups irritantes e anúncios desagradáveis com bloqueadores de anúncios para o seu computador e smartphone. Não se preocupe, nós não vamos contar."
+    },
+    {
+      "id": "123",
+      "slug": "customer-communication",
+      "name": "Comunicação do cliente",
+      "description": "O  cliente  tem  sempre  razão ,  certo ? De  ferram entas  de  su porte  ao  cliente  a  serviços  de  cart ões  manus crit os ,  exist em  muitas  mane iras  de  fazer  seus  usu ários  sor rir em .😊"
+    },
+    {
+      "id": "122",
+      "slug": "prototyping",
+      "name": "Protótipos",
+      "description": "Traga a sua ideia à vida super rápido com wireframes rápidos e sujos, maquetes e protótipos funcionais. Não se preocupe se não for perfeito."
+    },
+    {
+      "id": "119",
+      "slug": "payments",
+      "name": "Pagamentos",
+      "description": "Pague-se! Troque dinheiro usando mais do que apenas esses papéis antigos e pedaços de metal."
+    },
+    {
+      "id": "117",
+      "slug": "backpacks",
+      "name": "Backpacks (em inglês)",
+      "description": "Causando uma má postura desde o jardim de infância, mochilas podem ser uma dor. Mas eles também são bastante úteis, se você está balançando uma bolsa P.MAI elegante ou brincalhão (não efêmero) mochila fantasma Snapchat."
+    },
+    {
+      "id": "116",
+      "slug": "tennis",
+      "name": "Tennis (em inglês)",
+      "description": "Você  pode  precisar  trabalhar  no  seu  back s wing ,  mas  todo  mundo  ama  tên is !🎾"
+    },
+    {
+      "id": "115",
+      "slug": "golf",
+      "name": "Golfe",
+      "description": "O golfe pode ser um dos esportes mais lentos inventados, mas também é um dos mais desafiadores, onde até o menor erro lhe custará a jaqueta verde. Agora temos aplicativos e tecnologia avançada para nos ajudar a atingir resultados de nível Tiger. PRODUÇÃO SUN️"
+    },
+    {
+      "id": "114",
+      "slug": "soccer",
+      "name": "Futebol",
+      "description": "Alguns podem discordar do seu nome real, mas todos podemos concordar que é fantástico!⚽️"
+    },
+    {
+      "id": "113",
+      "slug": "football",
+      "name": "Futebol",
+      "description": "Não  há  nada  como  jogar  ao  redor  da  pele  de  por co  ole . Para  que  mais  são  os  dom ingos ?🏈"
+    },
+    {
+      "id": "112",
+      "slug": "basketball",
+      "name": "Basquete",
+      "description": "Você  pode  não  ter  6  ' 6  \",  mas  você  ainda  pode  des fr utar  de  um  jogo  de  bas qu ete  5  contra  5  (ou  H . O . R . S . E . com  alguns  amigos).🏀"
+    },
+    {
+      "id": "111",
+      "slug": "sports",
+      "name": "Esporte",
+      "description": "Se ja  que  envol vam  ch utar ,  jogar  ou  p egar ,  todos  nós  am amos  esport es .⚽️🏈🏀"
+    },
+    {
+      "id": "110",
+      "slug": "robots",
+      "name": "Robôs",
+      "description": "Claro, eles podem um dia dominar o mundo, mas por enquanto os robôs são muito legais! Vamos desfrutá - los enquanto pudermos."
+    },
+    {
+      "id": "108",
+      "slug": "analytics",
+      "name": "Análise",
+      "description": "Desde a análise do tráfego do site até a compreensão do comportamento do cliente, esses principais aplicativos de análise tornam a obtenção de insights valiosos uma tarefa fácil. "
+    },
+    {
+      "id": "107",
+      "slug": "storage",
+      "name": "Armazenamento",
+      "description": "Armazenar e ter acesso a todos os seus arquivos sempre e onde quer que você esteja."
+    },
+    {
+      "id": "105",
+      "slug": "gifs",
+      "name": "Gifs",
+      "description": "Não  há  mante iga  de  am endo im  aqui . Apenas  G if s .😉"
+    },
+    {
+      "id": "104",
+      "slug": "social-media",
+      "name": "Mídia Social",
+      "description": "# GrowthHacke seu Twitter seguindo e se tornar um ninja de mídia social com estas ferramentas. Mas, primeiro, siga-nos em @ ProductHunt. # Teamfollowback"
+    },
+    {
+      "id": "103",
+      "slug": "dating",
+      "name": "Datação",
+      "description": "En contre  sua  alma  g ême a  (ou  talvez  apenas  um  novo  amigo)  em  alguns  mov imentos ,  to ques  e  troc as  de  em oj is .😽"
+    },
+    {
+      "id": "102",
+      "slug": "social-network",
+      "name": "Rede Social",
+      "description": "Conecte-se e fique em contato com todos os que você já conheceu. digitalmente."
+    },
+    {
+      "id": "101",
+      "slug": "twitter",
+      "name": "Twitter",
+      "description": "Compartilhe seus pensamentos com o mundo em 140 caracteres. A menos que você esteja usando o OneShot. Tweet como um profissional e explore o vasto universo dos aplicativos do Twitter."
+    },
+    {
+      "id": "100",
+      "slug": "movies",
+      "name": "Filmes",
+      "description": "Long live cinema! Find your next go-to flick with these products."
+    },
+    {
+      "id": "97",
+      "slug": "3d-printer",
+      "name": "Impressora 3D",
+      "description": "Magicamente, vão de interpretações digitais a protótipos totais. A impressão 3D permite pensar, criar e construir coisas multidimensionais, de jóias a brinquedos a selfies (sim, realmente)."
+    },
+    {
+      "id": "96",
+      "slug": "notes",
+      "name": "Notas",
+      "description": "Você ainda usa post-its para todas essas tarefas importantes? Experimente essas ferramentas."
+    },
+    {
+      "id": "95",
+      "slug": "public-relations",
+      "name": "Relações Públicas",
+      "description": "Levar a sua história para as pessoas certas pode ser difícil, mas com ferramentas como PR in a Box e PR Stack, está ficando mais fácil."
+    },
+    {
+      "id": "94",
+      "slug": "fintech",
+      "name": "Fintech",
+      "description": "Quem vai ser o próximo Stripe, Coinbase ou Revolut?"
+    },
+    {
+      "id": "93",
+      "slug": "user-experience",
+      "name": "Experiência do usuário",
+      "description": "O seu produto é fácil de entender e usar? Se você não tem certeza, aqui estão algumas ferramentas para descobrir."
+    },
+    {
+      "id": "92",
+      "slug": "cars",
+      "name": "Carros",
+      "description": "V room  v room ,  be ep  be ep ! Trans forme  o  seu  Son ata  em  um  carro  inteligente  com  o  Autom ático ,  condu za  com  mais  segurança  com  o  Nav dy  ou  tenha  um  novo  chico te  entre gue  com  o  S kur t .🚗💨"
+    },
+    {
+      "id": "90",
+      "slug": "writing",
+      "name": "Escrever",
+      "description": "Shakespeare não usava aplicativos sofisticados, mas nem todos somos Shakespeare. Aqui estão algumas coisas que o ajudarão a escrever melhor."
+    },
+    {
+      "id": "89",
+      "slug": "open-source",
+      "name": "Open Source",
+      "description": "Compartilhar é cuidar. Construa grandes coisas juntos."
+    },
+    {
+      "id": "88",
+      "slug": "api-1",
+      "name": "API",
+      "description": "Os produtos API-first facilitam a construção, integração e escala de software para desenvolvedores. Confira estas categorias para explorar as ferramentas e plataformas que as equipes usam para enviar e adotar APIs:\r\n\r\n- * * [Unified APIs] (https://www.producthunt.com/categories/unified-api) * * - APIs que abstraem vários serviços por trás de uma única interface, tornando as integrações mais rápidas e reduzindo a sobrecarga de manutenção.\r\n- * * [Plataformas] (https://www.producthunt.com/categories/platforms) * * - Plataformas de desenvolvedores que expõem APIs como t"
+    },
+    {
+      "id": "87",
+      "slug": "weather",
+      "name": "Tempo",
+      "description": "Você pode olhar para fora para ver se está chovendo, ou você pode olhar para o seu smartphone. Preveja o futuro e planeje o seu dia com aplicativos meteorológicos mágicos e adivinhosos."
+    },
+    {
+      "id": "85",
+      "slug": "newsletters",
+      "name": "Newsletters",
+      "description": "O  e - mail  está  longe  de  morrer . Na  verdade ,  é  o  lar  de  alguns  dos  melh ores  conte ú dos  da  Internet ,  como  o  res umo  di ário  da  Product  Hunt .😁"
+    },
+    {
+      "id": "84",
+      "slug": "events",
+      "name": "Eventos",
+      "description": "Planejar um casamento, festa ou brunch com amigos? Essas ferramentas ajudarão."
+    },
+    {
+      "id": "82",
+      "slug": "parenting",
+      "name": "Parenting",
+      "description": "Seja conhecedor e aproveite o passeio selvagem da paternidade. Se você precisar de ajuda, existem alguns ótimos recursos e aplicativos para você e sua família."
+    },
+    {
+      "id": "81",
+      "slug": "adult-coloring-books",
+      "name": "Livros de coloração para adultos",
+      "description": "Os  liv ros  de  color ir  não  são  apenas  para  crianças . T ire  uma  carga  e  rela xe  com  a  cor . Apenas  certi fique - se  de  ficar  nas  lin has .🎨"
+    },
+    {
+      "id": "80",
+      "slug": "wine",
+      "name": "Vinho",
+      "description": "Estes produtos têm notas de grandeza e pernas para gotejar em sua rotação noturna."
+    },
+    {
+      "id": "79",
+      "slug": "surfing",
+      "name": "Surfagem",
+      "description": "Co wab unga  meus  car as  e  dud ettes ! Peg ue  um  ta bule iro  e  vamos  bater  na  água .🏄"
+    },
+    {
+      "id": "78",
+      "slug": "dogs",
+      "name": "Cães",
+      "description": "Aqu ele  ca chor ro  fu zzy  ' ol  com  a  língua  fora  é  o  seu  melhor  amigo . Há  muitas  mane iras  de  mostrar  o  seu  amor ,  então  certi fique - se  de  que  ele  tem  os  melh ores  cuid ados  para  manter  o  seu  c ão  sor r indo .🐶"
+    },
+    {
+      "id": "76",
+      "slug": "art",
+      "name": "Arte",
+      "description": "Existem um milhão de maneiras de criar arte e há muitas ferramentas para ajudar a obter esses sucos criativos fluindo. Expressar-se!"
+    },
+    {
+      "id": "74",
+      "slug": "fashion",
+      "name": "Fashion",
+      "description": "Você tem o assento da frente nesta passarela. O que está acontecendo na bolsa?"
+    },
+    {
+      "id": "73",
+      "slug": "home",
+      "name": "Home",
+      "description": "Viva no futuro com os mais recentes dispositivos conectados, móveis feitos para conforto e robôs. Sim, os robôs."
+    },
+    {
+      "id": "72",
+      "slug": "freelance",
+      "name": "Freelance",
+      "description": "Nós te vemos, freelancer. Sua missão é uma moagem, mas ferramentas úteis e comunidade estão aqui."
+    },
+    {
+      "id": "71",
+      "slug": "sales",
+      "name": "Vendas",
+      "description": "Um bom produto não é muito sem vendas. Melhore sua conversa e chegue ao fim com algumas dessas ferramentas úteis."
+    },
+    {
+      "id": "70",
+      "slug": "jewelry",
+      "name": "Jóias",
+      "description": "O café da manhã na Tiffany 's não é uma má maneira de começar o dia, mas há muitas opções para adicionar estilo ao seu vestuário. Encontre o design perfeito que fale com você ou faça a sua própria peça que seja única para você."
+    },
+    {
+      "id": "68",
+      "slug": "video-streaming",
+      "name": "Streaming de vídeo",
+      "description": "Ainda assistindo? Obviamente. Faça uma pausa para percorrer o mais recente no streaming."
+    },
+    {
+      "id": "67",
+      "slug": "standing-desks",
+      "name": "Mesa em pé",
+      "description": "Se  a  ci ência  diz  ficar  de  pé ,  nós  vamos  ficar  de  pé👫. De  US  $25  a  US  $2. 500 ,  há  uma  mesa  de  pé  para  todos ."
+    },
+    {
+      "id": "66",
+      "slug": "soundcloud",
+      "name": "Soundcloud",
+      "description": "Explore a maior comunidade de artistas, bandas, podcasters e criadores de música, e todos os aplicativos construídos em cima desta incrível plataforma de som."
+    },
+    {
+      "id": "65",
+      "slug": "spotify",
+      "name": "Spotify",
+      "description": "Qual  é  a  sua  maneira  favor ita  de  transmit ir  a  melhor  música ? Defin ir  o  humor  com  uma  play list  perfe ita  ou  começar  a  festa  bump in  com  os  mais  do entes  bang ers .🎶"
+    },
+    {
+      "id": "64",
+      "slug": "amazon",
+      "name": "Amazônia",
+      "description": "A \"libraria \" que vende T.P. e tudo o que você está procurando."
+    },
+    {
+      "id": "63",
+      "slug": "instagram",
+      "name": "Instagram",
+      "description": "Você  sabia  que  você  pode  ag endar  suas  pos tag ens  no  Instagram ,  transform ar  suas  melh ores  fotos  em  mar sh mal lo ws  com est íveis  e  obter  anál ises  detal h adas  para  todas  as  suas  fotos ? Ex istem  apps  para  isso .📷"
+    },
+    {
+      "id": "61",
+      "slug": "anonymous",
+      "name": "Anônimo",
+      "description": "Quem você é? De quem você está? Ele sabe quem ela é?👻 Eu também não sei."
+    },
+    {
+      "id": "60",
+      "slug": "messaging",
+      "name": "Mensagem",
+      "description": "O texto simples pode ser tão chato. Encontre uma nova maneira de temperar sua comunicação."
+    },
+    {
+      "id": "59",
+      "slug": "sneakers-shoes",
+      "name": "Sneakers e sapatos",
+      "description": "Sneakers, stilettos ou tacos com meias? Nós não julgamos, mas você pode."
+    },
+    {
+      "id": "57",
+      "slug": "music",
+      "name": "Música",
+      "description": "Skip ou repetição? Seu novo tune favorito está aqui? "
+    },
+    {
+      "id": "55",
+      "slug": "customer-success",
+      "name": "Sucesso do cliente",
+      "description": "Cite algo melhor do que uma experiência de cliente agradável. Nós vamos esperar."
+    },
+    {
+      "id": "54",
+      "slug": "custom-keyboards",
+      "name": "Teclado Custom",
+      "description": "Os teclados são para mais do que apenas digitar. Compartilhe sua localização, envie o GIF perfeito e fale em emojis usando teclados personalizados no seu iPhone."
+    },
+    {
+      "id": "53",
+      "slug": "dj-khaled",
+      "name": "DJ Khaled",
+      "description": "\"Anotha um \", levante a mão se você já sabe de quem estamos."
+    },
+    {
+      "id": "52",
+      "slug": "celebrities",
+      "name": "Celebrities",
+      "description": "Nós amamos um crossover de Hollywood e tecnologia."
+    },
+    {
+      "id": "51",
+      "slug": "politics",
+      "name": "Políticas",
+      "description": "Esquerda, direita, Partido Verde, anarquista, Tea Party... A lista continua, faça política!"
+    },
+    {
+      "id": "50",
+      "slug": "news",
+      "name": "News",
+      "description": "Fique no saber. Mantenha-se atualizado Veja o que está acontecendo no mundo."
+    },
+    {
+      "id": "49",
+      "slug": "alarms",
+      "name": "Alarmes",
+      "description": "Você  ainda  usa  o  alar me  pad r ão  no  seu  telefone ? Exper imente  algo  novo ,  mas  av ise :  nem  todos  eles  v êm  com  um  bot ão  de  co ch ilo .😴"
+    },
+    {
+      "id": "48",
+      "slug": "task-management",
+      "name": "Gerenciamento de tarefas",
+      "description": "Gerenciamento do seu tempo é difícil sem um plano. Faça uma lista, verifique duas vezes, veja quais tarefas são fáceis e agradáveis.✔ ✔ ✔ ✔"
+    },
+    {
+      "id": "46",
+      "slug": "productivity",
+      "name": "Produtividade",
+      "description": "Se o tempo é o mais precioso, esta coleção de lifehacks é tão preciosa. Seja mais produtivo e otimizar sua vida."
+    },
+    {
+      "id": "45",
+      "slug": "emoji",
+      "name": "Emoji",
+      "description": "Se ja  mais  expres si vo  na  sua  comunicação .😁😮😜"
+    },
+    {
+      "id": "44",
+      "slug": "design-tools",
+      "name": "Ferramentas de design",
+      "description": "O design é mais do que apenas pixels bonitos (sem ofensa, pixels bonitos). Uma boa ferramenta de design pode atualizar sua UX, melhorar seu fluxo de trabalho e ajudar a trazer suas ideias criativas à vida. "
+    },
+    {
+      "id": "43",
+      "slug": "health-fitness",
+      "name": "Saúde & Fitness",
+      "description": "perder  peso ? Gan har  peso ? Ex istem  tantos  recursos  dispon íveis ,  desde  aplic ativos  de  con tag em  de  cal orias  até  trein adores  pessoa is  no  bol so .💪"
+    },
+    {
+      "id": "42",
+      "slug": "funny",
+      "name": "Engraçado",
+      "description": "Knock knock. Quem está ali? Piadas ruins, trocadilhas de gato e muito mais. Prepare-se para o meow direito."
+    },
+    {
+      "id": "41",
+      "slug": "hiring",
+      "name": "Hiring",
+      "description": "Os produtos API-first facilitam a construção, integração e escala de software para desenvolvedores. Confira estas categorias para explorar as ferramentas e plataformas que as equipes usam para enviar e adotar APIs:\r\n\r\n- * * [Unified APIs] (https://www.producthunt.com/categories/unified-api) * * - APIs que abstraem vários serviços por trás de uma única interface, tornando as integrações mais rápidas e reduzindo a sobrecarga de manutenção.\r\n- * * [Plataformas] (https://www.producthunt.com/categories/platforms) * * - Plataformas de desenvolvedores que expõem APIs como t"
+    },
+    {
+      "id": "39",
+      "slug": "email",
+      "name": "E-mail",
+      "description": "Amar  ou  odi ar ,  o  e - mail  é  uma  parte  enorme  da  sua  vida ,  mas  feliz mente  exist em  muitos  aplic ativos  e  ext ens ões  para  tor ná  -  lo  mais  ger enci ável . PSA :  Por  favor ,  não  \" res pon da  a  tudo \".😁"
+    },
+    {
+      "id": "37",
+      "slug": "tabletop-games",
+      "name": "Jogos de mesa",
+      "description": "Reúna seus amigos e jogue alguns jogos em torno de uma mesa (ou chão). Os jogos de mesa também funcionam nesta plataforma)."
+    },
+    {
+      "id": "36",
+      "slug": "board-games",
+      "name": "Jogos de Board",
+      "description": "Não há nada mais caloroso do que reunir os seus peeps e discutir sobre um jogo de [preencher o espaço em branco]."
+    },
+    {
+      "id": "34",
+      "slug": "chrome-extensions",
+      "name": "Extensões do Chrome",
+      "description": "Mel hor ar  o  seu  Chrome  com  ext ens ões  de  navegador  super . Fe liz  sur fe .🏄"
+    },
+    {
+      "id": "31",
+      "slug": "drones",
+      "name": "Drones",
+      "description": "É um pássaro! Isso é um avião! Não, é um drone. Os veículos aéreos não tripulados estão crescendo em popularidade, do DGI Phantom ao drone autônomo Lily. Até a Amazon pode entregar T.P. do céu em breve."
+    },
+    {
+      "id": "30",
+      "slug": "virtual-reality",
+      "name": "Realidade Virtual",
+      "description": "É hora de colocar o seu headset VR. Nos vemos no metaverso."
+    },
+    {
+      "id": "29",
+      "slug": "telegram",
+      "name": "Telegram",
+      "description": "O aplicativo de mensagens gratuito e multiplataforma usado por mais de 100 milhões de pessoas todos os meses é o lar de bots para todos os casos de uso. Aqui estão algumas das melhores integrações."
+    },
+    {
+      "id": "28",
+      "slug": "ridesharing",
+      "name": "Ridesharing",
+      "description": "Vá de A para B, a maneira mais inteligente. Seu motorista particular, sob demanda."
+    },
+    {
+      "id": "27",
+      "slug": "gear-vr",
+      "name": "O Gear VR",
+      "description": "Mergulhe no mundo da realidade virtual sempre que quiser com o Samsung Gear VR."
+    },
+    {
+      "id": "26",
+      "slug": "apple-tv",
+      "name": "A Apple TV",
+      "description": "Depois  de  um  longo  dia  no  escrit ório ,  enc ontre  solid ão  no  vas to  mundo  da  TV  e  dos  fil mes  na  sua  Apple  TV . So fá  não  inclu ído .📺"
+    },
+    {
+      "id": "25",
+      "slug": "htc-vive",
+      "name": "HTC Vivo",
+      "description": "A abordagem da realidade virtual (VR) do Steam, focada na mobilidade e em grandes jogos."
+    },
+    {
+      "id": "24",
+      "slug": "playstation-vr",
+      "name": "PlayStation VR",
+      "description": "A Sony PlayStation pretende trazer realidade virtual (VR) para qualquer pessoa com um PS4. Não precisa de um PC caro."
+    },
+    {
+      "id": "23",
+      "slug": "oculus-rift",
+      "name": "Oculus Rift",
+      "description": "O Oculus, do Facebook, pretende revolucionar a forma como consumimos mídia e nos comunicamos com o mundo, através da realidade virtual (VR)."
+    },
+    {
+      "id": "22",
+      "slug": "slack",
+      "name": "Slack",
+      "description": "Chat em tempo real com todos. Use-o com a sua equipe, família e amigos."
+    },
+    {
+      "id": "21",
+      "slug": "web-app",
+      "name": "Web App",
+      "description": "Você conhece aquele lugar com todas essas fotos de gatos e GIFs? Ele também tem algumas outras coisas bonitas."
+    },
+    {
+      "id": "19",
+      "slug": "mac",
+      "name": "Mac",
+      "description": "As lendárias fundações dos computadores da Apple. Eles são fáceis de usar e fáceis de amar. Vá em frente, hop on the🍎 Bandwagon."
+    },
+    {
+      "id": "18",
+      "slug": "windows",
+      "name": "Windows",
+      "description": "O computador pessoal mudou a maneira como vivemos e trabalhamos, criado pelo lendário Bill Gates com a visão de colocar um \"computador em cada mesa \"."
+    },
+    {
+      "id": "17",
+      "slug": "ebook-reader",
+      "name": "Ebook Reader",
+      "description": "Coletar e ler livros que não acumularão poeira no Amazon Kindle."
+    },
+    {
+      "id": "16",
+      "slug": "browser-extensions",
+      "name": "Browser Extensões",
+      "description": "As extensões do navegador são complementos que melhoram a sua experiência na web: escudos de privacidade, correções de escrita, captura de tarefas, colaboração em tempo real, ferramentas de desenvolvimento e IA."
+    },
+    {
+      "id": "15",
+      "slug": "safari-extensions",
+      "name": "Extensões do Safari",
+      "description": "As extensões do Safari adicionam ferramentas ao navegador da Apple, desde privacidade e bloqueio de anúncios até marcadores, anotações e temporizadores de foco para estudantes, profissionais e equipes."
+    },
+    {
+      "id": "13",
+      "slug": "linux",
+      "name": "Linux",
+      "description": "Para aqueles que gostam de personalizar o seu sistema operacional de acordo com seus próprios gostos. Fedora, Red Hat e Ubuntu. Você terá seu pick."
+    },
+    {
+      "id": "12",
+      "slug": "apple-watch",
+      "name": "Apple Watch",
+      "description": "Quando você não tiver notificações suficientes no seu telefone para distraí - lo, coloque-as no pulso. O wearable sexy da Apple pode mudar sua vida."
+    },
+    {
+      "id": "11",
+      "slug": "card-games",
+      "name": "Jogos de cartão",
+      "description": "Você sabia que os jogos de cartas costumavam ser jogados IRL com papel laminado em vez de em um iPad? Louco, não é?!"
+    },
+    {
+      "id": "9",
+      "slug": "ipad",
+      "name": "iPad",
+      "description": "Uma placa do gênio da computação da Apple, agora em vários tamanhos de tablets: Mini, Air e Pro."
+    },
+    {
+      "id": "8",
+      "slug": "ios",
+      "name": "iOS",
+      "description": "O  am ado   \" tele fone   \"  que  mud ou  a  maneira  como  nos  comunic amos ,  jog amos  jogos  e  tir amos  fotos .📱"
+    },
+    {
+      "id": "7",
+      "slug": "wii-u",
+      "name": "Wii U",
+      "description": "Reviva a sua infância com Mario, Zelda e Pokémon no console de detecção de movimento da Nintendo."
+    },
+    {
+      "id": "6",
+      "slug": "nintendo",
+      "name": "Nintendo",
+      "description": "O rei dos jogos de mão ainda está no topo. Jogue os clássicos, de Mario a Pokémon, reimaginados em 3D sem a necessidade de óculos tontos."
+    },
+    {
+      "id": "5",
+      "slug": "vita",
+      "name": "Vida",
+      "description": "O segundo portátil da Sony traz jogos de qualidade de console diretamente à ponta dos dedos. Jogue exclusivos do Vita ou até mesmo transmita jogos diretamente do seu PS4."
+    },
+    {
+      "id": "4",
+      "slug": "playstation",
+      "name": "Playstation",
+      "description": "A Playstation reúne os essenciais de jogos de console: shooters de blockbuster, ação retro, construtores de sandbox, motores de desenvolvimento, bate-papo, guias e alertas de jogos Plus oportunos."
+    },
+    {
+      "id": "3",
+      "slug": "xbox",
+      "name": "XBox",
+      "description": "O console da Microsoft traz jogos incríveis como Halo e Gears of War e funciona como um dispositivo de mídia doméstica assassino."
+    },
+    {
+      "id": "2",
+      "slug": "android",
+      "name": "Android",
+      "description": "Uma das plataformas de crescimento mais rápido de todos os tempos, o pequeno bot verde vive em seu bolso e faz quase tudo."
+    },
+    {
+      "id": "1",
+      "slug": "pc",
+      "name": "PC",
+      "description": "Os PCs agrupam software e hardware que alimentam a computação: navegação privada, pesquisa, assistência de IA, criação 3D, design, GPUs em nuvem e jogos para jogadores, fabricantes e equipes."
+    }
+  ]
+}

@@ -1,0 +1,1087 @@
+{
+  "products": [
+    {
+      "id": "1144771",
+      "slug": "storeclaw",
+      "name": "StoreClaw",
+      "tagline": "Grow your store profits with agents that know how to sell",
+      "description": "StoreClaw is the first AI commerce platform with agents that know how to sell, so you can make more money with less effort and less stress. Connect StoreClaw to your existing store and it will study your numbers, current sales figures, and growth trajectory, and then offer proactive suggestions that it can execute on your behalf — once you give it your approval. Ask StoreClaw how your business is doing any time, anywhere. Sell more with less stress: StoreClaw.",
+      "website": "https://www.producthunt.com/r/PVXOOJINEBKKUA?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+myapp+%28ID%3A+285523%29",
+      "url": "https://www.producthunt.com/products/storeclaw?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+myapp+%28ID%3A+285523%29",
+      "votesCount": 633,
+      "commentsCount": 268,
+      "dailyRank": 1,
+      "weeklyRank": 1,
+      "monthlyRank": 5,
+      "yearlyRank": null,
+      "thumbnail": "https://ph-files.imgix.net/407049a2-0be3-4b8d-a7c0-4fc5b9754db2.png?auto=format",
+      "heroImage": "https://ph-files.imgix.net/571326ca-9fec-4d0e-8076-a9712221f8ea.jpeg?auto=format",
+      "images": [
+        "https://ph-files.imgix.net/571326ca-9fec-4d0e-8076-a9712221f8ea.jpeg?auto=format",
+        "https://ph-files.imgix.net/113b4e68-a2f4-410c-a0fd-30daa6a779d9.jpeg?auto=format",
+        "https://ph-files.imgix.net/f8e3b307-8d9f-440a-b0b2-b4e5206386b5.jpeg?auto=format",
+        "https://ph-files.imgix.net/e5cf6382-98a7-4811-a507-5fa4343e6e76.jpeg?auto=format",
+        "https://ph-files.imgix.net/e6df425c-04f7-4d6a-9c58-7e377fd225b2.jpeg?auto=format",
+        "https://ph-files.imgix.net/1fd52e2d-b988-4325-be9f-ef220dc1364d.jpeg?auto=format",
+        "https://ph-files.imgix.net/23605a63-5069-46c4-b90f-c679351d7b2e.jpeg?auto=format"
+      ],
+      "topics": [
+        "artificial-intelligence",
+        "e-commerce",
+        "marketing-automation"
+      ],
+      "user": {
+        "name": "Chris Messina",
+        "profileImage": "https://ph-avatars.imgix.net/18280/0f6293a7-da1b-482d-b5ac-fb534f918888.png?auto=format&crop=faces&fit=crop&h=original&w=original"
+      },
+      "featuredAt": "2026-05-20T07:01:00Z",
+      "createdAt": "2026-05-20T07:01:00Z",
+      "keywords": "PollyReach, AI phone tool, voice assistant, phone automation, real-time phone calls, appointment services, call records, spam phone filtering, multi-language support, enterprise solutions, smart calls"
+    },
+    {
+      "id": "1134267",
+      "slug": "mailx-by-mailwarm",
+      "name": "mailX by mailwarm",
+      "tagline": "Email deliverability toolkit for humans and AI agents",
+      "description": "Your emails go to spam. mailX shows you why, and how to fix it in seconds with clear answers and exact steps. Built for humans and AI agents. API and MCP ready.",
+      "website": "https://www.producthunt.com/r/H2XLXASAORMP7Z?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+myapp+%28ID%3A+285523%29",
+      "url": "https://www.producthunt.com/products/mailx-by-mailwarm-yc-s20?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+myapp+%28ID%3A+285523%29",
+      "votesCount": 504,
+      "commentsCount": 264,
+      "dailyRank": 2,
+      "weeklyRank": 3,
+      "monthlyRank": 20,
+      "yearlyRank": null,
+      "thumbnail": "https://ph-files.imgix.net/9d9e986f-969d-4a67-9a15-e6733097da14.gif?auto=format",
+      "heroImage": "https://ph-files.imgix.net/d0064a98-0718-429c-a221-439f4759304f.png?auto=format",
+      "images": [
+        "https://ph-files.imgix.net/d0064a98-0718-429c-a221-439f4759304f.png?auto=format",
+        "https://ph-files.imgix.net/36a9d25c-9405-433c-b51d-1a2ce7601f46.png?auto=format",
+        "https://ph-files.imgix.net/6a2e2b1e-30b7-42fa-823b-51919bd782d2.png?auto=format",
+        "https://ph-files.imgix.net/3552808f-2984-4577-9425-c91cf0247ab5.png?auto=format",
+        "https://ph-files.imgix.net/330527ba-586c-445c-94a7-049fd67d68a2.png?auto=format",
+        "https://ph-files.imgix.net/d1963213-af6b-4ff8-bbef-96b6cdc64731.jpeg?auto=format"
+      ],
+      "topics": [
+        "email",
+        "email-marketing",
+        "artificial-intelligence"
+      ],
+      "user": {
+        "name": "Garry Tan",
+        "profileImage": "https://ph-avatars.imgix.net/7779/9ebe4123-985b-42ae-8a64-4dc597b7e666.png?auto=format&crop=faces&fit=crop&h=original&w=original"
+      },
+      "featuredAt": "2026-05-20T07:01:00Z",
+      "createdAt": "2026-05-20T07:01:00Z",
+      "keywords": "Drizz, mobile testing, AI-driven, test automation, intent-driven testing, real devices, visual AI, reusable test cases, no scripts required, no manual maintenance required,"
+    },
+    {
+      "id": "1150124",
+      "slug": "emdash",
+      "name": "Emdash",
+      "tagline": "One app. Every coding agent. Open-source.",
+      "description": "Emdash is an open-source desktop app for running multiple coding agents in parallel; one place to monitor sessions, review diffs, and turn issues into PRs.",
+      "website": "https://www.producthunt.com/r/U7NUCTTEX6BM3I?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+myapp+%28ID%3A+285523%29",
+      "url": "https://www.producthunt.com/products/emdash?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+myapp+%28ID%3A+285523%29",
+      "votesCount": 383,
+      "commentsCount": 86,
+      "dailyRank": 3,
+      "weeklyRank": 8,
+      "monthlyRank": 37,
+      "yearlyRank": null,
+      "thumbnail": "https://ph-files.imgix.net/4b4feac9-ff8d-4091-aecb-78859d285f91.x-icon?auto=format",
+      "heroImage": "https://ph-files.imgix.net/b619e5d1-8abf-4ff1-89cf-cdc4d20687bb.png?auto=format",
+      "images": [
+        "https://ph-files.imgix.net/b619e5d1-8abf-4ff1-89cf-cdc4d20687bb.png?auto=format",
+        "https://ph-files.imgix.net/0d533380-7146-4dd3-8178-a9a23cd282bf.png?auto=format",
+        "https://ph-files.imgix.net/9781d83a-6bd3-4e67-9931-7f9bd3513e2d.png?auto=format",
+        "https://ph-files.imgix.net/8fd9f915-997d-405a-aab7-671f85186e7c.png?auto=format",
+        "https://ph-files.imgix.net/4356aad4-7a5c-4719-92df-3f094662f4f3.png?auto=format",
+        "https://ph-files.imgix.net/3175bc51-4369-4cbe-b6da-be218b5784a9.jpeg?auto=format"
+      ],
+      "topics": [
+        "productivity",
+        "open-source",
+        "developer-tools",
+        "github"
+      ],
+      "user": {
+        "name": "Garry Tan",
+        "profileImage": "https://ph-avatars.imgix.net/7779/9ebe4123-985b-42ae-8a64-4dc597b7e666.png?auto=format&crop=faces&fit=crop&h=original&w=original"
+      },
+      "featuredAt": "2026-05-20T07:01:00Z",
+      "createdAt": "2026-05-20T07:01:00Z",
+      "keywords": "Composer 2.5, cursor, the most powerful model, intelligent improvement, behavior improvement, long-term tasks, proxy tasks"
+    },
+    {
+      "id": "1151095",
+      "slug": "gemini-omni-4",
+      "name": "Gemini Omni",
+      "tagline": "Create anything from any input – starting with video",
+      "description": "Create anything from anything, starting with video. Gemini Omni is where Gemini’s ability to reason meets the ability to create. It delivers a leap in world understanding, multimodality, and editing.",
+      "website": "https://www.producthunt.com/r/ENOAWGG27PYBQE?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+myapp+%28ID%3A+285523%29",
+      "url": "https://www.producthunt.com/products/gemini-omni-4?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+myapp+%28ID%3A+285523%29",
+      "votesCount": 356,
+      "commentsCount": 8,
+      "dailyRank": 4,
+      "weeklyRank": 10,
+      "monthlyRank": 43,
+      "yearlyRank": null,
+      "thumbnail": "https://ph-files.imgix.net/d0081810-ee52-41d6-b33e-163838981bc6.svg?auto=format",
+      "heroImage": "https://ph-files.imgix.net/73055a1f-bb0c-4477-bdb4-5fbfb24f0c2c.webp?auto=format",
+      "images": [
+        "https://ph-files.imgix.net/526d5944-bc75-45ed-911e-c94a2d29eaa3.jpeg?auto=format",
+        "https://ph-files.imgix.net/73055a1f-bb0c-4477-bdb4-5fbfb24f0c2c.webp?auto=format",
+        "https://ph-files.imgix.net/605a99f6-f24b-45a0-b912-0707f8bd815b.png?auto=format",
+        "https://ph-files.imgix.net/fd1192ea-f0bf-4da5-81a7-fa7206ce2e65.png?auto=format",
+        "https://ph-files.imgix.net/78855005-ab08-4707-be68-fb7765f25582.png?auto=format",
+        "https://ph-files.imgix.net/f12f25b4-d7c4-4f04-b665-95bd28946cab.png?auto=format",
+        "https://ph-files.imgix.net/6fb1b9b8-d9b0-444e-ae7a-0c80cf2a86be.png?auto=format",
+        "https://ph-files.imgix.net/9258c3a5-ae7f-4686-a89c-e0a3d6bf84d7.jpeg?auto=format"
+      ],
+      "topics": [
+        "artificial-intelligence",
+        "video"
+      ],
+      "user": {
+        "name": "Ankit Sharma",
+        "profileImage": "https://ph-avatars.imgix.net/2530835/original.jpeg?auto=format&crop=faces&fit=crop&h=original&w=original"
+      },
+      "featuredAt": "2026-05-20T07:01:00Z",
+      "createdAt": "2026-05-20T07:01:00Z",
+      "keywords": "Mantle Chat, collaboration platform, teamwork, artificial intelligence, real-time messaging, AI model chat, autonomous agent, tool integration, shared workspace, Discord, Slack, AI agent, improve production"
+    },
+    {
+      "id": "1151120",
+      "slug": "runtime",
+      "name": "Runtime",
+      "tagline": "Sandboxed coding agents for everyone on your team",
+      "description": "Turn coding agents into teammates anyone can use from Slack, Linear, CLI, API or your browser. Ship features, query data, build dashboards, automate workflows. All within your company's context, skills, integrations, and security guardrails.",
+      "website": "https://www.producthunt.com/r/TOZOGOJYMEHTNQ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+myapp+%28ID%3A+285523%29",
+      "url": "https://www.producthunt.com/products/runtime?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+myapp+%28ID%3A+285523%29",
+      "votesCount": 274,
+      "commentsCount": 75,
+      "dailyRank": 5,
+      "weeklyRank": 12,
+      "monthlyRank": 62,
+      "yearlyRank": null,
+      "thumbnail": "https://ph-files.imgix.net/67ea30b8-1bf6-44ba-99db-09c8498841d9.png?auto=format",
+      "heroImage": "https://ph-files.imgix.net/e72c2188-518f-462c-b244-bd6584fc2f44.gif?auto=format",
+      "images": [
+        "https://ph-files.imgix.net/e72c2188-518f-462c-b244-bd6584fc2f44.gif?auto=format",
+        "https://ph-files.imgix.net/f23d8cf1-71e9-4097-8972-f090d20c351c.gif?auto=format",
+        "https://ph-files.imgix.net/2fad4f60-e140-4207-b21d-b0ffb4b9468e.gif?auto=format",
+        "https://ph-files.imgix.net/fbe4c48a-a83d-483d-bb3f-3cc3b30a5d06.gif?auto=format",
+        "https://ph-files.imgix.net/9aa1e94f-9517-4a13-adfe-e67fbbe2feef.gif?auto=format",
+        "https://ph-files.imgix.net/b6d1a868-b241-42d9-9f7e-95b71eb005bc.gif?auto=format",
+        "https://ph-files.imgix.net/85e96662-094c-45c0-851a-1c627cef55ff.gif?auto=format",
+        "https://ph-files.imgix.net/32e50410-6e3f-4f19-8010-5e9c4635dbbb.jpeg?auto=format"
+      ],
+      "topics": [
+        "slack",
+        "developer-tools",
+        "artificial-intelligence"
+      ],
+      "user": {
+        "name": "Garry Tan",
+        "profileImage": "https://ph-avatars.imgix.net/7779/9ebe4123-985b-42ae-8a64-4dc597b7e666.png?auto=format&crop=faces&fit=crop&h=original&w=original"
+      },
+      "featuredAt": "2026-05-20T07:01:00Z",
+      "createdAt": "2026-05-20T07:01:00Z",
+      "keywords": "CtrlOps, AI server management, Linux server, deployment, debugging, management, developer tools, AI terminal, command generation, script library, one-click deployment, GitHub, visualization files"
+    },
+    {
+      "id": "1146902",
+      "slug": "re_gent",
+      "name": "Re_gent",
+      "tagline": "Version Control for AI agent Activity",
+      "description": "Git for your AI agent’s actions. Undo, trace, and control every step. re_gent shows what your coding agent changed, which prompt caused it, and lets you roll back agent work across files and sessions.",
+      "website": "https://www.producthunt.com/r/YYIC7WP7TME3QF?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+myapp+%28ID%3A+285523%29",
+      "url": "https://www.producthunt.com/products/re_gent?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+myapp+%28ID%3A+285523%29",
+      "votesCount": 167,
+      "commentsCount": 32,
+      "dailyRank": 6,
+      "weeklyRank": 23,
+      "monthlyRank": 122,
+      "yearlyRank": null,
+      "thumbnail": "https://ph-files.imgix.net/1f0471d2-a445-4750-8efa-4b0beb81b82d.png?auto=format",
+      "heroImage": "https://ph-files.imgix.net/ee864408-c5b7-4d3b-b231-0aa9954fb968.jpeg?auto=format",
+      "images": [
+        "https://ph-files.imgix.net/ee864408-c5b7-4d3b-b231-0aa9954fb968.jpeg?auto=format",
+        "https://ph-files.imgix.net/3c5143f4-e2e0-4261-ac66-38548c6b4e7c.jpeg?auto=format",
+        "https://ph-files.imgix.net/53924fa2-9f19-4d09-8d15-e719b5cf5e85.jpeg?auto=format",
+        "https://ph-files.imgix.net/c58c8a0a-21b5-4c47-8d7a-c308e4698aec.jpeg?auto=format",
+        "https://ph-files.imgix.net/61746027-c74b-4eb1-90a0-44d058538b2d.jpeg?auto=format",
+        "https://ph-files.imgix.net/94b0ddd5-090d-4793-8088-ab22047453ad.jpeg?auto=format"
+      ],
+      "topics": [
+        "open-source",
+        "developer-tools",
+        "github"
+      ],
+      "user": {
+        "name": "SHY",
+        "profileImage": "https://ph-avatars.imgix.net/9805924/original.png?auto=format&crop=faces&fit=crop&h=original&w=original"
+      },
+      "featuredAt": "2026-05-20T07:01:00Z",
+      "createdAt": "2026-05-20T07:01:00Z",
+      "keywords": "Video agent, dynamic design, taste, tips, resource links, video production, storyboard, interpretation of video, launch video, logo animation, dynamic design editing, resize, drag-and-drop"
+    },
+    {
+      "id": "1150811",
+      "slug": "supercut-for-agents",
+      "name": "Supercut for Agents",
+      "tagline": "Permission-aware AI access to recordings and metadata",
+      "description": "The Supercut MCP gives your AI/coding assistants permission-aware access to recordings, including semantic search, transcripts, frames, comments, reactions, and more.",
+      "website": "https://www.producthunt.com/r/IMCJSAWBQKCT3R?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+myapp+%28ID%3A+285523%29",
+      "url": "https://www.producthunt.com/products/supercut?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+myapp+%28ID%3A+285523%29",
+      "votesCount": 148,
+      "commentsCount": 15,
+      "dailyRank": 7,
+      "weeklyRank": 27,
+      "monthlyRank": 139,
+      "yearlyRank": null,
+      "thumbnail": "https://ph-files.imgix.net/3ee5449e-b707-4542-a190-796294740177.png?auto=format",
+      "heroImage": "https://ph-files.imgix.net/acbde3f5-2078-4201-b430-dbe3a7d2c313.jpeg?auto=format",
+      "images": [
+        "https://ph-files.imgix.net/acbde3f5-2078-4201-b430-dbe3a7d2c313.jpeg?auto=format",
+        "https://ph-files.imgix.net/3c8ec594-16d9-4ed4-97fd-4e50746de0fa.png?auto=format"
+      ],
+      "topics": [
+        "productivity",
+        "developer-tools"
+      ],
+      "user": {
+        "name": "David OKuniev",
+        "profileImage": "https://ph-avatars.imgix.net/230026/cc403986-6f4e-450c-9142-71b5afaed7bc.png?auto=format&crop=faces&fit=crop&h=original&w=original"
+      },
+      "featuredAt": "2026-05-20T07:01:00Z",
+      "createdAt": "2026-05-20T07:01:00Z",
+      "keywords": "Chert, AI agent, iMessage, customer service, conversation agent, inbound clue capture, system prompt, tone configuration, outbound follow-up, workflow, CRM integration, HubSpot, Close,"
+    },
+    {
+      "id": "1150068",
+      "slug": "manus-scheduled-tasks-2-0",
+      "name": "Manus Scheduled Tasks 2.0 ",
+      "tagline": "Run recurring Manus work inside the same task context",
+      "description": "Manus now runs scheduled tasks inside the same task context, reuses Project setups, and adds recurring actions to Manus-built web apps. For knowledge workers and teams automating repeatable workflows in Manus.",
+      "website": "https://www.producthunt.com/r/MGXUKSO7J5UVRJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+myapp+%28ID%3A+285523%29",
+      "url": "https://www.producthunt.com/products/manus?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+myapp+%28ID%3A+285523%29",
+      "votesCount": 145,
+      "commentsCount": 5,
+      "dailyRank": 9,
+      "weeklyRank": 29,
+      "monthlyRank": 150,
+      "yearlyRank": null,
+      "thumbnail": "https://ph-files.imgix.net/a842fb62-c77e-4466-8206-86bf8780e048.png?auto=format",
+      "heroImage": "https://ph-files.imgix.net/fb8872ce-47a3-420f-b1e9-c32ccdeba967.png?auto=format",
+      "images": [
+        "https://ph-files.imgix.net/fb8872ce-47a3-420f-b1e9-c32ccdeba967.png?auto=format",
+        "https://ph-files.imgix.net/56e558c0-e031-4a55-9d32-a626d06ea58c.webp?auto=format",
+        "https://ph-files.imgix.net/20f6d8c3-eb6a-4691-a29b-83e56a27c645.webp?auto=format",
+        "https://ph-files.imgix.net/30ccaea1-7afa-4947-adb2-cb8316158b9b.webp?auto=format",
+        "https://ph-files.imgix.net/7d7f6fce-429a-41e1-bd9e-5c15b2823a7d.webp?auto=format",
+        "https://ph-files.imgix.net/ec6cf36c-4410-4207-8d19-9475107aca78.webp?auto=format",
+        "https://ph-files.imgix.net/06b7a3a8-9852-4a4e-8d87-8161255d12ae.jpeg?auto=format"
+      ],
+      "topics": [
+        "productivity",
+        "task-management",
+        "artificial-intelligence"
+      ],
+      "user": {
+        "name": "Rohan Chaubey",
+        "profileImage": "https://ph-avatars.imgix.net/4325010/a8bdb2a7-d1ec-444a-9823-2833c30c540c.jpeg?auto=format&crop=faces&fit=crop&h=original&w=original"
+      },
+      "featuredAt": "2026-05-20T07:01:00Z",
+      "createdAt": "2026-05-20T07:01:00Z",
+      "keywords": "Voker, AI product team, agent analysis platform, usage behavior, agent performance, monitoring optimization, lightweight SDK, intention detection, correction detection, solution detection, user interaction, dialogue duplication"
+    },
+    {
+      "id": "1148072",
+      "slug": "retina-2",
+      "name": "Retina",
+      "tagline": "Screen recorder w/ auto-zoom, smooth cursors, + AI graphics",
+      "description": "Retina is a Mac screen recorder built for polished demos. Auto-zoom into the action. Cursor paths cleaned into smooth arcs. 4K export, optimized file sizes. Recordings look cinematic out of the box — no post-production needed. Built for product demos, tutorials, and feature walkthroughs that need to look professional without hours in editing. Currently in beta. Free. No watermark. Made by BlendPixel.",
+      "website": "https://www.producthunt.com/r/DH3MWNW6FTLD5D?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+myapp+%28ID%3A+285523%29",
+      "url": "https://www.producthunt.com/products/retina-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+myapp+%28ID%3A+285523%29",
+      "votesCount": 143,
+      "commentsCount": 27,
+      "dailyRank": 8,
+      "weeklyRank": 30,
+      "monthlyRank": 141,
+      "yearlyRank": null,
+      "thumbnail": "https://ph-files.imgix.net/8eb28006-c3e1-4898-bae9-9a9c760c5796.png?auto=format",
+      "heroImage": "https://ph-files.imgix.net/2b63d3d7-db9b-4590-b32f-4d52ad79a4e6.jpeg?auto=format",
+      "images": [
+        "https://ph-files.imgix.net/fd6388ff-0940-44ae-b233-8ef90ff4f4d6.jpeg?auto=format",
+        "https://ph-files.imgix.net/2b63d3d7-db9b-4590-b32f-4d52ad79a4e6.jpeg?auto=format",
+        "https://ph-files.imgix.net/88428e22-4a30-47e8-8065-341ade95dcc2.jpeg?auto=format",
+        "https://ph-files.imgix.net/a27ad2bb-853b-4f56-bacc-6920d0c70636.jpeg?auto=format",
+        "https://ph-files.imgix.net/78127873-9f3f-438c-8ded-75b323d8fe30.jpeg?auto=format",
+        "https://ph-files.imgix.net/24c44c38-3118-4aa4-b282-5e4afe129a0c.jpeg?auto=format",
+        "https://ph-files.imgix.net/07bbe338-ca0d-4500-808b-9cb2e85d2d70.jpeg?auto=format",
+        "https://ph-files.imgix.net/5b099df2-0b4b-4d0d-8559-81e95e6862bd.jpeg?auto=format"
+      ],
+      "topics": [
+        "mac",
+        "design-tools",
+        "video"
+      ],
+      "user": {
+        "name": "Mourtaza Ali",
+        "profileImage": "https://ph-avatars.imgix.net/9205591/original.png?auto=format&crop=faces&fit=crop&h=original&w=original"
+      },
+      "featuredAt": "2026-05-20T07:01:00Z",
+      "createdAt": "2026-05-20T07:01:00Z",
+      "keywords": "Monocle 3.5, macOS, noise cancellation, applications, 3.0, full features, user needs, screens, software updates, easy to use"
+    },
+    {
+      "id": "1150430",
+      "slug": "viberia",
+      "name": "Viberia",
+      "tagline": "Command AI agents like you're playing Civilization",
+      "description": "Do you like your Claude/Codex pet but wish you had a zoo? Viberia is a spatial command center for your AI agents. Your whole AI org lives on an isometric map, status icons show who’s blocked, who’s asking, who’s done. Zoom in to chat with anyone, pick any model, bring your own keys. Agents collaborate, build their own little teams, and pick up new skills as they go. Docs, terminals, browsers built in.",
+      "website": "https://www.producthunt.com/r/EQOGZXTYHXDDA2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+myapp+%28ID%3A+285523%29",
+      "url": "https://www.producthunt.com/products/viberia?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+myapp+%28ID%3A+285523%29",
+      "votesCount": 141,
+      "commentsCount": 25,
+      "dailyRank": 10,
+      "weeklyRank": 32,
+      "monthlyRank": 153,
+      "yearlyRank": null,
+      "thumbnail": "https://ph-files.imgix.net/815cc4a4-55f1-4399-a16f-9b77c5ef989b.png?auto=format",
+      "heroImage": "https://ph-files.imgix.net/cb1cce56-8f4c-4a01-a90b-4e02ce7d11b7.png?auto=format",
+      "images": [
+        "https://ph-files.imgix.net/cb1cce56-8f4c-4a01-a90b-4e02ce7d11b7.png?auto=format",
+        "https://ph-files.imgix.net/0063fd5c-388f-4c8a-ab2a-9b5c81123470.png?auto=format",
+        "https://ph-files.imgix.net/6a7fc44c-fac6-4da3-b053-a0e8b06cea1f.png?auto=format",
+        "https://ph-files.imgix.net/fec5cb0c-28a2-4120-ab81-69347a3a4d3a.png?auto=format",
+        "https://ph-files.imgix.net/e81638cf-9545-4fe1-b062-86991a82826e.png?auto=format",
+        "https://ph-files.imgix.net/70a1f679-0d90-4b39-bcab-b59b92360068.png?auto=format",
+        "https://ph-files.imgix.net/587ae80a-5ae7-40cf-abe7-344a422e96a9.jpeg?auto=format"
+      ],
+      "topics": [
+        "productivity",
+        "developer-tools",
+        "artificial-intelligence"
+      ],
+      "user": {
+        "name": "Emre Barut",
+        "profileImage": "https://ph-avatars.imgix.net/9723223/f1f3b4c0-0e51-4af5-a12f-65bfdf6d8784.png?auto=format&crop=faces&fit=crop&h=original&w=original"
+      },
+      "featuredAt": "2026-05-20T07:01:00Z",
+      "createdAt": "2026-05-20T07:01:00Z",
+      "keywords": "Omnia Insights, Artificial Intelligence, Visibility, Action Plan, Priority, Impact Level, Implementation Plan, Citing Gap, AI Engine, Improving Visibility"
+    },
+    {
+      "id": "1150840",
+      "slug": "glia-2",
+      "name": "Glia",
+      "tagline": "Local-first AI memory bridge between browser chats and IDEs",
+      "description": "Glia is a 100% offline, open-source memory bridge. A Chrome extension auto-saves your web-based Claude/ChatGPT chats, while a native MCP server lets Cursor/Claude Code query those decisions locally from your shared SQLite database.",
+      "website": "https://www.producthunt.com/r/ZJAI6VMV2IIXAG?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+myapp+%28ID%3A+285523%29",
+      "url": "https://www.producthunt.com/products/glia-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+myapp+%28ID%3A+285523%29",
+      "votesCount": 102,
+      "commentsCount": 27,
+      "dailyRank": 12,
+      "weeklyRank": 52,
+      "monthlyRank": 238,
+      "yearlyRank": null,
+      "thumbnail": "https://ph-files.imgix.net/cbcc2f95-54be-4db2-8e03-8579b48ac934.png?auto=format",
+      "heroImage": "https://ph-files.imgix.net/6bcd04b7-bd29-464a-b4e4-7d8f50145350.png?auto=format",
+      "images": [
+        "https://ph-files.imgix.net/6bcd04b7-bd29-464a-b4e4-7d8f50145350.png?auto=format",
+        "https://ph-files.imgix.net/5a442354-241a-465f-9b4f-de7c88b1b90d.png?auto=format",
+        "https://ph-files.imgix.net/22a11d95-5f69-4b43-ac39-063929965c74.png?auto=format"
+      ],
+      "topics": [
+        "productivity",
+        "developer-tools",
+        "artificial-intelligence",
+        "github"
+      ],
+      "user": {
+        "name": "Eshaan",
+        "profileImage": "https://ph-avatars.imgix.net/9821355/original.png?auto=format&crop=faces&fit=crop&h=original&w=original"
+      },
+      "featuredAt": "2026-05-20T07:01:00Z",
+      "createdAt": "2026-05-20T07:01:00Z",
+      "keywords": "Haystack, pull requests, manual review, AI generation, GitHub, code management, code review, code differences, context analysis, agent tracking, intent analysis, verification evidence"
+    },
+    {
+      "id": "1150627",
+      "slug": "owlish",
+      "name": "Owlish",
+      "tagline": "Reduce support volume with AI agents trained on your docs",
+      "description": "Owlish turns your website, FAQs, docs, and PDFs into an AI customer support agent that answers common questions, cites sources, uses approved replies, and hands off to a human when needed. It helps businesses reduce repetitive support volume, reply faster outside business hours, and give support teams the context they need to resolve harder conversations.",
+      "website": "https://www.producthunt.com/r/V4HSR6OBJZKCT6?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+myapp+%28ID%3A+285523%29",
+      "url": "https://www.producthunt.com/products/owlish?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+myapp+%28ID%3A+285523%29",
+      "votesCount": 101,
+      "commentsCount": 28,
+      "dailyRank": 11,
+      "weeklyRank": 53,
+      "monthlyRank": 231,
+      "yearlyRank": null,
+      "thumbnail": "https://ph-files.imgix.net/bd96cefe-a283-440b-8978-d303368b4052.png?auto=format",
+      "heroImage": "https://ph-files.imgix.net/e156b3de-0ccc-49a7-bda2-b50a1b720a60.jpeg?auto=format",
+      "images": [
+        "https://ph-files.imgix.net/e156b3de-0ccc-49a7-bda2-b50a1b720a60.jpeg?auto=format",
+        "https://ph-files.imgix.net/ce3abb43-5ed0-4835-af19-ac22b0d23fff.jpeg?auto=format",
+        "https://ph-files.imgix.net/760cd18e-7e27-4084-8c45-854a802a2de5.jpeg?auto=format",
+        "https://ph-files.imgix.net/3deccebf-a7ea-4b6f-a03e-f5790e27491e.jpeg?auto=format",
+        "https://ph-files.imgix.net/5ec81708-2d99-4a6f-b6be-a7a3b4f5635a.jpeg?auto=format",
+        "https://ph-files.imgix.net/afce6e93-d1aa-454c-8e7a-48c57d0b4002.jpeg?auto=format"
+      ],
+      "topics": [
+        "customer-communication",
+        "saas",
+        "artificial-intelligence"
+      ],
+      "user": {
+        "name": "Mithun Rathinasamy",
+        "profileImage": "https://ph-avatars.imgix.net/3971311/8ef6612e-eb70-49c9-9821-e5b2355e7b76.jpeg?auto=format&crop=faces&fit=crop&h=original&w=original"
+      },
+      "featuredAt": "2026-05-20T07:01:00Z",
+      "createdAt": "2026-05-20T07:01:00Z",
+      "keywords": "imgproxy, image processing, self-hosting, server, fast, secure, independent server, resize, convert images, process images, high performance, easy-to-use, image processing requests,"
+    },
+    {
+      "id": "1150797",
+      "slug": "ghostsnap",
+      "name": "GhostSnap",
+      "tagline": "Multiple screenshots - Single paste - Auto compressed for AI",
+      "description": "Taking multiple screenshots & pasting one by one, to share context with AI or any apps? Every image eats tokens or makes file larger. GhostSnap fixes that. Snap multiple screenshots → auto-compressed up to 80% & copied to clipboard the moment they're taken → paste everything at once with a single Cmd+V. Also: · Extract text from multiple screenshots into one clean block · Annotate before you paste · All via native Mac shortcuts One-time $6.99 (for two macs). Lives in your menu bar.",
+      "website": "https://www.producthunt.com/r/MDGMERPU35FMB5?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+myapp+%28ID%3A+285523%29",
+      "url": "https://www.producthunt.com/products/ghostsnap?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+myapp+%28ID%3A+285523%29",
+      "votesCount": 100,
+      "commentsCount": 15,
+      "dailyRank": 13,
+      "weeklyRank": 58,
+      "monthlyRank": 257,
+      "yearlyRank": null,
+      "thumbnail": "https://ph-files.imgix.net/fd724a64-89b8-4255-a326-c8d15d722efa.png?auto=format",
+      "heroImage": "https://ph-files.imgix.net/d5d9c08e-283c-4b55-bb69-563560de317b.png?auto=format",
+      "images": [
+        "https://ph-files.imgix.net/d5d9c08e-283c-4b55-bb69-563560de317b.png?auto=format",
+        "https://ph-files.imgix.net/78e2cb25-c411-4956-bd30-34c5ca0f1338.png?auto=format",
+        "https://ph-files.imgix.net/39ab5e38-504a-4575-8139-6342b4d60078.png?auto=format",
+        "https://ph-files.imgix.net/05b8032e-83cf-47c7-860e-23f813f34396.png?auto=format",
+        "https://ph-files.imgix.net/8e38c0ba-909b-4cac-bbf4-8146722b0592.png?auto=format",
+        "https://ph-files.imgix.net/33f5e7cf-fa37-4da4-bc94-40e784af1ff1.jpeg?auto=format"
+      ],
+      "topics": [
+        "mac",
+        "productivity",
+        "artificial-intelligence"
+      ],
+      "user": {
+        "name": "nitin sm",
+        "profileImage": "https://ph-avatars.imgix.net/8949739/original.jpeg?auto=format&crop=faces&fit=crop&h=original&w=original"
+      },
+      "featuredAt": "2026-05-20T07:01:00Z",
+      "createdAt": "2026-05-20T07:01:00Z",
+      "keywords": "ShioriCode, open source, Codex, Claude Code, coding, desktop interface, coding agent, project-aware thread, streaming agent activity, readable timeline, generate differences, source"
+    },
+    {
+      "id": "1143265",
+      "slug": "contextberg",
+      "name": "Contextberg",
+      "tagline": "Turn your work into AI agent memory, served over MCP",
+      "description": "Contextberg is a local memory app for AI agents. It watches your screens, browser history, and agent conversations in the background — so Claude Code, Cursor, and friends can just remember.",
+      "website": "https://www.producthunt.com/r/GJQVZJRTUERLY7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+myapp+%28ID%3A+285523%29",
+      "url": "https://www.producthunt.com/products/contextberg?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+myapp+%28ID%3A+285523%29",
+      "votesCount": 97,
+      "commentsCount": 23,
+      "dailyRank": 15,
+      "weeklyRank": 64,
+      "monthlyRank": 268,
+      "yearlyRank": null,
+      "thumbnail": "https://ph-files.imgix.net/6020b04d-d2fc-4e0b-98f3-aee1b11c208f.png?auto=format",
+      "heroImage": "https://ph-files.imgix.net/560e33c0-184a-4eaa-9d38-70fabd234539.png?auto=format",
+      "images": [
+        "https://ph-files.imgix.net/560e33c0-184a-4eaa-9d38-70fabd234539.png?auto=format",
+        "https://ph-files.imgix.net/59266138-83ab-4f3f-bade-3ab5a03b47a1.png?auto=format",
+        "https://ph-files.imgix.net/e367fd70-3d7d-43f4-a951-559286a59413.png?auto=format",
+        "https://ph-files.imgix.net/f6853a95-47e0-410e-a468-0cfd4f2d0550.png?auto=format",
+        "https://ph-files.imgix.net/bc3d5399-1131-4341-8fdb-17b1d1233ac8.jpeg?auto=format"
+      ],
+      "topics": [
+        "productivity",
+        "time-tracking",
+        "artificial-intelligence"
+      ],
+      "user": {
+        "name": "Tiger",
+        "profileImage": "https://ph-avatars.imgix.net/9786175/original.jpeg?auto=format&crop=faces&fit=crop&h=original&w=original"
+      },
+      "featuredAt": "2026-05-20T07:01:00Z",
+      "createdAt": "2026-05-20T07:01:00Z",
+      "keywords": "Learning platform, open source, teaching, user education, product understanding, development tools, AI, code execution, discussion, analysis, self-hosting, cloud services, content management, data security, community interaction, modern"
+    },
+    {
+      "id": "1151316",
+      "slug": "layerproof-kraft",
+      "name": "LayerProof Kraft ",
+      "tagline": "Co-write insightful long form content",
+      "description": "Scattered ideas? Kraft turns them into finished long-form writing. Kraft is LayerProof’s long-form AI co-writer for people who think deeply but freeze at the blank page. Drop in your idea, choose your angle, and Kraft drafts in your voice, then turns it into platform-ready posts.",
+      "website": "https://www.producthunt.com/r/RN2SOY5DI4WPQN?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+myapp+%28ID%3A+285523%29",
+      "url": "https://www.producthunt.com/products/layerproof-social-content-generation?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+myapp+%28ID%3A+285523%29",
+      "votesCount": 91,
+      "commentsCount": 9,
+      "dailyRank": 16,
+      "weeklyRank": 73,
+      "monthlyRank": 285,
+      "yearlyRank": null,
+      "thumbnail": "https://ph-files.imgix.net/245d17d1-e4c9-43d7-a717-24ae154481d1.png?auto=format",
+      "heroImage": "https://ph-files.imgix.net/5874feb1-4821-40ad-847d-d78264f79ba0.png?auto=format",
+      "images": [
+        "https://ph-files.imgix.net/5874feb1-4821-40ad-847d-d78264f79ba0.png?auto=format",
+        "https://ph-files.imgix.net/aea4d073-2de1-40c7-9ed7-28d38b6a90cd.png?auto=format",
+        "https://ph-files.imgix.net/6a9d7d58-bd7b-4ec6-bd88-aa53652de8c4.png?auto=format",
+        "https://ph-files.imgix.net/33a5c73e-aed4-4638-9a87-6bec45fae88c.png?auto=format",
+        "https://ph-files.imgix.net/48c45e69-5165-4a49-94fe-24bf4b10f671.png?auto=format",
+        "https://ph-files.imgix.net/0fc05a44-a5b5-4ba9-a5be-3621a2a8fadb.png?auto=format",
+        "https://ph-files.imgix.net/ad34d5cd-3d38-41c2-98ad-a497472c8da4.jpeg?auto=format"
+      ],
+      "topics": [
+        "design-tools",
+        "writing",
+        "marketing"
+      ],
+      "user": {
+        "name": "Nathan Tran",
+        "profileImage": "https://ph-avatars.imgix.net/5623813/83c31175-97f8-417b-bf19-3218c51b357c.jpeg?auto=format&crop=faces&fit=crop&h=original&w=original"
+      },
+      "featuredAt": "2026-05-20T07:01:00Z",
+      "createdAt": "2026-05-20T07:01:00Z",
+      "keywords": "Automatic sorting, file management, Mac apps, folder monitoring, automation, rules setting, free trial, unlimited unlocking, macOS, sorting tools"
+    },
+    {
+      "id": "1151347",
+      "slug": "insta360-mic-pro",
+      "name": "Insta360 Mic Pro",
+      "tagline": "Pro audio with a customizable color E-Ink face",
+      "description": "Insta360 Mic Pro is a pro wireless mic with a customizable E-Ink display, 3-mic array, AI noise canceling, directional pickup modes, 32-bit float internal recording, timecode sync, 400m range, and multi-cam creator workflows.",
+      "website": "https://www.producthunt.com/r/JCBGVTFFJTQ724?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+myapp+%28ID%3A+285523%29",
+      "url": "https://www.producthunt.com/products/insta-360?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+myapp+%28ID%3A+285523%29",
+      "votesCount": 90,
+      "commentsCount": 4,
+      "dailyRank": 14,
+      "weeklyRank": 74,
+      "monthlyRank": 281,
+      "yearlyRank": null,
+      "thumbnail": "https://ph-files.imgix.net/4b8d537d-d019-4e0c-8902-7e29c8150a6d.png?auto=format",
+      "heroImage": "https://ph-files.imgix.net/751f927b-0648-4b5e-b39a-f0d72e585076.jpeg?auto=format",
+      "images": [
+        "https://ph-files.imgix.net/97383adf-308e-423c-86f0-90e4225712c4.jpeg?auto=format",
+        "https://ph-files.imgix.net/751f927b-0648-4b5e-b39a-f0d72e585076.jpeg?auto=format",
+        "https://ph-files.imgix.net/f5e477a0-2e16-4ec2-a6c9-3da2815d4b83.jpeg?auto=format",
+        "https://ph-files.imgix.net/b4f48f2b-a6ce-4a7f-957d-dcd010717345.jpeg?auto=format",
+        "https://ph-files.imgix.net/2b18416d-8750-4095-b90d-05cfffa728c0.jpeg?auto=format",
+        "https://ph-files.imgix.net/a277f585-60b3-47e2-912c-7e1c49610d27.png?auto=format",
+        "https://ph-files.imgix.net/389c457b-f457-447d-85a9-5ec506646e20.jpeg?auto=format",
+        "https://ph-files.imgix.net/bdd4f8ee-c25f-4424-9c63-d602a1908e48.jpeg?auto=format",
+        "https://ph-files.imgix.net/b8902c1c-c15e-4af7-88c0-d9bc4642255e.jpeg?auto=format",
+        "https://ph-files.imgix.net/e21818e5-3543-4fb2-b9d2-54fd8ec395e5.jpeg?auto=format",
+        "https://ph-files.imgix.net/0dbc83a8-4e09-464d-97ba-fd816a9116c0.jpeg?auto=format",
+        "https://ph-files.imgix.net/95f548f1-348c-4be7-b543-bebe5ed542e5.jpeg?auto=format",
+        "https://ph-files.imgix.net/8367dc57-bef6-4969-a35f-4102ece00e9e.jpeg?auto=format",
+        "https://ph-files.imgix.net/a6d38c94-2091-4a62-bf6a-5aa6e49c13e0.jpeg?auto=format",
+        "https://ph-files.imgix.net/3cff2b5b-5e4a-4902-bbf4-eabcd9bc34f7.jpeg?auto=format",
+        "https://ph-files.imgix.net/5a82d36b-9524-45eb-b53a-582b8a3dbf01.jpeg?auto=format",
+        "https://ph-files.imgix.net/e09a5e98-7219-43f0-bd79-8c26087b03c7.jpeg?auto=format",
+        "https://ph-files.imgix.net/bd9bd19c-c0dc-4af5-ac08-9f8ffdb2bf97.jpeg?auto=format",
+        "https://ph-files.imgix.net/1ee9489c-590b-4c14-ada5-7929a97dac8a.jpeg?auto=format"
+      ],
+      "topics": [
+        "hardware",
+        "audio"
+      ],
+      "user": {
+        "name": "Zac Zuo",
+        "profileImage": "https://ph-avatars.imgix.net/7991605/b36c3e59-002b-4569-a59f-18a042140146.png?auto=format&crop=faces&fit=crop&h=original&w=original"
+      },
+      "featuredAt": "2026-05-20T07:01:00Z",
+      "createdAt": "2026-05-20T07:01:00Z",
+      "keywords": "Starchild-1, Odyssey, real-time multimodal world model, audio-video synchronization, interactive artificial intelligence, games, robots, education, immersive world intelligence, generative models, user input response"
+    },
+    {
+      "id": "1114679",
+      "slug": "tophat-by-shopify",
+      "name": "Tophat by Shopify",
+      "tagline": "Test mobile CI builds on any device without building locally",
+      "description": "Mobile devs waste hours building branches locally just to test a PR. Tophat pulls any CI artifact and installs it on simulators or physical devices. For iOS and Android engineers.",
+      "website": "https://www.producthunt.com/r/Z575VI7XASFH7W?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+myapp+%28ID%3A+285523%29",
+      "url": "https://www.producthunt.com/products/tophat?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+myapp+%28ID%3A+285523%29",
+      "votesCount": 88,
+      "commentsCount": 3,
+      "dailyRank": 17,
+      "weeklyRank": 76,
+      "monthlyRank": 328,
+      "yearlyRank": null,
+      "thumbnail": "https://ph-files.imgix.net/b29a44c3-c806-4b9b-8021-72d3835e72bf.png?auto=format",
+      "heroImage": "https://ph-files.imgix.net/09797ba6-26ee-400b-973f-fd4de8aabb78.png?auto=format",
+      "images": [
+        "https://ph-files.imgix.net/09797ba6-26ee-400b-973f-fd4de8aabb78.png?auto=format",
+        "https://ph-files.imgix.net/98e07edb-d4a6-4754-9ce6-6571edb8c845.png?auto=format",
+        "https://ph-files.imgix.net/ccfcf6e4-15ff-47d2-bf38-8e420a251a56.png?auto=format",
+        "https://ph-files.imgix.net/2d2a320d-70cc-40cd-874f-567b1e0c9fcc.png?auto=format",
+        "https://ph-files.imgix.net/82b26afd-37c8-4518-9014-e3d15c790d25.png?auto=format",
+        "https://ph-files.imgix.net/355ac094-e9ee-41bf-9ce6-aa942b9a8e0f.webp?auto=format",
+        "https://ph-files.imgix.net/d3129e34-7bc1-4466-a65f-404f39aac60a.jpeg?auto=format"
+      ],
+      "topics": [
+        "open-source",
+        "software-engineering",
+        "developer-tools"
+      ],
+      "user": {
+        "name": "Rohan Chaubey",
+        "profileImage": "https://ph-avatars.imgix.net/4325010/a8bdb2a7-d1ec-444a-9823-2833c30c540c.jpeg?auto=format&crop=faces&fit=crop&h=original&w=original"
+      },
+      "featuredAt": "2026-05-20T07:01:00Z",
+      "createdAt": "2026-05-20T07:01:00Z"
+    },
+    {
+      "id": "1148546",
+      "slug": "chromtuner",
+      "name": "Chromtuner ",
+      "tagline": "A chromatic tuner for macOS. ±1¢ accuracy",
+      "description": "A chromatic tuner for macOS. ±1¢ accuracy, eight historical temperaments and presets for bowed, folk, guitar and bass strings — native, offline, opens in 200 ms.",
+      "website": "https://www.producthunt.com/r/B7P76ABXYRUKFJ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+myapp+%28ID%3A+285523%29",
+      "url": "https://www.producthunt.com/products/chromtuner-chromatic-tuner-for-macos?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+myapp+%28ID%3A+285523%29",
+      "votesCount": 84,
+      "commentsCount": 3,
+      "dailyRank": 17,
+      "weeklyRank": 79,
+      "monthlyRank": 329,
+      "yearlyRank": null,
+      "thumbnail": "https://ph-files.imgix.net/1d44fa57-80c5-4636-8f51-aabdc31c94ef.png?auto=format",
+      "heroImage": "https://ph-files.imgix.net/abe1b86a-9acc-4dcd-a6e0-b7c7f04ad0b4.png?auto=format",
+      "images": [
+        "https://ph-files.imgix.net/abe1b86a-9acc-4dcd-a6e0-b7c7f04ad0b4.png?auto=format",
+        "https://ph-files.imgix.net/2ce14fc2-0de6-4c43-85c3-c935151e7592.png?auto=format",
+        "https://ph-files.imgix.net/77927db3-1a0c-489e-a918-33f2cfb853d1.png?auto=format",
+        "https://ph-files.imgix.net/0a88e388-7725-4885-aecd-64037b386fd6.png?auto=format"
+      ],
+      "topics": [
+        "music",
+        "menu-bar-apps",
+        "tuning"
+      ],
+      "user": {
+        "name": "Clemens Posch",
+        "profileImage": "https://ph-avatars.imgix.net/9766390/aa866168-8535-41c3-ba33-a4b4656d4442.jpeg?auto=format&crop=faces&fit=crop&h=original&w=original"
+      },
+      "featuredAt": "2026-05-20T07:01:00Z",
+      "createdAt": "2026-05-20T07:01:00Z",
+      "keywords": "Papr Graph, graphics native vector embedding, semantic embedding, graphics embedding, API calls, time dimension, theme dimension, embedding coding, intelligence"
+    },
+    {
+      "id": "1150372",
+      "slug": "multi-claude",
+      "name": "Multi-Claude",
+      "tagline": "Run multiple Claude accounts side by side on your Mac",
+      "description": "Juggling personal and work Claude accounts means constant logging in and out... or a second browser. Multi-Claude is a native macOS app that runs every Claude account you have as a separate profile, each with its own session, history, and settings.",
+      "website": "https://www.producthunt.com/r/JLJTEBGNFGNUWK?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+myapp+%28ID%3A+285523%29",
+      "url": "https://www.producthunt.com/products/multi-claude?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+myapp+%28ID%3A+285523%29",
+      "votesCount": 83,
+      "commentsCount": 11,
+      "dailyRank": 19,
+      "weeklyRank": 80,
+      "monthlyRank": 360,
+      "yearlyRank": null,
+      "thumbnail": "https://ph-files.imgix.net/a9cd00bc-daa9-49d9-afb5-4877748aaf40.png?auto=format",
+      "heroImage": "https://ph-files.imgix.net/04dc4b46-1256-452d-87a8-421512f11cdf.png?auto=format",
+      "images": [
+        "https://ph-files.imgix.net/04dc4b46-1256-452d-87a8-421512f11cdf.png?auto=format",
+        "https://ph-files.imgix.net/b4307966-8950-4370-8920-7c43d17322da.png?auto=format",
+        "https://ph-files.imgix.net/3d7a9695-54be-43d1-8f25-acdd92387fb2.png?auto=format",
+        "https://ph-files.imgix.net/e96032c3-8534-4d95-b2f4-e1251384f092.png?auto=format",
+        "https://ph-files.imgix.net/d45008b3-9914-44a3-ae69-17e54eddd346.png?auto=format",
+        "https://ph-files.imgix.net/0ad93dbd-1d42-4f84-a76c-525995284a51.png?auto=format",
+        "https://ph-files.imgix.net/e6821aa2-e9ea-44e6-b0e2-d105db7101d1.jpeg?auto=format"
+      ],
+      "topics": [
+        "mac",
+        "productivity",
+        "artificial-intelligence"
+      ],
+      "user": {
+        "name": "Bryan Parker",
+        "profileImage": "https://ph-avatars.imgix.net/3267/ddbafd4f-4661-44bd-9bd1-861e1f5dafdf.jpeg?auto=format&crop=faces&fit=crop&h=original&w=original"
+      },
+      "featuredAt": "2026-05-20T07:01:00Z",
+      "createdAt": "2026-05-20T07:01:00Z",
+      "keywords": "Thinnest AI, voice AI, artificial intelligence phone agent, multi-language support, codeless build, real-time voice agent, customer support, sales assistant, induction training, operations support, L"
+    },
+    {
+      "id": "1150909",
+      "slug": "tether-11",
+      "name": "Tether",
+      "tagline": "The presence who comes to life in your messages",
+      "description": "Tether is the AI friend that plugs into your iMessage: present, caring, truly listening. Free private beta for the first 150 — no download, no signup, no money.",
+      "website": "https://www.producthunt.com/r/VHLLOEGL42HV5T?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+myapp+%28ID%3A+285523%29",
+      "url": "https://www.producthunt.com/products/tether-10?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+myapp+%28ID%3A+285523%29",
+      "votesCount": 79,
+      "commentsCount": 19,
+      "dailyRank": 20,
+      "weeklyRank": 85,
+      "monthlyRank": 374,
+      "yearlyRank": null,
+      "thumbnail": "https://ph-files.imgix.net/55e6303a-473a-401a-9caf-d51219c01bb5.png?auto=format",
+      "heroImage": "https://ph-files.imgix.net/116271ed-5f37-4ce7-971c-e6467ffa31fc.png?auto=format",
+      "images": [
+        "https://ph-files.imgix.net/116271ed-5f37-4ce7-971c-e6467ffa31fc.png?auto=format",
+        "https://ph-files.imgix.net/2c60ffcf-751b-42e3-a199-1179cb7f97df.png?auto=format",
+        "https://ph-files.imgix.net/0cb5a79c-2e8c-415d-b76b-5b907d4bded3.png?auto=format",
+        "https://ph-files.imgix.net/34c49c21-e29d-4b2e-8ac7-569466b4d39b.png?auto=format",
+        "https://ph-files.imgix.net/ceca522a-0caf-404f-8f72-5a1a2e1c58be.png?auto=format",
+        "https://ph-files.imgix.net/dd9a1ba9-c6cb-42bd-9c1b-8ffbe5ca7402.jpeg?auto=format"
+      ],
+      "topics": [
+        "messaging",
+        "user-experience",
+        "imessage-apps"
+      ],
+      "user": {
+        "name": "Eze Ndzie",
+        "profileImage": "https://ph-avatars.imgix.net/9184617/d7b4c360-fe53-48a0-a2e5-db2508a6170c.png?auto=format&crop=faces&fit=crop&h=original&w=original"
+      },
+      "featuredAt": "2026-05-20T07:01:00Z",
+      "createdAt": "2026-05-20T07:01:00Z",
+      "keywords": "Training, AI agent, screen recording, automation, workflow, task demonstration, repetitive execution, user behavior capture, no prompts, unlabeled data, utilities, daily work, efficiency"
+    },
+    {
+      "id": "1150222",
+      "slug": "skilled-2",
+      "name": "Skilled",
+      "tagline": "Dashboard to find agent skills you no longer need",
+      "description": "Your AI coding tools keep traces. Skilled reads them. Live TUI dashboard that aggregates skill usage across Claude Code, OpenCode, Codex, Grok, and Droid. Reads local history files only. Zero network, zero telemetry. Frequency counts, weekly trends, hourly distribution, per-project breakdowns, and audit heuristics (rising = 50%+ increase over 4 weeks, stale = unused 30+ days, etc.). No data leaves your machine. No accounts, no config files, no API keys.",
+      "website": "https://www.producthunt.com/r/5HULG5VRZF75NX?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+myapp+%28ID%3A+285523%29",
+      "url": "https://www.producthunt.com/products/skilled-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+myapp+%28ID%3A+285523%29",
+      "votesCount": 77,
+      "commentsCount": 3,
+      "dailyRank": 22,
+      "weeklyRank": 87,
+      "monthlyRank": 406,
+      "yearlyRank": null,
+      "thumbnail": "https://ph-files.imgix.net/f0144008-2563-4608-9226-7aade0624859.png?auto=format",
+      "heroImage": "https://ph-files.imgix.net/bb3240fb-3b9b-488c-aaa4-28e53de68b29.png?auto=format",
+      "images": [
+        "https://ph-files.imgix.net/bb3240fb-3b9b-488c-aaa4-28e53de68b29.png?auto=format",
+        "https://ph-files.imgix.net/cca94389-b5b6-4807-b09f-6367f5b48942.png?auto=format",
+        "https://ph-files.imgix.net/3bc7df4f-a735-4ae7-936d-92984e122742.png?auto=format",
+        "https://ph-files.imgix.net/e1619ce7-7bb3-4d02-a741-a0a6aa31ef73.png?auto=format",
+        "https://ph-files.imgix.net/1c578ff5-034b-4d3d-a260-e8828b6f6e3c.png?auto=format",
+        "https://ph-files.imgix.net/c00785aa-244b-4e79-bbba-3db49d854c63.jpeg?auto=format"
+      ],
+      "topics": [
+        "developer-tools",
+        "artificial-intelligence",
+        "github",
+        "vibe-coding"
+      ],
+      "user": {
+        "name": "Ivan Charapanau",
+        "profileImage": "https://ph-avatars.imgix.net/128270/05ce4ebd-9593-4faa-afdb-c043bcc1aeaa.jpeg?auto=format&crop=faces&fit=crop&h=original&w=original"
+      },
+      "featuredAt": "2026-05-20T07:01:00Z",
+      "createdAt": "2026-05-20T07:01:00Z",
+      "keywords": "Law firm, revenue leak, SEO, local search, AI visibility, comments, website speed, compliance, 60-second audit, priority action plan, AI marketing agent, SEO updates, Google business posts,"
+    },
+    {
+      "id": "1150854",
+      "slug": "invenio-2",
+      "name": "Invenio",
+      "tagline": "Local AI search for Mac video & photo libraries",
+      "description": "Most AI media tools want your data in the cloud. Invenio is built for your Mac. It gives your AI local access to your video and photo libraries. Type \"man on a bike\" – it finds the exact frame, understands the context, and lets you drag it directly into Premiere or Final Cut. No cloud, no tracking, 100% local via Apple Neural Engine. Works with TBs on external drives. Visual search and OCR are completely free.",
+      "website": "https://www.producthunt.com/r/YY3HO75QP4M5ME?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+myapp+%28ID%3A+285523%29",
+      "url": "https://www.producthunt.com/products/invenio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+myapp+%28ID%3A+285523%29",
+      "votesCount": 75,
+      "commentsCount": 7,
+      "dailyRank": 23,
+      "weeklyRank": 89,
+      "monthlyRank": 424,
+      "yearlyRank": null,
+      "thumbnail": "https://ph-files.imgix.net/8b2a4622-874d-43b9-baa1-42f28008da6e.png?auto=format",
+      "heroImage": "https://ph-files.imgix.net/43bc90af-ccf7-496a-a547-2bcab7a49241.png?auto=format",
+      "images": [
+        "https://ph-files.imgix.net/43bc90af-ccf7-496a-a547-2bcab7a49241.png?auto=format",
+        "https://ph-files.imgix.net/45009636-89b2-4724-b8e8-48296bacf03b.png?auto=format",
+        "https://ph-files.imgix.net/cd7ed640-2239-4c3b-b22e-c2f36af6abd7.png?auto=format",
+        "https://ph-files.imgix.net/bcf9bf10-616c-43bd-b0e1-b82997f7eaf1.png?auto=format",
+        "https://ph-files.imgix.net/271fe729-4b73-4ddc-835a-e1df61cabdd1.png?auto=format",
+        "https://ph-files.imgix.net/65ea6039-dc7e-4234-b617-39785cffa4e2.jpeg?auto=format"
+      ],
+      "topics": [
+        "privacy",
+        "artificial-intelligence",
+        "photo-video"
+      ],
+      "user": {
+        "name": "Igor Yusupov",
+        "profileImage": "https://ph-avatars.imgix.net/7082478/66c3863e-30b8-45d7-a745-17c867f906b7.jpeg?auto=format&crop=faces&fit=crop&h=original&w=original"
+      },
+      "featuredAt": "2026-05-20T07:01:00Z",
+      "createdAt": "2026-05-20T07:01:00Z",
+      "keywords": "VWFNDR™, MBL, Android camera, raw photo, Bayer RAW, JPEG, transform aspect ratio, priority mode, manual control, C2PA content certificate, proof of shooting, actual"
+    },
+    {
+      "id": "1150895",
+      "slug": "partfinder",
+      "name": "PartFinder",
+      "tagline": "Spot supply chain risk before it hits",
+      "description": "PartFinder gives manufacturers part-level supply chain risk intelligence. Upload a BOM or parts list, score every component's risk, see geographic exposure, shortage signals, lead-time volatility, find alternates, compare specs, and send request for quotes - all from one platform. Most teams discover supply issues when shipments fail. PartFinder helps them act earlier.",
+      "website": "https://www.producthunt.com/r/M5K7N5N2YAFCM7?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+myapp+%28ID%3A+285523%29",
+      "url": "https://www.producthunt.com/products/partfinder?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+myapp+%28ID%3A+285523%29",
+      "votesCount": 54,
+      "commentsCount": 15,
+      "dailyRank": 24,
+      "weeklyRank": 92,
+      "monthlyRank": 665,
+      "yearlyRank": null,
+      "thumbnail": "https://ph-files.imgix.net/c6e419ae-b9d9-4b4f-94e2-5c46f20d625b.png?auto=format",
+      "heroImage": "https://ph-files.imgix.net/091f5192-8c48-45b2-8869-4ef0eb0b8133.png?auto=format",
+      "images": [
+        "https://ph-files.imgix.net/998b5773-48fd-4f1b-96fa-5235f546b448.jpeg?auto=format",
+        "https://ph-files.imgix.net/091f5192-8c48-45b2-8869-4ef0eb0b8133.png?auto=format",
+        "https://ph-files.imgix.net/e24aa57e-c68f-4028-9116-f5f17435e438.png?auto=format",
+        "https://ph-files.imgix.net/d688010b-0426-4ca6-af19-cf38363156a2.png?auto=format",
+        "https://ph-files.imgix.net/b62c4710-8d5e-49a1-aa23-288c1b6673e6.png?auto=format",
+        "https://ph-files.imgix.net/b289b5b5-206d-40c6-ba22-582710f741a0.png?auto=format",
+        "https://ph-files.imgix.net/768ec4c5-b695-4cfe-8a8e-be9da7a146f5.png?auto=format"
+      ],
+      "topics": [
+        "hardware",
+        "artificial-intelligence",
+        "data-analytics"
+      ],
+      "user": {
+        "name": "Jeffrey Porter",
+        "profileImage": "https://ph-avatars.imgix.net/9826376/bf986a9a-f4f5-491f-b791-9e0e98246586.jpeg?auto=format&crop=faces&fit=crop&h=original&w=original"
+      },
+      "featuredAt": null,
+      "createdAt": "2026-05-20T07:01:00Z",
+      "keywords": "Vocabi, translation, saving, memory, words, reading, dictionary, flash card, interval repetition, multi-language, offline use, privacy, language learners, online tools,"
+    },
+    {
+      "id": "1151227",
+      "slug": "google-pics",
+      "name": "Google Pics",
+      "tagline": "Boundless AI image generation meets precision editing",
+      "description": "Google Pics is our new image creation and editing tool, built on our latest Nano Banana model, with the precise creative controls you need to build exactly what you imagine. Whether you’re building a design from a blank canvas or editing an existing photo, Pics takes the hassle out of complex image generation. From designing event flyers and social media content to tweaking digital illustrations, this new tool includes several creative tools.",
+      "website": "https://www.producthunt.com/r/SAN2VWYC2C2TCY?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+myapp+%28ID%3A+285523%29",
+      "url": "https://www.producthunt.com/products/google?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+myapp+%28ID%3A+285523%29",
+      "votesCount": 38,
+      "commentsCount": 3,
+      "dailyRank": 25,
+      "weeklyRank": 96,
+      "monthlyRank": 673,
+      "yearlyRank": null,
+      "thumbnail": "https://ph-files.imgix.net/539e1004-6ebc-4559-b980-60d7740a4b34.webp?auto=format",
+      "heroImage": "https://ph-files.imgix.net/1c6ce2b0-fcb2-4e31-a84c-f406d652fbd9.png?auto=format",
+      "images": [
+        "https://ph-files.imgix.net/1c6ce2b0-fcb2-4e31-a84c-f406d652fbd9.png?auto=format",
+        "https://ph-files.imgix.net/17db80ac-cb9b-4ba8-8c1c-f4ce8df2826f.png?auto=format",
+        "https://ph-files.imgix.net/603303af-ed2c-4fe7-91a5-41066599a8bb.png?auto=format"
+      ],
+      "topics": [
+        "design-tools",
+        "marketing",
+        "photography"
+      ],
+      "user": {
+        "name": "Chris Messina",
+        "profileImage": "https://ph-avatars.imgix.net/18280/0f6293a7-da1b-482d-b5ac-fb534f918888.png?auto=format&crop=faces&fit=crop&h=original&w=original"
+      },
+      "featuredAt": null,
+      "createdAt": "2026-05-20T07:01:00Z",
+      "keywords": "Agora-1, Odyssey, multi-agent, world model, playable research preview, real-time generation, Goldeneye style, humans and AI, interaction, simulation games"
+    },
+    {
+      "id": "1151351",
+      "slug": "hiro-2",
+      "name": "Hiro",
+      "tagline": "Your agentic security team from first commit to SOC 2",
+      "description": "Hiro gets your security work done. It reads findings from Aikido and Wiz, pulls open tasks from Drata, and scans Supabase, Vercel, Github, and more then ships the fixes. Not a dashboard of homework. The homework, done.",
+      "website": "https://www.producthunt.com/r/3N2JPKUNBWJFB2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+myapp+%28ID%3A+285523%29",
+      "url": "https://www.producthunt.com/products/hiro-2?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+myapp+%28ID%3A+285523%29",
+      "votesCount": 27,
+      "commentsCount": 13,
+      "dailyRank": 26,
+      "weeklyRank": 99,
+      "monthlyRank": 694,
+      "yearlyRank": null,
+      "thumbnail": "https://ph-files.imgix.net/3f8098b6-96a8-4972-a7e2-3872b113163b.png?auto=format",
+      "heroImage": "https://ph-files.imgix.net/6c433d79-3d11-4198-9f39-b7489359131b.png?auto=format",
+      "images": [
+        "https://ph-files.imgix.net/6c433d79-3d11-4198-9f39-b7489359131b.png?auto=format",
+        "https://ph-files.imgix.net/51b4e33c-c2f9-4273-9a32-3aa3cb06493a.png?auto=format",
+        "https://ph-files.imgix.net/556b4ebc-c628-4907-b520-45ef9562233a.png?auto=format",
+        "https://ph-files.imgix.net/605a1c0d-5edc-4afe-a416-fa45ae9abfd4.gif?auto=format"
+      ],
+      "topics": [
+        "developer-tools",
+        "artificial-intelligence",
+        "security"
+      ],
+      "user": {
+        "name": "Ethan Blackburn",
+        "profileImage": "https://ph-avatars.imgix.net/5757208/8fcaf773-afe2-4737-a696-57ab629b0021.jpeg?auto=format&crop=faces&fit=crop&h=original&w=original"
+      },
+      "featuredAt": null,
+      "createdAt": "2026-05-20T07:01:00Z",
+      "keywords": "Buggyverse, online learning, remote work, real interpersonal connection, interactive space, high sense of responsibility, working together, social platform, music sharing, long-term friendship, study room,"
+    },
+    {
+      "id": "1145984",
+      "slug": "zeon-games",
+      "name": "Zeon Games",
+      "tagline": "Interactive creation in your pocket. Scroll. Create. Share",
+      "description": "Zeon brings together gaming, creativity, and social interaction in one place and flips the script on who gets to make games. Type a prompt, get a playable game in seconds. No code. No skills. Just an idea. Browse 35+ games across genres, curated picks and community-made originals. Upvote the best ones. Compete on global leaderboards. Share what you built. Zeon is not just a platform. It is a new creative primitive where anyone can go from idea to playable experience in under 2 minutes.",
+      "website": "https://www.producthunt.com/r/D3MC7XG7CBBFDU?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+myapp+%28ID%3A+285523%29",
+      "url": "https://www.producthunt.com/products/zeon-games-studio?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+myapp+%28ID%3A+285523%29",
+      "votesCount": 21,
+      "commentsCount": 13,
+      "dailyRank": 27,
+      "weeklyRank": 110,
+      "monthlyRank": 714,
+      "yearlyRank": null,
+      "thumbnail": "https://ph-files.imgix.net/c5c8f5dc-bc40-42b7-8610-d45eb123fd10.png?auto=format",
+      "heroImage": "https://ph-files.imgix.net/577a4787-043b-4780-95e5-e8fb0a4f46a8.png?auto=format",
+      "images": [
+        "https://ph-files.imgix.net/577a4787-043b-4780-95e5-e8fb0a4f46a8.png?auto=format",
+        "https://ph-files.imgix.net/4ebe3c06-a511-4973-a39b-a02f2b23a5dc.png?auto=format",
+        "https://ph-files.imgix.net/80fe4655-d9b3-4e45-aff4-07f670970689.png?auto=format",
+        "https://ph-files.imgix.net/d3b9a08c-1848-4c82-8e65-fbbb0eaa809e.png?auto=format",
+        "https://ph-files.imgix.net/12cce9e4-d281-4e8f-a523-5e014ea2f616.png?auto=format",
+        "https://ph-files.imgix.net/1a5eacaf-b385-4e8c-9b8b-c3b5f1044127.png?auto=format",
+        "https://ph-files.imgix.net/14990002-2105-4907-9285-e539bcbe7fef.png?auto=format",
+        "https://ph-files.imgix.net/c36a851d-0f51-49c3-8e5b-417768366b67.jpeg?auto=format"
+      ],
+      "topics": [
+        "social-media",
+        "artificial-intelligence",
+        "games"
+      ],
+      "user": {
+        "name": "Rudransh Tripathi",
+        "profileImage": "https://ph-avatars.imgix.net/5176916/a1da35cc-92fc-4319-b3a7-5b973affa66e.jpeg?auto=format&crop=faces&fit=crop&h=original&w=original"
+      },
+      "featuredAt": null,
+      "createdAt": "2026-05-20T07:01:00Z",
+      "keywords": "Cosmic Insights, cookie-free web analytics, content management systems, CMS, data analytics, page views, sessions, revenue events, GDPR-friendly, one-click integration, free plans"
+    },
+    {
+      "id": "1150422",
+      "slug": "voice-and-video-calling-by-cometchat",
+      "name": "Voice and Video Calling by CometChat",
+      "tagline": "Calling that fits your stack and grows with it.",
+      "description": "CometChat Calling gives you HD voice and video, built to ship fast and scale high. Recording, screen sharing, call logs, raise hand, and picture-in-picture out of the box. Integrate via SDKs, or drop a CometChat Skills file into your coding agent and let it handle the setup. Handles high-concurrency calls, with HIPAA, GDPR, SOC 2, and ISO 27001 compliance built in.",
+      "website": "https://www.producthunt.com/r/2YWXGYNEM3VQ4O?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+myapp+%28ID%3A+285523%29",
+      "url": "https://www.producthunt.com/products/voice-and-video-calling-by-cometchat?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+myapp+%28ID%3A+285523%29",
+      "votesCount": 21,
+      "commentsCount": 2,
+      "dailyRank": 28,
+      "weeklyRank": 112,
+      "monthlyRank": 717,
+      "yearlyRank": null,
+      "thumbnail": "https://ph-files.imgix.net/7e76ed82-94ca-498a-a964-f42ea7b0ad46.png?auto=format",
+      "heroImage": "https://ph-files.imgix.net/c273fc5a-91b5-4fec-9e14-0bcd83a108ea.png?auto=format",
+      "images": [
+        "https://ph-files.imgix.net/c273fc5a-91b5-4fec-9e14-0bcd83a108ea.png?auto=format",
+        "https://ph-files.imgix.net/9cdaa9d4-aeff-4656-aea3-460a30706719.png?auto=format",
+        "https://ph-files.imgix.net/d87e1824-1f47-4377-a62a-5739f4c3a905.png?auto=format",
+        "https://ph-files.imgix.net/1609ad84-5be1-4144-a635-d2ffc439e4bd.png?auto=format",
+        "https://ph-files.imgix.net/ff190583-59c3-4a38-b926-3e02aa95c5c0.png?auto=format",
+        "https://ph-files.imgix.net/f237af34-5c21-4cf9-a57d-d9c03b4afe27.png?auto=format",
+        "https://ph-files.imgix.net/2a9026ad-b820-48e5-9d53-15945770d226.png?auto=format",
+        "https://ph-files.imgix.net/56e00a04-6732-4705-a311-c7f00c1722a5.png?auto=format"
+      ],
+      "topics": [
+        "meetings",
+        "developer-tools",
+        "sdk"
+      ],
+      "user": {
+        "name": "Pourav Raj",
+        "profileImage": "https://ph-avatars.imgix.net/9086965/d02e97c1-34e9-48c8-a520-fb7552b33663.jpeg?auto=format&crop=faces&fit=crop&h=original&w=original"
+      },
+      "featuredAt": null,
+      "createdAt": "2026-05-20T07:01:00Z",
+      "keywords": "Lyricly, real-time lyrics, dynamic Notch player, desktop floating lyrics, music app, Apple Music, Spotify, music streaming, interactive controls, minimize settings, music accompanying"
+    },
+    {
+      "id": "1147610",
+      "slug": "figma-to-code-skills",
+      "name": " Figma to Code Skills",
+      "tagline": "The properly way to ship Figma design systems as React",
+      "description": "The Figma-to-code handoff is where design quality disappears. The solution: ten Claude Code skills that turn a Figma design system into a production React + Tailwind repo with typed props, accessibility, and tokens. Tested on a live fintech build.",
+      "website": "https://www.producthunt.com/r/L5DJ4ICTRF7UDZ?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+myapp+%28ID%3A+285523%29",
+      "url": "https://www.producthunt.com/products/figma-to-code-skills?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+myapp+%28ID%3A+285523%29",
+      "votesCount": 18,
+      "commentsCount": 6,
+      "dailyRank": 29,
+      "weeklyRank": 120,
+      "monthlyRank": 748,
+      "yearlyRank": null,
+      "thumbnail": "https://ph-files.imgix.net/8e9b9857-85b0-4871-858c-5c493ef40d15.png?auto=format",
+      "heroImage": "https://ph-files.imgix.net/08493f94-35a8-4793-877f-2e0cc155b681.png?auto=format",
+      "images": [
+        "https://ph-files.imgix.net/08493f94-35a8-4793-877f-2e0cc155b681.png?auto=format",
+        "https://ph-files.imgix.net/154a1694-31ed-4d52-a7c9-922b71365e72.png?auto=format",
+        "https://ph-files.imgix.net/f0a1dabd-9c9b-44e4-aa3d-3207d9affdb2.jpeg?auto=format"
+      ],
+      "topics": [
+        "design-tools",
+        "developer-tools",
+        "artificial-intelligence",
+        "github"
+      ],
+      "user": {
+        "name": "Krzysztof Hendzel",
+        "profileImage": "https://ph-avatars.imgix.net/2911683/e44b8e63-e2eb-4358-a746-1daa36a32edb.png?auto=format&crop=faces&fit=crop&h=original&w=original"
+      },
+      "featuredAt": null,
+      "createdAt": "2026-05-20T07:01:00Z",
+      "keywords": "CLI Market, retailer, API, AI agent, VTEX, 67 countries, 12 business lines, REST API, open source, MCP tools, search, comparison, purchase, terminal"
+    },
+    {
+      "id": "1151211",
+      "slug": "perspiva-surveys-reimagined",
+      "name": "Perspiva; surveys reimagined",
+      "tagline": "Turn customer feedback into customer intelligence",
+      "description": "Perspiva is a customer intelligence platform designed for founders, product marketers, and growth teams who want to deeply understand their customers, not just collect responses. Generate survey questions based on what you’re actually trying to learn, create elegant branded surveys, and transform customer feedback into actionable positioning, messaging frameworks, audience insights, and strategic reports. Created by minority founders, Michael Ezehi and Yasmeen Turayhi.",
+      "website": "https://www.producthunt.com/r/ILBQ3KRCWFVNLS?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+myapp+%28ID%3A+285523%29",
+      "url": "https://www.producthunt.com/products/perspiva-surveys-reimagined?utm_campaign=producthunt-api&utm_medium=api-v2&utm_source=Application%3A+myapp+%28ID%3A+285523%29",
+      "votesCount": 18,
+      "commentsCount": 7,
+      "dailyRank": 30,
+      "weeklyRank": 118,
+      "monthlyRank": 750,
+      "yearlyRank": null,
+      "thumbnail": "https://ph-files.imgix.net/75b9cfaa-03ef-4e05-b2df-d59885fbbc7a.png?auto=format",
+      "heroImage": "https://ph-files.imgix.net/80fadf42-6b37-4c25-9fcc-c62896f6c6a8.png?auto=format",
+      "images": [
+        "https://ph-files.imgix.net/80fadf42-6b37-4c25-9fcc-c62896f6c6a8.png?auto=format",
+        "https://ph-files.imgix.net/4d7c9963-16d4-4d91-9f0c-5cbbef786693.png?auto=format",
+        "https://ph-files.imgix.net/e66ee025-588b-455b-9f13-73af6c3d9c68.png?auto=format",
+        "https://ph-files.imgix.net/37a69731-4f3c-4a6a-8cf9-e26f7ec8256a.png?auto=format",
+        "https://ph-files.imgix.net/3905809d-edcb-4729-9e7d-4d81a5d14fb5.jpeg?auto=format"
+      ],
+      "topics": [
+        "design-tools",
+        "customer-communication",
+        "marketing"
+      ],
+      "user": {
+        "name": "Yasmeen Turayhi",
+        "profileImage": "https://ph-avatars.imgix.net/642119/ab24ceca-6719-42ec-a379-f4179c07ddc7.jpeg?auto=format&crop=faces&fit=crop&h=original&w=original"
+      },
+      "featuredAt": null,
+      "createdAt": "2026-05-20T07:01:00Z"
+    }
+  ]
+}

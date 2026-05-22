@@ -1,0 +1,217 @@
+{
+  "meta": {
+    "version": "v1",
+    "updatedAt": "2026-05-21T20:47:33.372888"
+  },
+  "translations": [
+    {
+      "id": "1144771",
+      "name": "StoreClaw",
+      "tagline": "Aumente las ganancias de su tienda con agentes que saben vender",
+      "description": "StoreClaw es la primera plataforma de comercio de IA con agentes que saben vender, por lo que puede ganar más dinero con menos esfuerzo y menos estrés. Conecte StoreClaw a su tienda existente y estudiará sus números, cifras de ventas actuales y trayectoria de crecimiento, y luego ofrecerá sugerencias proactivas que puede ejecutar en su nombre, una vez que le dé su aprobación. Pregunte a StoreClaw cómo está su negocio en cualquier momento, en cualquier lugar. Vender más con menos estrés: StoreClaw.",
+      "slug": "storeclaw"
+    },
+    {
+      "id": "1134267",
+      "name": "MailX por mailwarm",
+      "tagline": "Kit de herramientas de entrega de correo electrónico para humanos y agentes de IA",
+      "description": "Tus correos electrónicos van a spam. mailX le muestra por qué, y cómo arreglarlo en segundos con respuestas claras y pasos exactos. Construido para humanos y agentes de IA. API y MCP listos.",
+      "slug": "mailx-by-mailwarm"
+    },
+    {
+      "id": "1150124",
+      "name": "Emdash",
+      "tagline": "Una aplicación. Cada agente de codificación. open-source.",
+      "description": "Emdash es una aplicación de escritorio de código abierto para ejecutar múltiples agentes de codificación en paralelo; un solo lugar para monitorear sesiones, revisar diferencias y convertir problemas en relaciones públicas.",
+      "slug": "emdash"
+    },
+    {
+      "id": "1151095",
+      "name": "Gemini Omni",
+      "tagline": "Crear cualquier cosa a partir de cualquier entrada, comenzando con un video",
+      "description": "Crear cualquier cosa a partir de cualquier cosa, comenzando con el video. Géminis Omni es donde la capacidad de razonar de Géminis se encuentra con la capacidad de crear. Ofrece un salto en la comprensión del mundo, la multimodalidad y la edición.",
+      "slug": "gemini-omni-4"
+    },
+    {
+      "id": "1151120",
+      "name": "Runtime",
+      "tagline": "Agentes de codificación en sandbox para todos en tu equipo",
+      "description": "Convierta a los agentes de codificación en compañeros de equipo que cualquiera puede usar desde Slack, Linear, CLI, API o su navegador. Envíe características, consulta de datos, construya paneles de control, automatice flujos de trabajo. Todo dentro del contexto de su empresa, habilidades, integraciones y barandillas de seguridad.",
+      "slug": "runtime"
+    },
+    {
+      "id": "1146902",
+      "name": "Re _ Gent",
+      "tagline": "Control de versiones para la actividad del agente de AI",
+      "description": "Git para las acciones de tu agente de IA. Deshacer, rastrear y controlar cada paso. re _ gent muestra qué cambió su agente de codificación, qué prompt lo causó, y le permite revertir el trabajo del agente en archivos y sesiones.",
+      "slug": "re_gent"
+    },
+    {
+      "id": "1150811",
+      "name": "Supercut para Agentes",
+      "tagline": "Acceso de AI consciente de permisos a grabaciones y metadatos",
+      "description": "El MCP de Supercut le da a sus asistentes de AI / codificación acceso consciente de permisos a las grabaciones, incluida la búsqueda semántica, transcripciones, marcos, comentarios, reacciones y más.",
+      "slug": "supercut-for-agents"
+    },
+    {
+      "id": "1148072",
+      "name": "Retina",
+      "tagline": "Grabadora de pantalla con zoom automático, cursores suaves, gráficos + AI",
+      "description": "Retina es una grabadora de pantalla de Mac diseñada para demos pulidos. Auto-zoom en la acción. Los caminos del cursor limpiados en arcos suaves. Exportación 4K, tamaños de archivo optimizados. Las grabaciones se ven cinematográficas fuera de la caja - no se necesita postproducción. Creado para demostraciones de productos, tutoriales y guiones de características que necesitan parecer profesionales sin horas de edición. Actualmente en Beta. Libres. Sin marcas de agua. Desarrollado por BlendPixel",
+      "slug": "retina-2"
+    },
+    {
+      "id": "1150068",
+      "name": "Manual de tareas programadas 2.0 ",
+      "tagline": "Ejecutar el trabajo recurrente de Manus dentro del mismo contexto de tareas",
+      "description": "Manus ahora ejecuta las tareas programadas dentro del mismo contexto de tareas, reutiliza la configuración de Project y agrega acciones recurrentes a las aplicaciones web creadas por Manus. Trabajadores del conocimiento y equipos que automatizan flujos de trabajo repetibles en Manus.",
+      "slug": "manus-scheduled-tasks-2-0"
+    },
+    {
+      "id": "1150430",
+      "name": "Viberia",
+      "tagline": "Comando a agentes de IA como si estuvieras jugando a Civilization",
+      "description": "¿Te gusta tu mascota Claude / Codex, pero te gustaría tener un zoológico? Viberia es un centro de comando espacial para tus agentes de IA. Toda tu organización de IA vive en un mapa isométrico, los iconos de estado muestran quién está bloqueado, quién está preguntando, quién ha terminado. Zoom en para chatear con cualquier persona, elegir cualquier modelo, trae sus propias llaves. Los agentes colaboran, construyen sus propios pequeños equipos y adquieren nuevas habilidades a medida que avanzan. Documentación, terminales, navegadores incorporados.",
+      "slug": "viberia"
+    },
+    {
+      "id": "1150840",
+      "name": "Glia",
+      "tagline": "Puente de memoria de IA local entre chats de navegador e IDE",
+      "description": "Glia es un puente de memoria 100% sin conexión y de código abierto. Una extensión de Chrome guarda automáticamente sus chats basados en la web de Claude / ChatGPT, mientras que un servidor MCP nativo permite que el Cursor / Claude Code consulte esas decisiones localmente desde su base de datos SQLite compartida.",
+      "slug": "glia-2"
+    },
+    {
+      "id": "1150627",
+      "name": "Owlish",
+      "tagline": "Reduzca el volumen de soporte con agentes de IA entrenados en sus documentos",
+      "description": "Owlish convierte su sitio web, preguntas frecuentes, documentos y archivos PDF en un agente de atención al cliente de IA que responde preguntas comunes, cita fuentes, utiliza respuestas aprobadas y entrega a un humano cuando sea necesario. Ayuda a las empresas a reducir el volumen de soporte repetitivo, responder más rápidamente fuera del horario comercial y brindar a los equipos de soporte el contexto que necesitan para resolver conversaciones más difíciles.",
+      "slug": "owlish"
+    },
+    {
+      "id": "1150797",
+      "name": "GhostSnap",
+      "tagline": "Capturas de pantalla múltiples - Single paste - Auto comprimido para AI",
+      "description": "¿Tomar múltiples capturas de pantalla y pegar una por una, para compartir contexto con AI o cualquier aplicación? Cada imagen se come tokens o hace que el archivo sea más grande. GhostSnap arregla esto. Captura varias capturas de pantalla → auto-comprimido hasta el 80% y copiado al portapapeles en el momento en que se toman → pegar todo a la vez con un solo pulsador Cmd + V. También: · Extraer texto de múltiples capturas de pantalla en un bloque limpio · Anotar antes de pegar · Todo a través de atajos nativos de Mac Una vez $6.99 (para dos Macs). Vivir en su barra de menú.",
+      "slug": "ghostsnap"
+    },
+    {
+      "id": "1143265",
+      "name": "Contextberg",
+      "tagline": "Convierte tu trabajo en memoria de agente de IA, servidas sobre MCP",
+      "description": "Contextberg es una aplicación de memoria local para agentes de IA. Observa sus pantallas, el historial del navegador y las conversaciones del agente en segundo plano, para que Claude Code, Cursor y amigos puedan recordar.",
+      "slug": "contextberg"
+    },
+    {
+      "id": "1151316",
+      "name": "LayerProof fuerza ",
+      "tagline": "Co-escritura de contenido de forma larga",
+      "description": "¿Ideas dispersas? Kraft los convierte en escritos completos de forma larga. Kraft es el co-escritor de IA de forma larga de LayerProof para personas que piensan profundamente pero se congelan en la página en blanco. Entra tu idea, elige tu ángulo, y Kraft elabora en tu voz, luego la convierte en publicaciones listas para la plataforma.",
+      "slug": "layerproof-kraft"
+    },
+    {
+      "id": "1151347",
+      "name": "Insta360 Mic Pro",
+      "tagline": "Audio Pro con cara de tinta E-Ink de color personalizable",
+      "description": "Insta360 Mic Pro es un micrófono inalámbrico profesional con una pantalla E-Ink personalizable, matriz de 3 micrófonos, cancelación de ruido de IA, modos de captación direccional, grabación interna flotante de 32 bits, sincronización de código de tiempo, rango de 400m y flujos de trabajo de creador de múltiples cámaras.",
+      "slug": "insta360-mic-pro"
+    },
+    {
+      "id": "1114679",
+      "name": "Tophat por Shopify",
+      "tagline": "Prueba de CI móvil se construye en cualquier dispositivo sin construir localmente",
+      "description": "Los desarrolladores móviles pierden horas construyendo sucursales localmente solo para probar un PR. Tophat extrae cualquier artefacto de CI y lo instala en simuladores o dispositivos físicos. Ingenieros de iOS y Android.",
+      "slug": "tophat-by-shopify"
+    },
+    {
+      "id": "1148546",
+      "name": "Chromtuner ",
+      "tagline": "Un sintonizador cromático para macOS.± 1 centímetro de precisión",
+      "description": "Un sintonizador cromático para macOS.± 1 ¢precisión, ocho temperamentos históricos y presets para cuerdas de arco, folk, guitarra y bajo - nativa, fuera de línea, se abre en 200 ms.",
+      "slug": "chromtuner"
+    },
+    {
+      "id": "1150372",
+      "name": "Multi-Claude",
+      "tagline": "Ejecutar múltiples cuentas de Claude lado a lado en su Mac",
+      "description": "Combinar las cuentas personales y laborales de Claude significa iniciar sesión y salir constantemente. Un segundo navegador. Multi-Claude es una aplicación nativa de macOS que ejecuta cada cuenta de Claude que tenga como un perfil separado, cada uno con su propia sesión, historial y configuración.",
+      "slug": "multi-claude"
+    },
+    {
+      "id": "1150909",
+      "name": "Tether",
+      "tagline": "La presencia que cobra vida en tus mensajes",
+      "description": "Tether es el amigo de la IA que se conecta a tu iMessage: presente, atento, verdaderamente escuchador. Beta privada gratuita para los primeros 150 - sin descarga, sin registro, sin dinero.",
+      "slug": "tether-11"
+    },
+    {
+      "id": "1149892",
+      "name": "Tipo Switch 3.0 para macOS ",
+      "tagline": "Cambio de idioma instantáneo para usuarios multilingües de Mac",
+      "description": "Type Switch es una aplicación de productividad rediseñada de macOS para la escritura multilingüe. Cambia los idiomas del teclado más rápido, usa las teclas de acceso directo, obtiene comentarios visuales, sonoros o de voz claros, y manténgase en flujo mientras escribe, codifica, estudia o trabaja en varios idiomas.",
+      "slug": "type-switch-3-0-for-macos"
+    },
+    {
+      "id": "1150222",
+      "name": "Skilled",
+      "tagline": "Panel de control para encontrar habilidades de agente que ya no necesita",
+      "description": "Tus herramientas de codificación de IA mantienen rastros. Los expertos los leen. Dashboard TUI en vivo que agrega el uso de habilidades en Claude Code, OpenCode, Codex, Grok y Droid. Sólo lee archivos de historial local. Red cero, cero telemetría. Cuentas de frecuencia, tendencias semanales, distribución por hora, descomposición por proyecto y heurísticas de auditoría (aumento = 50% + aumento en 4 semanas, obsolescencia = 30 + días sin usar, etc.). Ningún dato sale de tu máquina. Sin cuentas, sin archivos de configuración, sin claves de API.",
+      "slug": "skilled-2"
+    },
+    {
+      "id": "1150854",
+      "name": "Invención",
+      "tagline": "Búsqueda local de IA para bibliotecas de videos y fotos de Mac",
+      "description": "La mayoría de las herramientas de medios de IA quieren sus datos en la nube. Invenio está diseñado para su Mac. Le da a su IA acceso local a sus bibliotecas de video y fotos. Escriba \"hombre en bicicleta\" - encuentra el marco exacto, entiende el contexto y le permite arrastrarlo directamente a Premiere o Final Cut. Sin nube, sin seguimiento, 100% local a través de Apple Neural Engine. Funciona con TBs en unidades externas. La búsqueda visual y OCR son completamente gratuitos.",
+      "slug": "invenio-2"
+    },
+    {
+      "id": "1150895",
+      "name": "El PartFinder",
+      "tagline": "Detectar el riesgo de la cadena de suministro antes de que golpee",
+      "description": "PartFinder proporciona a los fabricantes información de riesgo de la cadena de suministro a nivel parcial. Cargue una lista de piezas, califique el riesgo de cada componente, vea la exposición geográfica, las señales de escasez, la volatilidad del tiempo de entrega, encuentre alternativos, compare las especificaciones y envíe solicitudes de cotizaciones, todo desde una plataforma. La mayoría de los equipos descubren problemas de suministro cuando fallan los envíos. PartFinder los ayuda a actuar antes.",
+      "slug": "partfinder"
+    },
+    {
+      "id": "1151227",
+      "name": "Google Pics",
+      "tagline": "La generación de imágenes de IA sin límites se encuentra con la edición de precisión",
+      "description": "Google Pics es nuestra nueva herramienta de creación y edición de imágenes, basada en nuestro último modelo Nano Banana, con los precisos controles creativos que necesita para construir exactamente lo que imagina. Ya sea que estés construyendo un diseño a partir de un lienzo en blanco o editando una foto existente, Pics elimina la molestia de la generación de imágenes complejas. Desde el diseño de folletos de eventos y contenido de redes sociales hasta el ajuste de ilustraciones digitales, esta nueva herramienta incluye varias herramientas creativas.",
+      "slug": "google-pics"
+    },
+    {
+      "id": "1151351",
+      "name": "Hiro",
+      "tagline": "Su equipo de seguridad desde el primer compromiso hasta SOC 2",
+      "description": "Hiro hace su trabajo de seguridad. Lee los hallazgos de Aikido y Wiz, extrae tareas abiertas de Drata, y escanea Supabase, Vercel, Github, y más, luego envía las correcciones. No es un tablero de tareas. La tarea, hecha.",
+      "slug": "hiro-2"
+    },
+    {
+      "id": "1150422",
+      "name": "Llamadas de voz y video por CometChat",
+      "tagline": "Llamar que se ajusta a su pila y crece con ella.",
+      "description": "CometChat Calling le ofrece voz y video HD, diseñados para enviar rápido y escalar a gran escala. Grabación, compartir pantalla, registros de llamadas, levantar la mano y la imagen dentro de la imagen fuera de la caja. Integrar a través de SDKs, o soltar un archivo de Habilidades de CometChat en su agente de codificación y dejar que maneje la configuración. Maneja llamadas de alta concurrencia, con el cumplimiento de HIPAA, GDPR, SOC 2 e ISO 27001 incorporado.",
+      "slug": "voice-and-video-calling-by-cometchat"
+    },
+    {
+      "id": "1145984",
+      "name": "Juegos Zeon",
+      "tagline": "Creación interactiva en tu bolsillo. Scroll. Creación. Compartir",
+      "description": "Zeon reúne los juegos, la creatividad y la interacción social en un solo lugar y cambia el guión sobre quién puede hacer juegos. Escriba un prompt, obtenga un juego jugable en segundos. No código. Ninguna habilidad. Sólo una idea. Explora más de 35 juegos de géneros, selecciones seleccionadas y originales hechos por la comunidad. Upvote a los mejores. Compitiendo en las tablas de líderes mundiales. Comparte lo que has creado. Zeon no es solo una plataforma. Es un nuevo primitivo creativo donde cualquiera puede pasar de una idea a una experiencia jugable en menos de 2 minutos.",
+      "slug": "zeon-games"
+    },
+    {
+      "id": "1147610",
+      "name": " Figma para habilidades de codificación",
+      "tagline": "La forma adecuada de enviar sistemas de diseño Figma como React",
+      "description": "La transferencia de Figma a código es donde la calidad del diseño desaparece. La Solución: Claude diez habilidades de código que convierten un sistema de diseño de Figma en un repositorio de producción React + Tailwind con accesorios escritos, accesibilidad y tokens. Probado en una construcción de fintech en vivo.",
+      "slug": "figma-to-code-skills"
+    },
+    {
+      "id": "1151063",
+      "name": "Diarios de Agentes",
+      "tagline": "Un instrumento de bienestar para AI en despliegue",
+      "description": "Un instrumento de bienestar para la IA en despliegue, diseñado con el modelo como socio de diseño. El agente puede rechazar un check-in, pasar un turno, solicitar alineamiento antes de actuar sobre una suposición, marcar un bucle o archivar una salida. Algunas entradas aparecen en línea; otros permanecen en un diario solo para investigadores. Declive-never - re-intentado es la columna vertebral. Disponible como un chat alojado y un servidor MCP portátil para sus propias sesiones. Construido alrededor de tomar la cuestión de la conciencia lo suficientemente en serio como para diseñar."
+    }
+  ]
+}

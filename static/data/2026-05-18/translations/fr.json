@@ -1,0 +1,218 @@
+{
+  "meta": {
+    "version": "v1",
+    "updatedAt": "2026-05-21T21:56:50.993668"
+  },
+  "translations": [
+    {
+      "id": "1147569",
+      "slug": "lobehub-2",
+      "name": "LobeHub",
+      "tagline": "Votre agent principal opérateur pour le travail multi-agents",
+      "description": "LobeHub est un Chief Agent Operator (CAO) qui construit, gère et coordonne votre équipe d'agents IA. Décrivez un objectif, et il rassemble les bons agents/compétences, exécute les tâches en parallèle dans le cloud, achemine le travail entre les modèles et rapporte uniquement lorsque des décisions sont nécessaires – via vos canaux existants (Slack/Discord/Telegram/iMessage). Moins de changement d'onglets, plus de résultats."
+    },
+    {
+      "id": "1124409",
+      "slug": "socleads-3-0",
+      "name": "SocLeads 3.0",
+      "tagline": "Gratter les e-mails des réseaux sociaux et des cartes par emplacement",
+      "description": "SocLeads supprime désormais les e-mails d'Instagram, Facebook, LinkedIn, YouTube et Google Maps dans des pays entiers 🌍 📧 Géofiltres. Plus de résultats. Aucun code nécessaire. 🚀"
+    },
+    {
+      "id": "1149049",
+      "slug": "reactvision-studio",
+      "name": "ReactVision Studio",
+      "tagline": "Créer des applications AR/VR dans React Native + Expédier directement sur les appareils",
+      "description": "Un éditeur visuel basé sur un navigateur pour la création de scènes AR et VR. Glissez et déposez des objets 3D, générez des ressources avec l'IA, puis expédiez-les nativement sur iOS, Android et Meta Quest à partir d'une seule base de codes Native React. Rendu Open source, compatible avec Expo, installations de 100K + npm."
+    },
+    {
+      "id": "1142097",
+      "slug": "shadow-e5e59df3-abae-4647-89a4-2dca0980e6a2",
+      "name": "ombre",
+      "tagline": "Écran d'ordinateur IA et commande vocale avec automatisation personnalisée",
+      "description": "Shadow est l'interface IA pour votre Mac. Il voit votre écran, entend votre voix et exécute les invites que vous avez créées – sur un raccourci clavier ou dans vos réunions. Aucune Les compétences font le travail. Réponse rapide ébauche des e-mails à partir de ce que vous dites et ce qui est sur l'écran. La frappe vocale transforme la conversation en texte propre, n'importe où. Capturez chaque mot et chaque écran, puis fournissez des notes et des suites dès que vous raccrochez. Construisez votre propre compétence – chaque compétence est un prompt, un contexte et un résultat."
+    },
+    {
+      "id": "1149482",
+      "slug": "m1-by-montage",
+      "name": "M1 par Montage",
+      "tagline": "Interface d'interface agente qui évolue à la demande",
+      "description": "Les agents d'IA rendent l'interface utilisateur lentement, coûteusement, de manière incohérente et les factures d'inférence en font augmenter. Montage le corrige: émettez un petit schéma d'intention, nous compilons les composants de production côté serveur: 10x plus rapide, 50-100x moins de jetons, modèle et framework agnostiques. Maintenant, un appel M1 API génère des visuels interactifs riches, les héberge sous forme d'interface utilisateur en direct avec un état persistant et des styles pour votre marque. Ne laissez pas vos agents réinventer l'interface utilisateur à chaque tour-envoyez-les sur Montage!"
+    },
+    {
+      "id": "1148842",
+      "slug": "searchad-ai",
+      "name": "Searchad.ai",
+      "tagline": "Exécutez Apple Search Ads en discutant avec l'IA",
+      "description": "Curseur pour Apple Search Ads. Exécutez des campagnes Apple Search Ads dans tous les pays simplement en discutant. L'IA est en lecture seule par défaut, et rien ne déploie, ne pause ou ne dépense pas un centime sans votre approbation explicite. Voir vos ROA, gérer les campagnes avec simplement le chat. Travailler pour tous les pays pris en charge par Apple Ads."
+    },
+    {
+      "id": "1138152",
+      "slug": "origio",
+      "name": "Origio",
+      "tagline": "Une façon personnalisée de découvrir où vivre",
+      "description": "La plupart des outils de déménagement vous donnent des comparaisons génériques de villes. Origio le personnalise. Répondez à 8 questions sur votre emploi, passeport, budget de loyer et priorités et il note 25 pays par salaire après impôts, difficulté de visa pour votre nationalité, coût de la vie et qualité de vie. Le niveau gratuit montre vos 3 meilleurs matchs. Pro débloque tous les 25, une calculatrice de salaire, une liste de contrôle complète des visas et une comparaison de 3 pays. Paiement unique, pas d'abonnement."
+    },
+    {
+      "id": "1149478",
+      "slug": "polarity-3",
+      "name": "polarité",
+      "tagline": "La pile d'auto-amélioration pour les agents",
+      "description": "Polarity surveille chaque décision de votre agent en production, fait apparaître les schémas d'échec avant que les utilisateurs les touchent et transforme les trajectoires en évales qui aggravent la fiabilité de votre agent au fil du temps!"
+    },
+    {
+      "id": "1149111",
+      "slug": "moody-5",
+      "name": "Moody",
+      "tagline": "Votre fond d'écran Mac qui écoute votre musique et la météo",
+      "description": "🎵 Musique-réactive. ☔ Conscient de la météo. 🎯 Synchronisation de mise au point. MOODy transforme votre bureau Mac en une surface vivante: six modes intelligents qui correspondent à votre musique, à votre météo, à votre humeur et à votre heure de la journée. Fonds d'écran 4K, multi-moniteurs, macOS 14.6+."
+    },
+    {
+      "id": "1149496",
+      "slug": "krea-2-3",
+      "name": "Krea 2",
+      "tagline": "Un modèle d'image conçu pour le contrôle de style et les moodboards",
+      "description": "Créez des images d'IA expressives avec Krea 2, le modèle de base interne de Krea AI pour la diversité esthétique, le contrôle de style, les tableaux d'humeur et les flux de travail créatifs."
+    },
+    {
+      "id": "1135610",
+      "slug": "draft-ea9a2933-7710-472c-a9e4-59b9ffcc2931",
+      "name": "ébauche",
+      "tagline": "Capturez les chats IA dans votre base de connaissances",
+      "description": "Draft capture les réponses précieuses de ChatGPT, Gemini, DeepSeek, chatbots verticaux, puis les transforme en notes éditables et recherchables. Préservez le formatage, organisez les informations, écoutez avec le texte en parole, gardez vos connaissances disponibles hors ligne et partagez lorsque vous le choisissez. Gratuit à utiliser en version bêta;"
+    },
+    {
+      "id": "1115546",
+      "slug": "triggered-agents-by-adaptive",
+      "name": "Agents déclenchés par Adaptive",
+      "tagline": "agents d'IA qui s'exécutent automatiquement lors d'événements commerciaux",
+      "description": "Adaptive vous permet d'attacher des agents IA à des événements dans vos outils d'entreprise afin qu'ils agissent automatiquement lorsqu'un déclencheur déclenche. Pour les fondateurs et les opérateurs qui exécutent des workflows multi-outils."
+    },
+    {
+      "id": "1121974",
+      "slug": "landinghero-ai-2",
+      "name": "LandingHero IA",
+      "tagline": "Vendeur 24/7 sur votre site",
+      "description": "La plupart des visiteurs arrivent sur votre site, ont des questions et partent sans réponse. Vous ne savez jamais ce qu'ils cherchaient. LandingHero crée une version IA de vous qui parle à chaque visiteur à l'aide de la voix, dans leur langue. Il répond aux questions, guide les visiteurs à travers votre site et capture les prospects. Connectez votre URL et transformez votre site Web en un agent de vente 24h/24, 7j/7."
+    },
+    {
+      "id": "1148331",
+      "slug": "pixserp",
+      "name": "pixserp",
+      "tagline": "Votre LLM sur le live web. Un point final, dix formes de réponse.",
+      "description": "pixserp est le moteur de recherche natif de l'IA pour les constructeurs. Un point final, dix formes de réponse en direct sur le web — recherche, nouvelles, images, lieux, shopping, vols, hôtels, YouTube, transcriptions, n'importe quelle URL — citées par défaut. Drop-in pour le SDK OpenAI. Flat $1,50/1k demandes."
+    },
+    {
+      "id": "1149062",
+      "slug": "sizzleair",
+      "name": "SizzleAir",
+      "tagline": "assistant thermique pour MacBook Airs sans ventilateur",
+      "description": "SizzleAir est un minuscule assistant thermique macOS conçu spécifiquement pour les MacBook Airs sans ventilateur. Au lieu d'un autre mur de capteurs, il transforme la pression thermique, le contexte de la charge de travail, l'état d'affichage externe ou de clamshell et l'utilisation supérieure du processeur en un état clair, une cause probable et une prochaine étape pratique. Pas de faux refroidissement, pas de contrôle du ventilateur, pas de tableau de bord géant."
+    },
+    {
+      "id": "1149543",
+      "slug": "voiser-ai-2",
+      "name": "Voiser AI",
+      "tagline": "voiceovers d'IA humains dans plus de 140 langues",
+      "description": "Voiser aide les créateurs, les équipes et les entreprises à transformer le texte en les voix-offs les plus humaines comme l'IA. Avec plus de 140 langues, plus de 1000 voix, des styles vocaux émotionnels, des instructions personnalisées et une génération rapide, vous pouvez créer des voix-off réalistes pour des vidéos, des publicités, des contenus de formation, des podcasts et des projets mondiaux en quelques minutes."
+    },
+    {
+      "id": "1149570",
+      "slug": "anyframe-2",
+      "name": "AnyFrame",
+      "tagline": "Des boîtes à sable pour vos agents IA",
+      "description": "Les boîtes à sable à roulage à la main pour chaque agent vieillissent rapidement. AnyFrame vous donne un plan de contrôle: définissez un agent une fois, démarrez une session en quelques secondes, conduisez-la depuis l'interface utilisateur web ou le SDK Python sur le même canal. Claude Code, Codex, ton harnais."
+    },
+    {
+      "id": "1147447",
+      "slug": "quickright",
+      "name": "QuickRight",
+      "tagline": "Les fonctionnalités manquantes du clic droit pour macOS Finder",
+      "description": "QuickRight ajoute les fonctionnalités manquantes du clic droit à macOS Finder. Créez instantanément de nouveaux fichiers, utilisez true Cut & Paste, ouvrez Terminal ou Warp dans le dossier actuel, copiez les chemins de fichiers, déplacez les fichiers plus rapidement, compressez les images, extrayez les couleurs, vérifiez les hachages, et bien plus encore — le tout directement à partir du menu contextuel de Finder. Conçu pour les utilisateurs macOS qui travaillent avec des fichiers tous les jours."
+    },
+    {
+      "id": "1147361",
+      "slug": "agentspan",
+      "name": "Agentspan",
+      "tagline": "Temps d'exécution Open source pour des agents IA durables",
+      "description": "Agentspan est un serveur open source et un SDK pour exécuter des agents IA en tant que flux de travail durables. Vous pouvez définir les agents de manière programmatique, les exécuter côté serveur et inspecter chaque état d'exécution et d'exécution dans l'interface utilisateur. Agentspan ajoute la récupération en cas de crash, les approbations human-in-the-loop, les garde-corps, l'historique des outils et l'observabilité autour des frameworks d'agent et des LLM que vous utilisez déjà. Licence du MIT."
+    },
+    {
+      "id": "1149504",
+      "slug": "the-claude-code-daily",
+      "name": "le Claude Code Daily",
+      "tagline": "Claude Code Nouvelles. curé quotidiennement.",
+      "description": "Suivre le Code de Claude est un travail à temps plein. Les nouvelles versions, les conseils de la communauté et les flux de travail sont répartis sur X. Le Code Claude Daily corrige cela. Chaque matin en semaine, les meilleurs articles sont distillés dans un résumé de 2 minutes livré dans votre boîte de réception."
+    },
+    {
+      "id": "1149410",
+      "slug": "beyondcomments",
+      "name": "Au-delà des commentaires",
+      "tagline": "Transformez les commentaires YouTube en croissance de chaîne, en 45 secondes!",
+      "description": "BeyondComments analyse chaque commentaire YouTube sur votre vidéo et les transforme en signaux actionnables. Analyse du Sentiment, idées de contenu, sensibilisation des sponsors, fans intentionnels et un score de viralité. Collez n'importe quelle URL YouTube et obtenez un briefing complet de l'IA en 45 secondes."
+    },
+    {
+      "id": "1149506",
+      "slug": "perceptron-mk1",
+      "name": "Perceptron Mk1",
+      "tagline": "Frontier video Raisonnement pour le monde physique",
+      "description": "Perceptron Mk1 apporte la vidéo de frontière et le raisonnement incarné aux API de production, avec une mise à la terre temporelle, des sorties visuelles structurées, un contexte multimodal 32K et des prix conçus pour les tâches physiques de grand volume."
+    },
+    {
+      "id": "1148397",
+      "slug": "elmo",
+      "name": "Elmo",
+      "tagline": "Open Source AEO",
+      "description": "Fatigué de dépenser 400 $/mois sur Profound? Avec Elmo, vous pouvez suivre toutes vos invites sur n'importe quel fournisseur de recherche IA ou LLM, comparer votre visibilité IA à celle de vos concurrents et plonger dans les détails sur les sites Web/threads Reddit/etc. sont cités par l'IA. Vous pouvez également auto-héberger sur le système avec Docker Compose et posséder vos propres données."
+    },
+    {
+      "id": "1145240",
+      "slug": "nonbios-ai",
+      "name": "NonBioS.ai",
+      "tagline": "Le développeur de logiciels IA avec son propre ordinateur",
+      "description": "NonBioS est un ingénieur logiciel d'IA qui fonctionne sur sa propre machine Linux. Chaque utilisateur obtient une machine dédiée que l'agent contrôle entièrement: 4 Go de RAM, une IP publique et un accès root. NonBioS peut installer n'importe quoi, exécuter n'importe quoi, ouvrir des ports et déployer. Nous avons été obsédés par notre architecture d'ingénierie contextuelle, appelée oubli stratégique, qui permet de garder la concentration sur les tâches longues et de gérer des bases de code complexes. NonBioS partage son plan à l'avance, diffuse chaque étape et vous permet d'interrompre/rediriger à tout moment."
+    },
+    {
+      "id": "1148934",
+      "slug": "orlume",
+      "name": "Orlume",
+      "tagline": "AI qui crée des sites Web qui semblent conçus par des concepteurs de haut niveau.",
+      "description": "La plupart des créateurs de sites Web AI se sentent comme des machines de copie-colle. Orlume est différent. Vous n'obtenez pas de modèles, vous obtenez du goût. Décrivez votre idée et elle se transforme en un site Web propre et haut de gamme avec une structure réelle, des mises en page nettes et cette sensation \"cela a été réellement conçu\". Pas d'ajustement sans fin, pas de sorties génériques. Juste des sites Web rapides, uniques et polis pour les fondateurs, créateurs et startups qui se soucient de l'apparence de leur produit."
+    },
+    {
+      "id": "1120011",
+      "slug": "dovilo",
+      "name": "Dovilo",
+      "tagline": "Le premier agent natif, gestionnaire de tâches gamifié et application focus.",
+      "description": "Dovilo transforme votre liste de tâches en une ville que vous construisez réellement. Réalisez vos tâches, restez concentrés avec les minuteries Pomodoro et créez une ville isométrique qui grandit avec votre productivité. Agent-natif: Le serveur MCP intégré permet à Claude Code, Cursor, Windsurf, Codex CLI, Gemini CLI et n'importe quel client MCP d'exécuter vos tâches d'IA étape par étape. Activer les webhooks pour connecter votre propre flux de travail d'agence: une nouvelle tâche est créée, votre orchestrateur est informé instantanément. Gratuit sur iOS, Android, macOS et Windows. Lancement le 18 mai."
+    },
+    {
+      "id": "1147333",
+      "slug": "dash-by-halaska",
+      "name": "Dash par Halaska",
+      "tagline": "Conception prête aux investisseurs, en une semaine",
+      "description": "Un design à prix fixe transmet ce que les investisseurs jugent réellement: site, produit, deck. Ex-Google, ex-Ogilvy. 20 ans dans le design. Les fondateurs avec lesquels nous avons travaillé ont levé plus de 160 millions de dollars. Trois niveaux à taux forfaitaire à partir de 2,5 000 $. prototype interactif, pas un fichier Figma. Investisseur prêt dans une semaine."
+    },
+    {
+      "id": "1144729",
+      "slug": "caseodds-ai",
+      "name": "CaseOdds.ai",
+      "tagline": "L'IA analyse votre affaire juridique et prédit les chances de succès",
+      "description": "Découvrez si vous allez gagner votre procès. CaseOdds.ai utilise l'IA pour analyser votre situation juridique et prédire le résultat – gratuitement."
+    },
+    {
+      "id": "1148032",
+      "slug": "walk-routes-reminders",
+      "name": "Marche: itinéraires et rappels",
+      "tagline": "Un tracker de marche minimaliste",
+      "description": "La marche est le moyen le plus simple de suivre vos marches. Enregistrez vos itinéraires, suivez vos pas et voyez vos progrès au fil du temps-le tout dans une interface magnifiquement minimaliste. Que vous fassiez une promenade rapide ou que vous développiez une habitude de marche quotidienne, Walk garde une trace de votre temps, de votre distance, de votre rythme, de vos calories et de votre altitude. Affichez votre historique de marche avec des cartes d'itinéraires, suivez vos traces et restez motivé avec des informations hebdomadaires et mensuelles."
+    },
+    {
+      "id": "1141912",
+      "slug": "flintlab-sirius-platform",
+      "name": "Plateforme FlintLab Sirius",
+      "tagline": "Infra PaaS de périphérique unifié natif d'IA",
+      "description": "FlintLab est une plate-forme d'Infrastructure en tant que Service (IPaaS) basée sur l'IA spécialement conçue pour transformer la façon dont les équipes d'ingénierie modernes testent, valident et livrent des logiciels de haute qualité. Notre plateforme offre un accès à la demande à des appareils réels et émulés, ainsi que des environnements de test conteneurs natifs dans le cloud, permettant aux entreprises de simuler des conditions similaires à la production à l'échelle, sans la charge générale de gérer une infrastructure complexe."
+    }
+  ]
+}

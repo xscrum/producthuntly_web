@@ -1,0 +1,224 @@
+{
+  "meta": {
+    "version": "v1",
+    "updatedAt": "2026-05-22T08:42:10.857237"
+  },
+  "translations": [
+    {
+      "id": "1143406",
+      "slug": "loova-agents-3",
+      "name": "Agents Loova",
+      "tagline": "Un cadre d'intelligence artificielle open source centré sur l'humain",
+      "description": "90% des personnes qui ont essayé d'utiliser un assistant d'IA ont finalement abandonné. Il y a trois raisons principales : la mémoire qui se réinitialise à chaque session, le stockage de vos données dans le cloud de quelqu 'un d'autre et le terminal complexe au démarrage. Ce sont des obstacles réels. Et OpenHuman a résolu tout cela. Il donne la priorité à la localité et à la vie privée, il est capable de se souvenir de tout ce que vous avez, et plus il l'utilise, plus il devient intelligent. Toutes les fonctionnalités sont centralisées dans une interface simple, entièrement open source et configurées en un seul clic. Remarque : Le produit est actuellement en phase bêta et il peut y avoir quelques bugs, mais nous améliorons et publions rapidement.",
+      "keywords": "OpenHuman, IA open source, conception humaine, priorité locale, protection de la vie privée, mémoire adaptative, interface simple, configuration en un clic, test bêta, convivialité, assistant AI, sécurité des données,"
+    },
+    {
+      "id": "1144164",
+      "slug": "agentmemory",
+      "name": "Agent mémoire",
+      "tagline": "Web Crawling Services pour les agents d'intelligence artificielle",
+      "description": "HasData est un service d'exploration Web géré conçu pour les pipelines de données et les agents d'intelligence artificielle. Il suffit d'envoyer n'importe quelle URL Web et d'obtenir des données JSON ou Markdown propres en un seul appel d'API. Nous traitons des problèmes tels que le proxy, le rendu du navigateur, les réessais et la détection anti-bot. Plus de 50 outils d'exploration prêts à l'emploi couvrent Google Search, Maps, News, Zillow, Indeed ainsi que les principales plateformes de commerce électronique. La fonction d'extraction AI peut traiter n'importe quelle autre URL et peut être utilisée simplement via des invites en texte brut. Vous pouvez faire des appels via MCP via Claude, ChatGPT ou votre propre agent AI, et le reste peut être effectué via l'interface de ligne de commande (CLI).",
+      "keywords": "Services d'exploration Web, pipelines de données, agents d'IA, format JSON, format Markdown, appels d'API, gestion des agents, rendu du navigateur, mécanisme de réessai, technologie anti-bot, outils d'exploration, recherche Google, Google"
+    },
+    {
+      "id": "1148119",
+      "slug": "raybeam",
+      "name": "Raybeam",
+      "tagline": "Prévoir le prochain projet de financement de série A de ProductHunt",
+      "description": "PHBench : le premier benchmark public pour prédire la probabilité d'un produit d'obtenir un financement de série A après le lancement de Product Hunt Nous avons analysé 67 292 lancements sélectionnés au cours de sept ans et les avons associés à 528 financements de série A validés via Crunchbase. Notre modèle est très bon, avec une précision de prédiction de 4,7 fois supérieure à celle de la conjecture aléatoire. La taille de l'équipe et l'engagement de la communauté sont les prédicteurs les plus forts ; les domaines B2B (API, paiement, fintech) ont des taux de conversion 3 fois plus élevés que la ligne de base ; les projets n ° 1 ont une capacité de financement 2,2 fois plus élevée que les projets non classés. Les ensembles de données, le code et les benchmarks sont tous publics. Veuillez visiter phbench.com pour soumettre votre projet et vous abonner aux mises à jour hebdomadaires des projets de financement à haute probabilité.",
+      "keywords": "PHBench, Product Hunter, Series A, Public Benchmarking, Launcher Signal, Data Analytics, Startups, B2B, API, Payments, FinTech, Engagement communautaire, Data Sets,"
+    },
+    {
+      "id": "1144056",
+      "slug": "gemini-3-1-flash-lite-4",
+      "name": "Gemini 3.1 Flash Lite",
+      "tagline": "Transformer les données des exposants en réunions de vente planifiées.",
+      "description": "Contrairement à une base de données de contacts ordinaire, Lensmor se concentre sur les données des exposants, aidant les équipes à découvrir les événements pertinents, trouver les exposants, identifier les décideurs, obtenir des emails validés et prendre rendez-vous avant le début du salon. Ses caractéristiques remarquables comprennent plus de 160 000 événements mondiaux, la recherche d'exposants, les requêtes inverses d'entreprise à événement, les fonctions d'exportation CSV et un assistant d'intelligence artificielle pour le développement de prospects et la planification des contacts.",
+      "keywords": "Lensmor, données des exposants, rendez-vous de vente prévus, base de données de contacts, événements connexes, sociétés exposantes, décideurs, boîtes électroniques vérifiées, rendez-vous de conférence, événements mondiaux, recherche d'exposants, entreprises et événements inversés"
+    },
+    {
+      "id": "1147936",
+      "slug": "chatgpt-for-personal-finance",
+      "name": "ChatGPT pour les finances personnelles",
+      "tagline": "Utilisez des outils d'agence de conception pour concevoir, construire et exploiter votre site Web.",
+      "description": "Lokuma 2.0 est un outil de proxy Web axé sur le design. La plupart des constructeurs d'IA ne peuvent générer que des brouillons préliminaires, mais un vrai site Web doit avoir une structure, un goût, une cohérence de marque, des éditions, des publications, des formulaires et des mises à jour constantes. Lokuma intègre la planification, la conception, le style, le matériel, l'état du site, l'édition et la publication dans un flux de travail intelligent pour que votre site Web ne soit pas seulement généré, mais bien conçu. Grâce à cet outil, vous pouvez concevoir, construire et exploiter votre site Web plus facilement.",
+      "keywords": "Constructeur de site Web Agentic, Lokuma, conception de site Web, construction de site Web AI, structure de site Web, cohérence de la marque, édition et publication, actifs de site Web, mise à jour de site Web, agents de conception, flux de travail de site Web, outils de construction de site Web,"
+    },
+    {
+      "id": "1147756",
+      "slug": "wring",
+      "name": "Wring",
+      "tagline": "Un jeu multijoueur en ligne par dialogue avec un grand modèle de langage (LLM).",
+      "description": "Gradient Bang est un tout nouveau logiciel développé par l'IA native, entièrement à partir de zéro et conçu pour utiliser les modèles de langage à grande échelle (LLM) partout. Le jeu dispose d'une interface utilisateur dynamique, alimentée par LLM, et prend en charge la saisie vocale conversationnelle. Pour gagner le jeu, vous devez gérer une flotte de sous-agents d'IA. Vous pouvez même programmer pour créer vos propres sous-agents et les exécuter dans le bac à sable de Vercel. Ce logiciel a été développé en utilisant Pipecat, Daily WebRTC, Supabase et Vercel.",
+      "keywords": "Bombardement de dégradation, jeux en ligne multijoueur, LLM, intelligence artificielle, interface utilisateur dynamique, entrée vocale de dialogue, sous-agent d'IA, programmation, sandbox Vercel, Pipecat,"
+    },
+    {
+      "id": "1147791",
+      "slug": "scholarxiv-4",
+      "name": "ScholarXIV",
+      "tagline": "Des outils gratuits vous aident à optimiser LinkedIn et rendent plus facile pour les recruteurs IA de vous trouver",
+      "description": "Maintenant, les outils de recrutement AI filtrent les candidats avant que quiconque ne puisse voir votre nom. Il suffit de coler votre URL LinkedIn et obtenir votre score d'adaptation AI en 30 secondes. Vous aurez une idée claire de ce qui a affecté votre visibilité, et vous aurez un profil réécrit et des suggestions de réparation prioritaires pour que les recruteurs puissent vraiment vous trouver. Tout cela est gratuit !",
+      "keywords": "Crustimate, Outils gratuits, Optimisation LinkedIn, Recrutement d'IA, Augmentation de la visibilité, Score de préparation d'IA, Réécriture de profil, Visibilité des recruteurs, Listes de réparation prioritaires, Outils d'intelligence artificielle, Demandeurs d'emploi"
+    },
+    {
+      "id": "1148091",
+      "slug": "mysoft-ai",
+      "name": "mysoft.ai",
+      "tagline": "Guide pour le gestionnaire de produit",
+      "description": "Permet aux gestionnaires de produit de traduire les commentaires des clients en exigences d'IA qui peuvent être utilisées directement pour le développement.",
+      "keywords": "mia, gestionnaire de produit, curseur, signal client, transformation de la demande, développement d'IA, outils de gestion de produit, gestion de la demande, analyse de données, commentaires utilisateurs"
+    },
+    {
+      "id": "1147311",
+      "slug": "burn-after",
+      "name": "Brûler après",
+      "tagline": "Assistant d'intelligence artificielle auto-hébergé, capable de connecter plus de 1000 applications, fonctionnant sur la plateforme Vercel.",
+      "description": "TrustClaw est un assistant d'IA personnel que vous pouvez héberger sur Vercel avec une seule commande. Il est alimenté par Composio et est capable de se connecter à plus de 1000 applications via OAuth, d'exécuter des tâches de synchronisation de manière autonome et de vous parler via une page Web ou Telegram. Il est entièrement open source et utilise la licence MIT et vous êtes toujours les bienvenus pour prendre le relais !",
+      "keywords": "TrustClaw, Composio, IA auto-hébergée, Vercel, Connectivité des applications, 1000 + applications, OAuth, Tâches chronométrées, Open Source, Licence MIT, Agent IA personnel, Chat Telegram, Interaction Web"
+    },
+    {
+      "id": "1147725",
+      "slug": "nextish-news",
+      "name": "Nouvelles Nextish",
+      "tagline": "Une console qui se réveille pendant que vous travaillez comme agent.",
+      "description": "Dans la barre latérale de votre éditeur, il y a une console de jeu qui se réveille lorsque votre assistant AI est au travail et se ferme lorsque l'assistant cesse de travailler.",
+      "keywords": "Standboy, console de jeu, agent AI, barre latérale de l'éditeur, réveil automatique, arrêt de travail, assistance au jeu, jeux portables, assistants intelligents, outils créatifs"
+    },
+    {
+      "id": "1147161",
+      "slug": "grok-build",
+      "name": "Grok construit",
+      "tagline": "Ne répétez pas la même chose pour chaque IA.",
+      "description": "Chaque fois que vous démarrez un nouveau chat AI, collez le même contexte à plusieurs reprises - votre pile de technologies, vos décisions, vos contraintes et vos derniers progrès.🛠️ Relay peut résoudre ce problème. Il enregistre les informations importantes de votre chat d'IA et maintient un briefing de projet dynamique disponible à tout moment. Injectez le contexte complet dans toute nouvelle conversation avec un simple clic🦾 Avec MCP, vos assistants IDE (comme Cursor, Claude Code, Windsurf, Codex, etc.) peuvent lire et écrire les mêmes présentations et les synchroniser automatiquement. Compatible avec : ChatGPT, Claude, Gemini, Grok, etc., utilisation gratuite.",
+      "keywords": "Relais, chat AI, gestion contextuelle, présentation de projet, synchronisation automatique, assistant de chat, support multi-IA, injection en un clic, outils de développement, augmentation de la productivité, utilisation gratuite, innovation technologique,"
+    },
+    {
+      "id": "1147659",
+      "slug": "selectable-ocr-text-capture",
+      "name": "Sélectionnable : OCR et capture de texte",
+      "tagline": "Construire un agent de codage d'exécution open source basé sur des plugins",
+      "description": "Cline SDK est un runtime d'agent TypeScript open source qui utilise une architecture de plug-in et prend en charge les sous-agents locaux, le MCP (Multi-Channel Protocol), les points de contrôle, les tâches de synchronisation et l'exploration du Web. Il convient particulièrement aux développeurs qui souhaitent créer des agents de codage personnalisés ou des outils de ligne de commande.",
+      "keywords": "SDK Cline, open source, TypeScript, agent de codage, architecture de plug-in, sous-agent natif, support MCP, points de contrôle, tâches de chronométrage, acquisition réseau, développeur, agent de codage personnalisé, outils CLI"
+    },
+    {
+      "id": "1148020",
+      "slug": "plotbook",
+      "name": "Plotbook",
+      "tagline": "Un pont entre les agents d'intelligence artificielle et le réseau en temps réel",
+      "description": "Kimi WebBridge est une extension de navigateur spécialement conçue pour les agents d'intelligence artificielle. Il peut aider l'IA à ouvrir des pages Web, cliquer sur des boutons, remplir des formulaires, extraire des informations et même automatiser diverses tâches sur les pages Web.",
+      "keywords": "Kimi WebBridge, agent AI, extensions de navigateur, connectivité, réseau en temps réel, automatisation, manipulation de pages Web, extraction d'informations, remplissage de formulaires, automatisation des tâches"
+    },
+    {
+      "id": "1147940",
+      "slug": "lingotype",
+      "name": "Le lingotype",
+      "tagline": "Une alternative simple à Google Analytics pour le web moderne.",
+      "description": "Sleek Analytics est un outil d'analyse Web moderne axé sur la vie privée qui est une alternative à Google Analytics. Il fournit des analyses de site Web en temps réel, un suivi sans cookies et un tableau de bord rapide. Nous avons créé Sleek pour rendre l'analyse facile à comprendre, sans doctorat. Il suffit de coller une ligne de code et en quelques secondes, vous pouvez voir ce que les visiteurs réels font sur votre site Web en temps réel. Pas de paramètres fastidieux, pas de barres d'invite de cookies, juste des données propres et concises.",
+      "keywords": "Sleek Analytics, Alternative à Google Analytics, Privacy First, Web moderne, Analyse de site Web en temps réel, Pas de suivi de cookies, Dashboard rapide, Analyse simple, Collage de code,"
+    },
+    {
+      "id": "1147108",
+      "slug": "shiplog-b5a2e03a-e348-4bda-9594-794fa1322d8f",
+      "name": "Shiplog",
+      "tagline": "Collez le lien pour accéder au site Web en direct.",
+      "description": "La plupart des outils de construction de sites Web génèrent des pages qui semblent uniformes et sans caractéristiques. Contrairement à Wowable, il convertit des commentaires, des profils de médias sociaux, des captures d'écran et des listes d'affaires en un site Web complet qui utilise le contenu que votre entreprise a déjà en ligne. Il suffit de coller un lien Google Maps, un profil Instagram, une page TripAdvisor, un profil LinkedIn ou même une capture d'écran - Wowable peut transformer cette information en un site Web qui semble réel et non généré par l'IA. Pas d'écriture, pas de conception, pas de configuration complexe.",
+      "keywords": "Wowable, générateur de site Web, site Web réel, contenu en ligne, liens Google Maps, profil Instagram, page TripAdvisor, profil LinkedIn, capture d'écran, liste d'entreprise, pas besoin d'écrire, pas besoin"
+    },
+    {
+      "id": "1147979",
+      "slug": "memory4me",
+      "name": "Mémoire4Me",
+      "tagline": "Décrivez une stratégie de trading et comment Mobius l'a construite, testée et exécutée.",
+      "description": "Les traders de détail sont confrontés à un dilemme : ils ont des outils sans code faciles à utiliser, mais avec des fonctionnalités limitées ; et un cadre de trading quantitatif complexe prend des semaines à construire. Bien que les idées soient rapides, les exécutions ne sont pas assez rapides. L'avènement de Mobius a changé tout cela en traduisant des stratégies simples en anglais en robots de trading réellement déployés qui effectuent des tests de retour basés sur des données de marché réelles et exploitent des signaux alternatifs tels que le trading du Congrès, le trading de pools sombres et l'analyse de sentiment de Reddit. Il n'y a pas de code à écrire, pas de changement de contexte, et il n'y a pas de décroissance des revenus. Stratégie, backtesting, trading en temps réel, tout en quelques minutes.",
+      "keywords": "Mobius, stratégie de trading, trading automatique, backtest, code zéro, outil de code zéro, trading quantitatif, données du marché, signaux alternatifs, trading du congrès, trading de pool noir, sentiment Reddit, rapide"
+    },
+    {
+      "id": "1147758",
+      "slug": "claurst",
+      "name": "Claurst",
+      "tagline": "Une connexion peut prendre en charge plus de 140 modèles d'IA d'images et de vidéos.",
+      "description": "Grâce à MCP, l'assistant AI peut être connecté à divers outils via un seul lien réutilisable. Le serveur MCP de Picsart agit comme une boîte à outils unifiée, offrant plus de 140 modèles d'IA pour l'image, la vidéo et l'audio. La demande de l'utilisateur est faite en anglais simple, l'assistant sélectionne le modèle approprié, puis les résultats sont présentés instantanément. Pas besoin de configurer manuellement, de changer d'outils ou d'apprendre des interfaces complexes, une seule connexion peut tout gérer.",
+      "keywords": "Picsart MCP, Assistant AI, Traitement d'image, Traitement vidéo, Traitement audio, 140 modèles AI, Single Link, Boîte à outils unifiée, Résultats instantanés, Demande simple, Pas besoin de configuration manuelle, Facile"
+    },
+    {
+      "id": "1148164",
+      "slug": "clawputer",
+      "name": "Clawputer",
+      "tagline": "Suivez l'exposition de votre marque dans un modèle d'IA",
+      "description": "PromptScout aide les fondateurs, les consultants SEO et les agences à comprendre la visibilité de l'IA. Tout d'abord, vous pouvez effectuer un audit de préparation technique gratuit pour l'IA, puis créer un compte gratuit pour suivre comment l'assistant AI mentionne votre marque, référencera votre page et révélera vos concurrents. Vous pouvez surveiller comment ChatGPT, Gemini, Google AI Overview et Perplexity mentionnent votre marque dans les réponses de l'IA, référencent vos pages et affichent des informations sur vos concurrents.",
+      "keywords": "Visibilité de la marque, Modèle d'IA, PromptScout, Consultant SEO, Fondateur, Audit technique gratuit, Préparation à l'IA, Suivi des marques, Assistant d'IA, Concurrents, ChatGPT, Gemini, Google AI, Perplex"
+    },
+    {
+      "id": "1147814",
+      "slug": "health-dashboard-see-watch-data-on-mac",
+      "name": "Tableau de bord Santé, voir Surveiller les données sur Mac.",
+      "tagline": "Un robot de pourboire stablecoin pour Discord, Telegram, Twitch et les plateformes X",
+      "description": "Un robot de récompense stablecoin multichaîne non géré, conçu pour les créateurs. Vous pouvez le faire vous-même. Supports quatre blockchains. Pas d'hébergement, pas de compte, c'est simple.",
+      "keywords": "Juste les conseils, stablecoins, bots de pourboires, Discord, Telegram, Twitch, X, non hébergé, multichaînes, créateurs, autogéré, quatre chaînes, pas d'hébergement, pas de compte, simple"
+    },
+    {
+      "id": "1148130",
+      "slug": "mailthepresident",
+      "name": "MailLe Président",
+      "tagline": "Masquer automatiquement les informations sensibles des captures d'écran Mac",
+      "description": "Whiteout est un outil qui peut être exécuté dans la barre de menu de votre Mac, qui surveille vos captures d'écran et identifie automatiquement les informations sensibles telles que les numéros de téléphone, les numéros de sécurité sociale, les informations de carte de crédit et les clés API. Il enregistre automatiquement la copie propre tout en masquant la capture d'écran originale. Le logiciel est disponible complètement hors ligne et coûte 9,99 $pour un achat unique.",
+      "keywords": "Masquage blanc, Masquage automatique, Informations sensibles, Captures d'écran Mac, Applications de la barre de menu, Numéro de téléphone, Numéro de sécurité sociale, Carte de crédit, Clé API, Utilisation hors ligne, Enregistrement automatique, Une fois"
+    },
+    {
+      "id": "1148116",
+      "slug": "mindmesh-4",
+      "name": "MindMesh",
+      "tagline": "Avant de partir pour l'aéroport, prédisez votre temps d'attente de sécurité.",
+      "description": "Avant d'arriver à l'aéroport, prédisez le temps d'attente pour le contrôle de sécurité. D'autres outils ne vous indiquent que la file d'attente actuelle, tandis qu 'Atlas vous indique la file d'attente à votre arrivée. Nos modèles d'apprentissage automatique ont été formés sur des millions de données réelles sur les temps d'attente de plus de 100 aéroports américains. Vous pouvez signaler votre temps d'attente de sécurité en seulement deux clics. Chaque rapport rend les prévisions plus précises et bénéficie à tout le monde. Completement gratuit, pas de paywall. Avant de partir, vous devez vous renseigner sur la situation.",
+      "keywords": "Atlas Navigation, Temps d'attente de sécurité TSA, Prévision des files d'attente d'aéroport, Modèle d'apprentissage automatique, Temps d'attente en temps réel, Aéroports des États-Unis, Applications gratuites, Assistant de voyage, Planification à l'avance, Rapport de file d'attente, Prévision axée sur les données, Aéroports"
+    },
+    {
+      "id": "1124881",
+      "slug": "franz-functional-programming-language",
+      "name": "Franz : langage de programmation fonctionnelle",
+      "tagline": "L'intelligence artificielle transforme la description de la scène en performance sonore",
+      "description": "Un modèle de text-to - speech (TTS) devrait vous apporter deux choses : une performance de qualité Oscar et une signature vérifiable prouvant que la voix est la vôtre. DramaBox est le premier modèle à faire les deux à la fois Vous pouvez le décrire comme vous décriviez une scène pour un acteur, comme « un animateur de talk-show qui fait semblant de choquer, puis rigole », et le modèle le transforme en performance. Chaque sortie est affichée avec un filigrane ressemble pour assurer son uniqueness. Actuellement, le modèle est open source et ne prend en charge que l'anglais, vous pouvez le trouver sur votre compte Resemble ou Hugging Face.",
+      "keywords": "DramaBox, ressemble à AI, performance vocale, description de scène, texte à voix, modèle TTS, performance Oscar, filigrane, open source, anglais, Hugging Face, performance"
+    },
+    {
+      "id": "1147512",
+      "slug": "beast-teleprompter",
+      "name": "Téléprompteur Beast",
+      "tagline": "Une application d'écriture facile à utiliser, sans fonctionnalités complexes et sans intelligence artificielle.",
+      "description": "Magic Notebook est une application d'écriture conçue pour les personnes qui veulent se concentrer sur l'écriture. Simple et propre, sans fonctionnalités compliquées et systèmes complexes, et sans interférence d'intelligence artificielle.",
+      "keywords": "Note-notes magiques, Applications d'écriture, Écriture simple, Pas de systèmes compliqués, Pas d'intelligence artificielle, Support DOCX, Insérer des images, Insérer des formulaires, Stockage local, Écriture concentrée, Outils d'écriture,"
+    },
+    {
+      "id": "1147473",
+      "slug": "loopnote",
+      "name": "Loopnote",
+      "tagline": "Expérience utilisateur du navigateur Agentic et du code Claude",
+      "description": "Nimbus est un navigateur intelligent inspiré de l'expérience utilisateur de Claude Code. Il vous suffit de lui dire vos besoins en anglais simple et il s'occupera de toutes les opérations fastidieuses : cliquer, remplir un formulaire, sélectionner un fichier, coordonner plusieurs onglets et également mettre en pause les demandes lorsque vous devez prendre une décision. Il est inspiré par l'expérience de programmation de Claude Code, mais il est conçu pour l'ensemble du web. Nimbus a été construit à partir de zéro, pas comme une extension. Les 500 premiers utilisateurs fondateurs inscrits peuvent l'utiliser gratuitement pour toujours.",
+      "keywords": "Nimbus, Proxy Browser, Claude Code UX, Simple English, Travail automatisé, Cliquez, Formulaires, Sélecteur de fichiers, Coordination multi-onglet, Navigateur interactif, Expérience utilisateur, Gratuit, Utilisateur fondateur, Navigation Web"
+    },
+    {
+      "id": "1127078",
+      "slug": "incultnito-studio",
+      "name": "Incultnito Studio",
+      "tagline": "Reconstruire votre site Web existant avec l'intelligence artificielle",
+      "description": "Il suffit de coller l'URL de votre site Web et Repaint peut le reconstruire en utilisant l'intelligence artificielle. Il peut recréer vos pages, déplacer vos ressources, conserver votre style ou redessiner le site Web dans une toute nouvelle direction.",
+      "keywords": "Repaint, refaction de site Web, intelligence artificielle, refaction d'URL, refaction de page, migration d'actifs, rétention de style, refonte de site Web, refonte de site Web, technologie AI"
+    },
+    {
+      "id": "1147759",
+      "slug": "maamria-ai",
+      "name": "Maamria ai",
+      "tagline": "Spécialiste des opérations de produits AI, spécialisé dans les équipes axées sur l'intelligence artificielle.",
+      "description": "La plupart des petites équipes de produits passent des jours à lire des centaines de commentaires des clients, des problèmes GitHub et des journaux de problèmes d'agent de code pour comprendre ce qu ' il faut développer ensuite. De nos jours, les petites équipes B2B axées sur l'IA sont capables de surpasser les grandes entreprises, et Cleo peut le faire pour vous. Connectez simplement votre source de données, cliquez sur Exécuter et Cleo génère un briefing d'une page : incluant les projets les plus potentiels, les besoins du client, la chaîne de preuves et les spécifications préliminaires. Cleo surveillera également vos indicateurs et vous dira honnêtement les résultats : efficaces, partiellement efficaces, inefficaces, ou encore trop tôt.",
+      "keywords": "Cleo AI, opérations de produits d'intelligence artificielle, équipes natives d'IA, petites équipes de produits, analyse de commentaires clients, problèmes GitHub, échecs d'agent de codage, B2B, avantage concurrentiel, connectivité des données, reporting automatisé,"
+    },
+    {
+      "id": "1148147",
+      "slug": "played-in-russia",
+      "name": "Joué en Russie",
+      "tagline": "Outil d'enregistrement d'écran avec console, réseau, messages d'erreur et annotations",
+      "description": "DevRecorder est une extension Chrome qui enregistre votre écran sur une chronologie synchronisée tout en capturant les journaux de la console, les requêtes Web et les événements de navigation. Il suffit de cliquer sur Enregistrer, reproduire un bug, puis partager le lien. Votre équipe peut afficher la vidéo, et chaque journal, en-tête de demande, corps de réponse et changement de routage sont verrouillés avec une image précise. Il convient aux environnements de développement, de test et de production locaux. Grâce à la connectivité MCP, des outils d'IA tels que Claude Code, Cursor et Windsurf peuvent lire vos enregistrements comme un contexte structuré.",
+      "keywords": "DevRecorder, enregistrement d'écran, journaux de console, requêtes Web, journaux d'erreur, fonctionnalités d'annotation, extensions Chrome, synchronisation de la chronologie, enregistrement vidéo, réplication de bugs, partage de liens, groupe"
+    }
+  ]
+}

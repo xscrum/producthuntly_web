@@ -1,0 +1,218 @@
+{
+  "meta": {
+    "version": "v1",
+    "updatedAt": "2026-05-21T21:19:48.343945"
+  },
+  "translations": [
+    {
+      "id": "1135604",
+      "name": "PollyReach",
+      "tagline": "Beri agen Anda nomor nyata dan suara untuk melakukan panggilan.",
+      "description": "Sebagian besar alat telepon AI dibuat untuk perusahaan — API, alur kerja, otomatisasi penjualan. PollyReach dibuat untuk Anda. Beri AI Anda nomor telepon nyata. Katakan \"Pesan saya meja untuk jam 7 malam\" — ia menemukan nomor, membuat panggilan, menangani percakapan, dan melaporkan kembali dengan ringkasan, rekaman & transkrip. Ini juga menjawab telepon Anda 24/7 dan menyaring spam. Bekerja dalam 50+ bahasa.",
+      "slug": "pollyreach"
+    },
+    {
+      "id": "1150337",
+      "name": "Komposer 2.5",
+      "tagline": "model Paling Kuat Cursor",
+      "description": "Peningkatan substansial dalam kecerdasan dan perilaku dibandingkan Composer 2, terutama pada tugas-tugas agensi jangka panjang.",
+      "slug": "composer-2-5-6"
+    },
+    {
+      "id": "1146684",
+      "name": "gerimis",
+      "tagline": "Tes seluler yang menulis, menjalankan, dan memperbaiki sendiri",
+      "description": "Drizz adalah platform otomatisasi tes seluler bertenaga AI yang dibangun di sekitar pengujian berbasis maksud. Cukup jelaskan apa yang ingin Anda uji dalam bahasa Inggris biasa, Drizz melaksanakannya pada perangkat nyata menggunakan Vision AI dan secara otomatis membuat kasus uji yang dapat digunakan kembali. Tidak ada skrip, tidak ada pemilih yang tidak jelas, tidak ada pemeliharaan manual. Ini beradaptasi dengan UI dinamis, terintegrasi dengan pipa CI/CD Anda, dan memberi tim Anda cakupan end-to-end yang andal tanpa overhead.",
+      "slug": "drizz-2"
+    },
+    {
+      "id": "1113430",
+      "name": "Obrolan Mantel",
+      "tagline": "platform kolaborasi di mana tim bekerja sama dengan AI",
+      "description": "Mantle Chat membantu tim meningkatkan produktivitas dan mengadopsi AI lebih cepat dengan menghadirkan pesan real-time, obrolan model AI, agen otonom, dan integrasi alat ke dalam satu ruang kerja bersama. Berkomunikasi dalam saluran bergaya Discord/Slack, sebutkan agen dan model AI (GPT, Claude, Gemini, Grok, Deepseek) dengan @ kapan pun Anda memerlukan bantuan langsung dalam percakapan dengan rekan satu tim, bangun agen, jalankan tugas otonom bersama, dan hubungkan 30+ alat (Notion, Linear, Gmail, dan banyak lagi) yang sudah digunakan tim Anda.",
+      "slug": "mantle-chat-2"
+    },
+    {
+      "id": "1148531",
+      "name": "CtrlOps",
+      "tagline": "Terapkan, Debug & mengelola server Linux dengan AI.",
+      "description": "Sebagian besar pengembang mengelola server dari spreadsheet IP dan perintah yang tidak diingat siapa pun. CtrlOps memberi Anda manajemen server bertenaga AI tanpa keahlian DevOps. terminal AI yang menghasilkan perintah dengan persetujuan Anda. Perpustakaan skrip. Penyebaran satu klik dari repo GitHub mana pun. Manajer file Visual. Pemantauan server Real-time. Nol agen di server. Penyebaran yang memakan waktu 60 menit sekarang memakan waktu 5. 100% lokal. Kredensial Anda tidak pernah meninggalkan mesin Anda. Mac. Jendela. Linux.",
+      "slug": "ctrlops"
+    },
+    {
+      "id": "1144780",
+      "name": "gerakan",
+      "tagline": "Agen video untuk desain gerakan yang selera",
+      "description": "Motion adalah agen video perbatasan untuk desain gerakan yang selera. Berikan petunjuk dengan tautan, utas X, video, aset, atau referensi. Penelitian gerakan, storyboard, dan membuat penjelasan, video peluncuran, animasi logo, atau desain gerakan untuk video yang ada. Kemudian edit semuanya secara langsung: ubah ukuran, seret dan lepas, modifikasi elemen, atau ulangi dengan chat.",
+      "slug": "motion-10"
+    },
+    {
+      "id": "1148800",
+      "name": "Chert",
+      "tagline": "Bangun Agen AI yang Mengirim SMS ke Pelanggan di iMessage",
+      "description": "Bangun dan terapkan agen iMessage percakapan untuk layanan pelanggan, penangkapan prospek masuk, dan banyak lagi. Cukup konfigurasikan prompt dan nada sistem, dan Anda dapat membuat agen iMessage percakapan Anda sendiri untuk penanganan masuk, tindak lanjut keluar, atau alur kerja apa pun yang ingin Anda uji. Anda juga dapat mengintegrasikan dengan CRM seperti HubSpot, Close, atau GoHighLevel untuk menulis kembali riwayat percakapan.",
+      "slug": "chert"
+    },
+    {
+      "id": "1150303",
+      "name": "Monocle 3.5 untuk macOS",
+      "tagline": "Peredam kebisingan untuk layar sekolah Anda",
+      "description": "Monocle 3.5 adalah tindak lanjut penting dari 3.0, dan yang paling diminta. Dengan fitur-fitur yang telah lama ditunggu-tunggu akhirnya masuk, aplikasi hanya mengklik. Rasanya lengkap.",
+      "slug": "monocle-3-5-for-macos"
+    },
+    {
+      "id": "1146493",
+      "name": "Voker",
+      "tagline": "Platform Analisis Agen untuk Tim Produk AI",
+      "description": "Voker adalah Platform analisis agen untuk tim produk AI. Ini memberi Anda perilaku penggunaan dan wawasan kinerja agen yang Anda butuhkan untuk memantau dan mengoptimalkan agen produksi Anda dalam skala besar. Instal SDK yang ringan dan agnostik penyedia dan Voker menangani sisanya: deteksi maksud, koreksi, dan resolusi otomatis pada interaksi pengguna ke agen, rekonstruksi percakapan, garis waktu yang dapat ditanyakan, pelacakan kinerja agen sehingga Anda dapat membangun agen terbaik.",
+      "slug": "voker"
+    },
+    {
+      "id": "1149987",
+      "name": "Wawasan oleh Omnia",
+      "tagline": "Rencana tindakan langkah demi langkah untuk meningkatkan visibilitas AI Anda.",
+      "description": "Omnia Insights mengubah prompt apa pun yang Anda lacak menjadi rencana aksi prioritas untuk meningkatkan visibilitas Anda di mesin AI. Setiap rencana mencakup tingkat dampak, mengapa itu penting, bagaimana menerapkannya, dan kesenjangan kutipan yang harus ditutup.",
+      "slug": "insights-by-omnia"
+    },
+    {
+      "id": "1144511",
+      "name": "imgproxy v4",
+      "tagline": "server pemrosesan gambar yang dihosting sendiri yang cepat dan aman",
+      "description": "imgproxy adalah server mandiri yang cepat dan aman untuk mengubah ukuran, memproses, dan mengkonversi gambar. Prinsip-prinsip panduan di balik imgproxy adalah kecepatan, keamanan, dan kesederhanaan. Ini dilengkapi dengan baik untuk menangani volume besar permintaan pemrosesan gambar dengan mudah. imgproxy adalah pengganti drop-in untuk semua kode pemrosesan gambar di aplikasi web Anda. Dengan imgproxy, Anda tidak perlu berulang kali menyiapkan ulang gambar agar sesuai dengan desain Anda setiap kali berubah, karena imgproxy melakukan ini sesuai permintaan.",
+      "slug": "imgproxy-v4"
+    },
+    {
+      "id": "1149285",
+      "name": "tumpukan jerami",
+      "tagline": "Tinjau permintaan tarik yang sebenarnya membutuhkan perhatian manusia",
+      "description": "Haystack membantu tim teknik mengelola volume permintaan tarik yang dihasilkan AI yang semakin meningkat. Ini duduk di atas GitHub, menganalisis perbedaan setiap PR, konteks basis kode, jejak agen, maksud, dan bukti verifikasi, lalu mengarahkannya: aman untuk bergerak maju, memerlukan perbaikan, atau memerlukan tinjauan manusia. Tim menggunakan tumpukan jerami untuk menjaga kode tetap bergerak tanpa stamping karet, memfokuskan perhatian manusia di mana penilaian sebenarnya penting.",
+      "slug": "haystack-8"
+    },
+    {
+      "id": "1145614",
+      "name": "Shiorikode",
+      "tagline": "Alternatif sumber terbuka untuk Codex",
+      "description": "Antarmuka desktop untuk agen pengkodean CLIs yang sudah Anda gunakan — Codex, Claude Code, Cursor, Gemini, Kimi, dan penyedia Shiori yang dihosting. Jalankan sesi yang berjalan lama dengan thread yang sadar proyek, stream aktivitas agen ke dalam timeline yang dapat dibaca, dan tinjau perbedaan yang dihasilkan tanpa meninggalkan aplikasi. Tersedia sumber, dibuat untuk pekerjaan yang tidak cocok dalam satu prompt.",
+      "slug": "shioricode"
+    },
+    {
+      "id": "1150076",
+      "name": "Starchild-1 oleh Odyssey",
+      "tagline": "model Dunia multimodal real-time Pertama",
+      "description": "Starchild-1 adalah model dunia multimodal real-time pertama yang menghasilkan audio + video yang disinkronkan sambil merespons secara langsung masukan pengguna. Dibangun untuk AI interaktif, game, robotika, pendidikan, dan seterusnya, membawa kita lebih dekat ke kecerdasan dunia yang benar-benar imersif.",
+      "slug": "starchild-1-by-odyssey"
+    },
+    {
+      "id": "1149803",
+      "name": "helm otomatis",
+      "tagline": "Atur file secara otomatis di Mac Anda",
+      "description": "AutoShelf adalah aplikasi macOS yang mengawasi folder Anda dan mengatur file secara otomatis. Tetapkan aturan sekali dan jangan pernah memikirkannya lagi. Gratis untuk dicoba, buka unlimited seharga $19,99.",
+      "slug": "autoshelf"
+    },
+    {
+      "id": "1149185",
+      "name": "Rumah Belajar",
+      "tagline": "Cara modern untuk mengajarkan apa yang Anda bangun",
+      "description": "LearnHouse adalah platform pembelajaran open-source untuk mengajarkan pengguna Anda segala sesuatu tentang produk Anda. Dibangun untuk pembangun yang mengirimkan hal-hal hebat tetapi membutuhkan penggunanya untuk benar-benar memahaminya. v1.0 adalah rilis stabil pertama kami-dikemas dengan AI, eksekusi kode, diskusi, analisis, dan semua yang Anda harapkan dari alat pengembang modern. Hosting sendiri atau gunakan cloud kami. Bagaimanapun, konten Anda, data Anda, komunitas Anda.",
+      "slug": "learnhouse-2"
+    },
+    {
+      "id": "1141018",
+      "name": "Hanami",
+      "tagline": "Meditasi Harian dengan Seni Jepang",
+      "description": "Hanami memasangkan Anda dengan satu mahakarya Jepang setiap pagi dari seribu tahun sejarah seni Jepang. Koleksi tumbuh setiap minggu. Seluruh pengalaman dibangun untuk merasa seperti kunjungan pagi pribadi ke museum — lambat, disengaja, tidak berantakan. Setiap karya dilengkapi dengan narasi audio yang disuarakan kurator dan konteks editorial yang tenang. Perjalanan yang dikurasi bergerak melalui gerakan: Dunia Mengambang (ukiyo-e), Sekolah Rinpa, Teater Kabuki, Bunga Burung Keheningan. Hanya iOS. Dibangun solo dari Toronto.",
+      "slug": "hanami-2"
+    },
+    {
+      "id": "1148394",
+      "name": "Grafik Papr",
+      "tagline": "Tingkatkan ke penyematan vektor asli grafik",
+      "description": "Papr Graph mengubah penyematan semantik menjadi penyematan asli grafik dengan satu panggilan API. Ini mengkodekan dimensi temporal, topikal, dan dimensi lainnya dalam penyematan apa pun, membantu agen mengambil jawaban berdasarkan kebenaran, bukan hanya kedekatan semantik.",
+      "slug": "papr-graph"
+    },
+    {
+      "id": "1150406",
+      "name": "AI tertipis",
+      "tagline": "Bangun Agen AI Suara dalam 100 Bahasa dengan harga ₹1,5/menit",
+      "description": "ThinnestAI adalah infrastruktur AI suara yang dapat diprogram untuk membangun agen telepon AI mirip manusia dalam skala besar. → 100+ bahasa dengan percakapan multilingual yang mulus. → Bawa LLM, STT, TTS, dan penyedia telepon Anda sendiri. → Integrasi SIP, Twilio, dan alur kerja asli. → Pembangun aliran tanpa kode dengan basis pengetahuan RAG dan dukungan MCP. → Agen suara Real-time untuk dukungan, penjualan, onboarding, dan operasi. Mulailah membangun agen suara AI dalam hitungan menit — tidak diperlukan kartu kredit.",
+      "slug": "thinnest-ai"
+    },
+    {
+      "id": "1150349",
+      "name": "pelatih",
+      "tagline": "Melatih agen AI dengan merekam layar Anda",
+      "description": "Trainer memungkinkan Anda melatih agen AI hanya dengan merekam tugas sekali. Tidak ada petunjuk, tidak ada data berlabel. Ini menangkap setiap klik, penekanan tombol, dan maksud saat Anda bekerja, kemudian mengubah alur kerja itu menjadi agen yang dapat digunakan kembali yang dapat mengulangi proses dengan andal. Dibangun untuk mengotomatisasi tugas dunia nyata melalui demonstrasi, bukan konfigurasi manual, membuat agen AI praktis dan mudah diakses untuk pekerjaan sehari-hari.",
+      "slug": "trainer-2"
+    },
+    {
+      "id": "1149215",
+      "name": "AI Peta Kasus",
+      "tagline": "Temukan kebocoran pendapatan firma hukum, lalu perbaiki",
+      "description": "CaseGap AI membantu firma hukum menemukan dan memperbaiki kebocoran pendapatan di SEO, pencarian lokal, visibilitas AI, ulasan, kecepatan, dan kepatuhan. Jalankan audit selama 60 detik untuk mendapatkan rencana aksi yang diprioritaskan, lalu kerahkan agen pemasaran AI untuk mengerjakan perbaikan setiap hari: pembaruan SEO, postingan bisnis Google, tanggapan ulasan, penjangkauan, perbaikan direktori, dan salinan iklan.",
+      "slug": "casegap-ai"
+    },
+    {
+      "id": "1142446",
+      "name": "kalog.cc",
+      "tagline": "Pelacak Kalori Berbasis Chat yang Benar-benar Mengetahui Makanan desi",
+      "description": "Sebagian besar aplikasi kalori gagal dengan makanan desi. Cari \"roti\" — hasil yang salah. Qeema tidak ada. Kalori Chai sudah jauh dari itu. calog.cc memperbaikinya. Ketik apa yang Anda makan atau ambil foto — AI memperkirakan kalori, protein, dan makro secara instan. Tidak ada database makanan. Tidak ada formulir. ngobrol aja. Pra-loaded dengan makanan Pakistan. Melacak latihan juga. Grafik kehilangan lemak mingguan agar tetap konsisten. Gratis. Tidak ada kartu kredit. Bekerja di ponsel. coba tanpa mendaftar https: / /calog.cc/try",
+      "slug": "calog-cc"
+    },
+    {
+      "id": "1150481",
+      "name": "VWFNDR ™ + MBL",
+      "tagline": "Ambil foto mentah dengan bukti itu nyata, bukan AI",
+      "description": "VWFNDR ™ + MBL adalah kamera Android gratis yang dibangun di sekitar pengambilan foto nyata: Bayer RAW DNG dan JPEG yang tidak diproses secara bersamaan, rasio aspek variabel, mode prioritas, kontrol manual pada satu layar, dan kredensial konten C2PA yang tertanam pada pengambilan, bukti tampak gangguan bahwa setiap foto diambil oleh kamera nyata, tidak dihasilkan atau dibangun.",
+      "slug": "vwfndr-mbl"
+    },
+    {
+      "id": "1147405",
+      "name": "Buggyverse",
+      "tagline": "Belajar dengan orang asing secara online, ruang fokus dengan akuntabilitas tinggi",
+      "description": "Buggyverse adalah rumah coworking hidup yang dirancang untuk menggantikan isolasi kerja jarak jauh dengan koneksi manusia yang tulus. Sementara banyak platform berfokus pada siaran pasif, kami membangun ruang yang berpusat pada interaksi aktif. Ini adalah tempat di mana Anda tidak hanya masuk untuk bekerja; Anda datang untuk menemukan orang-orang Anda. Baik itu berbagi musik atau tetap terkunci selama 8 jam hari sekolah, Buggyverse adalah untuk persahabatan yang bertahan bertahun-tahun. Bergabunglah dengan kami dan menjadi milik.",
+      "slug": "buggyverse"
+    },
+    {
+      "id": "1148466",
+      "name": "Vocabi",
+      "tagline": "Terjemahkan, simpan & hafal kata-kata saat Anda membaca",
+      "description": "Kebanyakan orang mencari kata dan melupakannya besok. Vocabi memperbaikinya. Gunakan kursor di atas kata apa pun saat membaca → Terjemahan muncul. Klik Simpan → pergi ke kamus Anda. Buka Flashcards → spaced repetition melakukan sisanya. → Bekerja di situs web mana pun → 10 bahasa yang didukung → Tidak ada akun. Bekerja offline. Pribadi secara default. Dibangun untuk pelajar bahasa yang benar-benar membaca.",
+      "slug": "vocabi"
+    },
+    {
+      "id": "1150376",
+      "name": "Agora-1 oleh Odyssey",
+      "tagline": "model Dunia Multi-Agen yang Bisa Anda Mainkan",
+      "description": "Agora-1 oleh Odyssey adalah preview penelitian yang dapat dimainkan dari model dunia multi-agen. Hingga empat manusia atau agen AI dapat berbagi dan berinteraksi di dalam simulasi gaya Golden Eye yang dihasilkan secara real-time yang sama.",
+      "slug": "agora-1-by-odyssey"
+    },
+    {
+      "id": "1148780",
+      "name": "Wawasan Kosmik",
+      "tagline": "Analisis web Tanpa Cookie Dibangun ke dalam CMS Anda",
+      "description": "Sebagian besar pengaturan CMS + analytics adalah dua sistem yang direkatkan bersama-sama. Anda mengirimkan konten, lalu menyipitkan mata pada dasbor terpisah mencoba mencocokkan slug dengan postingan. Cosmic Insights memperbaikinya. Analisis web tanpa cookie yang dibangun langsung ke Cosmic. Setiap tampilan halaman, sesi, dan peristiwa pendapatan dikaitkan dengan objek CMS yang tepat yang membuatnya. Satu tag skrip. Tidak ada kue. Tidak ada spanduk. Ramah GDPR secara default. Termasuk gratis di setiap paket.",
+      "slug": "cosmic-insights-2"
+    },
+    {
+      "id": "1150344",
+      "name": "Pasar CLI",
+      "tagline": "3.760 pengecer, satu API untuk agen AI",
+      "description": "3.760 pengecer VTEX en 67 negara dan 12 líneas de negocio. API REST, CLI y 12 herramientas MCP untuk agen de IA. Sumber terbuka: pip install cli-market. 12 Alat MCP. Busca, compara y compra desde la terminal.",
+      "slug": "cli-market"
+    },
+    {
+      "id": "1148389",
+      "name": "lirik",
+      "tagline": "Lirik Langsung di Takik Dinamis Anda",
+      "description": "Sebagian besar aplikasi musik hidup di jendela. Lyricly membawa musik Anda keluar dari itu-ke layar Anda, ke dalam aliran Anda. Jadi alih-alih beralih tab, musik Anda tetap bersama Anda. • Pemutar takik dinamis dengan kontrol interaktif yang halus • Lirik yang disinkronkan secara Real-time yang terasa hidup • Lirik mengambang Desktop yang duduk di atas segalanya • Lirik bilah Menu untuk pengaturan minimal bekerja dengan Apple Music dan Spotify. Dibangun untuk orang-orang yang menyimpan musik sepanjang hari.",
+      "slug": "lyricly"
+    },
+    {
+      "id": "1150474",
+      "name": "YOSA",
+      "tagline": "Hasilkan SEO yang dioptimalkan, konten yang disesuaikan dengan merek yang peringkat",
+      "description": "YOSA adalah alat konten yang bekerja sama seperti kru konten pribadi Anda. Penelitian, singkat, penulisan, tinjauan SEO-alur kerja yang sama yang digunakan oleh agensi, sepenuhnya otomatis. Dari ide topik atau kata kunci hingga salinan siap dipublikasikan dalam beberapa menit. Kami membangun ini setelah 15 tahun pengalaman langsung dengan pembuatan konten di agensi SEO kami. YOSA mempelajari merek Anda, menjalankan penelitian, menggali melalui Google SERP dan tanggapan AI, memindai apa yang telah dikatakan di situs web Anda dan menghasilkan konten yang peringkat.",
+      "slug": "yosa"
+    }
+  ]
+}

@@ -1,0 +1,218 @@
+{
+  "meta": {
+    "version": "v1",
+    "updatedAt": "2026-05-21T21:57:32.881299"
+  },
+  "translations": [
+    {
+      "id": "1147569",
+      "slug": "lobehub-2",
+      "name": "LobeHub",
+      "tagline": "Ihr Chief Agent Operator für Multi-Agent-Arbeiten",
+      "description": "LobeHub ist ein Chief Agent Operator (CAO), der Ihr KI-Agentententeam aufbaut, betreibt und koordiniert. Beschreiben Sie ein Ziel und es sammelt die richtigen Agenten/Fähigkeiten, führt Aufgaben parallel in der cloud aus, leitet Arbeiten über Modelle hinweg und berichtet nur, wenn Entscheidungen erforderlich sind – über Ihre vorhandenen Kanäle (Slack/Discord/Telegram/iMessage). Weniger tab-switching, mehr Ergebnisse."
+    },
+    {
+      "id": "1124409",
+      "slug": "socleads-3-0",
+      "name": "SocLeads 3.0",
+      "tagline": "E-Mails aus sozialen Netzwerken und Karten nach Standort abstreifen",
+      "description": "SocLeads scrapt E-Mails von Instagram, Facebook, LinkedIn, YouTube und Google Maps in ganzen Ländern 🌍 📧 Geofilter. Mehr Ergebnisse. Kein code erforderlich. 🚀"
+    },
+    {
+      "id": "1149049",
+      "slug": "reactvision-studio",
+      "name": "ReactVision Studio",
+      "tagline": "AR/VR-Apps in React Native erstellen + direkt auf Geräte versenden",
+      "description": "Ein browserbasierter visueller editor zum Erstellen von AR-und VR-Szenen. Drag and drop 3D-Objekte, generieren Sie assets mit KI und versenden Sie sie dann nativ auf iOS, Android und Meta Quest aus einer einzigen React-Native-Codebase. Open-Source-Renderer, Expo-kompatibel, 100K + npm-Installationen."
+    },
+    {
+      "id": "1142097",
+      "slug": "shadow-e5e59df3-abae-4647-89a4-2dca0980e6a2",
+      "name": "Schatten",
+      "tagline": "KI-Computerbildschirm und Sprachsteuerung mit benutzerdefinierter Automatisierung",
+      "description": "Shadow ist die KI-Schnittstelle für Ihren Mac. Es sieht Ihren Bildschirm, hört Ihre Stimme und führt die von Ihnen erstellten Eingabeaufforderungen aus – auf einer Tastaturkürzel oder in Ihren meetings. Dabei Fähigkeiten machen die Arbeit. Schnelle Antwort Entwürfe E-Mails aus dem, was Sie sagen und was auf dem Bildschirm ist. Sprachtipping verwandelt das Sprechen in sauberen text, überall. Erfassen Sie jedes Wort und jedes Bildschirm und liefern Sie dann Notizen und Nachbereitungen, sobald Sie auflegen. Bauen Sie Ihre eigenen – jede Fähigkeit ist eine Aufforderung, ein Kontext und ein output."
+    },
+    {
+      "id": "1149482",
+      "slug": "m1-by-montage",
+      "name": "M1 von Montage",
+      "tagline": "Agentische Benutzeroberfläche, die auf Anfrage skaliert",
+      "description": "KI-Agenten rendern die Benutzeroberfläche langsam, teuer, inkonsistent und die Inferenzrechnungen steigen daraus. Montage behebt es: Emittieren Sie ein winziges Intent-Schema, wir kompilieren Produktionskomponenten serverseitig: 10x schneller, 50-100x weniger Token, Modell-und Framework-Agnostik. Jetzt generiert ein M1 API-Aufruf umfangreiche interaktive Bilder, hostet sie als Live-Benutzeroberflächen mit dauerhaftem Zustand und Stilen für Ihre Marke. Lassen Sie Ihre Agenten nicht jedes Mal die Benutzeroberfläche neu erfinden-versenden Sie sie auf Montage!"
+    },
+    {
+      "id": "1148842",
+      "slug": "searchad-ai",
+      "name": "Searchad.ai",
+      "tagline": "Apple Search Ads durch Chatten mit KI ausführen",
+      "description": "Cursor für Apple Search Ads. Führen Sie Apple Search Ads-Kampagnen in jedem Land durch Chat aus. Die KI ist standardmäßig schreibgeschützt und nichts wird ohne Ihre ausdrückliche Genehmigung bereitgestellt, pausiert oder einen cent ausgegeben. Sehen Sie sich Ihre ROAS an, verwalten Sie die Kampagnen mit nur chatten. Arbeiten Sie für alle Länder, die von Apple Ads unterstützt werden."
+    },
+    {
+      "id": "1138152",
+      "slug": "origio",
+      "name": "Origio",
+      "tagline": "Eine personalisierte Möglichkeit zu entdecken, wo man leben kann",
+      "description": "Die meisten Umzugstools bieten Ihnen allgemeine Stadtvergleiche. Origio personalisiert es. Beantworten Sie 8 Fragen zu Ihrem job, Reisepass, Mietbudget und Prioritäten und es bewertet 25 Länder nach Gehalt nach Steuern, Visumschwierigkeiten für Ihre Staatsangehörigkeit, Lebenshaltungskosten und Lebensqualität. Die kostenlose Ebene zeigt Ihre top 3 matches. Pro entsperrt alle 25, einen Gehaltsrechner, eine vollständige Visa-Checkliste und einen 3-Länder-Vergleich. Einmalzahlung, kein Abo."
+    },
+    {
+      "id": "1149478",
+      "slug": "polarity-3",
+      "name": "Polarität",
+      "tagline": "Der Selbstverbesserungsstack für Agenten",
+      "description": "Polarity überwacht jede Agententscheidung in der Produktion, zeigt Fehlermuster, bevor Benutzer sie treffen, und verwandelt Trajektorien in evals, die die Zuverlässigkeit Ihres Agenten im Laufe der Zeit verstärken!"
+    },
+    {
+      "id": "1149111",
+      "slug": "moody-5",
+      "name": "Stimmung",
+      "tagline": "Deine Mac-Hintergrundbild, die deine Musik hört & Wetter",
+      "description": "🎵 Musikreaktiv. ☔ Wetterbewusst. 🎯 Fokussynchronisierung. MOODy verwandelt Ihren Mac-Desktop in eine lebendige Oberfläche – sechs intelligente Modi, die zu Ihrer Musik, Ihrem Wetter, Ihrer Stimmung und Ihrer Tageszeit passen. 4K Hintergrundbilder, multi-monitor, macOS 14.6+."
+    },
+    {
+      "id": "1149496",
+      "slug": "krea-2-3",
+      "name": "Krea 2",
+      "tagline": "Ein Bildmodell für style control und moodboards",
+      "description": "Erstellen Sie ausdrucksstarke KI-Bilder mit Krea 2, dem internen Grundmodell von Krea AI für ästhetische Vielfalt, Stilsteuerung, moodboards und kreative workflows."
+    },
+    {
+      "id": "1135610",
+      "slug": "draft-ea9a2933-7710-472c-a9e4-59b9ffcc2931",
+      "name": "Entwurf",
+      "tagline": "Erfassen Sie KI-Chats in Ihre Wissensdatenbank",
+      "description": "Draft erfasst wertvolle Antworten von ChatGPT, Gemini, DeepSeek und vertikalen chatbots und wandelt sie dann in bearbeitbare, durchsuchbare Notizen um. Formatierung bewahren, Erkenntnisse organisieren, text in Sprache anhören, Ihr Wissen offline verfügbar halten und nach Wahl teilen. Kostenlos in der Beta-Version zu verwenden;"
+    },
+    {
+      "id": "1115546",
+      "slug": "triggered-agents-by-adaptive",
+      "name": "Ausgelöste Agenten von Adaptive",
+      "tagline": "KI-Agenten, die automatisch bei Geschäftsveranstaltungen ausgeführt werden",
+      "description": "Adaptive ermöglicht es Ihnen, KI-Agenten an Ereignisse in Ihren Business-Tools anzuschließen, sodass sie automatisch agieren, wenn ein trigger ausgelöst wird. Für Gründer und Betreiber, die Multi-Tool-Workflows ausführen."
+    },
+    {
+      "id": "1121974",
+      "slug": "landinghero-ai-2",
+      "name": "LandingHero KI",
+      "tagline": "24/7 Verkäufer auf Ihrer Website",
+      "description": "Die meisten Besucher landen auf Ihrer website, haben Fragen und gehen ohne Antworten. Man erfährt nie, wofür sie gesucht haben. LandingHero erstellt eine KI-Version von Ihnen, die mit jedem Besucher per Stimme in seiner Sprache spricht. Es beantwortet Fragen, führt Besucher auf Ihrer Website und erfasst leads. Fügen Sie Ihre URL ein und verwandeln Sie Ihre website in einen 24/7 Verkäufer."
+    },
+    {
+      "id": "1148331",
+      "slug": "pixserp",
+      "name": "pixserp",
+      "tagline": "Ihr LLM im Live-Web. Ein Endpunkt, zehn Antwortformen.",
+      "description": "pixserp ist die KI-native Suchmaschine für Builder. Ein Endpunkt, zehn Live-Web-Antwortformen – Suche, Nachrichten, Bilder, Orte, Einkaufen, Flüge, hotels, YouTube, Transkripte, beliebige URL – standardmäßig zitiert. Drop-in für das OpenAI SDK. Flat $1,50/1k Anfragen."
+    },
+    {
+      "id": "1149062",
+      "slug": "sizzleair",
+      "name": "SizzleAir",
+      "tagline": "Thermischer Assistent für lüfterlose MacBook Airs",
+      "description": "SizzleAir ist ein winziger thermischer macOS-Assistent, der speziell für lüfterlose MacBook Airs entwickelt wurde. Anstelle einer weiteren Sensorwand verwandelt es thermischen Druck, Arbeitslast-Kontext, externe Anzeige oder Clamshell-Zustand und Top-CPU-Nutzung in einen klaren status, wahrscheinliche Ursache und praktischen nächsten Schritt. Keine falsche Kühlung, keine Lüftersteuerung, kein riesiges Armaturenbrett."
+    },
+    {
+      "id": "1149543",
+      "slug": "voiser-ai-2",
+      "name": "Voiser KI",
+      "tagline": "Menschenähnliche KI-Voiceovers in über 140 Sprachen",
+      "description": "Voiser hilft Schöpfern, teams und Unternehmen, text in die menschlichsten KI-Voiceovers umzuwandeln. Mit über 140 Sprachen, über 1000 Stimmen, emotionalen Stimmenstilen, benutzerdefinierten Anweisungen und schneller Generierung können Sie in Minuten realistische voiceovers für videos, Anzeigen, Trainingsinhalte, podcasts und globale Projekte erstellen."
+    },
+    {
+      "id": "1149570",
+      "slug": "anyframe-2",
+      "name": "Any Frame",
+      "tagline": "Sandboxen für Ihre KI-Agenten",
+      "description": "Handrollende Sandkästen für jeden Agenten werden schnell alt. AnyFrame bietet Ihnen eine Steuerungsebene: Definieren Sie einen Agenten einmal, starten Sie eine Sitzung in Sekunden, treiben Sie sie von der Web-Benutzeroberfläche oder dem Python SDK auf demselben Kanal. Claude Code, Codex, dein Gurt."
+    },
+    {
+      "id": "1147447",
+      "slug": "quickright",
+      "name": "QuickRight",
+      "tagline": "Die fehlenden Rechtsklick-Funktionen für macOS Finder",
+      "description": "QuickRight fügt die fehlenden Rechtsklick-Funktionen zu macOS Finder hinzu. Erstellen Sie sofort neue Dateien, verwenden Sie true Cut & Paste, öffnen Sie Terminal oder Warp im aktuellen Ordner, kopieren Sie Dateipfade, verschieben Sie Dateien schneller, komprimieren Sie Bilder, extrahieren Sie Farben, überprüfen Sie hashes und mehr – alles direkt aus dem Kontextmenü von Finder. Erstellt für macOS-Benutzer, die täglich mit Dateien arbeiten."
+    },
+    {
+      "id": "1147361",
+      "slug": "agentspan",
+      "name": "Agentspan",
+      "tagline": "Open-Source-Laufzeit für dauerhafte KI-Agenten",
+      "description": "Agentspan ist ein Open-Source-Server und SDK zum Ausführen von AI-Agenten als dauerhafte workflows. Sie können Agenten programmatisch definieren, serverseitig ausführen und jeden Ausführungs-und Ausführungszustand in der Benutzeroberfläche überprüfen. Agentspan fügt crash recovery, Human-in-the-Loop-Genehmigungen, guardrails, tool history und Beobachtbarkeit rund um die Agent-Frameworks und LLMs hinzu, die Sie bereits verwenden. MIT lizenziert."
+    },
+    {
+      "id": "1149504",
+      "slug": "the-claude-code-daily",
+      "name": "Der Claude Code täglich",
+      "tagline": "Claude Code Nachrichten. täglich kuratiert.",
+      "description": "Mit Claude Code Schritt halten ist ein Vollzeitjob. Neue Veröffentlichungen, Community-Tipps und workflows sind über X verstreut. Der Claude-Code behebt das täglich. Jeden Wochentag morgens werden die Top-Beiträge in einer 2-minütigen Zusammenfassung destilliert, die in Ihren Posteingang geliefert wird."
+    },
+    {
+      "id": "1149410",
+      "slug": "beyondcomments",
+      "name": "Jenseits von Kommentaren",
+      "tagline": "Verwandeln Sie YouTube-Kommentare in Kanal-Wachstum in 45 Sekunden!",
+      "description": "BeyondComments analysiert jeden YouTube-Kommentar zu Ihrem video und verwandelt ihn in umsetzbare Signale. Stimmungsanalyse, Content-Ideen, Sponsor-Outreach, hochintentionale fans und ein Viralitätsscore. Fügen Sie eine beliebige YouTube-URL ein und erhalten Sie in 45 Sekunden ein vollständiges KI-Briefing."
+    },
+    {
+      "id": "1149506",
+      "slug": "perceptron-mk1",
+      "name": "Perceptron Mk1",
+      "tagline": "Frontier video Argumentation für die physische Welt",
+      "description": "Perceptron Mk1 bringt grenzüberschreitendes video und verkörpertes Denken in Produktions-APIs mit zeitlicher Erdung, strukturierten visuellen Ausgaben, 32K multimodalem Kontext und Preisgestaltung, die für Aufgaben in der physischen Welt mit hohem Volumen entwickelt wurde."
+    },
+    {
+      "id": "1148397",
+      "slug": "elmo",
+      "name": "Elmo",
+      "tagline": "Open Source AEO",
+      "description": "Haben Sie es satt, $400/Monat für Profound auszugeben? Mit Elmo können Sie alle Ihre Aufforderungen bei jedem KI-Suchanbieter oder LLM verfolgen, Ihre KI-Sichtbarkeit mit Ihrer Konkurrenz vergleichen und in die details eintauchen, welche websites/Reddit-Threads/usw. von KI zitiert werden. Sie können auch auf dem system mit Docker Compose selbst hosten und Ihre eigenen Daten besitzen."
+    },
+    {
+      "id": "1145240",
+      "slug": "nonbios-ai",
+      "name": "NonBioS.ai",
+      "tagline": "Der KI-Softwareentwickler mit eigenem Computer",
+      "description": "NonBioS ist ein KI-Software-Ingenieur, der auf einer eigenen Linux-Maschine läuft. Jeder Benutzer erhält eine dedizierte Maschine, die der agent vollständig kontrolliert-4 GB RAM, eine öffentliche IP und Root-Zugriff. NonBioS kann alles installieren, alles ausführen, ports öffnen und bereitstellen. Wir sind besessen von unserer Kontext-Engineering-Architektur-strategisches Vergessen genannt, die hilft, den Fokus auf lange laufende Aufgaben zu halten und komplexe Codebasen zu bewältigen. NonBioS teilt seinen plan im Voraus, streamt jeden Schritt und lässt Sie jederzeit unterbrechen/umleiten."
+    },
+    {
+      "id": "1148934",
+      "slug": "orlume",
+      "name": "Orlume",
+      "tagline": "KI, die websites erstellt, die von Top-Designern erstellt aussehen.",
+      "description": "Die meisten KI-Website-Builder fühlen sich wie Copy-Paste-Maschinen. Orlume ist anders. Sie bekommen keine Vorlagen, Sie bekommen Geschmack. Beschreiben Sie Ihre Idee und sie wird zu einer sauberen, hochwertigen website mit echter Struktur, scharfen layouts und dem Gefühl „Das wurde tatsächlich entworfen \". Keine endlosen Tweaks, keine generischen Ausgaben. Einfach schnelle, einzigartige, polierte websites für Gründer, Schöpfer und startups, die sich um das Aussehen ihres Produkts kümmern."
+    },
+    {
+      "id": "1120011",
+      "slug": "dovilo",
+      "name": "Dovilo",
+      "tagline": "Der erste agent-native, gamified task manager und focus app.",
+      "description": "Dovilo verwandelt Ihre To-Do-Liste in eine Stadt, die Sie tatsächlich bauen. Erledigen Sie Aufgaben, bleiben Sie konzentriert mit Pomodoro-Timern und bauen Sie eine isometrische Stadt auf, die mit Ihrer Produktivität wächst. Agent-native: Der integrierte MCP-Server ermöglicht es Claude Code, Cursor, Windsurf, Codex CLI, Gemini CLI und jedem MCP-Client, Ihre KI-Aufgaben Schritt für Schritt auszuführen. Aktivieren Sie webhooks, um Ihren eigenen Agent-Workflow zu verbinden: Neue Aufgabe erstellt, Ihr orchestrator wird sofort benachrichtigt. Kostenlos auf iOS, Android, macOS und Windows. Start 18. Mai."
+    },
+    {
+      "id": "1147333",
+      "slug": "dash-by-halaska",
+      "name": "Dash von Halaska",
+      "tagline": "Investorfertiges design, in einer Woche",
+      "description": "Ein festpreisiges design gibt weiter, was Investoren tatsächlich beurteilen: site, Produkt, deck. Ex-Google, ex-Ogilvy. 20 Jahre im design. Die Gründer, mit denen wir zusammengearbeitet haben, haben 160 Millionen US-Dollar gesammelt. Drei pauschale Ebenen ab $2.5K. Interaktiver Prototyp, keine Figma-Datei. Investorenbereit in einer Woche."
+    },
+    {
+      "id": "1144729",
+      "slug": "caseodds-ai",
+      "name": "CaseOdds.ai",
+      "tagline": "KI analysiert Ihren Rechtsfall und prognostiziert die Erfolgschancen",
+      "description": "Finden Sie heraus, ob Sie Ihren Gerichtsverfahren gewinnen werden. CaseOdds.ai nutzt KI, um Ihre rechtliche situation zu analysieren und das Ergebnis vorherzusagen – kostenlos."
+    },
+    {
+      "id": "1148032",
+      "slug": "walk-routes-reminders",
+      "name": "Walk: Routen & Erinnerungen",
+      "tagline": "Ein minimalistischer walking tracker",
+      "description": "Walk ist der einfachste Weg, um Ihre Spaziergänge zu verfolgen. Nehmen Sie Ihre Routen auf, verfolgen Sie Ihre Schritte und sehen Sie Ihre Fortschritte im Laufe der Zeit-alles in einer wunderschön minimalen Oberfläche. Egal, ob Sie einen kurzen Spaziergang machen oder eine tägliche Gehgewohnheit aufbauen, Walk verfolgt Ihre Zeit, Entfernung, Tempo, Kalorien und Höhe. Sehen Sie sich Ihre Wanderhistorie mit Routenkarten an, folgen Sie Ihren Strecken und bleiben Sie motiviert mit wöchentlichen und monatlichen Erkenntnissen."
+    },
+    {
+      "id": "1141912",
+      "slug": "flintlab-sirius-platform",
+      "name": "FlintLab Sirius Plattform",
+      "tagline": "KI-natives einheitliches Gerät Infra PaaS",
+      "description": "FlintLab ist eine KI-basierte Infrastrukturplattform als Service (IPaaS), die speziell entwickelt wurde, um die Art und Weise zu verändern, wie moderne Ingenieurteams hochwertige software testen, validieren und liefern. Unsere Plattform bietet On-Demand-Zugriff auf reale und emulierte Geräte sowie containerisierte, cloud-native Testumgebungen, die es Unternehmen ermöglichen, produktionsähnliche Bedingungen im Maßstab zu simulieren, ohne den Aufwand der Verwaltung komplexer Infrastrukturen."
+    }
+  ]
+}

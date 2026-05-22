@@ -1,0 +1,248 @@
+{
+  "meta": {
+    "version": "v1",
+    "updatedAt": "2026-05-22T16:20:54.107203"
+  },
+  "translations": [
+    {
+      "id": "1136169",
+      "slug": "fere-ai",
+      "name": "Fere AI",
+      "tagline": "Application de la mémoire persistante dans Claude Code, Codex et Code Agent",
+      "description": "Vous pouvez maintenant fournir une mémoire illimitée à Hermes, Claude Code et Codex. Agentmemory est en train de devenir populaire sur GitHub et a reçu plus de 5000 étoiles. CLAUDE md peut mettre plus de 22 000 mots dans le contexte sur 240 observations, tandis que l'agentmemory n'a que 1 900 mots, ce qui permet d'économiser 92% d'espace. Sur 1000 observations, 80% de vos mémoires intégrées deviennent invisibles. La mémoire de l'agent reste 100% rechercheable. Dans un benchmark de 240 sessions de codage réelles, le vocabulaire par session a été réduit de jusqu'à 95% - le nombre d'appels d'outils a été augmenté de 200 fois avant que la limite de contexte ne soit atteinte - et est complètement open source.",
+      "keywords": "Mémoire persistante, Claude Code, Codex, Agent de programmation, Agentmemory, GitHub, open source, gestion de la mémoire, assistant de code, gestion de contexte, optimisation de jetons, efficacité de programmation, nombre d'observations"
+    },
+    {
+      "id": "1146113",
+      "slug": "vivago-video-agent",
+      "name": "Vivago Video Agent",
+      "tagline": "Votre réalisateur d'IA vous permet de créer des vidéos cinématographiques facilement.",
+      "description": "Dites à Loova ce que vous pensez dans un langage simple et quotidien, et les agents de Loova seront comme votre réalisateur personnel pour planifier, diriger et produire le film pour vous. Qu ' il s'agisse d'une publicité accrocheuse, d'un court métrage ou d'une vidéo de produit, ils le font rapidement. Avec un espace de création illimité, les agents Loova rendent la narration vidéo professionnelle un jeu de pouce.",
+      "keywords": "Loova Agents, Réalisateur d'IA, Production cinématographique, Création de films, Courtes vidéos, Production publicitaire, Vidéos produit, Vidéo Story, Vidéos créatives, Réalisateur facile, Créativité illimitée, Production simple, Personnel"
+    },
+    {
+      "id": "942860",
+      "slug": "sun-to-spotify",
+      "name": "SUN-to-Spotify ",
+      "tagline": "Une meilleure façon de partager l'écran sur macOS",
+      "description": "Raybeam est une application macOS qui vous permet de partager des zones d'écran glissables et redimensionnables, parfaites pour les configurations ultra-wide et multi-moniteurs. Il prend en charge plusieurs plates-formes telles que Zoom, Slack, Teams et plus encore.",
+      "keywords": "Raybeam, partage d'écran, applications macOS, glisser, redimensionnable, écran ultra large, multi-moniteurs, pour Zoom, pour Slack, pour Teams, outils de partage d'écran"
+    },
+    {
+      "id": "1144087",
+      "slug": "files-sdk",
+      "name": "Files SDK",
+      "tagline": "Modèle Gemini léger pour pipelines d'intelligence artificielle haut débit",
+      "description": "Gemini 3.1 Flash-Lite fournit des API pour l'appel d'outils, la classification, la traduction et le traitement multimodal via la plate-forme d'agent Gemini Enterprise de Google. Cette technologie est particulièrement adaptée aux ingénieurs en IA qui ont besoin de construire des pipelines proxy efficaces et à faible latence dans un environnement de production.",
+      "keywords": "Gemini 3.1, Flash-Lite, léger, pipeline d'IA, haute capacité, appel d'outils, classification, traduction, traitement multimodal, API, Google, plateforme d'agent d'entreprise Gemini, ingénieur d'IA"
+    },
+    {
+      "id": "1148297",
+      "slug": "kirki",
+      "name": "Kirki",
+      "tagline": "Conseils financiers personnels pilotés par ChatGPT",
+      "description": "Avertissement pour les utilisateurs professionnels : expérimentez une nouvelle gestion financière personnelle avec ChatGPT. Les utilisateurs professionnels aux États-Unis peuvent se connecter en toute sécurité à leurs comptes financiers, comprendre où les fonds circulent et poser des questions en fonction des informations choisies pour se connecter. Maintenant, votre situation financière complète est disponible dans ChatGPT.",
+      "keywords": "Finances personnelles, ChatGPT, Conseils financiers, Expérience financière personnelle, Utilisateur Pro, Connexion sécurisée, Compte financier, Flux d'argent, Problèmes financiers, Informations financières, Finances complètes, Utilisateur américain"
+    },
+    {
+      "id": "1148721",
+      "slug": "offshelf-learn-focus",
+      "name": "OffShelf: Learn & Focus",
+      "tagline": "Outils de développement, accessibles en un simple clic de menu.",
+      "description": "Wring est une application de barre de menu macOS hors ligne qui fournit 12 outils de développeur couvrant des fonctions telles que JWT, hachage, expression régulière, JSON, Base64, horodatage, tâches de chronométrage, couleur, UUID, comparaison de différence, surveillance de charge et clés d'environnement. Il n'y a pas de compte, pas d'analyse de données et pas de connexion Internet.",
+      "keywords": "Wring, Outils de développement, macOS, Applications de barre de menus, JWT, Hash, Expressions régulières, JSON, Base64, Timestamp, cron, Couleur, UUID, Comparaison des différences, Load"
+    },
+    {
+      "id": "1148541",
+      "slug": "chessbout",
+      "name": "ChessBout",
+      "tagline": "Plateforme de recherche de prochaine génération",
+      "description": "ScholarXIV est une plateforme de recherche de nouvelle génération qui fournit une gamme puissante d'outils et de fonctionnalités pour rendre la recherche plus approfondie et plus perspicace. Vous pouvez construire votre propre base de données de recherche, effectuer des revues de la littérature, effectuer des simulations dans un bac à sable, générer des fichiers, et même une fonctionnalité active appelée Pulse qui vous aide à gagner du temps en transformant vos articles récemment favoris et signés en articles de recherche interdisciplinaires rapides. Venez découvrir ScholarXIV et découvrez plus de fonctionnalités !",
+      "keywords": "ScholarXIV, plateforme de recherche de prochaine génération, outils de recherche, revue de la littérature, bibliothèque de recherche, simulation d'exécution, génération de fichiers, fonctionnalité Pulse, articles de recherche rapides, recherche gagnante en temps, expérience de recherche approfondie, spécialisation de recherche"
+    },
+    {
+      "id": "1148485",
+      "slug": "ugo-autonomous-marketing",
+      "name": "UGO — Autonomous Marketing",
+      "tagline": "Un marché pour les outils d'IA, pas pour tout.",
+      "description": "Les développeurs d'IA indépendants n'ont souvent pas de véritable sentiment d'appartenance. Les grands marchés vous verrouillent sur des plateformes spécifiques, les sites d'annuaire ne peuvent pas négocier. Fiverr facture 20% de la commission et Upwork 10 %. Et AppSumo contrôle vos prix et les réductions. Mysoft.ai est un marché de l'IA sans restriction de plate-forme - pas de verrouillage, pas de refus arbitraire et les commissions les plus basses du marché. Les 100 premiers vendeurs fondateurs bénéficient d'une commission de 5% à vie. Vous pouvez répertorier les agents d'intelligence artificielle, les flux de travail, les GPT, les outils SaaS et les services de conseil ici. Nous offrons des badges de certification, des services d'hébergement et des paiements Stripe. Pas de blocage intermédiaire.",
+      "keywords": "mysoft.ai,  marché  des  ou tils  d ' IA ,  ind épend ance  de  la  plate forme ,  commission  faible ,  agent  d ' IA ,  work f low ,  G PT ,  ou tils  Saa S ,  services  de  conseil ,  vende ur  fond ateur ,  commission  à  vie  de  5  % ,  test"
+    },
+    {
+      "id": "1148712",
+      "slug": "buy-blocker",
+      "name": "Buy Blocker",
+      "tagline": "Flux de travail du vêtement bref avec le Centre d'exécution publique (MCP)",
+      "description": "Nous générons des œuvres d'art imprimables directement, les synthétisons sur des vêtements et traitons les commandes via Printful ou votre Webhook d'usine. Il y a actuellement quatre adaptateurs en file d'attente. Le MCP public a effectué 275 tests. Ce processus est adapté aux non-programmeurs seuls, tous en paire avec Claude.",
+      "keywords": "Incultnito Studio, Flux de travail de vêtements courts, Public Fulfillment MCP, Print Ready Art, Composite de vêtements, Printful, Factory Webhook, Public MCP, 275 tests,"
+    },
+    {
+      "id": "1148750",
+      "slug": "mourning",
+      "name": "Mourning",
+      "tagline": "Lien de fichier unique, invalide après ouverture",
+      "description": "Burn After vous permet d'envoyer des fichiers sensibles via des liens jetables qui expirent après la première visite. Le destinataire n'a pas besoin d'enregistrer un compte. Cet outil est idéal pour envoyer des documents fiscaux, des pièces d'identité, des contrats, des documents PDF ou tout autre fichier que vous ne voulez pas laisser quelqu ' un dans sa boîte aux lettres pendant longtemps. Tout ce que vous avez à faire est de télécharger un fichier, de partager le lien, et une fois que quelqu 'un ouvre le lien, le fichier est supprimé et le lien est éteint.",
+      "keywords": "Liens de fichiers jetables, partage de fichiers, transfert de fichiers sécurisé, liens expirés, fichiers sensibles, ne laissant aucune trace, téléchargement de fichiers, protection de la vie privée, documents fiscaux, cartes d'identité, contrats,"
+    },
+    {
+      "id": "1147802",
+      "slug": "dashbuster",
+      "name": "DashBuster",
+      "tagline": "Cela rend le cycle des nouvelles d'IA un peu plus absurde.",
+      "description": "Nextish News transforme vos idées dans le domaine de la technologie en un bel article pseudo avec des titres, des sous-titres, des sections et des liens publics partageables. Il est conçu pour le chat d'équipe, la chaîne Slack et les collègues qui lisent trop de nouvelles de financement.",
+      "keywords": "Nextish Nouvelles, intelligence artificielle, Nouvelles, Nouvelles humoristiques, Monde de la technologie, Faux articles, Titres, Sous-titres, Liens partagés, Chat de groupe, Chaîne Slack, collègues, Nouvelles de financement"
+    },
+    {
+      "id": "1148363",
+      "slug": "codebreak",
+      "name": "CodeBreak",
+      "tagline": "Plaque de développement d'encre électronique couleur de 4 pouces avec ESP32 et entrée / sortie audio.",
+      "description": "PaperColor dispose d'un écran d'encre électronique couleur de 4 pouces avec une puce ESP32 - S3 qui prend en charge le Wi-Fi, les capteurs et les fonctions audio. Idéal pour la signalisation IoT, les terminaux vocaux et la surveillance de l'environnement.",
+      "keywords": "M5Stack, PaperColor, 4 pouces, encre électronique couleur, carte de développement, ESP32, entrée / sortie audio, Wi-Fi, capteurs, signalisation IoT, terminal vocal,"
+    },
+    {
+      "id": "1147459",
+      "slug": "gossipic",
+      "name": "Gossipic",
+      "tagline": "Votre assistant IA personnel peut communiquer via iMessage et Telegram.",
+      "description": "Votre assistant IA personnel, disponible sur iMessage et Telegram. Il a une fonction de mémoire, il peut effectuer des calculs réels. Vous pouvez lui parler comme vous le faites avec un ami.",
+      "keywords": "Clawputer, assistant IA personnel, iMessage, Telegram, fonctionnalités de mémoire, ordinateur réel, communication humaine, assistant de chat"
+    },
+    {
+      "id": "1148539",
+      "slug": "digital-twin-curators",
+      "name": "Digital Twin Curators",
+      "tagline": "Créez un espace privé pour les personnes les plus proches de vous",
+      "description": "Mudu est un espace de cryptage privé de bout en bout pour les partenaires, la famille et les amis proches. Il n'y a pas de suivi, pas d'attention, pas de flux ouvert d'informations ici. C'est juste un endroit calme où les gens se sentent plus proches et compris, où ils se connectent à travers les petites choses de la vie quotidienne.",
+      "keywords": "Mùdu, espace privé, cryptage de bout en bout, partenaires intimes, famille, amis proches, pas de traçage, exploitation sans publicité, socialisation privée, connexion, compréhension,"
+    },
+    {
+      "id": "1148764",
+      "slug": "ludr-ai-understand-any-screen",
+      "name": " Ludr AI — Understand Any Screen",
+      "tagline": "Laissez tout être sélectionné",
+      "description": "Capture et extrait du texte, y compris des images et des vidéos, de n'importe où sur l'écran de votre Mac. Il peut traduire instantanément (pour macOS 26 et ultérieur), écouter le contenu à l'aide de la synthèse vocale et masquer les informations sensibles.",
+      "keywords": "Facultatif, OCR, Capture de texte, Extraction de texte, Mac, Capture d'écran, Image, Vidéo, Traduction en temps réel, TTS, Synthèse vocale, Protection des données sensibles"
+    },
+    {
+      "id": "1148740",
+      "slug": "skipthemid-2",
+      "name": "SkipTheMid",
+      "tagline": "Agentic CLI : un outil de ligne de commande pour le codage, la construction et l'automatisation des flux de travail",
+      "description": "Grok Build est un outil de ligne de commande intelligent qui permet de planifier à partir d'un terminal, d'attribuer des tâches à plusieurs sous-agents parallèles et d'effectuer des tâches de codage et d'automatisation. Actuellement, le service est en cours de test préliminaire pour les abonnés SuperGrok Heavy.",
+      "keywords": "Grok Build, Agent CLI, Codage, Build, Automatisation du flux de travail, Exécution des tâches, Terminal, Sous-Agent parallèle, Super Grok Heavy, Beta précoce"
+    },
+    {
+      "id": "1148784",
+      "slug": "screenshot-beautifier-pro",
+      "name": "Screenshot Beautifier Pro",
+      "tagline": "Transformez rapidement les données immobilières en clients à forte valeur nette.",
+      "description": "Plotbook est une plate-forme géospatiale de richesse intelligente conçue pour aider les gestionnaires de patrimoine à trouver des clients à forte valeur nette grâce à des cartes industrielles interactives, des portraits de propriétaires pilotés par l'intelligence artificielle et des données de contact vérifiées.",
+      "keywords": "Geospatial, Wealth Intelligence, High Net Worth Clients, Gestion financière, Données immobilières, Cartes interactives, Intelligence artificielle, Analyse client, Données de contact, Gestion des investissements"
+    },
+    {
+      "id": "1148562",
+      "slug": "been-there-2",
+      "name": "Been There",
+      "tagline": "Tests de diagnostic que Duolingo ne vous a jamais donné🦤",
+      "description": "La plupart des gens ouvrent Duolingo, choisissent l'espagnol parce que tout le monde apprend l'espagnol, puis ils abandonnent après trois semaines. Ce n'est pas parce qu ' ils sont paresseux, mais parce qu ' ils choisissent un langage qui ne correspond pas à leur façon de penser et à leurs besoins réels. Lingotype est un outil d'évaluation de neuf questions qui vous aide à identifier le type d'apprentissage qui vous convient et vous indique la langue que vous êtes le plus susceptible de suivre et comment l'apprendre. Il n'y a pas d'exigence d'apprentissage continu, pas d'élément de gamification. Il n'y a qu ' un seul résultat, un plan d'apprentissage, qui coûte seulement 2,99 $.",
+      "keywords": "Lingotype, Apprentissage des langues, Diagnostic des langues, Types d'apprenants, Sélection des langues étrangères, Alternatives Duolingo, Plan d'apprentissage des langues, Adaptation linguistique, Stratégies d'apprentissage, 9 questions, Activités d'apprentissage"
+    },
+    {
+      "id": "1148788",
+      "slug": "snapsub-subscriptions-hub",
+      "name": "SnapSub - subscriptions hub",
+      "tagline": "Arrêtez de publier cela dans l'obscurité.",
+      "description": "Connectez votre dépôt GitHub et générez automatiquement des journaux de mise à jour visuels et visuels à partir de vos demandes de pull fusionnées. Vous pouvez créer des projets, lier des entrepôts et générer des journaux de mise à jour en un seul clic. Cela vous aide à garder votre travail transparent et à réduire les demandes d'assistance en montrant aux utilisateurs que vous publiez activement des mises à jour. Le service offre une page de journaux de mise à jour publique, un widget de site Web de marketing et même un résumé hebdomadaire par courrier électronique pour s'assurer que les utilisateurs sont tenus au courant des derniers changements.",
+      "keywords": "ShipLog, journal des changements, GitHub, génération automatique, requêtes de pull-in de fusion, gestion de projet, visualisation, interface utilisateur, notifications de mise à jour, billets de support, pages publiques de journal des changements, marketing"
+    },
+    {
+      "id": "1148230",
+      "slug": "frankki-briefe-schreiben-und-versenden",
+      "name": "FrankKi Briefe schreiben und versenden.",
+      "tagline": "",
+      "description": "",
+      "keywords": ""
+    },
+    {
+      "id": "1148273",
+      "slug": "abakada-org",
+      "name": "Abakada.org",
+      "tagline": "",
+      "description": "",
+      "keywords": ""
+    },
+    {
+      "id": "1147544",
+      "slug": "noteshell",
+      "name": "Noteshell",
+      "tagline": "Un espace de travail prospectif",
+      "description": "Alors que la fonction principale de la plupart des applications de productivité est de stocker des informations, MindMesh est conçu pour vous aider à organiser votre pensée. Plutôt que de basculer entre des notes, des tâches, des discussions d'IA, des documents et des outils de recherche, MindMesh intègre tout dans un espace de travail cognitif alimenté par Nova - un système d'intelligence artificielle conçu pour vous aider à organiser vos idées, générer des structures, alléger le fardeau mental et transformer des idées sporadiques en actions concrètes. Il est conçu pour les fondateurs, les créateurs, les opérateurs et ceux qui sont fatigués de flux de travail fragmentés.",
+      "keywords": "MindMesh, espace de travail de pensée, applications de productivité, stockage d'informations, préparation de la pensée, gestion des tâches, chat AI, gestion de documents, outils de recherche, espace de travail cognitif, Nova, systèmes d'IA, pensée organisée"
+    },
+    {
+      "id": "1148347",
+      "slug": "elvixs",
+      "name": "Elvixs",
+      "tagline": "Un journal de mémoire personnel que vous avez enregistré via un télégramme ou un site Web.",
+      "description": "Alors que la plupart des applications de journalisation veulent que vous organisiez votre contenu vous-même, Memory4Me organise automatiquement votre contenu. Vous pouvez envoyer des messages via le robot Telegram ou les saisir directement sur la page Web. L'IA analyse chaque enregistrement en catégories, entités, notations, lieux et personnes que vous mentionnez. Il vous suffit de poser des questions en anglais simple (comme \"Qu 'est-ce que je pense de Pai ?\"), L'IA les convertira en critères de filtrage. Conçu pour la vie privée : votre compte, vos données, ne seront jamais utilisées pour former le modèle. Pas de publicité, pas d'algorithmes, pas de partage. Un essai gratuit est offert, après quoi il est facturé 2 $(Basic) ou 6 $(Pro) par mois.",
+      "keywords": "Journal de mémoire, Memory4Me, Mémoire personnelle, Telegram, Application Web, Application de notes, Classification de l'IA, Confidentialité des données, Enregistrement de texte, Gestion de la mémoire, Essai gratuit, Abonnement payant"
+    },
+    {
+      "id": "1148694",
+      "slug": "founderstackhub",
+      "name": "FounderStackHub",
+      "tagline": "Utiliser l'intelligence artificielle pour construire un site Web adapté à la croissance",
+      "description": "Webhub est un outil de construction de sites Web d'intelligence artificielle qui construit des pages Web adaptées à la croissance dès le premier jour. Il est conçu pour les entreprises B2B et B2C, les agences et les équipes de croissance qui ont besoin d'aller au-delà de sites statiques. Il suffit de saisir vos antécédents commerciaux et Webhub peut générer un site Web complet et se transformer en un moteur de croissance continuellement optimisé grâce à un système de gestion de contenu (CMS) piloté par l'IA, l'optimisation intégrée pour les moteurs de recherche (SEO), l'optimisation d'intelligence artificielle (AIO), la géo-optimisation (GEO), les fonctions de capture de prospects et un code ouvert et portable, sans crainte d'être bloqué par les fournisseurs.",
+      "keywords": "Webhub, construction de site Web AI, site Web de croissance, site Web B2B, site Web B2C, générateur de site Web, optimisation continue, système de gestion de contenu AI, optimisation des moteurs de recherche, capture de leads"
+    },
+    {
+      "id": "1148229",
+      "slug": "taskflow-7",
+      "name": "TaskFlow",
+      "tagline": "Maamria AI - Constructeur d'espace de travail d'intelligence artificielle de Claude Code",
+      "description": "Maamria AI peut générer des fichiers d'espace de travail structurés (y compris les agents, les compétences, les commandes et les règles) pour donner à Claude Code, Copilot et Cursor une vision complète du contexte du projet dès le premier jour. Adieu à la répétition, adieu aux conseils généralisés, adieu aux jetons gaspillés. Utilisez gratuitement, pas de carte de crédit !",
+      "keywords": "Maamria AI, Intelligence Artificielle, Constructeur d'Espace de travail, Code Claude, Copilot, Curseur, Fichiers d'Espace de travail Structurés, Agent, Skills, Commandes, Règles, Contextes de projet, Utilisation gratuite"
+    },
+    {
+      "id": "1148508",
+      "slug": "appstorestatistics-2",
+      "name": "AppStoreStatistics",
+      "tagline": "Partagez les liens Figma de manière accessible, simple et directe.",
+      "description": "Un gadget qui supprime les arguments inutiles et les longues lignes de caractères de vos liens Figma, rendant les liens instantanément concis. Plus jamais partager ces longs liens inattendus. Liens concis pour une communication plus fluide🤝🏻",
+      "keywords": "FGMA, Nettoyer les liens Figma, Partage de liens Figma, Supprimer les paramètres inutiles, Liens de fichiers clairs, Optimiser les outils de liens, Partage facile, Améliorer la communication, Générer des liens courts, Améliorer l'efficacité de la communication"
+    },
+    {
+      "id": "1148794",
+      "slug": "ticoai",
+      "name": "TicoAI",
+      "tagline": "Il ne s'agit pas seulement de suivre vos habitudes, il s'agit de croire en votre discipline.",
+      "description": "La plupart des outils de suivi des habitudes ne sont que des listes de choses à faire numériques qui peuvent être facilement ignorées. Et VeriFive (V5) est conçu pour vous aider à développer votre autodiscipline. Il combine la sensibilité à la perte, la responsabilité sociale et les récompenses inattendues comme dans les jeux de rôle pour vous aider à réduire la distance entre vous-même réel et vous-même idéal. Dites adieu aux promesses vides - ici, vous montrerez votre résilience à travers de vrais défis et une communauté qui se bat à vos côtés.",
+      "keywords": "Tracker d'habitudes, VeriFive, Autodiscipline, Liste de contrôle numérique, Responsabilité sociale, Style de jeu de rôle, Aversion de perdre, Pari réel, Objectifs atteints, Soutien communautaire, Comportement"
+    },
+    {
+      "id": "1148651",
+      "slug": "testlaunch-pro",
+      "name": "TestLaunch Pro",
+      "tagline": "",
+      "description": "",
+      "keywords": ""
+    },
+    {
+      "id": "1148220",
+      "slug": "hearless-convert-whatsapp-voice-to-text",
+      "name": "Hearless: Convert Whatsapp Voice to Text",
+      "tagline": "Envoyez une lettre authentique à la Maison Blanche pour cinq dollars.",
+      "description": "La Maison Blanche lit toujours les courriels papier. MailThePresident rend le processus très simple. Dites-nous simplement ce que vous pensez et l'IA vous aidera à écrire une lettre réelle, que nous imprimerons, afficherons un timbre et envoyons par courrier prioritaire au 1600 Pennsylvania Avenue. Pour seulement 5 $, aucun compte n'est nécessaire, et le processus prend seulement 3 minutes. Ce service s'adresse à tous ceux qui veulent faire entendre leur voix sur papier, qu ' ils soient partisans, critiques ou neutres.",
+      "keywords": "Écrire des lettres, Maison Blanche, MailThePresident, courrier physique, lettres réelles, service de courrier, écriture AI, 1600 Pennsylvania Avenue, 5 $, pas de compte, rapide et facile,"
+    },
+    {
+      "id": "1148833",
+      "slug": "token-monitor-ai-context-tracker",
+      "name": "Token Monitor: AI Context Tracker",
+      "tagline": "Une plateforme SaaS (Software-as - a-Service) qui aide les créateurs de podcasts à rechercher de nouveaux programmes.",
+      "description": "Connectez votre podcast avec un lien Spotify. L'IA génère un résumé de chaque épisode pour vous en 60 secondes, en référence à vos émissions précédentes et aux commentaires des auditeurs. Conçu pour les animateurs qui souhaitent se concentrer davantage sur la production de spectacles. 29 $par mois avec un essai gratuit de sept jours.",
+      "keywords": "PrepCast, Podcast, Assistant de Podcast, SaaS, Génération AI, Résumé du programme, Liens Spotify, Recherche de nouveaux épisodes, Modérateur, Préparation facile, 29 $par mois, 7 jours gratuits"
+    }
+  ]
+}

@@ -1,0 +1,2600 @@
+{
+  "meta": {
+    "version": "v1",
+    "updatedAt": "2026-05-22T01:34:52.030341"
+  },
+  "translations": [
+    {
+      "id": "1428",
+      "slug": "pitch-dubai",
+      "name": "迪拜球场",
+      "description": "迪尔的The Pitch by Deel：迪拜"
+    },
+    {
+      "id": "1427",
+      "slug": "pitch-singapore",
+      "name": "Pitch新加坡",
+      "description": "Deel的The Pitch：新加坡"
+    },
+    {
+      "id": "1426",
+      "slug": "pitch-tel-aviv",
+      "name": "特拉维夫球场",
+      "description": "Deel的The Pitch：特拉维夫"
+    },
+    {
+      "id": "1425",
+      "slug": "pitch-nyc",
+      "name": "推销纽约",
+      "description": "Deel的The Pitch：NYC"
+    },
+    {
+      "id": "1392",
+      "slug": "pitch-london",
+      "name": "伦敦球场",
+      "description": "地点：Deel：London"
+    },
+    {
+      "id": "1359",
+      "slug": "vercel-day",
+      "name": "维塞尔日",
+      "description": ""
+    },
+    {
+      "id": "1326",
+      "slug": "pitch-berlin",
+      "name": "Pitch Berlin",
+      "description": "迪尔的演讲：柏林"
+    },
+    {
+      "id": "1293",
+      "slug": "pitch-paris",
+      "name": "Pitch Paris",
+      "description": "迪尔的The Pitch by Deel：巴黎"
+    },
+    {
+      "id": "1260",
+      "slug": "alpha",
+      "name": "阿尔法",
+      "description": "首次公开发布 "
+    },
+    {
+      "id": "1227",
+      "slug": "yc-application",
+      "name": "JC申请",
+      "description": ""
+    },
+    {
+      "id": "1194",
+      "slug": "vibe-coding",
+      "name": "Vibe编码",
+      "description": "Vibe编码将想法快速转化为网络应用程序：人工智能工具为开发人员、创始人、设计师的快速原型、仪表板和网站生成UI和完整堆栈。"
+    },
+    {
+      "id": "1167",
+      "slug": "apple-vision-pro",
+      "name": "Apple Vision Pro",
+      "description": "Apple Vision Pro的应用程序"
+    },
+    {
+      "id": "1128",
+      "slug": "psychedelics",
+      "name": "致幻剂",
+      "description": "用这些产品打开你的思维"
+    },
+    {
+      "id": "1095",
+      "slug": "intimacy",
+      "name": "亲密",
+      "description": "产品，帮助你得到舒适与合作伙伴或自己！"
+    },
+    {
+      "id": "1062",
+      "slug": "snow-sports",
+      "name": "雪上运动",
+      "description": "帮助您上下山的产品。"
+    },
+    {
+      "id": "1029",
+      "slug": "inclusivity",
+      "name": "包容性",
+      "description": "创造一个更容易接触的世界的产品。"
+    },
+    {
+      "id": "996",
+      "slug": "nft",
+      "name": "NFT",
+      "description": "从数字艺术到为web3构建的实用程序，一切都是如此。"
+    },
+    {
+      "id": "963",
+      "slug": "notion",
+      "name": "概念",
+      "description": "通过这些由Notion构建的产品来运营工作和生活的无限可能性。"
+    },
+    {
+      "id": "930",
+      "slug": "edge-extensions",
+      "name": "边缘扩展部",
+      "description": "通过可定制您的Web体验的扩展程序为您的Edge浏览器充电"
+    },
+    {
+      "id": "877",
+      "slug": "business-travel",
+      "name": "商务旅行",
+      "description": "当您需要上路（或乘飞机）上班时。这些产品已获得您的门票。"
+    },
+    {
+      "id": "876",
+      "slug": "hotels",
+      "name": "酒店",
+      "description": "当您需要换换环境时，请出去旅行并订购一些带有这些产品的客房服务。 "
+    },
+    {
+      "id": "875",
+      "slug": "motorcycles",
+      "name": "摩托车",
+      "description": "摩托车在开阔道路上旅行时提供了简单性，但这些产品可以帮助使旅行更加愉快，甚至保证您的安全。"
+    },
+    {
+      "id": "874",
+      "slug": "electric-cars",
+      "name": "电动汽车",
+      "description": "未来是电动的。交通运输正在发生变化，电动汽车正在为世界各地的人们创造更清洁的出行选择。 "
+    },
+    {
+      "id": "873",
+      "slug": "racing",
+      "name": "赛车",
+      "description": "适合您一次生活在四分之一英里之外的产品。"
+    },
+    {
+      "id": "872",
+      "slug": "climbing",
+      "name": "爬",
+      "description": "当重力无法将您制服时，请查看这些产品，以帮助您克服困境。"
+    },
+    {
+      "id": "871",
+      "slug": "college-sports",
+      "name": "高校体育",
+      "description": "为NCAA粉丝群提供动力的大学体育工具：类别预测器、游泳池、社交热点追踪器、加密货币交易、支持、招聘和运动员网络。"
+    },
+    {
+      "id": "870",
+      "slug": "community",
+      "name": "社区",
+      "description": "社区收集帮助人们建立联系、创建和发展的工具-论坛、发布、时事通讯、支付、人工智能工作流程以及面向构建者和粉丝的聚会。"
+    },
+    {
+      "id": "869",
+      "slug": "chat-rooms",
+      "name": "聊天室",
+      "description": "聊天室是实时语音文本、语音和视频链接社区、人工智能助手、Web 3钱包、交易中心以及咨询和协作的空间。"
+    },
+    {
+      "id": "868",
+      "slug": "personal-shopper",
+      "name": "Personal shopper",
+      "description": "为您选择的个人购物工具：AI礼物查找器、造型和护肤品挑选、降价提醒、生态节俭、自动送礼、创客市场契合度检查。"
+    },
+    {
+      "id": "867",
+      "slug": "food-delivery",
+      "name": "送餐",
+      "description": "食品配送涵盖订购应用程序、杂货机器人、卡车司机送餐、家庭烹饪和植物性膳食、餐厅工具，以及帮助您快速找到食物的搜索。"
+    },
+    {
+      "id": "866",
+      "slug": "physics",
+      "name": "物理",
+      "description": "物理学解释了物质、运动和力。为世界各地的学生和专业人士探索多物理场分析、公式查找、虚拟电路实验室和空间跟踪。"
+    },
+    {
+      "id": "865",
+      "slug": "security",
+      "name": "安全",
+      "description": "安全性涵盖保护登录、数据和支付的工具：身份、密码管理器、合规自动化、网络防御和具有企业控制的人工智能。"
+    },
+    {
+      "id": "864",
+      "slug": "encryption",
+      "name": "加密",
+      "description": "加密工具锁定电子邮件、聊天、文件和云数据，帮助团队和个人跨应用程序和工作流程安全地共享、存储和管理秘密。"
+    },
+    {
+      "id": "863",
+      "slug": "password-manager",
+      "name": "密码管理器",
+      "description": "保护和自动填充登录、生成强密码、管理2FA并为个人、团队和注重隐私的组织启用审计共享的工具。"
+    },
+    {
+      "id": "862",
+      "slug": "vpn",
+      "name": "VPN",
+      "description": "虚拟专用网络（VPN）加密浏览、突破地理限制并连接车队。产品涵盖移动隐私、家庭路由器和WireGuard网状网络。"
+    },
+    {
+      "id": "861",
+      "slug": "webcam",
+      "name": "Webcam",
+      "description": "网络摄像头工具将摄像头变成录制、流媒体和研究视频编辑、托管、增强、眼动追踪和手机作为摄像头的中心"
+    },
+    {
+      "id": "860",
+      "slug": "photo-editing",
+      "name": "照片编辑",
+      "description": "了解图像工作流程如何结合在一起：平台托管人工智能模型、应用程序执行文本到图像、背景剪切、精确编辑、3D/视频渲染、批处理API。"
+    },
+    {
+      "id": "859",
+      "slug": "dslrs",
+      "name": "DSLRs",
+      "description": "单反：帮助您捕捉、控制和共享的装备和应用程序。预计AI助手、无线遥控器、租赁、智能手机控制、360和即时打印。"
+    },
+    {
+      "id": "858",
+      "slug": "video-cameras",
+      "name": "摄像机",
+      "description": "捕获、传输和重新利用视频的工具：移动捕获、网络摄像头、屏幕记录器、特效以及适合创作者、销售和DIY修饰的设备上人工智能。"
+    },
+    {
+      "id": "857",
+      "slug": "video",
+      "name": "视频",
+      "description": "视频包括会面、录制屏幕、生成剪辑、转录语音和制作互动演示的工具，帮助团队、创作者和开发人员协作。"
+    },
+    {
+      "id": "856",
+      "slug": "aquarium",
+      "name": "水族馆",
+      "description": "水族馆技术将智能水箱、清洁机器人、发光展品和任务跟踪器配对，为爱好者和学校简化护理、教授科学、美化空间。"
+    },
+    {
+      "id": "855",
+      "slug": "local-news",
+      "name": "当地新闻",
+      "description": "当地新闻整合了社区信息工具：查找附近的工作、比较候选人、跟踪土耳其物价上涨、查看独立报道以及在当地分享。"
+    },
+    {
+      "id": "854",
+      "slug": "health-news",
+      "name": "健康新闻",
+      "description": "健康新闻涵盖了转移护理的工具：症状检查、依从性提醒、研究摘要、成像和笔记技术、疫情跟踪以及计费成本削减。"
+    },
+    {
+      "id": "853",
+      "slug": "tech-news",
+      "name": "科技新闻",
+      "description": "科技新闻涵盖了我们如何创造和消费技术：分析、自动化、时事通讯、人工智能社区、付费墙解锁和面向制造商的民间微博。"
+    },
+    {
+      "id": "852",
+      "slug": "political-news",
+      "name": "政治新闻",
+      "description": "政治新闻工具，为选民和分析师跟踪政策、比较候选人、评级来源、主持辩论、绕过付费墙和精心设计解释。"
+    },
+    {
+      "id": "851",
+      "slug": "camping",
+      "name": "露营",
+      "description": "露营涵盖寻找地点、规划路线、管理装备和提供游戏时间的工具和住宿，帮助露营者、货车爱好者和团队共同探索户外活动。"
+    },
+    {
+      "id": "850",
+      "slug": "survival",
+      "name": "生存",
+      "description": "生存工具涵盖危机援助、同伴支持、心肺复苏急救、线下专业知识和安全检查，帮助人们在混乱中做好准备、做出反应并保持联系。"
+    },
+    {
+      "id": "849",
+      "slug": "plants",
+      "name": "植物",
+      "description": "植物涵盖种植、识别和购买绿色植物的工具;花园追踪器;树木和根部的游戏;通过流媒体重新造林;以及一款受自然启发的工艺品。"
+    },
+    {
+      "id": "848",
+      "slug": "gps",
+      "name": "GPS",
+      "description": "GPS拾取器可跟踪锻炼、标记照片、欺骗位置以及为地理定位媒体和地图提供动力。计划旅行、管理GPX以及发现或共享附近的景点。"
+    },
+    {
+      "id": "847",
+      "slug": "hiking",
+      "name": "徒步旅行",
+      "description": "徒步旅行跨越了规划和导航;这些工具查找步道、线下工作、跟踪高峰、管理装备、根据天气量身定制想法、指导自助游、增强照片。"
+    },
+    {
+      "id": "846",
+      "slug": "nature",
+      "name": "性质",
+      "description": "帮助您探索、观察和放松的自然工具：识别鸟类、追踪野生动物、寻找海滩、播放声音景观以及建立日常可持续习惯。"
+    },
+    {
+      "id": "845",
+      "slug": "social-media-marketing",
+      "name": "社交媒体营销",
+      "description": "社交媒体营销通过帖子和视频推广品牌;这些工具创建和本地化剪辑、记录屏幕、安排和跟踪、货币化和集成。"
+    },
+    {
+      "id": "844",
+      "slug": "affiliate-marketing",
+      "name": "联盟营销",
+      "description": "跟踪链接、运行推荐计划和规模增长的联盟营销工具。专为SaaS和创作者构建：归因、支出、内容和社区。"
+    },
+    {
+      "id": "843",
+      "slug": "event-marketing",
+      "name": "事件营销",
+      "description": "活动营销使用工具来规划、宣传、举办和衡量活动，以建立潜在客户和社区，从场馆和人工智能内容到票务、AR和民意调查。"
+    },
+    {
+      "id": "842",
+      "slug": "influencer-marketing",
+      "name": "网红营销",
+      "description": "此类别涵盖寻找创作者、跟踪社交电商、管理合作伙伴关系和在线销售的工具，帮助品牌大规模开展数据驱动的活动。"
+    },
+    {
+      "id": "841",
+      "slug": "marketing-calendar",
+      "name": "营销日历",
+      "description": "营销日历组织活动、内容和事件;这些工具安排帖子、协调团队、自动化外展并快速报告结果。"
+    },
+    {
+      "id": "840",
+      "slug": "marketing-attribution",
+      "name": "营销归因",
+      "description": "营销归因跟踪哪些接触点推动了销售。这些工具将广告、影响者、QR链接、位置和Shopify数据链接到ROAS和用户旅程。"
+    },
+    {
+      "id": "839",
+      "slug": "marketing-automation",
+      "name": "营销自动化",
+      "description": "营销自动化工具为使用人工智能、集成和无代码构建器的增长团队简化潜在客户捕获、内容和电子邮件活动以及应用程序工作流程。"
+    },
+    {
+      "id": "838",
+      "slug": "spirituality",
+      "name": "灵性",
+      "description": "融合信仰练习、正念和成长的灵性工具：醒来祈祷、学习经文、冥想、获得人工智能指导、用声音专注。保持正轨。"
+    },
+    {
+      "id": "837",
+      "slug": "diy",
+      "name": "DIY",
+      "description": "DIY意味着自己做项目。这种组合可以帮助您创建、销售、修复和个性化人工智能创意、专家帮助、支付、自我修饰、爱好指南。"
+    },
+    {
+      "id": "836",
+      "slug": "military",
+      "name": "军事",
+      "description": "军事主题涵盖国防技术和救援工作：从用于快速任务的垂直起降侦察无人机到指导捐款支持乌克兰的精心策划的目录。"
+    },
+    {
+      "id": "835",
+      "slug": "career",
+      "name": "职业生涯",
+      "description": "探索有助于寻找职位、招聘和成长的职业工具：网络、简历定制、筛选、薪资、项目跟踪和创造者收入。"
+    },
+    {
+      "id": "834",
+      "slug": "lgbtq",
+      "name": "LGBTQ+",
+      "description": "LGBTQ+连接、安全和健康工具。寻找匹配、跟踪性健康、报告仇恨、寻找安全空间、获得过渡帮助、庆祝骄傲。"
+    },
+    {
+      "id": "833",
+      "slug": "babies",
+      "name": "婴儿",
+      "description": "婴儿：规划、照顾和好奇未来的工具。从命名和生育选项到跟踪器和睡眠指南，以及未来面孔的人工智能预览。"
+    },
+    {
+      "id": "832",
+      "slug": "family",
+      "name": "家庭",
+      "description": "关怀、联系和记住的家庭工具：护理人员提醒、私人照片日记、为孩子做好准备的故事制作者和无压力的个人贷款跟踪。"
+    },
+    {
+      "id": "831",
+      "slug": "pregnancy",
+      "name": "妊娠",
+      "description": "从计划到产后为您提供支持的怀孕选择：人工智能聊天、当地社区、分娩呼吸、营养、糖尿病提示、喂养和尿布帮助。"
+    },
+    {
+      "id": "830",
+      "slug": "toddlers",
+      "name": "幼儿",
+      "description": "此类别涵盖适合父母和幼儿的早期学习工具：互动故事、无屏幕游戏以及用于建立联系、言语和思考的闪存卡。"
+    },
+    {
+      "id": "829",
+      "slug": "toys",
+      "name": "玩具",
+      "description": "玩具融合了有趣的科技和DIY乐趣：STEM编码、虚拟宠物、乐高工具、着色应用程序以及适合家庭、收藏家和教育工作者的物理数字游戏。"
+    },
+    {
+      "id": "828",
+      "slug": "home-services",
+      "name": "家庭服务",
+      "description": "家庭服务捆绑了管理家庭及其企业的工具：搬家、房地产投资、安全入住、日程安排、预订、增长工具。"
+    },
+    {
+      "id": "827",
+      "slug": "furniture",
+      "name": "家具",
+      "description": "家居用品和收件箱：人工智能价格检查、设计工具、DIY准备单品、人体工程学装备以及适合购物者、房东和设计师的租赁选择。"
+    },
+    {
+      "id": "826",
+      "slug": "home-security",
+      "name": "家庭安全",
+      "description": "家庭安全保护人员、财产和网络：访问控制、摄像头设置、家庭和个人检查、防火墙、家庭和团队的背景检查。"
+    },
+    {
+      "id": "825",
+      "slug": "interior-design",
+      "name": "室内设计",
+      "description": "室内设计工具规划、可视化和布置空间：人工智能渲染器、3D扫描、家具策展、协作以及房主和专业人士的灵感。"
+    },
+    {
+      "id": "824",
+      "slug": "home-theater",
+      "name": "家庭影院",
+      "description": "家庭影院收集丰富的家庭音响设备，例如通过蓝牙、UPSYS或Roon-ready系统将黑胶唱片传输到多房间扬声器的无线转盘。"
+    },
+    {
+      "id": "823",
+      "slug": "home-improvement",
+      "name": "家装",
+      "description": "规划、升级和管理您的空间的家居装修工具：DIY指导、室内设计、能源和碳跟踪、资产库存、舒适度升级。"
+    },
+    {
+      "id": "822",
+      "slug": "neighborhood",
+      "name": "邻域",
+      "description": "邻里工具可以帮助您在当地生活、联系和决定--寻找住房和室友、参加当地聊天、评估危险、探索城市、靠近朋友。"
+    },
+    {
+      "id": "821",
+      "slug": "home-office",
+      "name": "内政部",
+      "description": "家庭办公中心：实现生产力和工作空间创意的装备和应用程序-管理PDF、编写、捕获屏幕、同步剪贴板、调整显示屏和休息。"
+    },
+    {
+      "id": "820",
+      "slug": "weightlifting",
+      "name": "举重",
+      "description": "举重通过结构性训练增强力量。这些工具为运动员、初学者和教练规划锻炼、赛道设置、休息时间并量身定制营养。"
+    },
+    {
+      "id": "819",
+      "slug": "running",
+      "name": "运行",
+      "description": "单独或与朋友一起运行跟踪、游戏化和指导里程的应用程序。为初学者和赛车手寻找节奏工具、节奏节拍、数据同步、NFT奖励。"
+    },
+    {
+      "id": "818",
+      "slug": "fitness",
+      "name": "健身",
+      "description": "发现将健康的日常生活转化为行动的工具：跟踪锻炼、接受人工智能指导、加入社区、赚取奖励以及监测睡眠/心率变异--甚至可以通过为任何人提供戒指。"
+    },
+    {
+      "id": "817",
+      "slug": "health",
+      "name": "健康",
+      "description": "为日常护理提供信息和支持的健康工具：寻找答案、跟踪心率变异性和皮肤变化、提高注意力和心理健康，并为游牧民提供海外护理。"
+    },
+    {
+      "id": "816",
+      "slug": "cell-phone",
+      "name": "手机",
+      "description": "手机必需品涵盖使通话、照片、搜索和旅行数据成为工作重点的设备、操作系统和服务，以及虚拟号码和业务。"
+    },
+    {
+      "id": "815",
+      "slug": "sensors",
+      "name": "传感器",
+      "description": "传感器为跟踪空间、安全和服务器占用率的工具提供动力-计算桌子、信标发送警报，并且代理监视IT、人力资源和组的备份。"
+    },
+    {
+      "id": "814",
+      "slug": "computers",
+      "name": "计算机",
+      "description": "计算机将云人工智能、设备上技术、开发平台、办公应用程序和收件箱工具捆绑在一起--适合日常计算的一切--适合编码人员、团队和创作者。"
+    },
+    {
+      "id": "813",
+      "slug": "tablet",
+      "name": "平板",
+      "description": "平板电脑是一款便携式触摸电脑，可用于多功能应用程序。这些选择涵盖了针对学习者、专业人士和团队的创造力、教育、办公工具和电子墨水阅读。"
+    },
+    {
+      "id": "812",
+      "slug": "appliances",
+      "name": "电器",
+      "description": "电器涵盖更智能的家庭助手（啤酒酿造器、加热器、始终打开的显示器）以及用于发现、共享或资助它们的应用程序。适合厨师、粉丝、环保家庭。"
+    },
+    {
+      "id": "811",
+      "slug": "animation",
+      "name": "动画",
+      "description": "探索适合设计师、开发人员和创作者的Web、应用程序和视频的动画工具-AI编辑、载体SON运动、关键帧和设计工具出口。"
+    },
+    {
+      "id": "810",
+      "slug": "design-templates",
+      "name": "设计模板",
+      "description": "设计模板是跨开发和无代码工具的UI和工作流程精心策划的模块，帮助团队和独奏更快地原型设计并交付有凝聚力的应用程序。"
+    },
+    {
+      "id": "809",
+      "slug": "design-resources",
+      "name": "设计资源",
+      "description": "加速UI和内容创建的设计资源：UI库、模板、载体、动画、库存图像、AI工具和创作者的灵感。"
+    },
+    {
+      "id": "808",
+      "slug": "logo-design",
+      "name": "徽标设计",
+      "description": "徽标设计捆绑了创建和部署品牌标记的工具：人工智能生成器、经过审查的设计师、资产库、招聘中心、网站建设者、API和市场。"
+    },
+    {
+      "id": "807",
+      "slug": "ux-design",
+      "name": "UX设计",
+      "description": "用户体验（UX）设计塑造了人们使用应用程序和网站的方式。这些工具涵盖UI布局、原型、3D、研究、分析、入职和开发移交。"
+    },
+    {
+      "id": "806",
+      "slug": "wireframing",
+      "name": "线框图",
+      "description": "线框将想法映射到简单的屏幕和用户流程中，然后再进行代码。这些工具结合了设计师、PM和团队的网站地图、实体模型和原型。"
+    },
+    {
+      "id": "805",
+      "slug": "web-design",
+      "name": "网页设计",
+      "description": "网页设计涵盖将创意从像素转化为生产的工具：视觉构建器、无代码应用程序制作器、UI套件、授权/支付以及设计师、开发人员使用的CMS。"
+    },
+    {
+      "id": "804",
+      "slug": "graphic-design",
+      "name": "平面设计",
+      "description": "平面设计将想法转化为视觉效果。这些工具涵盖人工智能编辑、股票、照片清理、徽标、网站、自由职业者和销售服务营销人员、中小企业、初创公司和创作者。"
+    },
+    {
+      "id": "803",
+      "slug": "3d-modeling",
+      "name": "3D建模",
+      "description": "3D建模将想法转化为游戏、电影和AR/VR的虚拟对象。这种组合涵盖创建工具、人工智能资产生成器、引擎、图形处理器和协作中心。"
+    },
+    {
+      "id": "802",
+      "slug": "design",
+      "name": "设计",
+      "description": "这里的设计涵盖了为创作者和团队构建、原型制作、展示和销售数字体验-UI/UX、图形、应用程序、新闻稿和合规计费。"
+    },
+    {
+      "id": "801",
+      "slug": "graphics",
+      "name": "图形",
+      "description": "图形涵盖创建、渲染、编辑和运送视觉效果的工具，从图形处理器和艺术应用程序到人工智能剪纸、实体模型工具、反馈和数字资产许可。"
+    },
+    {
+      "id": "800",
+      "slug": "farming",
+      "name": "农业",
+      "description": "农业工具涵盖作物分析、物联网、任务应用程序、融资、交易、投资、研究和农场到户销售，帮助种植者规划、监控和赚钱。"
+    },
+    {
+      "id": "799",
+      "slug": "dieting",
+      "name": "节食",
+      "description": "通过人工智能计划膳食、记录食物并跟踪营养的节食工具。应用程序减少浪费、定制卡路里并指导家庭厨师和健康书呆子的寿命。"
+    },
+    {
+      "id": "798",
+      "slug": "nutrition",
+      "name": "营养",
+      "description": "营养工具可记录膳食、计划菜单、分析补充剂并使饮食适合过敏或禁食。非常适合注重健康的用户、家庭厨师和学习者。"
+    },
+    {
+      "id": "797",
+      "slug": "alcohol",
+      "name": "醇",
+      "description": "探索酒精工具：AR混合指南，配方生成器，派对游戏，ABV计算器，以及为家庭调酒师和新饮酒者提供的清醒挑战。"
+    },
+    {
+      "id": "796",
+      "slug": "dining",
+      "name": "用餐",
+      "description": "餐饮涵盖烹饪、外出就餐和接待：计划膳食、抢餐桌、分摊账单、聘请厨师、跟踪零食、运送食物和经营餐厅的工具。"
+    },
+    {
+      "id": "795",
+      "slug": "credit-card",
+      "name": "信用卡",
+      "description": "探索可以发行卡、跟踪费用并加速商业支出、旅行积分、现金返还和消费信贷的奖励的信用卡工具。"
+    },
+    {
+      "id": "794",
+      "slug": "banking",
+      "name": "银行",
+      "description": "银行业务意味着为初创公司、自由职业者、夫妇和加密货币用户接受付款、运行账户、增加储蓄以及发送跨境转账的服务。"
+    },
+    {
+      "id": "793",
+      "slug": "budgeting",
+      "name": "预算编制",
+      "description": "预算整合了跟踪支出、计划旅行、预测业务现金流、自动合规以及为个人和中小企业构建的安全银行业务的应用程序。"
+    },
+    {
+      "id": "792",
+      "slug": "personal-finance",
+      "name": "个人理财",
+      "description": "个人理财工具可帮助您赚取、跟踪和增长资金：针对个人、创作者和初创公司的预算、银行业务、股权、支付和社会投资。"
+    },
+    {
+      "id": "791",
+      "slug": "fundraising",
+      "name": "筹款",
+      "description": "创始人的筹款工具：管理股权、银行和法律文档，通过热情的介绍寻找投资者，与分析分享推介文件，并指导甲板。"
+    },
+    {
+      "id": "790",
+      "slug": "mixed-reality",
+      "name": "混合现实",
+      "description": "混合现实（MR）将数字内容与现实生活融为一体。这些工具为创作者、品牌、健身和教育构建、流媒体和玩AR/VR体验。"
+    },
+    {
+      "id": "789",
+      "slug": "live-events",
+      "name": "现场活动",
+      "description": "Live Events收集工具来主持流媒体、吸引观众和安排时间-从24/7广播到表情符号反馈、可购物流媒体、音乐ID和演出促销。"
+    },
+    {
+      "id": "788",
+      "slug": "ticketing",
+      "name": "票务",
+      "description": "票务工具涵盖活动销售和支持订单-销售座位、管理预订和路线请求。预计表格、付款、Discord/HR关系、NFT、搜索API。"
+    },
+    {
+      "id": "787",
+      "slug": "sporting-events",
+      "name": "体育赛事",
+      "description": "体育赛事工具，可在现场和在线上规划、绘制地图、售票和举办比赛。适合需要时间表、更新的组织者、教练、俱乐部和游戏玩家。"
+    },
+    {
+      "id": "786",
+      "slug": "theater",
+      "name": "剧院",
+      "description": "为舞台提供动力的戏剧工具：更快地编写剧本、用提示排练即兴表演以及管理活动和票务。适合剧作家、演员、组织者。"
+    },
+    {
+      "id": "785",
+      "slug": "concerts",
+      "name": "音乐会",
+      "description": "音乐会涵盖查找歌曲、跟踪艺术家、计划节日、比较门票的工具。更智能地在线或虚拟地发现演出、管理活动并抢占座位。"
+    },
+    {
+      "id": "784",
+      "slug": "memes",
+      "name": "模因",
+      "description": "模因是一口大小的笑话和反应。该中心涵盖人工智能制作者、声音片段、搜索、货币化--供创作者和营销人员创建、查找、分享的工具"
+    },
+    {
+      "id": "783",
+      "slug": "pop-culture",
+      "name": "流行文化",
+      "description": "这里的流行文化意味着我们用日常应用程序交换的共享故事、游戏和视觉效果，以换取琐事、引言、发球台、塔罗牌、图像编辑、趋势和身份洞察。"
+    },
+    {
+      "id": "782",
+      "slug": "online-learning",
+      "name": "在线学习",
+      "description": "在线学习通过网络工具提供技能：人工智能导师、队列课程、发现引擎和知识中心，帮助专业人士和学生进行研究和创造。"
+    },
+    {
+      "id": "781",
+      "slug": "school",
+      "name": "学校",
+      "description": "支持学习、教学和生活的学校选择：人工智能笔记、考试准备、大学指导、家庭学校提示、焦点工具和协作地图。"
+    },
+    {
+      "id": "780",
+      "slug": "hacking",
+      "name": "黑客",
+      "description": "道德安全工具可测试应用程序和网络、运行错误赏金、审计SSH密钥、揭示数据暴露以及将团队与经过审查的专家和人工智能扫描联系起来。"
+    },
+    {
+      "id": "779",
+      "slug": "development-language",
+      "name": "开发语言",
+      "description": "探索构建和学习编码背后的堆栈：Web框架、Web 3基础设施、人工智能助手、CSS工具、设计编码、课程和面试实践"
+    },
+    {
+      "id": "778",
+      "slug": "sdk",
+      "name": "SDK",
+      "description": "SDK捆绑了API和工具来快速构建应用程序;这些选择涵盖了托管，AI，auth，实时协作，语音和数据，供开发人员发布现代Web。"
+    },
+    {
+      "id": "777",
+      "slug": "change-management",
+      "name": "变更管理",
+      "description": "变更管理协调人员、工具和政策，以便顺利更新土地。这些选择大规模处理反馈、工作流程、基础设施、招聘和团队习惯"
+    },
+    {
+      "id": "776",
+      "slug": "statistical-analysis",
+      "name": "统计分析",
+      "description": "这里的统计分析工具将原始点击、聊天、谜题和调查转化为分析师和PM的趋势-仪表板、基准、更明智的决策。"
+    },
+    {
+      "id": "775",
+      "slug": "data-visualization",
+      "name": "数据可视化",
+      "description": "数据可视化将指标转化为产品、网络和销售数据的图表和仪表板，涵盖行为、发布、保留和隐私优先报告。"
+    },
+    {
+      "id": "774",
+      "slug": "business-intelligence",
+      "name": "商业智能",
+      "description": "商业智能（BI）工具将公司数据转化为分析师、SaaS团队、销售和支持的跨分析、仪表板和人工智能驱动的操作。"
+    },
+    {
+      "id": "773",
+      "slug": "data-science",
+      "name": "数据科学",
+      "description": "数据科学将原始数据转化为决策。这些工具涵盖分析、人工智能应用程序、仪表板、隐私优先构建以及分析师和工程师的验证。"
+    },
+    {
+      "id": "772",
+      "slug": "database",
+      "name": "数据库",
+      "description": "一个数据库中心，供应用程序存储、同步、查询和保护数据覆盖无服务器PostGER、载体搜索、ORM、无/低代码构建器和边缘交付。"
+    },
+    {
+      "id": "771",
+      "slug": "data",
+      "name": "数据",
+      "description": "收集、分析、移动和保护信息的数据工具-涵盖分析、人工智能、无服务器商店、CDC、集成和隐私-适合PM、开发人员、营销人员"
+    },
+    {
+      "id": "770",
+      "slug": "monetization",
+      "name": "货币化",
+      "description": "货币化工具将内容和软件转化为收入：时事通讯、赞助商、付费墙、会员资格以及创作者、品牌和SaaS团队的使用计费。"
+    },
+    {
+      "id": "769",
+      "slug": "crm",
+      "name": "CRM",
+      "description": "CRM工具集中联系人，自动化销售，营销和支持，同步电子邮件，LinkedIn和WhatsApp以跟踪管道并提高保留率。"
+    },
+    {
+      "id": "768",
+      "slug": "human-resources",
+      "name": "人力资源",
+      "description": "这里的人力资源工具涵盖招聘、薪资、合规、反馈、培训和支付支持全球团队、远程工作和视频引导的入职。加上承包商。"
+    },
+    {
+      "id": "767",
+      "slug": "construction",
+      "name": "建设",
+      "description": "建筑工具从蓝图到建筑：测量空间，离线地图，注释计划，估计成本，管理工作，并找到预制房屋。"
+    },
+    {
+      "id": "766",
+      "slug": "consulting",
+      "name": "咨询",
+      "description": "咨询小组为创始人和团队提供专家建议、实时或跨行业SEO审计、开发支持、人工智能工作流程、战略视觉效果以及网络工具"
+    },
+    {
+      "id": "765",
+      "slug": "operations",
+      "name": "操作",
+      "description": "运营工具简化了业务的运营方式：自动化工作流程、财务和法律、培训团队、管理会议、资产以及将数据转化为KPI洞察。"
+    },
+    {
+      "id": "764",
+      "slug": "accounting",
+      "name": "会计",
+      "description": "为初创公司、中小企业自动化簿记、计费、税收和报告的会计工具。包括AI分类、银行/Stripe同步、账单OCR、工作流程。"
+    },
+    {
+      "id": "763",
+      "slug": "coding-books",
+      "name": "程序设计图书",
+      "description": "通过适合孩子到专业人士的书籍、指南、互动工具和游戏学习编码。构建JavaScript、SQL、React应用程序、调试、后台和数据库技能。"
+    },
+    {
+      "id": "762",
+      "slug": "textbooks",
+      "name": "教科书",
+      "description": "这里的教科书涵盖安全课程材料、编码课程、人工智能导师和教学、保护内容并帮助学生和教育工作者学习的考试准备工具。"
+    },
+    {
+      "id": "761",
+      "slug": "business-books",
+      "name": "商业书籍",
+      "description": "商业书籍通过工具和指南展示了实际战略：CRM、支持收件箱、研究中心、营销见解、电子商务、为创始人策划的读物。"
+    },
+    {
+      "id": "760",
+      "slug": "defi",
+      "name": "DeFi",
+      "description": "DeFi让您像货币市场一样使用加密货币。这种组合涵盖了赌注收益率、DEC分析、钱包和安全性、人工智能投资组合工具、开发基础设施和链上身份。"
+    },
+    {
+      "id": "759",
+      "slug": "blockchain",
+      "name": "区块链",
+      "description": "区块链意味着去中心化的应用程序和资产。这些工具帮助您构建、浏览、分析和发展Web 3-跨开发、基础设施、钱包、身份、社区。"
+    },
+    {
+      "id": "758",
+      "slug": "cryptocurrency",
+      "name": "加密货币",
+      "description": "加密货币工具帮助接受支付、跟踪市场、通过API进行交易、管理NFT、启用ID并增加为交易员、创作者和企业打造的受众。"
+    },
+    {
+      "id": "757",
+      "slug": "dapp",
+      "name": "dApp",
+      "description": "去中心化应用程序是我们今天使用的应用程序的点对点表兄弟。当您不希望您的数据被单一公司锁定时，请查看这些基于区块链的替代方案，以赋予您对信息的所有权。 "
+    },
+    {
+      "id": "756",
+      "slug": "dao",
+      "name": "道",
+      "description": "去中心化的自治组织正在召集人们自我组织并以更开放的方式实现目标"
+    },
+    {
+      "id": "755",
+      "slug": "bitcoin",
+      "name": "比特币",
+      "description": "让您购买、储蓄、消费、赚取和跟踪的比特币工具：钱包、BCA应用程序、奖励卡、市场数据、游戏和聊天技巧-专为新人和专业人士打造。"
+    },
+    {
+      "id": "754",
+      "slug": "ethereum",
+      "name": "以太坊",
+      "description": "以太坊为可编程货币提供动力。这些工具可以帮助您管理ETH、以收益率为赌注、查找dApp、启动NFT、部署为创作者和交易员构建的合同。"
+    },
+    {
+      "id": "753",
+      "slug": "clothing",
+      "name": "服装",
+      "description": "探索服装工具和平台：利用人工智能设计、服装团队、获得优质优惠、支持更好的姿势、3D试穿以及调查购物者的合身度。"
+    },
+    {
+      "id": "752",
+      "slug": "cosmetics",
+      "name": "化妆品",
+      "description": "化妆品工具可帮助您选择和个性化化妆品--成分扫描仪、创作者精选和气味匹配器--适合初学者、爱好者和专业人士。"
+    },
+    {
+      "id": "751",
+      "slug": "streetwear",
+      "name": "街头服饰",
+      "description": "街头服饰融合了时尚、艺术和创作者文化。这些工具和市场帮助设计、展示和在线向粉丝销售定制服装和运动鞋。"
+    },
+    {
+      "id": "749",
+      "slug": "hip-hop",
+      "name": "嘻哈",
+      "description": "嘻哈音乐关乎节奏、文字游戏和影响力。这些选择帮助MC制定更紧凑的诗句，并帮助营销人员跟踪营销活动、构建应用程序并扩大受众。"
+    },
+    {
+      "id": "748",
+      "slug": "comedy",
+      "name": "喜剧",
+      "description": "喜剧在这里意味着激发笑声和社交游戏的工具-浏览模因、笑话和人工智能烘焙，制作恶作剧创意和有趣的礼物，并吸引观众。"
+    },
+    {
+      "id": "747",
+      "slug": "classical-music",
+      "name": "古典音乐",
+      "description": "探索古典音乐工具，帮助您练习、作曲、流媒体表演、测试琐事以及共享服务学生、教育工作者、表演者和歌迷。"
+    },
+    {
+      "id": "746",
+      "slug": "concert",
+      "name": "音乐会",
+      "description": "探索现场音乐活动的工具：它们集中阵容、实时更新并制定个人服务-非常适合音乐节观众、组织者和粉丝。"
+    },
+    {
+      "id": "745",
+      "slug": "tuning",
+      "name": "调谐",
+      "description": "这里的调音意味着优化音频创作和播放。工具清理噪音，修复音高，构建网站播放器，流站，并为创作者生成SFX。"
+    },
+    {
+      "id": "744",
+      "slug": "radio",
+      "name": "无线电",
+      "description": "这里的广播意味着流媒体音频：直播站、播客、焦点节拍和创作者工具。它适合听众、远程工作人员和直播节目主持人。"
+    },
+    {
+      "id": "743",
+      "slug": "live-music",
+      "name": "现场音乐",
+      "description": "现场音乐意味着您参加的表演;这些工具可以帮助您查找演出、比较门票、计划节日、发现艺术家、直播广播并结识音乐家。"
+    },
+    {
+      "id": "742",
+      "slug": "electronic-music",
+      "name": "电子音乐",
+      "description": "电子音乐工具可让您创作、排序、生成、发现和共享曲目-从人工智能歌曲制作者和鼓机到播放列表和远程语音实验室。"
+    },
+    {
+      "id": "741",
+      "slug": "calligraphy",
+      "name": "书法",
+      "description": "书法是巧妙的写作。这些工具可以教授剧本、完善笔画、加快笔记、匹配墨水颜色并帮助创作者交易刻字资产。"
+    },
+    {
+      "id": "740",
+      "slug": "video-art",
+      "name": "录像艺术",
+      "description": "视频艺术将人工智能视频创作、化身驱动的叙述和搜索平台结合起来，帮助制作人原型化、本地化和分享电影故事。"
+    },
+    {
+      "id": "739",
+      "slug": "illustration",
+      "name": "图示",
+      "description": "插图涵盖了为UI、网站、幻灯片和广告创建、获取、编辑和销售载体视觉效果的工具，将人工智能、库、UI套件、Figma插件和MoR结合在一起。"
+    },
+    {
+      "id": "738",
+      "slug": "crafting",
+      "name": "制作",
+      "description": "您的制作指南：快速测量数学、爱好发现、DIY视频、3D动画、蜡烛工具、智能标签以及适合初学者和专业人士的规划者。"
+    },
+    {
+      "id": "737",
+      "slug": "modeling",
+      "name": "建模",
+      "description": "建模意味着构建模型-3D、数据或金融。这些工具为设计师、开发人员和分析师创建、渲染、版本、模拟和预测。"
+    },
+    {
+      "id": "736",
+      "slug": "digital-art",
+      "name": "数字艺术",
+      "description": "数字艺术工具涵盖人工智能图像制作者、模型API和创作者商务，帮助艺术家生成视觉效果、自动化工作流程以及销售或资助他们的作品。"
+    },
+    {
+      "id": "735",
+      "slug": "printing",
+      "name": "印刷",
+      "description": "印刷涵盖为创作者和小商店创建、销售和输出可印刷的文档和产品的工具--从贴纸、艺术品到期刊和讲义。"
+    },
+    {
+      "id": "734",
+      "slug": "painting",
+      "name": "绘画",
+      "description": "绘画收集工具和网站来创建，学习和销售艺术：颜色选择器，艺术应用程序，画廊，DIY视频，参考搜索和NFT/物理销售。"
+    },
+    {
+      "id": "733",
+      "slug": "coloring",
+      "name": "着色",
+      "description": "着色跨越了构建和管理调色板以用于设计和品牌生成方案、编辑视觉效果、确保对比度以及为创作者组织资产的工具"
+    },
+    {
+      "id": "732",
+      "slug": "drawing",
+      "name": "绘图",
+      "description": "绘图涵盖数字草图、UI实体模型、人工智能艺术和儿童工作表-这里的工具有助于说明想法、编辑照片、故事板电影和协作。"
+    },
+    {
+      "id": "717",
+      "slug": "social-networking",
+      "name": "社交网络",
+      "description": "社交网络通过聊天、视频、微博、聚会和广告加CRM、匹配和基础设施保护社区将人们、创作者和团队联系起来。"
+    },
+    {
+      "id": "713",
+      "slug": "shopping",
+      "name": "购物",
+      "description": "购物涵盖查找、购买和销售在线商店构建者、市场、愿望清单、奖励附加组件、支持小部件、可购物视频和搜索的工具。"
+    },
+    {
+      "id": "711",
+      "slug": "science",
+      "name": "科学",
+      "description": "科学工具可以帮助您搜索研究、掌握论文、分析模型、打字数学、运行量子代码并发布为研究人员和学生构建的预印本。"
+    },
+    {
+      "id": "692",
+      "slug": "photo-video",
+      "name": "照片和视频",
+      "description": "《照片与视频》涵盖用于制作、编辑和本地化视觉效果和声音的工具-人工智能图像/视频生成、TTC配音、股票资产和搜索创作者。"
+    },
+    {
+      "id": "680",
+      "slug": "nature-outdoors",
+      "name": "自然与户外活动",
+      "description": "Nature & Outdoors提供多种工具，可识别鸟类、绘制小径地图、预订狩猎活动并建立有意识的、可持续的习惯，非常适合徒步旅行者、学生和旅行者。"
+    },
+    {
+      "id": "665",
+      "slug": "lifestyle",
+      "name": "生活方式",
+      "description": "生活方式工具，使生活变得顺畅：计划天气和习惯，日志增长，销售和购物商品，建立社区，并与创作者的AI助手聊天。"
+    },
+    {
+      "id": "659",
+      "slug": "kids-parenting",
+      "name": "孩子与育儿",
+      "description": "儿童和育儿工具，帮助家庭睡眠、阅读、安全、屏幕时间、日常生活、日记和虚构信件-适合父母的实用选择。"
+    },
+    {
+      "id": "624",
+      "slug": "graphics-design",
+      "name": "图形与设计",
+      "description": "图形与设计收集了为社交、广告、应用程序和平台创建、动画、原型和运送视觉效果的工具-人工智能图像生成器、编辑器、库和网站构建器。"
+    },
+    {
+      "id": "617",
+      "slug": "food-drink",
+      "name": "Food & Drink",
+      "description": "食品和饮料工具涵盖食谱查找器、人工智能膳食创意、烹饪机器人、卡路里追踪器和用餐记录，帮助家庭厨师、旅行者计划、烹饪和发现。"
+    },
+    {
+      "id": "611",
+      "slug": "finance",
+      "name": "金融",
+      "description": "你不必成为一名会计师来处理自己的数字。这些财务应用程序是完美的计数伴侣，还有更多！ "
+    },
+    {
+      "id": "609",
+      "slug": "extended-reality",
+      "name": "延展实境",
+      "description": "延展实境融合AR/VR，将数字内容分层到真实地点，为城市旅游、虚拟宠物、培训、购物、旅行指南和正念健康提供动力。"
+    },
+    {
+      "id": "600",
+      "slug": "entertainment",
+      "name": "娱乐",
+      "description": "这一类别捆绑了令人着迷的东西：点播视频、创作者中心、人工智能媒体制作者、模因游戏、旅行讲故事、角色扮演和互动学习。"
+    },
+    {
+      "id": "589",
+      "slug": "development",
+      "name": "发展",
+      "description": "开发涵盖设计、编码、测试和部署应用程序的工具--UI设计、组件、repos/CI、后台、托管和AI代理--以扩展原型。"
+    },
+    {
+      "id": "582",
+      "slug": "data-analytics",
+      "name": "Data & Analytics",
+      "description": "深入挖掘重要的见解。这些方便的数据和分析应用程序是您取得成功所需的一切。   "
+    },
+    {
+      "id": "570",
+      "slug": "business",
+      "name": "业务",
+      "description": "帮助创始人研究、推出、销售和规模覆盖搜索、融资、电子邮件增长、日程安排、社区、人工智能视频、产品见解的业务工具。"
+    },
+    {
+      "id": "553",
+      "slug": "beauty-fashion",
+      "name": "美容与时尚",
+      "description": "美容和时尚工具，为您打造风格、发展品牌和组织想法。从虚拟造型师和面部健身到创作者链接、调查和道德购物。"
+    },
+    {
+      "id": "501",
+      "slug": "web3",
+      "name": "Web3",
+      "description": "区块链是游戏的名称。利用金融、游戏、社交媒体等领域的最佳Web 3应用程序探索新去中心化网络的可能性！"
+    },
+    {
+      "id": "472",
+      "slug": "diversity-inclusion",
+      "name": "Diversity & Inclusion",
+      "description": "当每个人的声音都被听到时，我们会成长得更快。这些产品可以一路提供帮助。"
+    },
+    {
+      "id": "471",
+      "slug": "audio",
+      "name": "音频",
+      "description": "音频涵盖流媒体音乐/播客、语音通话和人工智能语音工具--TTC、STT、配音、语音代理--以及托管、扩展和集成的平台。"
+    },
+    {
+      "id": "470",
+      "slug": "no-code",
+      "name": "无代码",
+      "description": "没有编码技能？没问题！探索这些无代码应用程序并增强您的创造力 "
+    },
+    {
+      "id": "469",
+      "slug": "social-impact",
+      "name": "社会影响",
+      "description": "我们转向这些产品是为了对我们的世界充满希望。😊"
+    },
+    {
+      "id": "468",
+      "slug": "remote-work",
+      "name": "远程工作",
+      "description": "无论您是在沙发上、热带海滩上还是在山坡上，都可以在这里找到一些偏远的丛林。"
+    },
+    {
+      "id": "435",
+      "slug": "femtech",
+      "name": "FemTech",
+      "description": "让我们关注女性;生育解决方案、经期跟踪应用程序、怀孕和护理、女性性健康、生殖系统医疗保健等。"
+    },
+    {
+      "id": "402",
+      "slug": "growth-hacks",
+      "name": "增长黑客 ",
+      "description": "增长黑客揭秘：SaaS和初创公司的工具--数据管道、电子邮件自动化、社会证明、影响者、启动--来获取、转化和留住用户。"
+    },
+    {
+      "id": "375",
+      "slug": "startup-lessons",
+      "name": "创业课程",
+      "description": "推出你的MVP，与你的客户交谈，诸如此类的事情。"
+    },
+    {
+      "id": "374",
+      "slug": "money",
+      "name": "钱",
+      "description": "帮助企业获得报酬、在线银行、控制支出和处理税务的理财工具。选择涵盖支付、初创银行业务、卡和团队计费。"
+    },
+    {
+      "id": "373",
+      "slug": "work-in-progress",
+      "name": "正在进行的工作 ",
+      "description": "这个“正在进行中”主题策划了将想法转化为成果的工具：构建应用程序和网站、调查用户、编辑视频、招募人才、资助和启动。"
+    },
+    {
+      "id": "372",
+      "slug": "side-project",
+      "name": "业余项目",
+      "description": "副业项目是自我启动的企业。这些工具可以帮助您规划任务、编码、研究、带反馈启动、雇用人才、展示工作并从粉丝中获利。"
+    },
+    {
+      "id": "371",
+      "slug": "maker-tools",
+      "name": "Maker的工具",
+      "description": "更快地构建、启动和发货：规划、托管、自动化、销售、收集证据、记录更新、被发现。适合独立开发者、初创公司和具有人工智能的创作者。"
+    },
+    {
+      "id": "366",
+      "slug": "medical",
+      "name": "医疗",
+      "description": "智能电器和技术革命了医学和医疗保健"
+    },
+    {
+      "id": "365",
+      "slug": "cannabis",
+      "name": "大麻",
+      "description": "大麻是新型酒精。随着合法化席卷全美50个州，一波初创公司正在推出，帮助您享受合法化。"
+    },
+    {
+      "id": "364",
+      "slug": "quantified-self",
+      "name": "量化自我",
+      "description": "生活记录详细数据可以帮助做出更好的选择"
+    },
+    {
+      "id": "363",
+      "slug": "arkit",
+      "name": "ARKit",
+      "description": "为iOS创建增强现实体验的框架"
+    },
+    {
+      "id": "362",
+      "slug": "apple",
+      "name": "苹果",
+      "description": "来自世界上最大的收件箱的每一款新i设备、应用程序和计算机。"
+    },
+    {
+      "id": "361",
+      "slug": "search",
+      "name": "搜索",
+      "description": "从搜索、电子邮件、视频到人工智能，自动驾驶汽车和VR，谷歌都做到了。不要错过Google团队的最新产品、项目和资源。🌏"
+    },
+    {
+      "id": "359",
+      "slug": "wallpaper",
+      "name": "壁纸",
+      "description": "用一切事物来美化和装饰您的所有屏幕，从山上的日落到鹅卵石的艺术照片"
+    },
+    {
+      "id": "358",
+      "slug": "home-automation",
+      "name": "家庭自动化",
+      "description": "好的谷歌！您可以做哪些了不起的事情？"
+    },
+    {
+      "id": "357",
+      "slug": "alexa-skills",
+      "name": "Alexa技能",
+      "description": "🗣Alexa，你能做什么了不起的事情？"
+    },
+    {
+      "id": "356",
+      "slug": "touch-bar-apps",
+      "name": "触摸栏应用程序",
+      "description": "Apps built for Apple's new Touch Bar 👇"
+    },
+    {
+      "id": "355",
+      "slug": "vacation",
+      "name": "度假",
+      "description": "环游世界并体验一个就像您居住在那里一样的地方。"
+    },
+    {
+      "id": "354",
+      "slug": "books",
+      "name": "书",
+      "description": "没有什么比一本好书更好的了。扩展您的知识，或者通过一次伟大的冒险来放松身心。"
+    },
+    {
+      "id": "353",
+      "slug": "games",
+      "name": "游戏",
+      "description": "找到一些新的、令人兴奋的东西在家或旅途中玩。工作可以等待。玩得开心点。"
+    },
+    {
+      "id": "352",
+      "slug": "tech",
+      "name": "科技",
+      "description": "硬件或软件。发明或创新。如果有人正在推动技术发展，您会在这里找到它。"
+    },
+    {
+      "id": "351",
+      "slug": "imessage-apps",
+      "name": "iMessage应用程序",
+      "description": "iOS 10中的新功能应用程序与iPhone上的消息传递集成，可以轻松创建和共享内容、添加贴纸、支付等，而无需离开对话。 "
+    },
+    {
+      "id": "349",
+      "slug": "climate-tech",
+      "name": "气候技术",
+      "description": "让世界变得更清洁"
+    },
+    {
+      "id": "348",
+      "slug": "pokemon",
+      "name": "Pokemon",
+      "description": "必须把他们全部抓住。必须支持你最喜欢的。"
+    },
+    {
+      "id": "346",
+      "slug": "facebook-messenger",
+      "name": "Facebook Messenger",
+      "description": "Facebook Messenger工具将聊天连接到CRM、帮助台、聊天机器人和表单。自动化支持、捕获潜在客户、安排帖子、统一客户对话"
+    },
+    {
+      "id": "345",
+      "slug": "outdoors",
+      "name": "户外",
+      "description": "户外意味着门外的时间：应用程序可以规划路线、寻找小径和露营地、租赁装备、挑选海滩、线下导航、扩展Wi-Fi、审查新装备创意。"
+    },
+    {
+      "id": "343",
+      "slug": "linkedin",
+      "name": "LinkedIn",
+      "description": "其中最专业的网络不仅仅是网站。以下是在该平台上构建的各种应用程序和黑客行为。"
+    },
+    {
+      "id": "342",
+      "slug": "bots",
+      "name": "机器人",
+      "description": "有一个机器人几乎可以满足所有功能，从餐厅推荐到猫GIF。 哔声"
+    },
+    {
+      "id": "341",
+      "slug": "medium",
+      "name": "介质",
+      "description": "所有东西都中等。让您的写作体验更好的工具、插入Medium API等！"
+    },
+    {
+      "id": "308",
+      "slug": "maps",
+      "name": "地图",
+      "description": "有一张地图适合那个收件箱"
+    },
+    {
+      "id": "307",
+      "slug": "star-wars",
+      "name": "星球大战",
+      "description": "绝地、机器人、冲锋队等等。你会喜欢这些产品的。"
+    },
+    {
+      "id": "303",
+      "slug": "menu-bar-apps",
+      "name": "菜单栏应用程序",
+      "description": "微型应用程序可以做神奇的事情，并存在于您的OS X菜单栏中。把它们全部收集起来！"
+    },
+    {
+      "id": "283",
+      "slug": "reddit",
+      "name": "Reddit",
+      "description": "互联网头版"
+    },
+    {
+      "id": "282",
+      "slug": "virtual-assistants",
+      "name": "虚拟助手",
+      "description": "我们都可以使用私人助理。通过这些有用的服务，减轻您的待办事项清单并节省时间。"
+    },
+    {
+      "id": "280",
+      "slug": "snapchat",
+      "name": "Snapchat",
+      "description": "最热门的“新”短暂社交网络不仅仅用于自拍。关注ProductHuntTeam。👻"
+    },
+    {
+      "id": "279",
+      "slug": "youtube",
+      "name": "YouTube",
+      "description": "观看猫（以及互联网上的其他一切）的地方。以下是一些对YouTube更好的应用程序和网站。"
+    },
+    {
+      "id": "278",
+      "slug": "e-commerce",
+      "name": "电商",
+      "description": "利用最好的电子商务应用程序进行价格比较、现金流管理和销售增长，促进您的业务或在家购物。喀青！"
+    },
+    {
+      "id": "277",
+      "slug": "delivery",
+      "name": "递送",
+      "description": "在我们实现传送之前，这是从A点到B点获取任何东西的最佳选择📦"
+    },
+    {
+      "id": "276",
+      "slug": "product-hunt",
+      "name": "Product Hunt",
+      "description": "发现你下一个最爱的地方。寻找产品，寻找灵感，或与我们一起建造。我们的社区已经使用我们的API创建了大量优秀的网站、扩展和应用程序。"
+    },
+    {
+      "id": "275",
+      "slug": "on-demand",
+      "name": "按需",
+      "description": "只需点击几下即可获得您想要的东西。别动手指.好吧，也许只要一根手指。"
+    },
+    {
+      "id": "274",
+      "slug": "wi-fi",
+      "name": "Wi-Fi",
+      "description": "如今这是必需品。有很多有用的产品可以帮助您24/7保持联系。（另附与飞机打得不太好……还没有）"
+    },
+    {
+      "id": "273",
+      "slug": "donald-trump",
+      "name": "唐纳德·特朗普",
+      "description": "政治家、商人、电视名人，还有可能成为下一任美国总统……我们将避免在这里谈论政治。😁"
+    },
+    {
+      "id": "272",
+      "slug": "github",
+      "name": "GitHub",
+      "description": "帮助您编写软件的软件。"
+    },
+    {
+      "id": "271",
+      "slug": "sketch",
+      "name": "草图",
+      "description": "一个原生的Photoshop和Illustrator通常用于设计当今最流行的应用程序和网站。"
+    },
+    {
+      "id": "269",
+      "slug": "augmented-reality",
+      "name": "增强现实",
+      "description": "AR改变世界，有潜力改变我们的生活。"
+    },
+    {
+      "id": "268",
+      "slug": "artificial-intelligence",
+      "name": "人工智能",
+      "description": "Artificial intelligence powers products that can write, reason, analyze data, and take action for you. These categories cover the main ways AI is being built and used today.\n\n- **[AI Agents](https://www.producthunt.com/categories/ai-agents)** – Tools that use AI to plan, reason, and take actions across tools and workflows, often completing multi-step tasks with minimal human input.\n- **[LLMs](https://www.producthunt.com/categories/llms)** – Platforms and tools built around large language models that enable text generation, understanding, and reasoning across many applications.\n- **[AI Infrastructure](https://www.producthunt.com/categories/ai-infrastructure)** – Products that support training, deploying, scaling, and evaluating AI models, including hosting, inference, data pipelines, and observability.\n- **[AI Chatbots](https://www.producthunt.com/categories/ai-chatbots)** – Applications that use AI to power conversational experiences for support, productivity, research, and user interaction.\n- **[Predictive AI](https://www.producthunt.com/categories/predictive-ai)** – AI-powered tools that analyze data to forecast outcomes, detect patterns, and support decision-making."
+    },
+    {
+      "id": "267",
+      "slug": "developer-tools",
+      "name": "开发者工具",
+      "description": "帮助您编写软件的软件。"
+    },
+    {
+      "id": "266",
+      "slug": "streaming-services",
+      "name": "Streaming Services",
+      "description": "有各种各样的应用程序可以“Netflix和放松”（字面意义上）并改善您的电视/电影流媒体体验。"
+    },
+    {
+      "id": "265",
+      "slug": "kanye-west",
+      "name": "Kanye West",
+      "description": "耶，耶兹，耶祖斯，巴勃罗……我会让你完成，但这些是有史以来最好的产品之一。"
+    },
+    {
+      "id": "264",
+      "slug": "biohacking",
+      "name": "生物黑客",
+      "description": "生物技术是一个迷人的领域，科学家和创新者操纵生命系统来改善我们的运作方式。"
+    },
+    {
+      "id": "261",
+      "slug": "wearables",
+      "name": "穿戴设备",
+      "description": "从狗项圈到手表，一切都有可穿戴技术。现在衡量新年决心的进展（或缺乏）比以往任何时候都更容易。😁"
+    },
+    {
+      "id": "260",
+      "slug": "drake",
+      "name": "德雷克",
+      "description": "上帝的计划让您偶然发现这些Way 2 Sexy产品。😉"
+    },
+    {
+      "id": "259",
+      "slug": "legal",
+      "name": "法律",
+      "description": "他们陈述了自己的情况。现在您来评判这些法律应用程序和服务。"
+    },
+    {
+      "id": "258",
+      "slug": "transportation",
+      "name": "运输",
+      "description": "不幸的是，我们仍然无法传送，但至少有应用程序可以帮助我们找到最有效的路线并带我们到达那里。"
+    },
+    {
+      "id": "256",
+      "slug": "calendar",
+      "name": "日历",
+      "description": "日历乒乓球是一项糟糕的运动。这些应用程序和服务可以帮助您管理日程并为您节省大量时间。"
+    },
+    {
+      "id": "254",
+      "slug": "coffee",
+      "name": "咖啡",
+      "description": "不是面向对象的那种Java。☕️"
+    },
+    {
+      "id": "253",
+      "slug": "tv",
+      "name": "电视",
+      "description": "如今，剪线器有很多选择。疯狂观看最新的Netflix原创剧集或观看YouTube上无尽的猫视频系列。最大的挑战是决定看什么。这些应用程序和网站可以提供帮助。📺"
+    },
+    {
+      "id": "252",
+      "slug": "meetings",
+      "name": "会议",
+      "description": "欢迎进入成年，会议是不可避免的。只需确保您使用正确的工具来安排和运行富有成效的会议即可。"
+    },
+    {
+      "id": "251",
+      "slug": "photography",
+      "name": "摄影",
+      "description": "无论您是Instagram名人还是摄影爱好者，都有很多应用程序和产品可以让自拍照或延时日出变得更加美丽。📷"
+    },
+    {
+      "id": "250",
+      "slug": "travel",
+      "name": "旅行",
+      "description": "有很多地方值得一看。从海滩到山脉，探索世界并满足您内心的奇妙欲望"
+    },
+    {
+      "id": "249",
+      "slug": "global-nomad",
+      "name": "全球游牧者",
+      "description": "并非所有流浪者都迷失了方向。有些人背着家旅行，在世界各地的城市生活和工作。🌍现在有一些网站可以帮助游牧民彼此见面、预订住宿地点，最重要的是，可以找到免费WiFi。"
+    },
+    {
+      "id": "248",
+      "slug": "privacy",
+      "name": "隐私",
+      "description": "你不必戴锡纸帽子来躲避国家安全局。有这样的应用程序。"
+    },
+    {
+      "id": "247",
+      "slug": "software-engineering",
+      "name": "软件工程",
+      "description": "帮助您编写软件的软件。"
+    },
+    {
+      "id": "246",
+      "slug": "emulators",
+      "name": "仿真器",
+      "description": "想玩你儿时最喜欢的游戏吗？但在家庭车库拍卖会上放弃了你的旧雅达利？好在有一个模拟器来实现这一目标。"
+    },
+    {
+      "id": "243",
+      "slug": "website-builder",
+      "name": "网站建设者",
+      "description": "无需一行代码即可构建和设计您自己的美丽网站。"
+    },
+    {
+      "id": "242",
+      "slug": "wordpress",
+      "name": "WordPress",
+      "description": "您可能每天都在使用的内容管理系统，而您甚至不知道。整个互联网的25%都是WordPress的支持者。那是很多互联网。"
+    },
+    {
+      "id": "237",
+      "slug": "saas",
+      "name": "SaaS",
+      "description": "软件正在吞噬世界。我们已经把罪魁祸首集中在这里了。"
+    },
+    {
+      "id": "232",
+      "slug": "internet-of-things",
+      "name": "物联网",
+      "description": "将一切都连接到互联网，从您的家庭照明到连接的浓缩咖啡。谢谢你煮咖啡，贾维斯。"
+    },
+    {
+      "id": "231",
+      "slug": "seo",
+      "name": "SEO",
+      "description": "谷歌搜索的第一页非常重要，因为，让我们面对现实吧，谁真正进入了第二页？通过实施其中一些技巧、技巧和工具来提高您的可见性、提高您的排名并获得更多访问者。 "
+    },
+    {
+      "id": "230",
+      "slug": "crowdfunding",
+      "name": "众筹",
+      "description": "每一点都有帮助。当您寻找收件箱时，这些众筹工具也是如此。"
+    },
+    {
+      "id": "228",
+      "slug": "beauty",
+      "name": "美容",
+      "description": "华丽、华丽的人们在这里分享他们最喜欢的美容产品。"
+    },
+    {
+      "id": "227",
+      "slug": "space",
+      "name": "空间",
+      "description": "从舒适的VR头显探索新的星系，或通过科幻书升空进入太空。答：答案是42。✨"
+    },
+    {
+      "id": "226",
+      "slug": "djing",
+      "name": "DJing",
+      "description": "把低音调大点！为自己找一个展位并从以下方面获得一些帮助："
+    },
+    {
+      "id": "224",
+      "slug": "baseball",
+      "name": "棒球",
+      "description": "拿起你的花生和饼干，是时候深入研究世界上最受欢迎（和怀旧）的运动之一了。⚾️"
+    },
+    {
+      "id": "223",
+      "slug": "party",
+      "name": "党",
+      "description": "获取您的朋友收件箱和您最好的播放列表收件箱。放松点！🎉"
+    },
+    {
+      "id": "221",
+      "slug": "comics-graphic-novels",
+      "name": "漫画和图画小说",
+      "description": "当整个多元宇宙出现在您的源中时。漫画也是。😍"
+    },
+    {
+      "id": "220",
+      "slug": "boxing",
+      "name": "拳击",
+      "description": "戴上iPunch智能手套，练习右钩拳，或者开始玩《Real Boxing 2 CREED》等手机游戏。像蝴蝶一样漂浮，像蜜蜂一样蜇人。👊"
+    },
+    {
+      "id": "219",
+      "slug": "swimming",
+      "name": "游泳",
+      "description": "穿上你的泳裤，掌握正确的技术，像职业选手一样翻滚.或者只是狗桨。"
+    },
+    {
+      "id": "218",
+      "slug": "skateboarding",
+      "name": "滑板",
+      "description": "你可能还不是托尼·霍克（还没有！）但您仍然可以在Krak上分享踢腿照片，并乘坐电动Boosted Board去上班。"
+    },
+    {
+      "id": "217",
+      "slug": "couples",
+      "name": "夫妇",
+      "description": "与你的男友私下沟通和分享你的爱。😘"
+    },
+    {
+      "id": "214",
+      "slug": "photoshop",
+      "name": "Photoshop",
+      "description": "为命名图层的人提供的工具。好吧-还有那些不喜欢的人"
+    },
+    {
+      "id": "213",
+      "slug": "text-editors",
+      "name": "文本编辑器",
+      "description": "当便利贴不再有效时，请使用这些来编辑您写下的所有内容。"
+    },
+    {
+      "id": "212",
+      "slug": "crypto",
+      "name": "加密",
+      "description": "比特币、莱特币、狗狗币。加密货币有能力改变我们的交易方式等等。"
+    },
+    {
+      "id": "211",
+      "slug": "batteries",
+      "name": "电池",
+      "description": "低电池焦虑症是第一世界最严重的问题。以下是一些外部电池和产品，可以让您的设备充满电。🔋"
+    },
+    {
+      "id": "210",
+      "slug": "accessories",
+      "name": "配件",
+      "description": "没有什么比手机屏幕破裂更糟糕的了，但保护套的作用不仅仅是保护您的手机。Prong全天为手机供电，HandL是无手柄且配有支架，Snoop的打火机保护套配有--你猜对了--打火机。🔥"
+    },
+    {
+      "id": "209",
+      "slug": "languages",
+      "name": "语言",
+      "description": "过来！进来！我来了！内！如果你还不是一个ployglot，那就是“进来”。"
+    },
+    {
+      "id": "208",
+      "slug": "venture-capital",
+      "name": "风险投资",
+      "description": "让我们知道我们可以如何提供帮助。🙃"
+    },
+    {
+      "id": "207",
+      "slug": "advertising",
+      "name": "广告",
+      "description": "得益于广告，我们能够使用如此多的免费服务。利用其中一些工具充分利用您的广告预算并赚取收入。"
+    },
+    {
+      "id": "206",
+      "slug": "growth-hacking",
+      "name": "增长黑客",
+      "description": "我们都在寻找曲棍球棒。这里有一些可能有帮助的事情，但首先请关注这个主题。#成长黑客"
+    },
+    {
+      "id": "205",
+      "slug": "time-tracking",
+      "name": "时间跟踪",
+      "description": "时间总是从我们身边溜走。跟踪您正在做的事情，以便您可以更高效地利用生活中最宝贵的资源。"
+    },
+    {
+      "id": "204",
+      "slug": "education",
+      "name": "教育",
+      "description": "学习、做、教。永远在学习！"
+    },
+    {
+      "id": "203",
+      "slug": "investing",
+      "name": "投资",
+      "description": "这些可能会让您“TO THE MOOOON”按钮"
+    },
+    {
+      "id": "202",
+      "slug": "novels",
+      "name": "小说",
+      "description": "打开你的想象力，沉浸在一个好故事中。"
+    },
+    {
+      "id": "199",
+      "slug": "pets",
+      "name": "宠物",
+      "description": "你的新好朋友不会顶嘴（因为他们不是人类）。"
+    },
+    {
+      "id": "198",
+      "slug": "cats",
+      "name": "猫",
+      "description": "互联网上最喜欢的动物。喵！😸"
+    },
+    {
+      "id": "194",
+      "slug": "thriller-books",
+      "name": "惊悚书籍",
+      "description": "翻页器会扭曲和翻转，让我们坐在座位的边缘。"
+    },
+    {
+      "id": "193",
+      "slug": "horror-books",
+      "name": "恐怖书籍",
+      "description": "打开夜灯，蜷缩在一本可怕的小说中。"
+    },
+    {
+      "id": "182",
+      "slug": "science-books",
+      "name": "科学小丛书",
+      "description": "我们读过一次这本关于氦的书。我们爱不释手。"
+    },
+    {
+      "id": "181",
+      "slug": "fashion-books",
+      "name": "时尚书籍",
+      "description": "Anna Wintour会为您的时尚悟性感到自豪。阅读您的方式，获得精彩的外观。"
+    },
+    {
+      "id": "180",
+      "slug": "yoga-books",
+      "name": "瑜伽书籍",
+      "description": "使用这些书中分享的技巧找到你内心的禅宗（并获得良好的锻炼）。"
+    },
+    {
+      "id": "179",
+      "slug": "design-books",
+      "name": "设计书籍",
+      "description": "成为下一个乔尼·艾维很难，但这些是一个很好的开始。"
+    },
+    {
+      "id": "178",
+      "slug": "startup-books",
+      "name": "创业书籍",
+      "description": "一些创始人和初创人士认为你可以从这些书中学习。"
+    },
+    {
+      "id": "177",
+      "slug": "crime-books",
+      "name": "犯罪书籍",
+      "description": "不离开床，就变成夏洛克·福尔摩斯。拿起一本书，看看能否在最后一章之前破案。"
+    },
+    {
+      "id": "176",
+      "slug": "cooking",
+      "name": "烹饪",
+      "description": "将原料变成美味佳肴，为您的家人和朋友提供。就像魔法一样。"
+    },
+    {
+      "id": "175",
+      "slug": "art-books",
+      "name": "艺术书籍",
+      "description": "如果您只是为了咖啡桌购买这些，请保证不会评判您。"
+    },
+    {
+      "id": "174",
+      "slug": "cookbooks",
+      "name": "烹饪书",
+      "description": "已经掌握了法国烹饪的艺术吗？！尝尝这些，厨师。"
+    },
+    {
+      "id": "173",
+      "slug": "history-books",
+      "name": "历史书",
+      "description": "多了解过去，因为过去会重演，所以你最好做好准备。"
+    },
+    {
+      "id": "172",
+      "slug": "biking",
+      "name": "自行车",
+      "description": "穿上腰带，伸展双腿，在跳上自行车之前探索这些产品。"
+    },
+    {
+      "id": "170",
+      "slug": "charity-giving",
+      "name": "慈善与捐赠",
+      "description": "有很多方法可以通过点击手机来帮助他人。将您的时间或金钱捐赠给无家可归者、残疾人和其他需要帮助的人。"
+    },
+    {
+      "id": "168",
+      "slug": "fighting-games",
+      "name": "格斗游戏",
+      "description": "这些是写给今天早上醒来并选择暴力的所有人的。"
+    },
+    {
+      "id": "167",
+      "slug": "crafting-games",
+      "name": "制作游戏",
+      "description": "就像电子游戏里的DIY。自己找乐子"
+    },
+    {
+      "id": "166",
+      "slug": "simulation-games",
+      "name": "模拟游戏",
+      "description": "从山羊到卡车驾驶，一切都有模拟器。在不离开全职工作的情况下过上不同的生活。"
+    },
+    {
+      "id": "165",
+      "slug": "isometric-games",
+      "name": "等距游戏",
+      "description": "2D可能是如此有限。倾斜视图并探索这些美丽的等距标题。"
+    },
+    {
+      "id": "164",
+      "slug": "marketing",
+      "name": "营销",
+      "description": "传播信息：营销应用程序可以帮助您最大限度地扩大影响力、吸引受众并以简单的方式推动转化 "
+    },
+    {
+      "id": "163",
+      "slug": "historical-games",
+      "name": "历史游戏",
+      "description": "是时候用这些游戏来展示大象的伟大记忆了。🐘"
+    },
+    {
+      "id": "162",
+      "slug": "tower-defense-games",
+      "name": "塔防御游戏",
+      "description": "敌人正在逼近。设置障碍，确保没有人进入。"
+    },
+    {
+      "id": "161",
+      "slug": "word-games",
+      "name": "文字游戏",
+      "description": "准备好迎接日常Wordle之外的挑战了吗？"
+    },
+    {
+      "id": "160",
+      "slug": "funny-games",
+      "name": "Funny Games",
+      "description": "如果你输掉了这些比赛，至少你笑了。"
+    },
+    {
+      "id": "159",
+      "slug": "drinking",
+      "name": "饮用",
+      "description": "为新饮料和新的享受方式干杯！🍻 "
+    },
+    {
+      "id": "157",
+      "slug": "kids",
+      "name": "孩子",
+      "description": "游戏可以很有趣且有教育意义。这些游戏将帮助您的孩子学习、成长并度过美好的时光。"
+    },
+    {
+      "id": "156",
+      "slug": "retro-games",
+      "name": "复古游戏",
+      "description": "你有多少次被“怀旧浪潮”击中？是的，我们也是。用这些来倾斜它："
+    },
+    {
+      "id": "155",
+      "slug": "zombie-games",
+      "name": "僵尸游戏",
+      "description": "你能在僵尸末日中幸存下来吗？这里有一些方法可以找出答案。"
+    },
+    {
+      "id": "154",
+      "slug": "fantasy-games",
+      "name": "幻想游戏",
+      "description": "现实生活可能会变得无聊。穿着睡衣放飞龙、施法和战斗巨魔。"
+    },
+    {
+      "id": "153",
+      "slug": "sci-fi-games",
+      "name": "科幻游戏",
+      "description": "探索从太空到侏罗纪丛林的虚幻和遥不可及的世界。"
+    },
+    {
+      "id": "152",
+      "slug": "free-games",
+      "name": "免费游戏",
+      "description": "我们都喜欢游戏，但我们并不总是有钱玩游戏。这些游戏将为您带来大量乐趣，而不会影响您的预算。"
+    },
+    {
+      "id": "151",
+      "slug": "mmos",
+      "name": "MMOs",
+      "description": "和其他人一起玩游戏更好。与朋友联系进行突袭，或在遥远的地方结交新朋友。"
+    },
+    {
+      "id": "150",
+      "slug": "puzzle-games",
+      "name": "益智游戏",
+      "description": "让你的大脑加班加点地处理令人费解的谜题。"
+    },
+    {
+      "id": "149",
+      "slug": "sports-games",
+      "name": "运动会",
+      "description": "足球、足球、曲棍球、篮球、棒球。现在您可以轻松地玩它们。"
+    },
+    {
+      "id": "148",
+      "slug": "open-world-games",
+      "name": "开放世界游戏",
+      "description": "有了这些游戏，您可以随时随地去任何地方。是时候探索了。"
+    },
+    {
+      "id": "147",
+      "slug": "strategy-games",
+      "name": "策略游戏",
+      "description": "我们中的一些人喜欢关闭大脑并捣碎按钮。其他人则更喜欢智力挑战，有条不紊地计划每一步。用这些游戏挑战你的大脑。"
+    },
+    {
+      "id": "146",
+      "slug": "indie-games",
+      "name": "独立游戏",
+      "description": "如此多的激情和爱都投入到了独立游戏中。用小预算和几个人就能制作出这样的东西，这真是太了不起了。"
+    },
+    {
+      "id": "145",
+      "slug": "adventure-games",
+      "name": "冒险游戏",
+      "description": "喜欢冒险但珍惜生命？这可以理解。幸运的是，我们可以在舒适的家中探索危险的地下城和无情的海洋。带上装备，准备好度过美好时光。"
+    },
+    {
+      "id": "144",
+      "slug": "action-games",
+      "name": "动作游戏",
+      "description": "您想让您的游戏感觉像是由迈克尔·贝创作的吗？如果您是电影场景和夸张动作的粉丝，请看看这些激动人心的游戏。"
+    },
+    {
+      "id": "143",
+      "slug": "horror-games",
+      "name": "恐怖游戏",
+      "description": "不要进去。好吧，这样做，然后告诉我们会发生什么。🙈 "
+    },
+    {
+      "id": "142",
+      "slug": "platformers",
+      "name": "平台游戏",
+      "description": "平台者在电子游戏中已经存在了很长时间，而且有充分的理由。穿越马里奥丰富多彩的世界，了解《超级肉男孩》中无情的危险。"
+    },
+    {
+      "id": "141",
+      "slug": "driving-games",
+      "name": "驾驶游戏",
+      "description": "我们都喜欢开快车。警察并不太喜欢它。如果你想成为瑞奇·鲍比一下午，那就开这些超速驾驶的车吧。"
+    },
+    {
+      "id": "140",
+      "slug": "rpgs",
+      "name": "rpg游戏",
+      "description": "你有了新的任务！与制作者交谈并发现您最喜欢的新游戏。"
+    },
+    {
+      "id": "139",
+      "slug": "first-person-shooter",
+      "name": "第一人称射击",
+      "description": "锁定并装载！是时候投入到与僵尸、机器人和忍者面对面的行动中了。祝你好运"
+    },
+    {
+      "id": "138",
+      "slug": "meditation",
+      "name": "冥想",
+      "description": "技术可以提高我们的血压，但也可以帮助治愈日常焦虑。休息一下，理清思绪，缓解压力。有一个应用程序可以做到这一点。"
+    },
+    {
+      "id": "137",
+      "slug": "moving-storage",
+      "name": "搬家和仓储",
+      "description": "无论您是要穿越世界还是清理楼梯下的垃圾，都有很多服务可以提供帮助（并拯救您的背部）。"
+    },
+    {
+      "id": "135",
+      "slug": "branding",
+      "name": "品牌",
+      "description": "了解自己是谁，并确保其他人也这样做。"
+    },
+    {
+      "id": "134",
+      "slug": "icons",
+      "name": "图标",
+      "description": "不是雪儿。另一种图标--而且有很多。"
+    },
+    {
+      "id": "132",
+      "slug": "typography",
+      "name": "排版",
+      "description": "祝每个人都好，除了那些默认使用Comic Sans的人。"
+    },
+    {
+      "id": "131",
+      "slug": "spreadsheets",
+      "name": "电子表格",
+      "description": "巨大的信息表，为您的组织带来乐趣。把数字放进去。把话放进去。将GIF放入其中！这取决于你。"
+    },
+    {
+      "id": "130",
+      "slug": "a-b-testing",
+      "name": "A/B测试",
+      "description": "没有实验就没有创新。让您的受众决定哪些工具最适合这些工具。"
+    },
+    {
+      "id": "128",
+      "slug": "email-marketing",
+      "name": "电子邮件营销",
+      "description": "电子邮件仍然是与用户沟通的最棘手的渠道之一。使用其中一些营销工具更好地发送电子邮件。"
+    },
+    {
+      "id": "125",
+      "slug": "hardware",
+      "name": "硬件",
+      "description": "软件可能正在吞噬世界，但没有硬件就什么都不是。"
+    },
+    {
+      "id": "124",
+      "slug": "ad-blockers",
+      "name": "广告拦截器",
+      "description": "更快地浏览网页，并通过计算机和智能手机的广告拦截器消除那些烦人的弹出窗口和令人讨厌的广告。别担心，我们不会说的。"
+    },
+    {
+      "id": "123",
+      "slug": "customer-communication",
+      "name": "客户沟通",
+      "description": "顾客永远是对的，对吧？从客户支持工具到手写卡服务，有很多方法可以让您的用户微笑。😊"
+    },
+    {
+      "id": "122",
+      "slug": "prototyping",
+      "name": "原型",
+      "description": "通过快速而肮脏的线框、实体模型和功能原型，超快地将您的想法付诸实践。如果它不完美也不用担心。"
+    },
+    {
+      "id": "119",
+      "slug": "payments",
+      "name": "付款",
+      "description": "付钱！兑换货币不仅仅使用那些古老的纸张和金属块。"
+    },
+    {
+      "id": "117",
+      "slug": "backpacks",
+      "name": "背包",
+      "description": "从幼儿园开始，背包就会造成不良姿势，因此背包可能会很痛苦。但它们也非常有用，无论您是穿着时尚的P.MAI包还是俏皮的（非短暂的）Snapchat幽灵背包。"
+    },
+    {
+      "id": "116",
+      "slug": "tennis",
+      "name": "网球",
+      "description": "你可能需要练习后挥杆，但每个人都喜欢网球！🎾"
+    },
+    {
+      "id": "115",
+      "slug": "golf",
+      "name": "高尔夫",
+      "description": "高尔夫可能是最慢的运动之一，但它也是最具挑战性的运动之一，即使是最轻微的错误也会让你失去绿夹克。现在，我们拥有应用程序和先进技术来帮助我们达到老虎级的结果。⛳️"
+    },
+    {
+      "id": "114",
+      "slug": "soccer",
+      "name": "足球",
+      "description": "有些人可能不同意它的实际名称，但我们都同意它太棒了！⚽️"
+    },
+    {
+      "id": "113",
+      "slug": "football",
+      "name": "足球",
+      "description": "没有什么比扔猪皮更好的了。周日还有什么用途？🏈"
+    },
+    {
+      "id": "112",
+      "slug": "basketball",
+      "name": "篮球",
+      "description": "您可能不是6英尺6英寸，但您仍然可以享受5对5的篮球比赛（或HORSSE和几个朋友一起）。🏀"
+    },
+    {
+      "id": "111",
+      "slug": "sports",
+      "name": "体育",
+      "description": "无论是踢、扔还是接球，我们都热爱运动。⚽️ 🏈 🏀"
+    },
+    {
+      "id": "110",
+      "slug": "robots",
+      "name": "机器人",
+      "description": "当然，它们可能有一天会接管世界，但就目前而言，机器人相当酷！让我们尽可能享受它们。"
+    },
+    {
+      "id": "108",
+      "slug": "analytics",
+      "name": "分析",
+      "description": "从分析网站流量到了解客户行为，这些顶级分析应用程序让获取有价值的见解变得轻而易举 "
+    },
+    {
+      "id": "107",
+      "slug": "storage",
+      "name": "存储",
+      "description": "随时随地存储并访问您的所有文件。"
+    },
+    {
+      "id": "105",
+      "slug": "gifs",
+      "name": "的gif",
+      "description": "这里没有花生酱。只有GIF。😉"
+    },
+    {
+      "id": "104",
+      "slug": "social-media",
+      "name": "Social Media",
+      "description": "#GrowthHack您的Twitter粉丝，并使用这些工具成为社交媒体忍者。但首先，请在@ProductHunt关注我们。#teamfollowback"
+    },
+    {
+      "id": "103",
+      "slug": "dating",
+      "name": "约会",
+      "description": "通过几次滑动、点击和表情符号交换来找到你的灵魂伴侣（或者也许只是一个新朋友）。😽"
+    },
+    {
+      "id": "102",
+      "slug": "social-network",
+      "name": "社交网络",
+      "description": "与您见过的每个人建立联系并保持联系。用数字"
+    },
+    {
+      "id": "101",
+      "slug": "twitter",
+      "name": "Twitter",
+      "description": "用140个字符与世界分享您的想法.除非您使用OneShot。像专业人士一样发推文，探索Twitter应用程序的广阔宇宙。"
+    },
+    {
+      "id": "100",
+      "slug": "movies",
+      "name": "电影",
+      "description": "电影院万岁！使用这些产品查找您的下一个首选影片。"
+    },
+    {
+      "id": "97",
+      "slug": "3d-printer",
+      "name": "3D打印机",
+      "description": "神奇地从数字再现到可触摸原型。3D打印可以让您思考、创建和构建多维事物，从珠宝到玩具再到自拍照（是的，真的）。"
+    },
+    {
+      "id": "96",
+      "slug": "notes",
+      "name": "注意到",
+      "description": "仍然在所有重要的待办事项上使用便利贴吗？尝试这些工具。"
+    },
+    {
+      "id": "95",
+      "slug": "public-relations",
+      "name": "公关",
+      "description": "将您的故事传递给合适的人可能很困难，但有了PR in a Box和PR Stack等工具，事情变得越来越容易。"
+    },
+    {
+      "id": "94",
+      "slug": "fintech",
+      "name": "金融科技",
+      "description": "谁将成为下一个Stripe、Coinbase或Revolut？"
+    },
+    {
+      "id": "93",
+      "slug": "user-experience",
+      "name": "用户体验",
+      "description": "您的产品易于人们理解和使用吗？如果您不确定，这里有一些工具可以找出答案。"
+    },
+    {
+      "id": "92",
+      "slug": "cars",
+      "name": "汽车",
+      "description": "呜呜呜呜，嘟嘟！配备自动驾驶功能，将您的Sonata变成智能汽车，配备Navdy驾驶更安全，或者使用Skurt为您提供新鞭子。🚗💨"
+    },
+    {
+      "id": "90",
+      "slug": "writing",
+      "name": "写作",
+      "description": "莎士比亚没有使用花哨的应用程序，但我们不都是莎士比亚。这里有几点可以帮助你写得更好。"
+    },
+    {
+      "id": "89",
+      "slug": "open-source",
+      "name": "开源",
+      "description": "分享就是关怀。共同创造伟大的事情。"
+    },
+    {
+      "id": "88",
+      "slug": "api-1",
+      "name": "API",
+      "description": "API-first products make it easy for developers to build, integrate, and scale software. Check out these categories to explore the tools and platforms teams use to ship and adopt APIs:\r\n\r\n- **[Unified APIs](https://www.producthunt.com/categories/unified-api)** – APIs that abstract multiple services behind a single interface, making integrations faster and reducing maintenance overhead.\r\n- **[Platforms](https://www.producthunt.com/categories/platforms)** – Developer platforms that expose APIs as the primary way to access infrastructure, data, or services.\r\n- **[AI Infrastructure](https://www.producthunt.com/categories/ai-infrastructure)** – Infrastructure products that provide APIs for model inference, embeddings, data pipelines, and AI system orchestration.\r\n- **[Authentication & Identity](https://www.producthunt.com/categories/authentication-identity)** – APIs for handling user authentication, authorization, identity management, and access control."
+    },
+    {
+      "id": "87",
+      "slug": "weather",
+      "name": "天气",
+      "description": "您可以看看外面是否在下雨，或者您可以看看您的智能手机。通过神奇的算命天气应用程序预测未来并计划您的一天。"
+    },
+    {
+      "id": "85",
+      "slug": "newsletters",
+      "name": "电子报",
+      "description": "电子邮件还远未消亡。事实上，它是互联网上一些最佳内容的所在地，例如Products Hunt每日摘要。😁"
+    },
+    {
+      "id": "84",
+      "slug": "events",
+      "name": "事件",
+      "description": "计划一个婚礼，聚会，或与朋友的早午餐？这些工具会有所帮助。"
+    },
+    {
+      "id": "82",
+      "slug": "parenting",
+      "name": "育儿",
+      "description": "知识渊博，享受为人父母的狂野旅程。如果您需要帮助，这里有一些很棒的资源和应用程序适合您和您的家人。"
+    },
+    {
+      "id": "81",
+      "slug": "adult-coloring-books",
+      "name": "成人着色书",
+      "description": "涂色书籍不仅仅适合孩子们。放松一下，用色彩放松一下。只要确保排在队伍里即可。🎨"
+    },
+    {
+      "id": "80",
+      "slug": "wine",
+      "name": "酒",
+      "description": "这些产品具有伟大的音符和腿部，可以滴入您的夜间旋转中。"
+    },
+    {
+      "id": "79",
+      "slug": "surfing",
+      "name": "冲浪",
+      "description": "Cowabunga我的伙计们和伙计们！抓住一块木板，让我们下水吧。🏄"
+    },
+    {
+      "id": "78",
+      "slug": "dogs",
+      "name": "狗",
+      "description": "那只吐着舌头的毛茸茸的小狗是你最好的朋友。有很多方法可以向他表达你的爱，所以请确保他得到最好的照顾，让你的狗保持微笑。🐶"
+    },
+    {
+      "id": "76",
+      "slug": "art",
+      "name": "艺术",
+      "description": "有一百万种方法来创造艺术，有许多工具可以帮助这些创造性的果汁流动。表达自己！"
+    },
+    {
+      "id": "74",
+      "slug": "fashion",
+      "name": "时尚",
+      "description": "你占据了这个T台的前座。包里装着什么？"
+    },
+    {
+      "id": "73",
+      "slug": "home",
+      "name": "家",
+      "description": "利用最新的互联设备、舒适的家具和机器人生活在未来。是的，机器人。"
+    },
+    {
+      "id": "72",
+      "slug": "freelance",
+      "name": "自由",
+      "description": "我们看到你了，自由职业者。您的使命是一项艰巨的任务，但有用的工具和社区就在这里。"
+    },
+    {
+      "id": "71",
+      "slug": "sales",
+      "name": "销售",
+      "description": "没有销量，一个伟大的产品就不算什么。使用其中一些有用的工具改善您的对话并接近尾声。"
+    },
+    {
+      "id": "70",
+      "slug": "jewelry",
+      "name": "珠宝",
+      "description": "在蒂芙尼吃早餐并不是一个糟糕的开始新的一天的方式，但有很多选择可以为您的着装增添魅力。找到与您对话的完美设计或制作属于您自己的独特作品。"
+    },
+    {
+      "id": "68",
+      "slug": "video-streaming",
+      "name": "视频流",
+      "description": "还在看吗？当然了休息一下，浏览最新的流媒体内容。"
+    },
+    {
+      "id": "67",
+      "slug": "standing-desks",
+      "name": "站立式办公桌",
+      "description": "如果科学说站着，我们就会站着。价格从25美元到2，500美元不等，为每个人提供站立式办公桌。"
+    },
+    {
+      "id": "66",
+      "slug": "soundcloud",
+      "name": "SoundCloud",
+      "description": "探索最大的艺术家、乐队、播客和音乐创作者社区，以及在这个令人惊叹的声音平台上构建的所有应用程序。"
+    },
+    {
+      "id": "65",
+      "slug": "spotify",
+      "name": "Spotify",
+      "description": "您最喜欢的播放最佳音乐的方式是什么？用完美的播放列表来营造气氛，或者用最恶心的家伙开始派对。🎶"
+    },
+    {
+      "id": "64",
+      "slug": "amazon",
+      "name": "亚马逊",
+      "description": "出售TP和您正在寻找的任何东西的“书店”。"
+    },
+    {
+      "id": "63",
+      "slug": "instagram",
+      "name": "Instagram",
+      "description": "您是否知道您可以安排Instagram帖子，将您最好的照片变成可食用的棉花糖，并获取所有照片的详细分析？有这样的应用程序。📷"
+    },
+    {
+      "id": "61",
+      "slug": "anonymous",
+      "name": "匿名",
+      "description": "你是谁？你在说谁？他知道她是谁吗？👻我也不知道。"
+    },
+    {
+      "id": "60",
+      "slug": "messaging",
+      "name": "消息传递",
+      "description": "纯文本可能很无聊。找到一种新的方式来增加您的沟通趣味。"
+    },
+    {
+      "id": "59",
+      "slug": "sneakers-shoes",
+      "name": "运动鞋和鞋",
+      "description": "运动鞋、高跟鞋还是带袜子的瓦罐？我们不会评判，但你可以。"
+    },
+    {
+      "id": "57",
+      "slug": "music",
+      "name": "音乐",
+      "description": "跳过还是重复？你最喜欢的新调菜在这里吗？ "
+    },
+    {
+      "id": "55",
+      "slug": "customer-success",
+      "name": "客户成功",
+      "description": "说出比令人愉快的客户体验更好的东西。我们会等待的。"
+    },
+    {
+      "id": "54",
+      "slug": "custom-keyboards",
+      "name": "自定义键盘",
+      "description": "键盘不仅仅是打字的用途。分享您的位置、发送完美的GIF，并使用iPhone上的精美自定义键盘以表情符号说话。"
+    },
+    {
+      "id": "53",
+      "slug": "dj-khaled",
+      "name": "DJ Khaled",
+      "description": "“Anotha一号”，如果您已经知道我们在谈论谁，请举手。"
+    },
+    {
+      "id": "52",
+      "slug": "celebrities",
+      "name": "名人",
+      "description": "我们喜欢好莱坞与科技的交叉。"
+    },
+    {
+      "id": "51",
+      "slug": "politics",
+      "name": "政治",
+      "description": "左翼、右翼、绿党、无政府主义者、茶党……名单还在继续。政治化！"
+    },
+    {
+      "id": "50",
+      "slug": "news",
+      "name": "新闻",
+      "description": "保持知情。及时了解最新情况。看看世界上正在发生什么。"
+    },
+    {
+      "id": "49",
+      "slug": "alarms",
+      "name": "警报",
+      "description": "还在使用手机上的默认闹钟吗？尝试一些新的东西，但警告：并非所有这些都带有小睡按钮。😴"
+    },
+    {
+      "id": "48",
+      "slug": "task-management",
+      "name": "任务管理",
+      "description": "如果没有计划，管理时间是很困难的。列出一个清单，检查两次，看看哪些任务很简单、很好。✔︎"
+    },
+    {
+      "id": "46",
+      "slug": "productivity",
+      "name": "生产力",
+      "description": "如果说时间是最宝贵的，那么这本生活窍门集就如此珍贵。提高生产力并优化您的生活。"
+    },
+    {
+      "id": "45",
+      "slug": "emoji",
+      "name": "Emoji",
+      "description": "在沟通中更具表现力。😁😮😜"
+    },
+    {
+      "id": "44",
+      "slug": "design-tools",
+      "name": "Design Tools",
+      "description": "设计不仅仅是漂亮的像素（无意冒犯，漂亮的像素）。一个好的设计工具可以升级您的用户体验、改进您的工作流程并帮助将您的创意变为现实 "
+    },
+    {
+      "id": "43",
+      "slug": "health-fitness",
+      "name": "Health & Fitness",
+      "description": "减肥？体重增加？有很多可用的资源，从卡路里计数应用程序到您口袋里的私人教练。💪"
+    },
+    {
+      "id": "42",
+      "slug": "funny",
+      "name": "有趣",
+      "description": "咚咚咚。谁在那里？坏笑话、猫双关语等等。准备好大声笑吧。"
+    },
+    {
+      "id": "41",
+      "slug": "hiring",
+      "name": "招聘",
+      "description": "API优先的产品使开发人员能够轻松构建、集成和扩展软件。查看这些类别，探索团队用于交付和采用API的工具和平台：\r\n\r\n- **[统一API]（https：//www.producthont.com/categories/unified-api）** -API，可抽象单个接口背后的多个服务，使集成更快并减少维护费用。\r\n- **[平台]（https：//www.producthont.com/categories/platforms）** -将API公开为t的开发人员平台"
+    },
+    {
+      "id": "39",
+      "slug": "email",
+      "name": "电子邮件",
+      "description": "不管你喜欢它还是讨厌它，电子邮件都是你生活的重要组成部分，但幸运的是，有这么多的应用程序和扩展可以使它更容易管理。PSA：请不要对所有内容都“回复全部”。😁"
+    },
+    {
+      "id": "37",
+      "slug": "tabletop-games",
+      "name": "桌面游戏",
+      "description": "召集你的朋友们，围着桌子（或地板.桌面游戏也适用于该平台）。"
+    },
+    {
+      "id": "36",
+      "slug": "board-games",
+      "name": "棋盘游戏",
+      "description": "没有什么比让你的同伴聚在一起，为一场[填补空白]的游戏争论更温暖人心的了。"
+    },
+    {
+      "id": "34",
+      "slug": "chrome-extensions",
+      "name": "Chrome扩展",
+      "description": "使用超级浏览器扩展升级您的Chrome。冲浪快乐。🏄"
+    },
+    {
+      "id": "31",
+      "slug": "drones",
+      "name": "无人机",
+      "description": "这是一只鸟！这是一架飞机！不，这是无人机。从DGI Phantom到自主Lily无人机，无人机越来越受欢迎。就连亚马逊也可能很快就能从天上交付TP。"
+    },
+    {
+      "id": "30",
+      "slug": "virtual-reality",
+      "name": "虚拟现实",
+      "description": "是时候戴上VR耳机了。我们将在元宇宙中见到你。"
+    },
+    {
+      "id": "29",
+      "slug": "telegram",
+      "name": "Telegram",
+      "description": "每月有超过1亿人使用的免费多平台消息应用程序是每个用例的机器人的家园。以下是一些最佳集成。"
+    },
+    {
+      "id": "28",
+      "slug": "ridesharing",
+      "name": "拼车",
+      "description": "从A到B，最智能的方式。您的私人司机，按需提供。"
+    },
+    {
+      "id": "27",
+      "slug": "gear-vr",
+      "name": "Gear VR",
+      "description": "随时进入虚拟现实世界，只要你想三星齿轮VR."
+    },
+    {
+      "id": "26",
+      "slug": "apple-tv",
+      "name": "Apple TV",
+      "description": "在办公室度过了漫长的一天后，在Apple TV上的广阔电视和电影世界中寻找孤独。沙发不包括在内。📺"
+    },
+    {
+      "id": "25",
+      "slug": "htc-vive",
+      "name": "HTC Vive",
+      "description": "Steam对虚拟现实（VR）的看法，专注于移动性和出色的游戏。"
+    },
+    {
+      "id": "24",
+      "slug": "playstation-vr",
+      "name": "PlayStation VR",
+      "description": "索尼PlayStation旨在为任何拥有PS4的人带来虚拟现实（VR）。不需要昂贵的PC。"
+    },
+    {
+      "id": "23",
+      "slug": "oculus-rift",
+      "name": "Oculus Rift",
+      "description": "Facebook的Oculus希望通过虚拟现实（VR）彻底改变我们消费媒体和与世界沟通的方式。"
+    },
+    {
+      "id": "22",
+      "slug": "slack",
+      "name": "松弛",
+      "description": "与大家实时聊天。与您的团队、家人和朋友一起使用它。"
+    },
+    {
+      "id": "21",
+      "slug": "web-app",
+      "name": "Web App",
+      "description": "你知道那个有所有猫照片和GIF的地方吗？它还有一些其他漂亮的东西。"
+    },
+    {
+      "id": "19",
+      "slug": "mac",
+      "name": "Mac",
+      "description": "苹果电脑的传奇基础。它们易于使用，也易于喜爱。继续吧，加入收件箱的潮流。"
+    },
+    {
+      "id": "18",
+      "slug": "windows",
+      "name": "Windows",
+      "description": "个人电脑改变了我们生活和工作的方式，由传奇人物比尔·盖茨创造，其愿景是“每张桌子上都放一台电脑”。"
+    },
+    {
+      "id": "17",
+      "slug": "ebook-reader",
+      "name": "电子书阅读器",
+      "description": "在方便、便携的亚马逊Kindle上收集和阅读不会积灰的书籍。"
+    },
+    {
+      "id": "16",
+      "slug": "browser-extensions",
+      "name": "浏览器扩展",
+      "description": "浏览器扩展是升级您的网络体验的附加组件：隐私防护、编写修复、任务捕获、实时协作、开发工具和人工智能。"
+    },
+    {
+      "id": "15",
+      "slug": "safari-extensions",
+      "name": "Safari扩展",
+      "description": "Safari扩展程序为Apple浏览器添加了工具，从隐私和广告拦截到书签、笔记以及适合学生、专业人士和团队的焦点计时器。"
+    },
+    {
+      "id": "13",
+      "slug": "linux",
+      "name": "Linux",
+      "description": "适合那些喜欢根据自己的喜好定制操作系统的人。Fedora、Red Hat、Ubuntu。你可以选择。"
+    },
+    {
+      "id": "12",
+      "slug": "apple-watch",
+      "name": "Apple Watch",
+      "description": "当您的手机上没有足够的通知来分散您的注意力时，请将它们戴在手腕上。苹果性感的可穿戴设备可能会改变你的生活。"
+    },
+    {
+      "id": "11",
+      "slug": "card-games",
+      "name": "纸牌游戏",
+      "description": "您知道纸牌游戏过去是用层压纸而不是在iPad上玩的吗？疯狂，对吧？！"
+    },
+    {
+      "id": "9",
+      "slug": "ipad",
+      "name": "iPad",
+      "description": "苹果计算天才的平板电脑，现在有多种平板电脑尺寸：Mini、Air和Pro。"
+    },
+    {
+      "id": "8",
+      "slug": "ios",
+      "name": "iOS",
+      "description": "深受喜爱的“手机”改变了我们沟通、玩游戏和拍照的方式。📱"
+    },
+    {
+      "id": "7",
+      "slug": "wii-u",
+      "name": "Wii U",
+      "description": "在任天堂的动作感应游戏机上与马里奥、塞尔达传说和神奇宝贝一起重温童年。"
+    },
+    {
+      "id": "6",
+      "slug": "nintendo",
+      "name": "任天堂",
+      "description": "掌上游戏之王仍然占据领先地位。播放从马里奥到神奇宝贝的经典游戏，无需戴上愚蠢的眼镜，即可在3D中重新构想。"
+    },
+    {
+      "id": "5",
+      "slug": "vita",
+      "name": "Vita",
+      "description": "索尼的第二款掌上电脑将主机品质的游戏直接带到您的指尖。玩Vita独占游戏，甚至直接从PS4上播放游戏。"
+    },
+    {
+      "id": "4",
+      "slug": "playstation",
+      "name": "PlayStation",
+      "description": "PlayStation收集了主机游戏必需品：大片射击游戏、复古动作、沙盒构建器、开发引擎、聊天、指南和及时的Plus游戏提醒。"
+    },
+    {
+      "id": "3",
+      "slug": "xbox",
+      "name": "Xbox",
+      "description": "微软的游戏机为您带来了《光环》和《战争机器》等精彩游戏，并兼作杀手级家庭媒体设备。"
+    },
+    {
+      "id": "2",
+      "slug": "android",
+      "name": "Android",
+      "description": "这个绿色小机器人是有史以来发展最快的平台之一，它生活在你的口袋里，几乎可以做任何事情。"
+    },
+    {
+      "id": "1",
+      "slug": "pc",
+      "name": "PC",
+      "description": "PC将支持计算的软件和硬件分组：私人浏览、搜索、人工智能辅助、3D创建、设计、云图形处理器和适合游戏玩家、制作者和团队的游戏。"
+    }
+  ]
+}

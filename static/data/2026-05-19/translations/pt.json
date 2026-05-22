@@ -1,0 +1,218 @@
+{
+  "meta": {
+    "version": "v1",
+    "updatedAt": "2026-05-21T21:22:38.227374"
+  },
+  "translations": [
+    {
+      "id": "1135604",
+      "name": "PollyReach",
+      "tagline": "Dê ao seu agente um número real e uma voz para fazer chamadas.",
+      "description": "A maioria das ferramentas telefônicas de IA são criadas para empresas — APIs, fluxos de trabalho, automação de vendas. O PollyReach foi criado para você. Dê à sua IA um número de telefone real. Diga \"reserve-me uma mesa para as 19h\"-ele encontra o número, faz a chamada, lida com a conversa e relata de volta com um resumo, gravação e transcrição. Ele também responde ao seu telefone 24/7 e exibe spam. Trabalha em mais de 50 idiomas.",
+      "slug": "pollyreach"
+    },
+    {
+      "id": "1150337",
+      "name": "Compositor 2.5",
+      "tagline": "O modelo mais poderoso do Cursor até agora",
+      "description": "Uma melhoria substancial na inteligência e no comportamento em relação ao Composer 2, particularmente em tarefas agenciais de longo horizonte.",
+      "slug": "composer-2-5-6"
+    },
+    {
+      "id": "1146684",
+      "name": "garoa",
+      "tagline": "Testes móveis que escrevem, executam e se corrigem",
+      "description": "O Drizz é uma plataforma de automação de testes móveis baseada em IA construída em torno de testes baseados em intenções. Basta descrever o que você deseja testar em inglês simples, a Drizz executa-o em um dispositivo real usando a Vision AI e cria automaticamente um caso de teste reutilizável. Sem scripting, sem seletores falhos, sem manutenção manual. Ele se adapta a UIs dinâmicas, integra-se ao seu pipeline de CI/CD e oferece à sua equipe uma cobertura de ponta a ponta confiável sem sobrecargas.",
+      "slug": "drizz-2"
+    },
+    {
+      "id": "1113430",
+      "name": "Bate-papo Mantle",
+      "tagline": "Plataforma de colaboração onde as equipes trabalham juntas com IA",
+      "description": "O Mantle Chat ajuda as equipes a aumentar a produtividade e adotar a IA mais rapidamente, trazendo mensagens em tempo real, bate-papos com modelos de IA, agentes autônomos e integrações de ferramentas em um único espaço de trabalho compartilhado. Comunique-se em canais estilo Discord/Slack, mencione agentes e modelos de IA (GPT, Claude, Gemini, Grok, Deepseek) com @ sempre que precisar de ajuda diretamente em conversas com companheiros de equipe, crie agentes, execute tarefas autônomas juntos e conecte mais de 30 ferramentas (Notion, Linear, Gmail e mais) que sua equipe já usa.",
+      "slug": "mantle-chat-2"
+    },
+    {
+      "id": "1148531",
+      "name": "CtrlOps",
+      "tagline": "Implemente, depure e gerencie servidores Linux com IA.",
+      "description": "A maioria dos desenvolvedores gerencia servidores a partir de uma planilha de IPs e comandos que ninguém se lembra. O CtrlOps oferece gerenciamento de servidores com IA sem experiência em DevOps. terminal de IA que gera comandos com sua aprovação. Biblioteca de Scripts. Implantações com um clique de qualquer repositório do GitHub. Gerenciador de arquivos Visual. Monitoramento do servidor em tempo Real. Zero agentes nos servidores. Implantações que levaram 60 minutos agora levam 5. 100% local. Suas credenciais nunca saem da máquina. Mac. janelas. Linux.",
+      "slug": "ctrlops"
+    },
+    {
+      "id": "1144780",
+      "name": "movimento",
+      "tagline": "Um agente de vídeo para design de movimento de bom gosto",
+      "description": "Motion é um agente de vídeo de fronteira para design de movimento de bom gosto. Dê-lhe um prompt com links, tópicos X, vídeos, ativos ou referências. Pesquisas de movimento, storyboards e cria explicações, vídeos de lançamento, animações de logotipos ou design de movimento para vídeos existentes. Em seguida, edite tudo diretamente: redimensionar, arrastar e soltar, modificar elementos ou iterar com o chat.",
+      "slug": "motion-10"
+    },
+    {
+      "id": "1148800",
+      "name": "Chert",
+      "tagline": "Crie agentes de IA que enviam mensagens de texto aos clientes no iMessage",
+      "description": "Crie e implante agentes de iMessage conversacionais para atendimento ao cliente, captura de leads de entrada e muito mais. Basta configurar o prompt e o tom do sistema, e você pode criar seu próprio agente de iMessage conversacional para manuseio de entrada, acompanhamento de saída ou qualquer fluxo de trabalho que você queira testar. Você também pode integrar com CRMs como HubSpot, Close ou GoHighLevel para voltar a escrever históricos de conversas.",
+      "slug": "chert"
+    },
+    {
+      "id": "1150303",
+      "name": "Monocle 3.5 para macOS",
+      "tagline": "Cancelamento de ruído para o seu CamScreen",
+      "description": "O Monocle 3.5 é um acompanhamento crucial da 3.0, e o mais solicitado. Com esses recursos tão esperados finalmente em, o aplicativo apenas clica. Parece completo.",
+      "slug": "monocle-3-5-for-macos"
+    },
+    {
+      "id": "1146493",
+      "name": "Voker",
+      "tagline": "A plataforma de análise de agentes para equipes de produtos de IA",
+      "description": "Voker é a plataforma de análise de agentes para equipes de produtos de IA. Ele fornece o comportamento de uso e as informações de desempenho do agente que você precisa para monitorar e otimizar seus agentes de produção em escala. Instale o SDK leve e agnóstico do provedor e o Voker cuida do resto: detecção automática de intenção, correção e resolução em suas interações usuário-agente, reconstruções de conversas, cronogramas consultáveis, rastreamento de desempenho do agente para que você possa criar os melhores agentes possíveis.",
+      "slug": "voker"
+    },
+    {
+      "id": "1149987",
+      "name": "Insights por Omnia",
+      "tagline": "Planos de ação passo a passo para melhorar sua visibilidade de IA.",
+      "description": "A Omnia Insights transforma qualquer prompt que você rastreia em um plano de ação prioritário para melhorar sua visibilidade nos mecanismos de IA. Cada plano inclui o nível de impacto, por que isso importa, como implementá-lo e as lacunas de citação a serem fechadas.",
+      "slug": "insights-by-omnia"
+    },
+    {
+      "id": "1144511",
+      "name": "imgproxy v4",
+      "tagline": "Um servidor de processamento de imagem auto-hospedado rápido e seguro",
+      "description": "imgproxy é um servidor autônomo rápido e seguro para redimensionar, processar e converter imagens. Os princípios orientadores por trás do imgproxy são velocidade, segurança e simplicidade. Ele está bem equipado para lidar com grandes volumes de solicitações de processamento de imagem com facilidade. imgproxy é um substituto drop-in para todo o código de processamento de imagem em seu aplicativo web. Com o imgproxy, você não precisa repreparar repetidamente as imagens para se ajustar ao seu design sempre que ele muda, pois o imgproxy faz isso sob demanda.",
+      "slug": "imgproxy-v4"
+    },
+    {
+      "id": "1149285",
+      "name": "palheira",
+      "tagline": "Revise as solicitações de puxar que realmente precisam de atenção humana",
+      "description": "O Haystack ajuda as equipes de engenharia a gerenciar o crescente volume de solicitações de extração geradas por IA. Ele fica no topo do GitHub, analisa a diferença de cada PR, contexto da base de código, rastreamento do agente, intenção e evidências de verificação e, em seguida, o encaminha: seguro para seguir em frente, precisa de correções ou precisa de revisão humana. As equipes usam o Haystack para manter o código em movimento sem carimbos de borracha, focando a atenção humana onde o julgamento realmente importa.",
+      "slug": "haystack-8"
+    },
+    {
+      "id": "1145614",
+      "name": "ShioriCode",
+      "tagline": "Alternativa de código aberto ao código Codex & Claude",
+      "description": "Uma interface de desktop para o agente de codificação CLIs que você já usa — Codex, Claude Code, Cursor, Gemini, Kimi e um provedor Shiori hospedado. Execute sessões de longa duração com threads conscientes do projeto, transmita a atividade do agente em uma linha do tempo legível e revise as diferenças geradas sem sair do aplicativo. Disponível na fonte, criado para trabalho que não se encaixa em um prompt.",
+      "slug": "shioricode"
+    },
+    {
+      "id": "1150076",
+      "name": "Starchild-1 por Odyssey",
+      "tagline": "O primeiro modelo de mundo multimodal em tempo real",
+      "description": "O Starchild-1 é o primeiro modelo de mundo multimodal em tempo real que gera áudio + vídeo sincronizado enquanto responde ao vivo à entrada do usuário. Construído para IA interativa, jogos, robótica, educação e além, nos aproximando da inteligência mundial verdadeiramente imersiva.",
+      "slug": "starchild-1-by-odyssey"
+    },
+    {
+      "id": "1149803",
+      "name": "AutoShelf",
+      "tagline": "Organizar arquivos automaticamente no seu Mac",
+      "description": "AutoShelf é um aplicativo macOS que observa suas pastas e organiza arquivos automaticamente. Faça uma regra uma vez e nunca mais pense nisso. Grátis para experimentar, desbloquear ilimitado por $19,99.",
+      "slug": "autoshelf"
+    },
+    {
+      "id": "1149185",
+      "name": "LearnHouse",
+      "tagline": "A maneira moderna de ensinar o que você constrói",
+      "description": "LearnHouse é uma plataforma de aprendizagem de código aberto para ensinar aos usuários tudo sobre o seu produto. Construído para construtores que enviam grandes coisas, mas precisam que seus usuários realmente as entendam. A v1.0 é a nossa primeira versão estável-repleta de IA, execução de código, discussões, análises e tudo o que você esperaria de ferramentas modernas para desenvolvedores. Acompanhe-o ou use a nossa nuvem. De qualquer forma, seu conteúdo, seus dados, sua comunidade.",
+      "slug": "learnhouse-2"
+    },
+    {
+      "id": "1141018",
+      "name": "Hanami",
+      "tagline": "Uma meditação diária com arte japonesa",
+      "description": "Hanami emparelha você com uma obra-prima japonesa todas as manhãs de mil anos de história da arte japonesa. A coleção cresce semanalmente. Toda a experiência é construída para se sentir como uma visita matinal privada a um museu-lenta, intencional, sem desordem. Cada trabalho vem com narração de áudio com voz do curador e contexto editorial tranquilo. As viagens com curadoria se movem através de movimentos: o mundo flutuante (ukiyo-e), a escola Rinpa, o teatro Kabuki, as flores e os pássaros, a quietude. Apenas iOS. Construído solo em Toronto.",
+      "slug": "hanami-2"
+    },
+    {
+      "id": "1148394",
+      "name": "Gráfico Papr",
+      "tagline": "Atualizar para incorporações vetoriais nativas de gráficos",
+      "description": "O Papr Graph transforma incorporações semânticas em incorporações nativas do gráfico com uma chamada de API. Ele codifica dimensões temporais, tópicas e outras dentro de qualquer incorporação, ajudando os agentes a recuperar respostas com base na correção, não apenas na proximidade semântica.",
+      "slug": "papr-graph"
+    },
+    {
+      "id": "1150406",
+      "name": "IA mais fina",
+      "tagline": "Crie agentes de IA de voz em mais de 100 idiomas por ₹1,5/min",
+      "description": "ThinnestAI é uma infraestrutura programável de IA de voz para construir agentes telefônicos de IA em escala. → Mais de 100 idiomas com conversas multilíngues perfeitas. → Traga seu próprio LLM, STT, TTS e provedores de telefonia. → Integrações nativas de SIP, Twilio e fluxo de trabalho. → Construtor de fluxo sem código com bases de conhecimento RAG e suporte MCP. → Agentes de voz em tempo Real para suporte, vendas, integração e operações. Comece a construir agentes de voz de IA em minutos — não é necessário cartão de crédito.",
+      "slug": "thinnest-ai"
+    },
+    {
+      "id": "1150349",
+      "name": "treinador",
+      "tagline": "Treine agentes de IA gravando sua tela",
+      "description": "O Trainer permite que você treine agentes de IA gravando uma tarefa apenas uma vez. Sem prompts, sem dados rotulados. Ele captura cada clique, tecla e intenção enquanto você trabalha e, em seguida, transforma esse fluxo de trabalho em um agente reutilizável que pode repetir o processo de forma confiável. Construído para automatizar tarefas do mundo real por meio de demonstração em vez de configuração manual, tornando os agentes de IA práticos e acessíveis para o trabalho diário.",
+      "slug": "trainer-2"
+    },
+    {
+      "id": "1149215",
+      "name": "CaseGap AI",
+      "tagline": "Encontre vazamentos de receita de escritório de advocacia e, em seguida, conserte-os",
+      "description": "CaseGap AI ajuda escritórios de advocacia a encontrar e corrigir vazamentos de receita em SEO, pesquisa local, visibilidade de IA, avaliações, velocidade e conformidade. Execute uma auditoria de 60 segundos para obter um plano de ação prioritário e, em seguida, implante um agente de marketing de IA para trabalhar diariamente nas correções: atualizações de SEO, postagens do Google Business, respostas de revisão, alcance, melhorias de diretório e cópia do anúncio.",
+      "slug": "casegap-ai"
+    },
+    {
+      "id": "1142446",
+      "name": "calog.cc",
+      "tagline": "Rastreador de calorias baseado em bate-papo que realmente conhece desi food",
+      "description": "A maioria dos aplicativos de calorias falha com alimentos desi. Pesquisar \"roti\" — resultados errados. Qeema não existe. As calorias do Chai estão muito longe. calog.cc corrige isso. Digite o que você comeu ou tire uma foto — a IA estima calorias, proteínas e macros instantaneamente. Não há banco de dados de alimentos. Sem formulários. Basta conversar. Pré-carregado com comida paquistanesa. Acompanha os treinos também. Gráfico semanal de perda de gordura para permanecer consistente. Grátis. Sem cartão de crédito. Funciona no celular. Tente sem se inscrever https: / /calog.cc/try",
+      "slug": "calog-cc"
+    },
+    {
+      "id": "1150481",
+      "name": "VWFNDR ™ + MBL",
+      "tagline": "Tire fotos raw com prova de que elas são reais, não IA",
+      "description": "VWFNDR ™ + MBL é uma câmera Android gratuita construída em torno de capturas fotográficas reais: Bayer RAW DNG e JPEG não processados simultaneamente, relações de aspecto variáveis, modos de prioridade, controles manuais em uma única tela e credenciais de conteúdo C2PA incorporadas na captura, uma prova evidente de que todas as fotos foram tiradas por uma câmera real, não geradas ou construídas.",
+      "slug": "vwfndr-mbl"
+    },
+    {
+      "id": "1147405",
+      "name": "Buggyverse",
+      "tagline": "Estudar com estranhos online, salas de foco de alta responsabilidade",
+      "description": "Buggyverse é uma casa de coworking ao vivo projetada para substituir o isolamento do trabalho remoto por uma conexão humana genuína. Embora muitas plataformas se concentrem em transmissões passivas, construímos um espaço centrado na interação ativa. Este é um lugar onde você não apenas faz login para trabalhar; Você vem encontrar o seu povo. Seja compartilhando música ou ficando trancado por um dia escolar de 8 horas, Buggyverse é para amizades que duram anos. Junte-se a nós e pertença.",
+      "slug": "buggyverse"
+    },
+    {
+      "id": "1148466",
+      "name": "Vocabi",
+      "tagline": "Traduzir, salvar e memorizar palavras enquanto lê",
+      "description": "A maioria das pessoas procura uma palavra e esquece-a amanhã. Vocabi corrige isso. Passe o mouse sobre qualquer palavra enquanto lê → Tradução aparece. Clique em Salvar → vai para o seu dicionário. Abrir cartões → A repetição espaçada faz o resto. → Funciona em qualquer site → 10 idiomas suportados → Sem conta. Funciona offline. Privado por padrão. Criado para aprendizes de idiomas que realmente lêem.",
+      "slug": "vocabi"
+    },
+    {
+      "id": "1150376",
+      "name": "Agora-1 por Odyssey",
+      "tagline": "Um modelo de mundo multi-agente que você pode jogar",
+      "description": "Agora-1 by Odyssey é uma prévia de pesquisa jogável de um modelo de mundo multi-agente. Até quatro seres humanos ou agentes de IA podem compartilhar e interagir dentro da mesma simulação gerada em tempo real.",
+      "slug": "agora-1-by-odyssey"
+    },
+    {
+      "id": "1148780",
+      "name": "Insights cósmicos",
+      "tagline": "Análise web sem cookies integrada ao seu CMS",
+      "description": "A maioria das configurações de CMS + analytics são dois sistemas colados juntos. Você envia conteúdo e, em seguida, aperta os olhos em um painel separado tentando combinar os slugs com as postagens. A Cosmic Insights corrige isso. Análise web sem cookies construída diretamente no Cosmic. Cada visualização de página, sessão e evento de receita é atribuído ao objeto CMS exato que o produziu. Uma tag de script. Sem biscoitos. Sem banners. GDPR-friendly por padrão. Incluído gratuitamente em todos os planos.",
+      "slug": "cosmic-insights-2"
+    },
+    {
+      "id": "1150344",
+      "name": "Mercado CLI",
+      "tagline": "3.760 varejistas, uma API para agentes de IA",
+      "description": "3.760+ retailers VTEX en 67 países y 12 líneas de negocio. API REST, CLI y 12 herramientas MCP para agentes de IA. Código aberto: pip install cli-market. 12 ferramentas MCP. Busca, compara e compra desde o terminal.",
+      "slug": "cli-market"
+    },
+    {
+      "id": "1148389",
+      "name": "liricamente",
+      "tagline": "Letras ao vivo em seu entalhe dinâmico e flutuando no seu desktop",
+      "description": "A maioria dos aplicativos de música vive em uma janela. Lyricly traz sua música para fora dela-para sua tela, para o seu fluxo. Então, em vez de mudar de guia, sua música fica com você. • Leitor dinâmico de entalhe com controles suaves e interativos • Letras sincronizadas em tempo Real que parecem vivas • Letras flutuantes na área de trabalho que ficam acima de tudo • Letras da barra de Menu para uma configuração mínima funcionam com Apple Music e Spotify. Criado para pessoas que mantêm música o dia todo.",
+      "slug": "lyricly"
+    },
+    {
+      "id": "1150474",
+      "name": "YOSA",
+      "tagline": "Gerar conteúdo otimizado para SEO e personalizado para marca que classifique",
+      "description": "YOSA é uma ferramenta de conteúdo que funciona como sua equipe de conteúdo pessoal. Pesquisa, resumo, redação, revisão de SEO-o mesmo fluxo de trabalho que as agências usam, totalmente automatizado. De ideia de tópico ou palavra-chave para cópia pronta para publicação em alguns minutos. Construímos isso após 15 anos de experiência prática com criação de conteúdo em nossa agência de SEO. O YOSA aprende sua marca, executa pesquisas, pesquisa SERPs do Google e respostas de IA, digitaliza o que já foi dito em seu site e gera conteúdo que classifica.",
+      "slug": "yosa"
+    }
+  ]
+}

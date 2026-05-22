@@ -1,0 +1,52 @@
+{
+  "date": "2026-05-16",
+  "startedAt": "2026-05-22T08:38:53.877524",
+  "completed": false,
+  "languages": {
+    "zh": {
+      "completed": true,
+      "productsCount": 30,
+      "durationMs": 0
+    },
+    "ja": {
+      "completed": false,
+      "productsCount": 27,
+      "durationMs": 39263
+    },
+    "ko": {
+      "completed": false,
+      "productsCount": 27,
+      "durationMs": 38221
+    },
+    "hi": {
+      "completed": false,
+      "productsCount": 27,
+      "durationMs": 40460
+    },
+    "id": {
+      "completed": false,
+      "productsCount": 27,
+      "durationMs": 38495
+    },
+    "es": {
+      "completed": false,
+      "productsCount": 27,
+      "durationMs": 40530
+    },
+    "fr": {
+      "completed": false,
+      "productsCount": 27,
+      "durationMs": 42124
+    },
+    "de": {
+      "completed": false,
+      "productsCount": 27,
+      "durationMs": 41614
+    },
+    "pt": {
+      "completed": false,
+      "productsCount": 27,
+      "durationMs": 40195
+    }
+  }
+}

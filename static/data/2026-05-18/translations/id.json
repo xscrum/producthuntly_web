@@ -1,0 +1,218 @@
+{
+  "meta": {
+    "version": "v1",
+    "updatedAt": "2026-05-21T22:03:41.664092"
+  },
+  "translations": [
+    {
+      "id": "1147569",
+      "slug": "lobehub-2",
+      "name": "LobeHub",
+      "tagline": "Operator Agen Kepala Anda untuk pekerjaan multi-agen",
+      "description": "LobeHub adalah Chief Agent Operator (CAO) yang membangun, menjalankan, dan mengoordinasikan tim agen AI Anda. Jelaskan tujuan, dan itu mengumpulkan agen/keterampilan yang tepat, menjalankan tugas secara paralel di cloud, rute bekerja di seluruh model, dan melaporkan kembali hanya ketika keputusan diperlukan — melalui saluran Anda yang ada (Slack/Discord/Telegram/iMessage). Kurang tab-switching, lebih banyak hasil."
+    },
+    {
+      "id": "1124409",
+      "slug": "socleads-3-0",
+      "name": "SocLeads 3.0",
+      "tagline": "Mengikis email dari jejaring sosial dan peta berdasarkan lokasi",
+      "description": "SocLeads sekarang mengikis email dari Instagram, Facebook, LinkedIn, YouTube, dan Google Maps di seluruh negara 🌍 📧 Filter geografis. Lebih banyak hasil. Tidak diperlukan kode. 🚀"
+    },
+    {
+      "id": "1149049",
+      "slug": "reactvision-studio",
+      "name": "Studio ReactVision",
+      "tagline": "Bangun aplikasi AR/VR di React Native + Kirim langsung ke perangkat",
+      "description": "editor visual berbasis browser untuk membangun adegan AR Seret dan lepas objek 3D, hasilkan aset dengan AI, lalu kirimkan secara asli ke iOS, Android, dan Meta Quest dari satu basis kode asli React. renderer sumber terbuka, kompatibel dengan Expo, instalasi 100K npm."
+    },
+    {
+      "id": "1142097",
+      "slug": "shadow-e5e59df3-abae-4647-89a4-2dca0980e6a2",
+      "name": "bayangan",
+      "tagline": "Layar komputer AI dan kontrol suara dengan otomatisasi khusus",
+      "description": "Shadow adalah antarmuka AI untuk Mac Anda. Ini melihat layar Anda, mendengar suara Anda, dan menjalankan prompt yang Anda buat — pada pintasan keyboard, atau dalam rapat Anda. Akhirnya Keterampilan melakukan pekerjaan. Balasan cepat menyusun email dari apa yang Anda katakan dan apa yang ada di layar. Pengetikan suara mengubah berbicara menjadi teks bersih, di mana saja. Keterampilan pertemuan menangkap setiap kata dan layar, lalu menyampaikan catatan dan tindak lanjut saat Anda menutup telepon. Membangun sendiri-setiap keterampilan adalah prompt, konteks, dan output."
+    },
+    {
+      "id": "1149482",
+      "slug": "m1-by-montage",
+      "name": "M1 dengan Montage",
+      "tagline": "UI Agen yang Skala Sesuai Permintaan",
+      "description": "Agen AI merender UI secara perlahan, mahal, tidak konsisten dan tagihan inferensi melonjak darinya. Montage memperbaikinya: mengeluarkan skema niat kecil, kami mengkompilasi komponen produksi di sisi server: 10x lebih cepat, 50-100x lebih sedikit token, model dan kerangka agnostik. Sekarang satu panggilan API M1 menghasilkan visual interaktif yang kaya, menghostingnya sebagai UI langsung dengan keadaan persisten, dan gaya untuk merek Anda. Jangan biarkan agen Anda menemukan kembali UI setiap giliran-kirimkan mereka pada montase!"
+    },
+    {
+      "id": "1148842",
+      "slug": "searchad-ai",
+      "name": "Searchad.ai",
+      "tagline": "Jalankan iklan pencarian Apple dengan mengobrol dengan AI",
+      "description": "Kursor untuk Apple Search Ads. Jalankan kampanye Apple Search Ads di setiap negara hanya dengan mengobrol. AI adalah read-only secara default, dan tidak ada yang menyebarkan, berhenti, atau menghabiskan satu sen pun tanpa persetujuan eksplisit Anda. Lihat ROA Anda, kelola kampanye hanya dengan mengobrol. Bekerja untuk setiap negara yang didukung oleh Apple Ads."
+    },
+    {
+      "id": "1138152",
+      "slug": "origio",
+      "name": "Asal",
+      "tagline": "Cara yang dipersonalisasi untuk menemukan tempat tinggal",
+      "description": "Sebagian besar alat relokasi memberi Anda perbandingan kota umum. Origio mempersonalisasikannya. Jawab 8 pertanyaan tentang pekerjaan, paspor, anggaran sewa dan prioritas Anda dan skor 25 negara berdasarkan gaji setelah pajak, kesulitan visa untuk kewarganegaraan Anda, biaya hidup dan kualitas hidup. tier gratis menunjukkan 3 pertandingan teratas Anda. Pro membuka semua 25, kalkulator gaji, daftar periksa visa lengkap, dan perbandingan 3 negara. Pembayaran satu kali, tidak ada langganan."
+    },
+    {
+      "id": "1149478",
+      "slug": "polarity-3",
+      "name": "polaritas",
+      "tagline": "Tumpukan Peningkatan Diri untuk Agen",
+      "description": "Polaritas memantau setiap keputusan agen dalam produksi, memperlihatkan pola kegagalan sebelum pengguna memukulnya, dan mengubah lintasan menjadi evals yang menambah keandalan agen Anda dari waktu ke waktu!"
+    },
+    {
+      "id": "1149111",
+      "slug": "moody-5",
+      "name": "Moody",
+      "tagline": "wallpaper Mac Anda yang mendengarkan musik Anda",
+      "description": "🎵 Musik-reaktif. ☔ Sadar cuaca. 🎯 Sinkronisasi fokus. MOODy mengubah desktop Mac Anda menjadi permukaan hidup — enam mode pintar yang sesuai dengan musik, cuaca, suasana hati, dan waktu sehari. Wallpaper 4K, multi-monitor, macOS 14.6+."
+    },
+    {
+      "id": "1149496",
+      "slug": "krea-2-3",
+      "name": "Krea 2",
+      "tagline": "model gambar yang dibangun untuk kontrol gaya dan moodboard",
+      "description": "Buat gambar AI yang ekspresif dengan Krea 2, model fondasi internal Krea AI untuk keragaman estetika, kontrol gaya, moodboard, dan alur kerja kreatif."
+    },
+    {
+      "id": "1135610",
+      "slug": "draft-ea9a2933-7710-472c-a9e4-59b9ffcc2931",
+      "name": "rancangan",
+      "tagline": "Tangkap obrolan AI ke dalam basis pengetahuan Anda",
+      "description": "Draft menangkap jawaban berharga dari ChatGPT, Gemini, DeepSeek, chatbot vertikal, kemudian mengubahnya menjadi catatan yang dapat diedit dan dicari. Pertahankan pemformatan, atur wawasan, dengarkan dengan teks-ke-ucapan, jaga pengetahuan Anda tersedia secara offline, dan bagikan saat Anda memilih. Gratis untuk digunakan di Beta;"
+    },
+    {
+      "id": "1115546",
+      "slug": "triggered-agents-by-adaptive",
+      "name": "agen yang dipicu oleh adaptif",
+      "tagline": "Agen AI yang berjalan secara otomatis pada acara bisnis",
+      "description": "Adaptif memungkinkan Anda melampirkan agen AI ke peristiwa di alat bisnis Anda sehingga mereka bertindak secara otomatis saat pemicu menyala. Untuk pendiri dan operator yang menjalankan alur kerja multi-alat."
+    },
+    {
+      "id": "1121974",
+      "slug": "landinghero-ai-2",
+      "name": "AI Pahlawan Pendaratan",
+      "tagline": "Penjual 24/7 di situs web Anda",
+      "description": "Sebagian besar pengunjung mendarat di situs web Anda, memiliki pertanyaan, dan pergi tanpa jawaban. Anda tidak pernah tahu apa yang mereka cari. LandingHero membuat versi AI dari Anda yang berbicara dengan setiap pengunjung menggunakan suara, dalam bahasa mereka. Ini menjawab pertanyaan, memandu pengunjung di seluruh situs Anda, dan menangkap prospek. Colokkan URL Anda dan ubah situs web Anda menjadi tenaga penjualan 24/7."
+    },
+    {
+      "id": "1148331",
+      "slug": "pixserp",
+      "name": "pixserp",
+      "tagline": "LLM Anda di live web. Satu titik akhir, sepuluh bentuk jawaban.",
+      "description": "pixserp adalah mesin pencari asli AI untuk pembangun. Satu titik akhir, sepuluh bentuk jawaban web langsung — pencarian, berita, gambar, tempat, belanja, penerbangan, hotel, YouTube, transkrip, URL apa pun — dikutip secara default. Drop-in untuk OpenAI SDK. Flat $1,50/1k permintaan."
+    },
+    {
+      "id": "1149062",
+      "slug": "sizzleair",
+      "name": "mendesis udara",
+      "tagline": "Asisten Termal untuk MacBook Air Tanpa Kipas",
+      "description": "SizzleAir adalah asisten termal macOS kecil yang dibangun khusus untuk MacBook Air tanpa kipas. Alih-alih dinding sensor lain, ia mengubah tekanan termal, konteks beban kerja, tampilan eksternal atau keadaan clamshell, dan penggunaan CPU teratas menjadi satu status yang jelas, kemungkinan penyebab, dan langkah berikutnya yang praktis. Tidak ada pendingin palsu, tidak ada kontrol kipas, tidak ada dasbor raksasa."
+    },
+    {
+      "id": "1149543",
+      "slug": "voiser-ai-2",
+      "name": "Voiser AI",
+      "tagline": "Suara AI Mirip Manusia dalam 140 Bahasa",
+      "description": "Voiser membantu kreator, tim, dan bisnis mengubah teks menjadi voiceover AI yang paling manusiawi. Dengan 140+ bahasa, 1000+ suara, gaya suara emosional, instruksi khusus, dan generasi cepat, Anda dapat membuat voiceover realistis untuk video, iklan, konten pelatihan, podcast, dan proyek global dalam hitungan menit."
+    },
+    {
+      "id": "1149570",
+      "slug": "anyframe-2",
+      "name": "bingkai apa pun",
+      "tagline": "Kotak pasir untuk agen AI Anda",
+      "description": "Kotak pasir yang digulung dengan tangan untuk setiap agen menjadi tua dengan cepat. AnyFrame memberi Anda bidang kontrol: menentukan agen sekali, boot sesi dalam hitungan detik, menggerakkannya dari UI web atau SDK Python di saluran yang sama. Claude Code, Codex, abah-abahmu."
+    },
+    {
+      "id": "1147447",
+      "slug": "quickright",
+      "name": "QuickRight",
+      "tagline": "Fitur klik kanan yang hilang untuk macOS Finder",
+      "description": "QuickRight menambahkan fitur klik kanan yang hilang ke macOS Finder. Buat file baru secara instan, gunakan true Cut & Paste, buka Terminal atau Warp di folder saat ini, salin jalur file, pindahkan file lebih cepat, kompres gambar, ekstrak warna, periksa hash, dan banyak lagi — semuanya langsung dari menu konteks Finder. Dibangun untuk pengguna macOS yang bekerja dengan file setiap hari."
+    },
+    {
+      "id": "1147361",
+      "slug": "agentspan",
+      "name": "Span Agen",
+      "tagline": "runtime sumber terbuka untuk agen AI yang tahan lama",
+      "description": "Agentspan adalah server open-source dan SDK untuk menjalankan agen AI sebagai alur kerja yang tahan lama. Anda dapat mendefinisikan agen secara terprogram, mengeksekusinya di sisi server, dan memeriksa setiap keadaan run dan eksekusi di UI. Agentspan menambahkan pemulihan crash, persetujuan human-in-the-loop, pagar pembatas, riwayat alat, dan observabilitas di sekitar kerangka kerja agen dan LLM yang sudah Anda gunakan. Berlisensi MIT."
+    },
+    {
+      "id": "1149504",
+      "slug": "the-claude-code-daily",
+      "name": "dari Claude Code Daily",
+      "tagline": "Berita Kode Claude. dikurasi setiap hari.",
+      "description": "Mengikuti kode Claude adalah pekerjaan penuh waktu. Rilis baru, tips komunitas, dan alur kerja tersebar di X. Claude Code Daily memperbaikinya. Setiap hari kerja pagi, postingan teratas disuling menjadi ringkasan 2 menit yang dikirim ke kotak masuk Anda."
+    },
+    {
+      "id": "1149410",
+      "slug": "beyondcomments",
+      "name": "melampaui komentar",
+      "tagline": "Ubah komentar YouTube menjadi pertumbuhan saluran, dalam 45 detik!",
+      "description": "BeyondComments menganalisis setiap komentar YouTube pada video Anda dan mengubahnya menjadi sinyal yang dapat ditindaklanjuti. Analisis sentimen, ide konten, penjangkauan sponsor, penggemar berniat tinggi, dan skor viralitas. Tempel URL YouTube apa pun dan dapatkan pengarahan AI lengkap dalam 45 detik."
+    },
+    {
+      "id": "1149506",
+      "slug": "perceptron-mk1",
+      "name": "Perseptron Mk1",
+      "tagline": "Alasan video Frontier untuk Dunia Fisik",
+      "description": "Perceptron Mk1 menghadirkan video perbatasan dan penalaran terwujud ke API produksi, dengan grounding temporal, output visual terstruktur, konteks multimodal 32K, dan harga yang dibangun untuk tugas dunia fisik volume tinggi."
+    },
+    {
+      "id": "1148397",
+      "slug": "elmo",
+      "name": "Elmo",
+      "tagline": "AEO Sumber Terbuka",
+      "description": "Bosan menghabiskan $400/bulan untuk Profound? Dengan Elmo, Anda dapat melacak semua petunjuk Anda di penyedia pencarian AI atau LLM mana pun, membandingkan visibilitas AI Anda dengan pesaing Anda, dan menyelami detail tentang situs web/utas Reddit/dll yang dikutip oleh AI. Anda juga dapat melakukan self-host pada sistem dengan Docker Compose dan memiliki data Anda sendiri."
+    },
+    {
+      "id": "1145240",
+      "slug": "nonbios-ai",
+      "name": "NonBioS.ai",
+      "tagline": "Pengembang perangkat lunak AI dengan komputernya sendiri",
+      "description": "NonBioS adalah insinyur perangkat lunak AI yang berjalan pada mesin Linux sendiri. Setiap pengguna mendapatkan mesin khusus yang dikendalikan sepenuhnya oleh agen-RAM 4GB, IP publik, dan akses root. NonBioS dapat menginstal apa saja, menjalankan apa saja, membuka port, dan menyebarkan. Kami terobsesi dengan arsitektur rekayasa konteks kami-yang disebut melupakan strategis, yang membantu tetap fokus pada tugas yang berjalan lama dan menangani basis kode yang kompleks. NonBioS membagikan rencananya di muka, mengalirkan setiap langkah, dan memungkinkan Anda mengganggu/mengalihkan kapan saja."
+    },
+    {
+      "id": "1148934",
+      "slug": "orlume",
+      "name": "Orlume",
+      "tagline": "AI yang membangun situs web yang terlihat dibuat oleh desainer top.",
+      "description": "Sebagian besar pembuat situs web AI merasa seperti mesin copy-paste. Orlume berbeda. Anda tidak mendapatkan templat, Anda mendapatkan selera. Jelaskan ide Anda dan itu berubah menjadi situs web kelas atas yang bersih dengan struktur nyata, tata letak yang tajam, dan perasaan \"ini benar-benar dirancang\". Tidak ada penyesuaian tanpa akhir, tidak ada keluaran generik. Hanya situs web yang cepat, unik, dan dipoles untuk pendiri, kreator, dan startup yang peduli dengan tampilan produk mereka."
+    },
+    {
+      "id": "1120011",
+      "slug": "dovilo",
+      "name": "Dovilo",
+      "tagline": "Manajer tugas dan aplikasi fokus gamified asli agen pertama.",
+      "description": "Dovilo mengubah daftar tugas Anda menjadi kota yang benar-benar Anda bangun. Selesaikan tugas, tetaplah fokus dengan pengatur waktu Pomodoro, dan bangun kota isometrik yang tumbuh seiring dengan produktivitas Anda. Agent-native: server MCP bawaan memungkinkan Claude Code, Cursor, Windsurf, Codex CLI, Gemini CLI, dan klien MCP mana pun menjalankan tugas AI Anda langkah demi langkah. Aktifkan webhook untuk menghubungkan alur kerja agensi Anda sendiri: Tugas baru dibuat, orkestrator Anda mendapat pemberitahuan langsung. Gratis di iOS, Android, macOS dan Windows. Peluncuran 18 Mei."
+    },
+    {
+      "id": "1147333",
+      "slug": "dash-by-halaska",
+      "name": "Dash oleh Halaska",
+      "tagline": "Desain siap Investor, dalam seminggu",
+      "description": "Desain harga tetap meneruskan apa yang sebenarnya dinilai investor: situs, produk, dek. Mantan Google, mantan Ogilvy. 20 tahun dalam desain. Pendiri yang bekerja sama dengan kami telah mengumpulkan $ 160 juta. Tiga tingkat flat rate mulai dari $2,5K. Prototipe interaktif, bukan file Figma. Investor siap dalam seminggu."
+    },
+    {
+      "id": "1144729",
+      "slug": "caseodds-ai",
+      "name": "Peluang Kasus.ai",
+      "tagline": "AI menganalisis kasus hukum Anda dan memprediksi peluang kesuksesan",
+      "description": "Cari tahu apakah Anda akan memenangkan kasus pengadilan Anda. CaseOdds.ai menggunakan AI untuk menganalisis situasi hukum Anda dan memprediksi hasilnya — secara gratis."
+    },
+    {
+      "id": "1148032",
+      "slug": "walk-routes-reminders",
+      "name": "Berjalan: Rute",
+      "tagline": "Pelacak berjalan minimalis",
+      "description": "Berjalan adalah cara termudah untuk melacak jalan Anda. Catat rute Anda, lacak langkah Anda, dan lihat kemajuan Anda dari waktu ke waktu-semuanya dalam antarmuka minimal yang indah. Apakah Anda berjalan-jalan cepat atau membangun kebiasaan berjalan sehari-hari, Walk melacak waktu, jarak, kecepatan, kalori, dan ketinggian Anda. Lihat riwayat berjalan kaki Anda dengan peta rute, ikuti garis-garis Anda, dan tetap termotivasi dengan wawasan mingguan dan bulanan."
+    },
+    {
+      "id": "1141912",
+      "slug": "flintlab-sirius-platform",
+      "name": "Platform FlintLab Sirius",
+      "tagline": "Infra PaaS Perangkat Terpadu Asli AI",
+      "description": "FlintLab adalah Platform infrastruktur bertenaga AI sebagai layanan (IPaaS) yang dibuat khusus untuk mengubah cara tim teknik modern menguji, memvalidasi, dan mengirimkan perangkat lunak berkualitas tinggi. platform kami menyediakan akses sesuai permintaan ke perangkat nyata dan emulasi, bersama dengan lingkungan pengujian cloud-native yang dikontainer, yang memungkinkan organisasi untuk mensimulasikan kondisi seperti produksi dalam skala besar, tanpa overhead mengelola infrastruktur yang kompleks."
+    }
+  ]
+}

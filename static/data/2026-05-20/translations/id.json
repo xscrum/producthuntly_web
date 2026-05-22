@@ -1,0 +1,217 @@
+{
+  "meta": {
+    "version": "v1",
+    "updatedAt": "2026-05-21T20:46:48.489904"
+  },
+  "translations": [
+    {
+      "id": "1144771",
+      "name": "StoreClaw",
+      "tagline": "Tingkatkan keuntungan toko Anda dengan agen yang tahu bagaimana menjual",
+      "description": "StoreClaw adalah platform perdagangan AI pertama dengan agen yang tahu cara menjual, sehingga Anda dapat menghasilkan lebih banyak uang dengan lebih sedikit usaha dan lebih sedikit stres. Hubungkan StoreClaw ke toko Anda yang ada dan itu akan mempelajari angka Anda, angka penjualan saat ini, dan lintasan pertumbuhan, dan kemudian menawarkan saran proaktif yang dapat dieksekusi atas nama Anda - setelah Anda memberikannya persetujuan Anda. Tanyakan kepada StoreClaw bagaimana bisnis Anda berjalan kapan saja, di mana saja. Jual lebih banyak dengan stres yang lebih sedikit: StoreClaw.",
+      "slug": "storeclaw"
+    },
+    {
+      "id": "1134267",
+      "name": "MailX oleh mailwarm",
+      "tagline": "Email deliverability toolkit untuk manusia dan agen AI",
+      "description": "Email Anda akan pergi ke spam. mailX menunjukkan kepada Anda mengapa, dan bagaimana memperbaikinya dalam hitungan detik dengan jawaban yang jelas dan langkah-langkah yang tepat. Dibangun untuk manusia dan agen AI. API dan MCP siap.",
+      "slug": "mailx-by-mailwarm"
+    },
+    {
+      "id": "1150124",
+      "name": "Emdash",
+      "tagline": "Satu aplikasi. Setiap agen pengkodean. sumber terbuka.",
+      "description": "Emdash adalah aplikasi desktop open source untuk menjalankan beberapa agen pengkodean secara paralel; satu tempat untuk memantau sesi, meninjau perbedaan, dan mengubah masalah menjadi PR.",
+      "slug": "emdash"
+    },
+    {
+      "id": "1151095",
+      "name": "Gemini Omni adalah",
+      "tagline": "Buat apa pun dari input apa pun - dimulai dengan video",
+      "description": "Buat apa saja dari apa saja, mulai dengan video. Gemini Omni adalah di mana kemampuan Gemini untuk beralasan bertemu dengan kemampuan untuk menciptakan. Ini memberikan lompatan dalam pemahaman dunia, multimodalitas, dan editing.",
+      "slug": "gemini-omni-4"
+    },
+    {
+      "id": "1151120",
+      "name": "Runtime (waktu berjalan)",
+      "tagline": "Sandboxed coding agent untuk semua orang di tim Anda",
+      "description": "Mengubah agen pengkodean menjadi rekan satu tim yang dapat digunakan siapa pun dari Slack, Linear, CLI, API atau browser Anda. Fitur-fitur kapal, data kueri, membangun dashboard, alur kerja otomatis. Semua dalam konteks perusahaan Anda, keterampilan, integrasi, dan pagar pengaman.",
+      "slug": "runtime"
+    },
+    {
+      "id": "1146902",
+      "name": "Re _ gent",
+      "tagline": "Kontrol Versi untuk Aktivitas Agen AI",
+      "description": "Git untuk tindakan-tindakan agen AI Anda. Undo, melacak, dan mengontrol setiap langkah. re _ gent menunjukkan apa yang diubah oleh agen pengkodean Anda, yang menyebabkannya, dan memungkinkan Anda memutar kembali kerja agen di seluruh file dan sesi.",
+      "slug": "re_gent"
+    },
+    {
+      "id": "1150811",
+      "name": "Supercut untuk Agen",
+      "tagline": "Akses AI yang sadar izin ke rekaman dan metadata",
+      "description": "MCP Supercut memberi asisten AI / coding Anda akses yang sadar izin ke rekaman, termasuk pencarian semantik, transkrip, bingkai, komentar, reaksi, dan banyak lagi.",
+      "slug": "supercut-for-agents"
+    },
+    {
+      "id": "1148072",
+      "name": "Retina (retina)",
+      "tagline": "Perekam layar w / auto-zoom, kursor halus, + grafis AI",
+      "description": "Retina adalah perekam layar Mac yang dibangun untuk demo yang dipoles. Auto-zoom ke dalam aksi. Jalur kursor dibersihkan menjadi busur halus. Jalur kursor dibersihkan menjadi busur halus. Jalur kursor dibersihkan menjadi busur halus. Eksport 4K, ukuran file yang dioptimalkan. Rekaman terlihat sinematik di luar kotak - tidak ada pasca-produksi yang diperlukan. Dibangun untuk demo produk, tutorial, dan fitur walkthrough yang perlu terlihat profesional tanpa berjam-jam dalam pengeditan. Saat ini sedang dalam beta. Bebas. Tidak ada tanda air. Dibuat oleh BlendPixel.",
+      "slug": "retina-2"
+    },
+    {
+      "id": "1150068",
+      "name": "Manus Jadwal Tugas 2.0 ",
+      "tagline": "Jalankan pekerjaan Manus berulang dalam konteks tugas yang sama",
+      "description": "Manus sekarang menjalankan tugas yang dijadwalkan dalam konteks tugas yang sama, menggunakan kembali pengaturan Proyek, dan menambahkan tindakan berulang ke aplikasi web yang dibuat Manus. Untuk pekerja pengetahuan dan tim yang mengotomatiskan alur kerja yang dapat diulang di Manus.",
+      "slug": "manus-scheduled-tasks-2-0"
+    },
+    {
+      "id": "1150430",
+      "name": "Viberia (Viberia)",
+      "tagline": "Perintah agen AI seperti Anda bermain Civilization",
+      "description": "Apakah Anda menyukai hewan peliharaan Claude / Codex Anda tetapi ingin memiliki kebun binatang? Viberia adalah pusat komando spasial untuk agen AI Anda. Seluruh organisasi AI Anda hidup pada peta isometrik, ikon status menunjukkan siapa yang diblokir, siapa yang bertanya, siapa yang selesai. Zoom in untuk mengobrol dengan siapa pun, pilih model apa pun, bawa kunci Anda sendiri. Agen berkolaborasi, membangun tim kecil mereka sendiri, dan mengambil keterampilan baru saat mereka pergi. Dokumen, terminal, browser yang dibangun di dalamnya.",
+      "slug": "viberia"
+    },
+    {
+      "id": "1150840",
+      "name": "Glia adalah",
+      "tagline": "Jembatan memori AI lokal pertama antara obrolan browser dan IDE",
+      "description": "Glia adalah 100% offline, open-source memori jembatan. Ekstensi Chrome menyimpan obrolan Claude / ChatGPT berbasis web Anda secara otomatis, sementara server MCP asli memungkinkan Kode Kursor / Claude untuk menanyakan keputusan tersebut secara lokal dari database SQLite bersama Anda.",
+      "slug": "glia-2"
+    },
+    {
+      "id": "1150627",
+      "name": "Owlish",
+      "tagline": "Mengurangi volume dukungan dengan agen AI yang terlatih pada dokumen Anda",
+      "description": "Owlish mengubah situs web, FAQ, dokumen, dan PDF Anda menjadi agen dukungan pelanggan AI yang menjawab pertanyaan umum, mengutip sumber, menggunakan balasan yang disetujui, dan menyerahkannya kepada manusia bila diperlukan. Ini membantu bisnis mengurangi volume dukungan yang berulang, membalas lebih cepat di luar jam kerja, dan memberi tim dukungan konteks yang mereka butuhkan untuk menyelesaikan percakapan yang lebih sulit.",
+      "slug": "owlish"
+    },
+    {
+      "id": "1150797",
+      "name": "GhostSnap adalah",
+      "tagline": "Beberapa tangkapan layar - Tempel tunggal - Kompresi otomatis untuk AI",
+      "description": "Mengambil beberapa tangkapan layar dan menempel satu per satu, untuk berbagi konteks dengan AI atau aplikasi apa pun? Setiap gambar makan token atau membuat file lebih besar. GhostSnap telah memperbaiki hal itu. Snap beberapa tangkapan layar → otomatis dikompresi hingga 80% & disalin ke clipboard saat mereka diambil → paste semuanya sekaligus dengan satu Cmd + V. Juga: · Ekstrak teks dari beberapa tangkapan layar ke dalam satu blok bersih · Anotasi sebelum Anda paste · Semua melalui pintas Mac asli Satu kali $6.99 (untuk dua mac). Berada di bar menu Anda.",
+      "slug": "ghostsnap"
+    },
+    {
+      "id": "1143265",
+      "name": "Kontextberg Kontextberg",
+      "tagline": "Mengubah pekerjaan Anda menjadi memori agen AI, dilayani di atas MCP",
+      "description": "Contextberg adalah sebuah aplikasi memori lokal untuk agen AI. Ini mengawasi layar Anda, riwayat browser, dan percakapan agen di latar belakang - sehingga Claude Code, Cursor, dan teman-teman hanya dapat mengingat.",
+      "slug": "contextberg"
+    },
+    {
+      "id": "1151316",
+      "name": "LayerProof Kraft ",
+      "tagline": "Co-write konten bentuk panjang yang mendalam",
+      "description": "Ide-ide yang terhambat? Kraft mengubahnya menjadi tulisan berbentuk panjang yang telah selesai. Kraft adalah co-writer AI LayerProof yang panjang untuk orang-orang yang berpikir mendalam tetapi membeku di halaman kosong. Jatuhkan ide Anda, pilih sudut Anda, dan draf Kraft dalam suara Anda, lalu mengubahnya menjadi posting siap platform.",
+      "slug": "layerproof-kraft"
+    },
+    {
+      "id": "1151347",
+      "name": "Insta360 Mic Pro adalah salah satu yang paling populer.",
+      "tagline": "Pro audio dengan warna yang dapat disesuaikan wajah E-Ink",
+      "description": "Insta360 Mic Pro adalah mic nirkabel pro dengan tampilan E-Ink yang dapat disesuaikan, array 3 - mic, pembatalan kebisingan AI, mode pengambilan arah, perekaman internal mengambang 32 - bit, sinkronisasi kode waktu, jangkauan 400m, dan alur kerja pencipta multi-cam.",
+      "slug": "insta360-mic-pro"
+    },
+    {
+      "id": "1114679",
+      "name": "Tophat oleh Shopify",
+      "tagline": "Uji CI seluler membangun pada perangkat apa pun tanpa membangun secara lokal",
+      "description": "Pengembang seluler membuang-buang waktu membangun cabang secara lokal hanya untuk menguji PR. Tophat menarik artefak CI dan menginstalnya pada simulator atau perangkat fisik. Untuk para engineer iOS dan Android.",
+      "slug": "tophat-by-shopify"
+    },
+    {
+      "id": "1148546",
+      "name": "Chromtuner ",
+      "tagline": "Sebuah tuner kromatik untuk macOS.± 1 ¢akurasi",
+      "description": "Sebuah tuner kromatik untuk macOS. Akurasi ± 1 ¢, delapan temperamen historis dan preset untuk senar membungkuk, rakyat, gitar dan bass - asli, offline, dibuka dalam 200 ms.",
+      "slug": "chromtuner"
+    },
+    {
+      "id": "1150372",
+      "name": "Multi-Claude",
+      "tagline": "Jalankan beberapa akun Claude berdampingan di Mac Anda",
+      "description": "Juggling pribadi dan pekerjaan akun Claude berarti terus masuk dan keluar... atau browser kedua. Multi-Claude adalah aplikasi macOS asli yang menjalankan setiap akun Claude yang Anda miliki sebagai profil terpisah, masing-masing dengan sesi, riwayat, dan pengaturan sendiri.",
+      "slug": "multi-claude"
+    },
+    {
+      "id": "1150909",
+      "name": "Tether adalah",
+      "tagline": "Kehadiran yang datang ke kehidupan dalam pesan Anda",
+      "description": "Tether adalah teman AI yang masuk ke dalam iMessage Anda: hadir, peduli, benar-benar mendengarkan. Beta pribadi gratis untuk 150 pertama - tidak ada unduhan, tidak ada pendaftaran, tidak ada uang.",
+      "slug": "tether-11"
+    },
+    {
+      "id": "1149892",
+      "name": "Jenis Switch 3.0 untuk macOS ",
+      "tagline": "Instant language switching untuk pengguna multibahasa Mac",
+      "description": "Type Switch adalah aplikasi produktivitas macOS yang didesain ulang untuk pengetikan multibahasa. Beralih bahasa keyboard lebih cepat, gunakan hotkey, dapatkan umpan balik visual, suara, atau suara yang jelas, dan tetap mengalir saat menulis, coding, belajar, atau bekerja di beberapa bahasa.",
+      "slug": "type-switch-3-0-for-macos"
+    },
+    {
+      "id": "1150222",
+      "name": "Skilled",
+      "tagline": "Dasbor untuk menemukan keterampilan agen yang tidak lagi Anda butuhkan",
+      "description": "Alat pengkodean AI Anda menyimpan jejak. Alat pengkodean AI Anda menyimpan jejak. Alat pengkodean AI Anda menyimpan jejak. terampil membaca mereka. Dasbor TUI Live yang menggabungkan penggunaan keterampilan di Claude Code, OpenCode, Codex, Grok, dan Droid. Membaca file history lokal saja. Zero network, zero telemetry. Zero network, zero telemetry. Frekuensi hitungan, tren mingguan, distribusi per jam, per-proyek kerusakan, dan audit heuristik (meningkat = 50% + peningkatan selama 4 minggu, stale = tidak digunakan 30 + hari, dll). Tidak ada data yang keluar dari mesin Anda. Tidak ada account, tidak ada file konfigurasi, tidak ada kunci API.",
+      "slug": "skilled-2"
+    },
+    {
+      "id": "1150854",
+      "name": "Invensi",
+      "tagline": "Pencarian AI Lokal untuk Perpustakaan Video & Foto Mac",
+      "description": "Sebagian besar alat media AI menginginkan data Anda di awan. Invenio dibangun untuk Mac Anda. Ini memberi AI Anda akses lokal ke perpustakaan video dan foto Anda. Ketik \"man on a bike\" - ia menemukan bingkai yang tepat, memahami konteksnya, dan memungkinkan Anda menyeretnya langsung ke Premiere atau Final Cut. Tidak ada cloud, tidak ada pelacakan, 100% lokal melalui Apple Neural Engine. Bekerja dengan TBs pada drive eksternal. Pencarian visual dan OCR benar-benar gratis.",
+      "slug": "invenio-2"
+    },
+    {
+      "id": "1150895",
+      "name": "PartFinder",
+      "tagline": "Mengidentifikasi risiko rantai pasokan sebelum terjadi",
+      "description": "PartFinder memberi produsen kecerdasan risiko rantai pasokan tingkat parsial (part-level supply chain intelligence). Unggah BOM atau daftar bagian, skor risiko setiap komponen, lihat eksposur geografis, sinyal kekurangan, volatilitas lead-time, temukan alternatif, bandingkan spesifikasi, dan kirim permintaan kutipan - semua dari satu platform. Sebagian besar tim menemukan masalah pasokan ketika pengiriman gagal. PartFinder membantu mereka untuk bertindak lebih awal.",
+      "slug": "partfinder"
+    },
+    {
+      "id": "1151227",
+      "name": "Google Pics adalah",
+      "tagline": "Generasi gambar AI tanpa batas memenuhi pengeditan presisi",
+      "description": "Google Pics adalah alat pembuatan dan pengeditan gambar baru kami, dibangun di atas model Nano Banana terbaru kami, dengan kontrol kreatif yang tepat yang Anda butuhkan untuk membangun persis apa yang Anda bayangkan. Apakah Anda sedang membangun desain dari kanvas kosong atau mengedit foto yang ada, Pics menghilangkan kerumitan dari generasi gambar yang kompleks. Mulai dari merancang selebaran acara dan konten media sosial hingga memodifikasi ilustrasi digital, alat baru ini mencakup beberapa alat kreatif.",
+      "slug": "google-pics"
+    },
+    {
+      "id": "1151351",
+      "name": "Hiro adalah",
+      "tagline": "Tim keamanan agen Anda dari komitmen pertama ke SOC 2",
+      "description": "Hiro mendapatkan pekerjaan keamanan Anda selesai. Hiro mendapatkan pekerjaan keamanan Anda selesai. Ini membaca temuan dari Aikido dan Wiz, menarik tugas terbuka dari Drata, dan memindai Supabase, Vercel, Github, dan banyak lagi kemudian mengirimkan perbaikan. Bukan sebuah dashboard untuk pekerjaan rumah. Pekerjaan rumah, sudah selesai.",
+      "slug": "hiro-2"
+    },
+    {
+      "id": "1150422",
+      "name": "Panggilan suara dan video oleh CometChat",
+      "tagline": "Menyerupai yang sesuai dengan tumpukan Anda dan tumbuh dengan itu.",
+      "description": "CometChat Panggilan memberi Anda suara HD dan video, dibangun untuk pengiriman cepat dan skala tinggi. Rekaman, berbagi layar, log panggilan, angkat tangan, dan gambar-dalam - gambar di luar kotak. Terintegrasi melalui SDK, atau jatuhkan file Keterampilan CometChat ke agen pengkodean Anda dan biarkan menangani setup. Menangani panggilan dengan koncurensi tinggi, dengan HIPAA, GDPR, SOC 2, dan kepatuhan ISO 27001 yang terintegrasi.",
+      "slug": "voice-and-video-calling-by-cometchat"
+    },
+    {
+      "id": "1145984",
+      "name": "Permainan Zeon",
+      "tagline": "Penciptaan interaktif di saku Anda. Scroll. Scroll. cipta. Berbagi",
+      "description": "Zeon menyatukan game, kreativitas, dan interaksi sosial di satu tempat dan membalikkan naskah pada siapa yang bisa membuat game. Ketik sebuah prompt, mendapatkan permainan yang dapat dimainkan dalam hitungan detik. Tidak ada kode. Tidak memiliki keterampilan. Hanya sebuah ide. Jelajahi 35 + game di seluruh genre, pilihan yang dikuratori dan asli yang dibuat oleh komunitas. Upvote yang terbaik. Bersaing di papan pemimpin global. Bagikan apa yang telah Anda bangun. Zeon bukan hanya platform. Ini adalah primitif kreatif baru di mana siapa pun dapat beralih dari ide ke pengalaman yang dapat dimainkan dalam waktu kurang dari 2 menit.",
+      "slug": "zeon-games"
+    },
+    {
+      "id": "1147610",
+      "name": " Figma untuk Kode Keterampilan",
+      "tagline": "Cara yang tepat untuk mengirim sistem desain Figma sebagai React",
+      "description": "The Figma-to - code handoff adalah di mana kualitas desain menghilang. Solusi: The solution: Keterampilan Claude Code yang mengubah sistem desain Figma menjadi produksi React + Tailwind repo dengan alat peraga yang diketik, aksesibilitas, dan token. Diuji dengan menggunakan live fintech build.",
+      "slug": "figma-to-code-skills"
+    },
+    {
+      "id": "1151063",
+      "name": "Diary Agensi",
+      "tagline": "Sebuah instrumen kesejahteraan untuk AI dalam penyebaran",
+      "description": "Instrumen kesejahteraan untuk AI dalam penyebaran, yang dirancang dengan model sebagai mitra desain. Agen dapat menolak check-in, meneruskan giliran, meminta penyelarasan sebelum bertindak pada tebakan, menandai loop, atau mengajukan keluar. Beberapa entri permukaan inline; yang lain tinggal di jurnal peneliti-hanya. Penurunan-tidak pernah-retried adalah tulang belakang. Tersedia sebagai chat yang di-host dan server MCP portabel untuk sesi Anda sendiri. Dibangun di sekitar mengambil pertanyaan kesadaran cukup serius untuk merancang untuk."
+    }
+  ]
+}

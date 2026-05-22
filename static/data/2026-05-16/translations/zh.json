@@ -1,0 +1,248 @@
+{
+  "meta": {
+    "version": "v1",
+    "updatedAt": "2026-05-22T01:00:49.420836"
+  },
+  "translations": [
+    {
+      "id": "1143406",
+      "slug": "loova-agents-3",
+      "name": "Loova Agents",
+      "tagline": "一个以人为本的开源人工智能框架",
+      "description": "尝试使用人工智能助手的人中，有90%最终放弃了。主要有三个原因：每次会话都重置的记忆、你的数据存放在别人的云端以及启动时的复杂终端。这些都是实际的障碍。而OpenHuman解决了所有这些问题。它优先考虑本地和隐私，能够记住你的一切，使用得越多，变得越聪明。所有功能都集中在一个简单的界面中，完全开源，只需一键设置。附注：产品目前处于测试阶段，可能会有一些bug，但我们正在快速改进和发布。",
+      "keywords": "OpenHuman, 开源AI, 人性化设计, 本地优先, 隐私保护, 自适应记忆, 简单界面, 一键设置, beta测试, 用户友好, AI助手, 数据安全,"
+    },
+    {
+      "id": "1144164",
+      "slug": "agentmemory",
+      "name": "Agentmemory",
+      "tagline": "为人工智能代理提供的网页抓取服务",
+      "description": "HasData 是一个管理型网页抓取服务，专为数据管道和人工智能代理设计。只需发送任何网址，就能通过一次 API 调用获得干净的 JSON 或 Markdown 数据。我们会处理代理、浏览器渲染、重试和反机器人检测等问题。超过 50 个现成的抓取工具覆盖了谷歌搜索、地图、新闻、Zillow、Indeed 以及主要的电子商务平台。AI 提取功能可以处理任何其他网址，只需通过纯文本提示即可使用。您可以通过 Claude、ChatGPT 或自己的 AI 代理通过 MCP 进行调用，其他操作则可以通过命令行界面（CLI）完成。",
+      "keywords": "网络爬虫服务, 数据管道, AI代理, JSON格式, Markdown格式, API调用, 代理管理, 浏览器渲染, 重试机制, 反机器人技术, 爬虫工具, Google搜索, Google"
+    },
+    {
+      "id": "1148119",
+      "slug": "raybeam",
+      "name": "Raybeam",
+      "tagline": "预测下一个从ProductHunt发布的A轮融资项目",
+      "description": "PHBench：首个公开基准，预测产品在Product Hunt上线后获得A轮融资的可能性。我们分析了7年来的67,292个精选上线项目，并通过Crunchbase与528个经过验证的A轮融资进行了关联。我们的模型表现优秀，预测准确度比随机猜测高出4.7倍。团队规模和社区参与度是最强的预测信号；B2B领域（如API、支付、金融科技）的转化率是基线的3倍；排名第一的项目融资能力是未排名项目的2.2倍。数据集、代码和基准都已公开。请访问phbench.com提交项目，并订阅每周高概率的融资项目更新。",
+      "keywords": "PHBench, 产品猎人, 系列A融资, 公共基准, 启动信号, 数据分析, 创业公司, B2B, API, 支付, 金融科技, 社区参与, 数据集,"
+    },
+    {
+      "id": "1144056",
+      "slug": "gemini-3-1-flash-lite-4",
+      "name": "Gemini 3.1 Flash-Lite",
+      "tagline": "将参展商数据转化为预定销售会议。",
+      "description": "与普通的联系人数据库不同，Lensmor专注于展商数据，帮助团队发现相关的活动，找到参展公司，识别决策者，获取经过验证的电子邮件，并在展会开始前预约会议。其突出的特点包括超过160,000个全球活动、展商搜索、公司到活动的反向查询、CSV导出功能，以及一个用于开发潜在客户和规划外展的人工智能助手。",
+      "keywords": "Lensmor, 展商数据, 预定销售会议, 联系数据库, 相关活动, 展览公司, 决策者, 验证邮箱, 会议预约, 全球活动, 展商搜索, 公司与活动反向"
+    },
+    {
+      "id": "1147936",
+      "slug": "chatgpt-for-personal-finance",
+      "name": "ChatGPT for Personal Finance",
+      "tagline": "使用设计代理工具来设计、构建和运营您的网站。",
+      "description": "Lokuma 2.0 是一个专注于设计的网站代理工具。大多数人工智能构建器只能生成初步草稿，但真正的网站需要有结构、品位、品牌一致性、编辑、发布、表单以及持续更新。Lokuma 将规划、设计、风格、素材、网站状态、编辑和发布整合到一个智能化的工作流程中，让你的网站不仅仅是生成的，而是经过精心设计的。通过这个工具，你可以更轻松地设计、构建和运营你的网站。",
+      "keywords": "Agentic网站构建器, Lokuma, 网站设计, AI网站构建, 网站结构, 品牌一致性, 编辑和发布, 网站资产, 网站更新, 设计代理, 网站工作流, 网站构建工具,"
+    },
+    {
+      "id": "1147756",
+      "slug": "wring",
+      "name": "Wring",
+      "tagline": "一种通过与大型语言模型（LLM）对话进行的多人在线游戏。",
+      "description": "Gradient Bang是一款全新的软件，它是原生AI开发的，完全从零开始，旨在到处使用大型语言模型（LLMs）。这款游戏拥有一个动态的用户界面，由LLM驱动，还支持对话式语音输入。为了赢得游戏，你需要管理一支AI子代理的舰队。你甚至可以编程创建自己的子代理，并在Vercel沙盒中运行它们。这款软件是使用Pipecat、Daily WebRTC、Supabase和Vercel开发的。",
+      "keywords": "渐变轰炸, 多人在线游戏, LLM, 人工智能, 动态用户界面, 对话语音输入, AI子代理, 程序编写, Vercel沙盒, Pipecat,"
+    },
+    {
+      "id": "1147791",
+      "slug": "scholarxiv-4",
+      "name": "ScholarXIV",
+      "tagline": "产品经理的指南",
+      "description": "让产品经理能够将客户反馈转化为可以直接用于开发的AI需求。",
+      "keywords": "mia, 产品经理, 游标, 客户信号, 需求转化, AI开发, 产品管理工具, 需求管理, 数据分析, 用户反馈"
+    },
+    {
+      "id": "1148091",
+      "slug": "mysoft-ai",
+      "name": "mysoft.ai",
+      "tagline": "构建基于插件的开源运行时编码代理",
+      "description": "Cline SDK 是一个开源的 TypeScript 代理运行时，采用插件架构，支持本地子代理、MCP（多通道协议）、检查点、定时任务和网页抓取功能。它特别适合那些希望构建自定义编码代理或命令行工具的开发者。",
+      "keywords": "Cline SDK, 开源, TypeScript, 编码代理, 插件架构, 原生子代理, MCP支持, 检查点, 定时任务, 网络获取, 开发者, 自定义编码代理, CLI工具"
+    },
+    {
+      "id": "1147311",
+      "slug": "burn-after",
+      "name": "Burn After",
+      "tagline": "一台在你代理工作时会醒来的游戏机",
+      "description": "在你的编辑器侧边栏中，有一台游戏机，当你的AI助手在工作时它会醒来，而当助手停止工作时它又会收起来。",
+      "keywords": "Standboy, 游戏机, AI代理, 编辑器侧边栏, 自动唤醒, 停止工作, 游戏辅助, 便携游戏, 智能助手, 创意工具"
+    },
+    {
+      "id": "1147725",
+      "slug": "nextish-news",
+      "name": "Nextish News",
+      "tagline": "自托管的人工智能助手，能够连接1000多个应用程序，运行在Vercel平台上。",
+      "description": "TrustClaw 是一个个人 AI 助手，你可以通过一条命令在 Vercel 上自行托管。它由 Composio 提供支持，能够通过 OAuth 连接超过 1000 个应用程序，独立运行定时任务，还可以通过网页或 Telegram 和你对话。它是完全开源的，采用 MIT 许可证，随时欢迎你来接管！",
+      "keywords": "TrustClaw, Composio, 自托管AI, Vercel, 应用连接, 1000+应用, OAuth, 定时任务, 开源, MIT许可证, 个人AI代理, Telegram聊天, 网络交互"
+    },
+    {
+      "id": "1147161",
+      "slug": "grok-build",
+      "name": "Grok Build",
+      "tagline": "别对每个AI重复同样的话。",
+      "description": "❌ 每次你开始一个新的AI聊天时，都要重复粘贴相同的上下文——你的技术栈、决策、约束条件以及上次的进展🛠️ Relay可以解决这个问题。它会记录下你AI聊天中重要的信息，并保持一个动态的项目简报随时可用。只需一键，就能将完整的上下文注入到任何新的对话中🦾 通过MCP，你的IDE助手（如Cursor、Claude Code、Windsurf、Codex等）可以读取和写入相同的简报，并自动同步。兼容：ChatGPT、Claude、Gemini、Grok等，免费使用。",
+      "keywords": "中继, AI聊天, 上下文管理, 项目简报, 自动同步, 聊天助手, 多AI支持, 一键注入, 开发者工具, 生产力提升, 免费使用, 技术创新,"
+    },
+    {
+      "id": "1147659",
+      "slug": "selectable-ocr-text-capture",
+      "name": "Selectable: OCR & Text Capture",
+      "tagline": "一座连接人工智能代理与实时网络的桥梁",
+      "description": "Kimi WebBridge 是一款专为人工智能代理设计的浏览器扩展。它可以帮助人工智能打开网页、点击按钮、填写表单、提取信息，甚至自动化网页上的各种任务。",
+      "keywords": "Kimi WebBridge, AI代理, 浏览器扩展, 连接, 实时网络, 自动化, 网页操作, 信息提取, 表单填写, 任务自动化"
+    },
+    {
+      "id": "1148020",
+      "slug": "plotbook",
+      "name": "Plotbook",
+      "tagline": "现代网络的简单Google Analytics替代方案。",
+      "description": "Sleek Analytics 是一款以隐私为重心的现代网页分析工具，是 Google Analytics 的替代品。它提供实时网站分析、无Cookie追踪和快速仪表盘。我们创建 Sleek 的初衷是让分析变得简单易懂，不需要博士学位。只需粘贴一行代码，几秒钟内你就能实时看到真实访客在你网站上的动态。没有繁琐的设置、没有Cookie提示条，只有干净简洁的数据。",
+      "keywords": "Sleek Analytics, 谷歌分析替代品, 隐私优先, 现代网络, 实时网站分析, 无需cookie跟踪, 快速仪表盘, 简单分析, 代码粘贴,"
+    },
+    {
+      "id": "1147940",
+      "slug": "lingotype",
+      "name": "Lingotype",
+      "tagline": "现代网络的简单Google Analytics替代方案。",
+      "description": "Sleek Analytics 是一款以隐私为重心的现代网页分析工具，是 Google Analytics 的替代品。它提供实时网站分析、无Cookie追踪和快速仪表盘。我们创建 Sleek 的初衷是让分析变得简单易懂，不需要博士学位。只需粘贴一行代码，几秒钟内你就能实时看到真实访客在你网站上的动态。没有繁琐的设置、没有Cookie提示条，只有干净简洁的数据。",
+      "keywords": "Sleek Analytics, 谷歌分析替代品, 隐私优先, 现代网络, 实时网站分析, 无需cookie跟踪, 快速仪表盘, 简单分析, 代码粘贴,"
+    },
+    {
+      "id": "1147108",
+      "slug": "shiplog-b5a2e03a-e348-4bda-9594-794fa1322d8f",
+      "name": "ShipLog",
+      "tagline": "粘贴链接即可获取实时网站。",
+      "description": "大多数网站建设工具生成的页面都显得千篇一律，毫无特色。而Wowable则不同，它能将评论、社交媒体资料、截图和商业列表等内容，转化为一个完整的网站，利用的是你公司在线已有的内容。只需粘贴一个谷歌地图链接、Instagram个人资料、TripAdvisor页面、LinkedIn个人资料，甚至是一个截图——Wowable就能将这些信息转化为一个看起来真实而非AI生成的网站。无需写作、无需设计、无需复杂设置。",
+      "keywords": "Wowable, 网站生成器, 真实网站, 在线内容, 谷歌地图链接, Instagram 个人资料, TripAdvisor 页面, LinkedIn 个人资料, 截图, 商业列表, 无需写作, 无需"
+    },
+    {
+      "id": "1147979",
+      "slug": "memory4me",
+      "name": "Memory4Me",
+      "tagline": "一个连接可支持140多个图像和视频的AI模型。",
+      "description": "通过MCP，AI助手可以通过一个单一的可重复使用链接连接到各种工具。Picsart的MCP服务器就像一个统一的工具箱，提供了140多个用于图像、视频和音频的AI模型。用户的请求以简单的英语发出，助手会选择合适的模型，然后结果瞬间呈现出来。无需手动设置、切换工具或学习复杂的界面，一条连接就能处理所有事情。",
+      "keywords": "Picsart MCP, AI助手, 图像处理, 视频处理, 音频处理, 140个AI模型, 单一链接, 统一工具箱, 即时结果, 简单请求, 无需手动设置, 便"
+    },
+    {
+      "id": "1147758",
+      "slug": "claurst",
+      "name": "Claurst",
+      "tagline": "一个连接可支持140多个图像和视频的AI模型。",
+      "description": "通过MCP，AI助手可以通过一个单一的可重复使用链接连接到各种工具。Picsart的MCP服务器就像一个统一的工具箱，提供了140多个用于图像、视频和音频的AI模型。用户的请求以简单的英语发出，助手会选择合适的模型，然后结果瞬间呈现出来。无需手动设置、切换工具或学习复杂的界面，一条连接就能处理所有事情。",
+      "keywords": "Picsart MCP, AI助手, 图像处理, 视频处理, 音频处理, 140个AI模型, 单一链接, 统一工具箱, 即时结果, 简单请求, 无需手动设置, 便"
+    },
+    {
+      "id": "1148164",
+      "slug": "clawputer",
+      "name": "Clawputer",
+      "tagline": "把你的Mac键盘锁定，这样猫咪就可以在上面走来走去了。",
+      "description": "大多数键盘锁定应用程序都是为了清洁键盘而设计的，而 Cats Lock 则是为了猫咪的时刻而生。它的特别之处在于：",
+      "keywords": "猫锁, Mac键盘锁定, 猫咪, 键盘清洁, 隐形锁定模式, 自定义警告音, 一次性付款, 独立开发者, 猫咪应用, 无分析"
+    },
+    {
+      "id": "1147814",
+      "slug": "health-dashboard-see-watch-data-on-mac",
+      "name": "Health Dashboard, see Watch data on Mac.",
+      "tagline": "描述一个演示文稿，AI可以为你构建它并导出为PowerPoint格式。",
+      "description": "Riffly 是一个智能演示文稿制作工具，你可以通过对话而不是点击来创建演示。只需输入你的提示，比如“10页的投资推介，黑色主题，适合投资者”，几秒钟内就会生成一套完整的设计文稿。你可以通过聊天来进行调整，点击任何幻灯片即可直接编辑。还可以导出为真实的 pptx 格式，适用于 PowerPoint 或 Google Slides。相比 Beautiful.ai，Riffly 提供更友好的用户体验，真正的免费服务，没有自动续订的陷阱。免费版每月可以制作 3 套演示文稿，无需信用卡。专业版每月 12 美元或每年 99 美元。",
+      "keywords": "Riffly, AI演示文稿生成器, 自动化演示文稿, 演示文稿设计, 一键生成幻灯片, PowerPoint导出, 幻灯片编辑, 投资者演示,"
+    },
+    {
+      "id": "1148130",
+      "slug": "mailthepresident",
+      "name": "MailThePresident",
+      "tagline": "连接任何应用，随时随地采取行动。",
+      "description": "Basedash 现在不仅可以读取你的数据库、数据仓库和 SaaS 工具，还能对这些数据进行操作。你可以连接任何MCP服务器，比如 Linear、HubSpot、Slack、Resend、Notion 和 GitHub，这样 Basedash 代理就能在聊天中使用这些新工具。你可以让它发送最新用户注册的邮件、根据支持票据在 Linear 上提交bug，或者根据用户在你产品中的操作更新 HubSpot 的潜在客户。结合自动化功能，可以按计划运行整个流程。连接任何应用，随时随地采取行动。",
+      "keywords": "Basedash, MCP连接器, 应用连接, 数据库, SaaS工具, 自动化, HubSpot, Slack, Linear, Notion, GitHub, 实时行动, 邮件通知, 客户支持, 更新线索,"
+    },
+    {
+      "id": "1148130",
+      "slug": "mailthepresident",
+      "name": "MailThePresident",
+      "tagline": "追踪你的品牌在人工智能模型中的曝光度",
+      "description": "PromptScout帮助创始人、SEO顾问和机构了解AI的可见性。首先，可以进行免费的技术AI准备审核，然后创建一个免费账户，跟踪AI助手如何提及你的品牌、引用你的页面以及揭示竞争对手。你可以监测ChatGPT、Gemini、Google AI概述和Perplexity在AI回答中如何提到你的品牌、引用你的页面，以及显示竞争对手的信息。",
+      "keywords": "品牌可见性, AI模型, PromptScout, SEO顾问, 创始人, 免费技术审核, AI准备情况, 追踪品牌, AI助手, 竞争对手, ChatGPT, Gemini, Google AI, Perplex"
+    },
+    {
+      "id": "1148164",
+      "slug": "clawputer",
+      "name": "Clawputer",
+      "tagline": "把你的Mac键盘锁定，这样猫咪就可以在上面走来走去了。",
+      "description": "大多数键盘锁定应用程序都是为了清洁键盘而设计的，而 Cats Lock 则是为了猫咪的时刻而生。它的特别之处在于：",
+      "keywords": "猫锁, Mac键盘锁定, 猫咪, 键盘清洁, 隐形锁定模式, 自定义警告音, 一次性付款, 独立开发者, 猫咪应用, 无分析"
+    },
+    {
+      "id": "1148116",
+      "slug": "mindmesh-4",
+      "name": "MindMesh",
+      "tagline": "在你出发去机场之前，预测你的安检等待时间。",
+      "description": "在你到达机场之前，预测安检的等待时间。其他工具只能告诉你现在的排队情况，而Atlas则能够告诉你到达时的排队情况。我们的机器学习模型已经基于100多个美国机场的数百万条真实等待时间数据进行了训练。通过简单的两个点击就可以报告你的安检等待时间。每次报告都会让预测更加准确，惠及每一个人。完全免费，没有付费墙。出发前，先了解情况。",
+      "keywords": "Atlas导航, TSA安检等待时间, 机场排队预测, 机器学习模型, 实时等待时间, 美国机场, 免费应用, 旅行助手, 提前规划, 排队报告, 数据驱动预测, 机场"
+    },
+    {
+      "id": "1147814",
+      "slug": "health-dashboard-see-watch-data-on-mac",
+      "name": "Health Dashboard, see Watch data on Mac.",
+      "tagline": "一个适用于Discord、Telegram、Twitch和X平台的稳定币小费机器人",
+      "description": "一个非托管的多链稳定币打赏机器人，专为创作者设计。你可以自己运行。支持四条区块链。不需要托管，不需要账户，简单明了。",
+      "keywords": "Just The Tips, 稳定币, 小费机器人, Discord, Telegram, Twitch, X, 非托管, 多链, 创作者, 自主管理, 四条链, 无需托管, 无需账户, 简单"
+    },
+    {
+      "id": "1124881",
+      "slug": "franz-functional-programming-language",
+      "name": "Franz: Functional Programming Language",
+      "tagline": "人工智能将场景描述转化为声音表演",
+      "description": "一个文本转语音（TTS）模型应该能给你带来两样东西：一场奥斯卡级的表演和一个可验证的签名，证明这段声音是你的。DramaBox 是第一个同时做到这两点的模型。你可以像对演员描述场景那样描述，比如“一个脱口秀主持人假装震惊，随即哈哈大笑”，模型就会将其转化为表演。每个输出都带有 Resemble 水印，确保其独特性。目前该模型是开源的，只支持英语，你可以在你的 Resemble 账户或 Hugging Face 上找到它。",
+      "keywords": "DramaBox, Resemble AI, 语音表演, 场景描述, 文本转语音, TTS模型, 奥斯卡级表现, 水印, 开源, 英文, Hugging Face, 表演"
+    },
+    {
+      "id": "1147512",
+      "slug": "beast-teleprompter",
+      "name": "Beast Teleprompter",
+      "tagline": "用人工智能重建你现有的网站",
+      "description": "只需粘贴你的网站网址，Repaint 就能利用人工智能重建它。它可以重新创建你的页面，迁移你的资源，保留你的风格，或者将网站重新设计成全新的方向。",
+      "keywords": "Repaint, 网站重建, 人工智能, 网址重建, 页面重建, 资产迁移, 风格保留, 网站重新设计, 网站改版, AI技术"
+    },
+    {
+      "id": "1147473",
+      "slug": "loopnote",
+      "name": "Loopnote",
+      "tagline": "Agentic浏览器与Claude代码用户体验",
+      "description": "Nimbus是一款智能浏览器，灵感来自于Claude Code的用户体验。你只需用简单的英语告诉它你的需求，它就会处理所有繁琐的操作：点击、填写表单、选择文件、协调多个标签页，还会在需要你做出决定时暂停询问。它的设计灵感来源于Claude Code的编程体验，但它是为整个网络而打造的。Nimbus是从零开始构建的，而不是一个扩展程序。前500名注册的创始用户可以永久免费使用。",
+      "keywords": "Nimbus, 代理浏览器, Claude Code UX, 简单英语, 自动化工作, 点击, 表单, 文件选择器, 多标签协调, 交互式浏览器, 用户体验, 免费, 创始用户, 网络浏览"
+    },
+    {
+      "id": "1127078",
+      "slug": "incultnito-studio",
+      "name": "Incultnito Studio",
+      "tagline": "用人工智能重建你现有的网站",
+      "description": "只需粘贴你的网站网址，Repaint 就能利用人工智能重建它。它可以重新创建你的页面，迁移你的资源，保留你的风格，或者将网站重新设计成全新的方向。",
+      "keywords": "Repaint, 网站重建, 人工智能, 网址重建, 页面重建, 资产迁移, 风格保留, 网站重新设计, 网站改版, AI技术"
+    },
+    {
+      "id": "1147759",
+      "slug": "maamria-ai",
+      "name": "Maamria AI",
+      "tagline": "AI产品运营专员，专门服务于以人工智能为核心的团队。",
+      "description": "大多数小型产品团队花费数天时间阅读数百条客户反馈、GitHub 问题和代码代理故障记录，以搞清楚下一步该开发什么。在这个时代，专注于人工智能的小型B2B团队能够超越大型公司，而Cleo可以为你完成这一工作。只需连接你的数据源，点击运行，Cleo就会生成一份一页的简报：包括最有潜力的项目、客户的需求、证据链和初步规格。Cleo还会监测你的指标，诚实地告诉你结果：有效、部分有效、无效，或者还为时尚早。",
+      "keywords": "Cleo AI, 人工智能产品运营, AI原生团队, 小型产品团队, 客户反馈分析, GitHub问题, 编码代理故障, B2B, 竞争优势, 数据连接, 自动化报告,"
+    },
+    {
+      "id": "1148147",
+      "slug": "played-in-russia",
+      "name": "Played in russia",
+      "tagline": "带有控制台、网络、错误信息和注释的屏幕录制工具",
+      "description": "DevRecorder 是一款 Chrome 扩展程序，可以在一个同步的时间线上录制你的屏幕，同时捕捉控制台日志、网络请求和导航事件。只需点击录制，重现一个错误，然后分享链接。你的团队可以查看视频，并且每个日志、请求头、响应体和路由变化都与准确的画面锁定在一起。它适用于本地开发环境、测试环境和生产环境。通过 MCP 连接，像 Claude Code、Cursor 和 Windsurf 这样的 AI 工具可以将你的录音作为结构化的上下文进行读取。",
+      "keywords": "DevRecorder, 屏幕录制, 控制台日志, 网络请求, 错误记录, 注释功能, Chrome扩展, 同步时间线, 录制视频, 复现bug, 分享链接, 团"
+    }
+  ]
+}

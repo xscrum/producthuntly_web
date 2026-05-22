@@ -1,0 +1,248 @@
+{
+  "meta": {
+    "version": "v1",
+    "updatedAt": "2026-05-22T02:33:34.645249"
+  },
+  "translations": [
+    {
+      "id": "1152148",
+      "slug": "tycoon-ai",
+      "name": "Tycoon AI adalah ",
+      "tagline": "Menjalankan perusahaan satu orang sepenuhnya dengan agen AI",
+      "description": "Tycoon.us memungkinkan  Anda  untuk  menjalankan  seluruh  perusahaan  dengan  agen  AI ,  didukung  oleh  A stra ,  CEO  AI ,  dan  10  +  agen  AI  siap  pakai  yang  dapat  Anda  pilih ,  dari  C MO  yang  mengelola  X  hingga  C TO  yang  membuat  kode . A stra  juga  mengelola  Claude  Code  / Her mes .  [ 19] Ber ikan  A stra  sebuah  K PI  atau  proyek ,  seperti   \" 10 x  traffic  bulan  ini ,   \"  atau \"  meluncurkan  aliran  on board ing .   \" Dia  membuat  rencana ,  men ugas kan  agen ,  mela cak  kemajuan ,  dan  meminta  persetujuan  ketika  diperlukan . Setiap  agen  adalah  out  of  box ,  jadi  tidak  ada  set up ,  cod ing ,  atau  kunci  API  yang  diperlukan .",
+      "core_features": "Menjalankan perusahaan satu orang sepenuhnya dengan agen AI; Tycoon"
+    },
+    {
+      "id": "1151355",
+      "slug": "google-antigravity-2-0",
+      "name": "Google Anti-Gravity 2.0 adalah",
+      "tagline": "Mengatur alur kerja multi-agen dari aplikasi desktop",
+      "description": "Google Antigravity 2.0 adalah aplikasi desktop mandiri untuk mengatur beberapa agen AI secara paralel, dengan tugas latar belakang yang dijadwalkan, alur kerja subagent, dan integrasi asli dengan AI Studio, Firebase, dan Android. Dibangun untuk developer membangun aplikasi produksi.",
+      "core_features": "Mengatur alur kerja multi-agen dari aplikasi desktop; Google Antigravity 2"
+    },
+    {
+      "id": "779554",
+      "slug": "weweb-3-0",
+      "name": "WeWeb 3.0 adalah",
+      "tagline": "Aplikasi Vibe-code dengan jaring pengaman dari editor tanpa kode",
+      "description": "WeWeb adalah satu-satunya pembuat aplikasi AI yang memberikan kontrol pengeditan penuh kepada non-coders. Minta AI untuk menghasilkan aplikasi Anda, kemudian menyempurnakan setiap layar, alur kerja, dan database dalam editor tanpa kode yang kuat di mana Anda selalu memahami apa yang terjadi di bawah kap. Tidak ada kotak hitam lagi.",
+      "core_features": "Aplikasi Vibe-code dengan jaring pengaman dari editor tanpa kode; WeWeb adalah satu-satunya pembuat aplikasi AI yang memberikan kontrol pengeditan penuh kepada non-coders"
+    },
+    {
+      "id": "1148000",
+      "slug": "mintlify-workflows-2",
+      "name": "Alur kerja Mintlify",
+      "tagline": "Self-update basis pengetahuan",
+      "description": "Jaga dokumen Anda bergerak secepat produk Anda. Mintlify Workflows memungkinkan tim mengaktifkan otomatisasi yang telah dibangun sebelumnya yang memperbarui basis pengetahuan, menghasilkan log perubahan, memelihara terjemahan, dan menangani tugas dokumentasi yang berulang setiap kali dipicu. Alih-alih mengejar setiap perubahan produk secara manual, tim dapat menyiapkan Workflow sekali dan membiarkan Mintlify menjaga dokumen akurat, terkini, dan siap untuk pengguna.",
+      "core_features": "Self-update basis pengetahuan; Jaga dokumen Anda bergerak secepat produk Anda"
+    },
+    {
+      "id": "1151769",
+      "slug": "slideshot",
+      "name": "Slideshot",
+      "tagline": "Video demo produk, direkam oleh agen AI Anda",
+      "description": "Berikan agen AI Anda aliran produk untuk dicatat. Slideshot menggerakkan aplikasi web Anda melalui MCP, menangkap walkthrough, dan mengembalikan video demo dan GIF yang dipoles dengan zoom, gerakan kursor, dan animasi intro khusus. Tidak ada manual rekaman atau editing.",
+      "core_features": "Video demo produk, direkam oleh agen AI Anda; Berikan agen AI Anda aliran produk untuk direkam"
+    },
+    {
+      "id": "1151420",
+      "slug": "warmintro",
+      "name": "WarmIntro",
+      "tagline": "Alat gratis untuk menemukan jalan terhangat Anda ke perusahaan mana pun",
+      "description": "Cold outreach tidak berfungsi. WarmIntro menemukan karyawan di perusahaan target manapun yang paling berbagi dengan latar belakang Anda - universitas bersama, majikan masa lalu, kota, dan gelar sehingga setiap intro dimulai dari tempat koneksi asli.",
+      "core_features": "Alat gratis untuk menemukan jalan terhangat Anda ke perusahaan mana pun; Penjangkauan dingin tidak berfungsi"
+    },
+    {
+      "id": "1151771",
+      "slug": "vivaldi-8-0",
+      "name": "Vivaldi 8.0",
+      "tagline": "Tampilan baru yang berani untuk browser yang semuanya milik Anda",
+      "description": "Tiga belas tahun, dan kami baru saja mengirimkan pembaruan kami yang paling ambisius. Vivaldi 8.0 memiliki tampilan baru yang berani yang kita sebut Unified. Setiap bilah alat sekarang duduk di satu permukaan yang terus menerus, memberi Anda cara baru untuk menyesuaikan browser Anda di seluruh jendela, dari ujung ke ujung. Dengan enam tata letak untuk memulai dari - kemudian membuat semua milik Anda. Setiap warna, setiap toolbar, setiap pixel. Setiap warna, setiap toolbar, setiap pixel. Browser Anda. Aturan-aturan Anda.",
+      "core_features": "Penampilan baru yang berani untuk browser yang semuanya milik Anda; Tiga belas tahun, dan kami baru saja mengirimkan pembaruan kami yang paling ambisius."
+    },
+    {
+      "id": "1152064",
+      "slug": "mixpanel-headless",
+      "name": "Mixpanel tanpa kepala",
+      "tagline": "Akses programmatic ke analisis produk untuk agen dan developer",
+      "description": "Mixpanel Headless adalah SDK Python yang membuat seluruh permukaan produk dapat diprogram, sehingga agen dan developer dapat menggali data tanpa meninggalkan IDE mereka.",
+      "core_features": "Akses programmatic ke analisis produk untuk agen dan developer; Mixpanel Headless adalah SDK Python yang membuat seluruh permukaan produk dapat diprogram, sehingga agen dan developer dapat menggali data tanpa meninggalkan IDE mereka"
+    },
+    {
+      "id": "1107041",
+      "slug": "visual-usability-checker",
+      "name": "Pemeriksa kegunaan visual (Visual Usability Checker)",
+      "tagline": "Memvalidasi keputusan desain Anda secara instan dengan wawasan AI",
+      "description": "Dapatkan rekomendasi AI instan untuk memperbaiki desain Anda. Mendeteksi beban kognitif, melihat di mana pengguna fokus, menangkap masalah lebih awal, dan membandingkan variasi - sehingga Anda dapat dengan percaya diri membuat dan mempertahankan keputusan desain dengan wawasan yang didukung data.",
+      "core_features": "Validasi keputusan desain Anda secara instan dengan wawasan AI; Dapatkan rekomendasi AI instan untuk meningkatkan desain Anda"
+    },
+    {
+      "id": "1151186",
+      "slug": "tonguetype-for-macos",
+      "name": "TongueType untuk macOS",
+      "tagline": "Diktatasi lokal untuk macOS tanpa berlangganan",
+      "description": "TongueType adalah aplikasi didikte suara macOS yang didukung oleh Whisper AI yang berjalan secara lokal di Apple Silicon. Tidak ada cloud, tidak ada account, tidak ada subscription. Peganglah kunci, bicaralah, lepaskan. Kata-katanya muncul. Mendukung 12 bahasa dan transkrip file audio. TongueType memberi Anda hotkey press-to - talk yang dapat dikonfigurasi, transkripsi file audio dan video, dan aturan pasca-pemrosesan yang dapat dikonfigurasi. Ini dapat disesuaikan dan menyenangkan (coba Mode Rainbow!) dan dibangun untuk menjadi alur kerja dikte tercepat yang mungkin. dan dibangun untuk menjadi alur kerja dikte tercepat yang mungkin.",
+      "core_features": "Dikte lokal untuk macOS tanpa langganan; TongueType adalah aplikasi dikte suara macOS yang didukung oleh Whisper AI yang berjalan secara lokal di Apple Silicon"
+    },
+    {
+      "id": "1146304",
+      "slug": "catchall-by-newscatcher",
+      "name": "CatchAll oleh NewsCatcher",
+      "tagline": "Membangun dataset apa pun dari web. Filter sesuai dengan kriteria Anda.",
+      "description": "CatchAll adalah API pencarian web yang membangun dataset terstruktur dari web terbuka. Kirimkan kueri, dan itu memindai ribuan halaman web, memvalidasi setiap hasil, dan mengembalikan catatan yang bersih dan diduplikasi - bukan daftar tautan yang diberi peringkat, tetapi kumpulan data peristiwa dunia nyata, siap untuk alur kerja dan pipa.",
+      "core_features": "Membangun dataset apa pun dari web. Filter sesuai dengan kriteria Anda. CatchAll adalah API pencarian web yang membangun dataset terstruktur dari web terbuka."
+    },
+    {
+      "id": "1152268",
+      "slug": "tacet",
+      "name": "Tacet (Tacet)",
+      "tagline": "Monitor otak untuk skor kesehatan kognitif (Cognitive Health Scores)",
+      "description": "Anda melacak langkah-langkah Anda. detak jantung Anda. Kalori Anda. Tapi bagaimana dengan otak Anda? Tacet memberi Anda skor kebugaran kognitif harian dan pelacakan kualitas tidur, yang diambil dari irama bagaimana Anda mengetuk ponsel Anda. Pola-pola waktu tersebut membawa sinyal yang mengejutkan akurat tentang keadaan kognitif Anda. Tidak ada headset, tidak ada hardware mahal, tidak ada setup. Tidak ada headset, tidak ada hardware mahal, tidak ada setup. Pelacakan pasif, dibangun di atas penelitian ilmu saraf dari Universitas Leiden. Pemantauan otak tradisional sangat mahal. Tacet membawanya ke dalam saku Anda. Tacet membawanya ke dalam saku Anda. Tacet membawanya ke dalam saku Anda. Mulailah hari ini!",
+      "core_features": "Monitor otak untuk skor kesehatan kognitif; Anda melacak langkah Anda"
+    },
+    {
+      "id": "1151424",
+      "slug": "ente-locker",
+      "name": "Locker Ente (Ente Locker)",
+      "tagline": "Vault bersama untuk dokumen-dokumen terpenting Anda",
+      "description": "Sebagian besar aplikasi penyimpanan yang sangat kompleks dan dibangun untuk Anda saat Anda masih hidup. Tapi apa yang terjadi setelahnya? Ente Locker dibangun untuk transmisi dokumen-dokumen penting Anda, kata sandi dan catatan. Tambahkan orang yang Anda cintai sebagai kontak tepercaya - untuk ketika pasangan Anda membutuhkan akta properti dan Anda tidak ada di sekitar untuk mengirimkannya. Locker dienkripsi end-to - end dan open source, sehingga informasi Anda tetap benar-benar milik Anda.",
+      "core_features": "Vault bersama untuk dokumen yang paling penting Anda; Sebagian besar aplikasi penyimpanan sangat kompleks dan dibangun untuk Anda saat Anda masih hidup"
+    },
+    {
+      "id": "1152182",
+      "slug": "framed-c90a5d08-c4b3-4477-b295-15cad286c2a0",
+      "name": "Framed",
+      "tagline": "Mengubah tangkapan layar, video, dan kode menjadi visual yang dipoles",
+      "description": "Framed adalah aplikasi MacOS yang membantu pembuat mengubah konten produk mentah menjadi visual yang dipoles untuk peluncuran, halaman App Store, halaman arahan, posting sosial, log perubahan, kode saham, dan klip demo. Anda mulai dengan tangkapan layar, video, snippet kode, atau posting sosial, kemudian tambahkan bingkai, latar belakang, anotasi, lapisan, gerak, audio, dan polish siap ekspor. Dibangun untuk Mac, dengan alur kerja yang terfokus yang menghindari overhead aplikasi desain penuh. Pembelian satu kali, milik Anda selamanya. Tidak ada subscription yang pernah.",
+      "core_features": "Mengubah tangkapan layar, video, dan kode menjadi visual yang dipoles; Framed adalah aplikasi MacOS yang membantu pembuat mengubah konten produk mentah menjadi visual yang dipoles untuk peluncuran, halaman App Store, halaman arahan, posting sosial, log perubahan, berbagi kode, dan klip demo."
+    },
+    {
+      "id": "1116988",
+      "slug": "novi-notes-1-1",
+      "name": "Catatan baru 1.1",
+      "tagline": "Lapisan memori AI lokal untuk Mac Anda",
+      "description": "Novi adalah lapisan memori AI Mac Anda - editor blok cepat untuk catatan harian, dokumen, dan pasca-itu. Claude, Codex, atau Gemini dapat membaca dan menulis catatan Anda langsung melalui MCP. Tidak ada kunci API, tidak ada cloud, tidak ada setup. Baru di 1.1 - Keterampilan AI: mengubah prompt berulang menjadi perintah miring satu klik. Tuliskan di Markdown, menyebarkan ke Claude Code, Codex, atau Gemini. Plus GitHub backup dan mode baca Markdown. Lokal saja. Pembelian satu-waktu. Tidak ada subscription.",
+      "core_features": "Lapisan memori AI lokal untuk Mac Anda; Novi adalah lapisan memori AI Mac Anda - editor blok cepat untuk catatan harian, dokumen, dan pasca-itu"
+    },
+    {
+      "id": "1151426",
+      "slug": "instavm",
+      "name": "InstaVM adalah",
+      "tagline": "Komputer instan di lingkungan yang terisolasi untuk agen AI",
+      "description": "Pesawat kontrol produksi untuk agen AI. Pesawat kontrol produksi untuk agen AI. Pesawat kontrol produksi untuk agen AI. Menjalankan agen seperti server produksi: terisolasi, dapat diamati, dan dikendalikan. Firecracker microVMs dengan boot sub - 200ms.",
+      "core_features": "Komputer instan di lingkungan yang terisolasi untuk agen AI; Pesawat kontrol produksi untuk agen AI"
+    },
+    {
+      "id": "1152170",
+      "slug": "basedash-skills",
+      "name": "Keterampilan Basedash",
+      "tagline": "Instruksi AI yang dapat digunakan kembali untuk setiap permukaan Basedash.",
+      "description": "Keterampilan adalah kumpulan instruksi yang dapat digunakan kembali yang dapat dibaca setiap permukaan AI Basedash berdasarkan permintaan. Tentukan metrik Anda sekali dan setiap agen AI di ruang kerja Anda akan mengambil keterampilan ketika relevan. Tidak lagi menempelkan peringatan yang sama ke setiap prompt. Setiap keterampilan adalah sebuah playbook bahasa sederhana yang singkat untuk satu konsep. Admin mengelola mereka; AI orang lain mendapatkan manfaatnya. Tambahkan mereka saat Anda pergi - semakin Anda mengajarkan Basedash, semakin ia bertindak seperti seorang analis yang sudah tahu bisnis Anda.",
+      "core_features": "Instruksi AI yang dapat digunakan kembali untuk setiap permukaan Basedash. ; Keterampilan adalah kumpulan instruksi yang dapat digunakan kembali yang dapat dibaca setiap permukaan AI Basedash berdasarkan permintaan"
+    },
+    {
+      "id": "1152138",
+      "slug": "allihat",
+      "name": "AlliHat",
+      "tagline": "Claude AI di sidebar Safari Anda",
+      "description": "Claude memiliki ekstensi Chrome. Safari tidak melakukannya. Jadi aku membangun AlliHat. Buka sidebar dan ia akan melihat halaman yang Anda kunjungi. Tanyakan apa saja. Menyorot teks untuk penjelasan instan. Mode Agen klik, mengisi formulir, dan menavigasi. Alur kerja menjalankan tugas-tugas yang berulang dalam satu klik. Memori berarti Anda tidak pernah menjelaskan kembali diri Anda sendiri. Sejarah disimpan per domain. Bawa kunci API Claude Anda sendiri, atau gunakan Apple Intelligence pada perangkat Anda. Kunci Anda akan langsung ke Anthropic. Tidak ada pelacakan. Tidak ada analisa. $29.99 / tahun setelah uji coba gratis.",
+      "core_features": "Claude AI di sidebar Safari Anda; Claude memiliki ekstensi Chrome"
+    },
+    {
+      "id": "1151677",
+      "slug": "autosubtitles-2-0",
+      "name": "AutoSubtitles 2.0",
+      "tagline": "AI subtitle & caption animasi dengan pengeditan yang lebih cepat",
+      "description": "AutoSubtitles 2.0 adalah generasi berikutnya AI subtitle generator untuk membuat teks animasi dan konten video yang menarik langsung di browser. Menghasilkan subtitle yang akurat, mengedit dengan timeline dan editor kanvas, menerapkan preset caption gaya viral, menambahkan peningkatan AI seperti emoji otomatis, dan mengekspor video yang dipoles tanpa perangkat lunak pengeditan yang rumit.",
+      "core_features": "AI subtitle & caption animasi dengan pengeditan yang lebih cepat; AutoSubtitles 2"
+    },
+    {
+      "id": "1150274",
+      "slug": "rigyd",
+      "name": "Rigyd (Rigyd)",
+      "tagline": "Aset 3D siap simulasi untuk simulasi robotika, dalam skala besar",
+      "description": "Robot belajar hanya sebagus data yang ada. Untuk tim sim-first, keberhasilan tergantung pada domain randomization. Pelatih humanoid di dapur simulasi 1M sehingga tidak gagal di yang nyata. Atau melatih lengan robot pada ribuan objek dengan berbagai ukuran, massa, dan bahan. Keduanya memerlukan konten 3D yang akurat secara fisik pada skala yang sama. Sebagian besar tim tidak memilikinya. Rigyd secara otomatis menghasilkan dan mengacak objek dan dunia 3D yang akurat secara fisik dalam skala, membuka skenario simulasi-ke - nyata yang sebelumnya tidak mungkin.",
+      "core_features": "Aset 3D siap simulasi untuk simulasi robotika, dalam skala; pembelajaran robot hanya sebagus datanya"
+    },
+    {
+      "id": "1133157",
+      "slug": "gistr-2",
+      "name": "Gistr",
+      "tagline": "Ruang berpikir Anda untuk Pembelajaran & Penelitian",
+      "description": "Tidak ada kekurangan alat-alat AI yang merangkum konten. Gistr melakukan sesuatu yang berbeda - itu dibangun untuk pemahaman. Simpan video YouTube, podcast, artikel, atau PDF. Gistr mengekstrak apa yang penting, mendasari setiap wawasan dalam sumber, dan memberi Anda garis besar yang dapat diedit untuk dipikirkan - bukan hanya membaca dari. Tambahkan ide-ide Anda sendiri, hubungkan beberapa sumber, dan verifikasi setiap klaim. Jika Anda mengkonsumsi banyak dan menyimpan sangat sedikit - Gistr dibangun untuk Anda.",
+      "core_features": "Ruang berpikir Anda untuk Pembelajaran & Penelitian; Tidak ada kekurangan alat AI yang merangkum konten"
+    },
+    {
+      "id": "1149854",
+      "slug": "mitzu-2",
+      "name": "Mitzu adalah",
+      "tagline": "Analisis produk Agentic yang berjalan di gudang data Anda",
+      "description": "Mitzu adalah platform analitik produk agen yang berjalan di gudang data Anda - dibangun untuk menjawab mengapa, bukan hanya apa. Tanyakan pertanyaan-pertanyaan yang kompleks seperti \"mengapa retensi minggu ke - 2 turun? \"dan Analytics Agent menyelidiki seluruh corong, kohort, dan segmen, mengembalikan jawaban yang disintesis. Tidak ada halusinasi SQL: mesin deterministik menghasilkan query metodologi yang benar setiap kali. Data Anda tetap berada di Snowflake, BigQuery, Databricks, Redshift, atau ClickHouse.",
+      "core_features": "Mitzu adalah platform analisis produk agen yang berjalan di gudang data Anda - dibangun untuk menjawab mengapa, bukan hanya apa."
+    },
+    {
+      "id": "973437",
+      "slug": "serphouse",
+      "name": "SerpHouse",
+      "tagline": "SERPHouse - API SERP yang paling andal dan sangat cepat.",
+      "description": "Membangun alat SEO yang lebih baik dengan data yang lebih baik. SERPHouse memberi Anda data SERP yang akurat dan terukur dengan waktu respons yang ditingkatkan, cakupan hasil yang lebih dalam (Top 100), dan API baru untuk pekerjaan, video, dan celana pendek. Dirancang untuk mengurangi biaya sambil meningkatkan kinerja, sehingga produk Anda dapat tumbuh tanpa batas.",
+      "core_features": "SERPHouse - API SERP yang paling andal dan sangat cepat. Membangun alat SEO yang lebih baik dengan data yang lebih baik"
+    },
+    {
+      "id": "1136894",
+      "slug": "app-store-operator",
+      "name": "Operator App Store",
+      "tagline": "The App Store MCP untuk pengembang yang tidak pernah meninggalkan Claude",
+      "description": "Server MCP yang menghubungkan Claude ke App Store Competitive Intelligence. Riset pesaing, dapatkan data unduhan dan pendapatan, dan cari server MCP App Store untuk Claude yang menempatkan penelitian pesaing, peringkat App Store, dan pembuatan salinan In-App Event dalam alur kerja Anda. Tanyakan dalam bahasa Inggris yang sederhana, dapatkan data terstruktur kembali dalam hitungan detik. Tidak ada browser, tidak ada API keys. Satu perintah untuk menginstal.",
+      "core_features": "App Store MCP untuk pengembang yang tidak pernah meninggalkan Claude; server MCP yang menghubungkan Claude ke kecerdasan kompetitif App Store"
+    },
+    {
+      "id": "1150668",
+      "slug": "climbx",
+      "name": "ClimbX adalah",
+      "tagline": "Kembangkan audiens Anda. Monetize pada X.",
+      "description": "Seorang ahli strategi AI yang membantu Anda tumbuh di X. Ide-ide konten, draft yang terlatih dengan suara, peluang keterlibatan, dan wawasan pertumbuhan, semuanya di satu tempat.",
+      "core_features": "Kembangkan audiens Anda. Monetize pada X. ; Seorang ahli strategi AI yang membantu Anda tumbuh di X"
+    },
+    {
+      "id": "1144238",
+      "slug": "platformpilot-3",
+      "name": "PlatformPilot",
+      "tagline": "Berikan perusahaan Anda otak yang berkembang dan bertindak.",
+      "description": "Pengetahuan tersebar di seluruh alat-alat Anda. Agen AI lupa dan mulai dari nol setiap saat. Otak perusahaan tidak seharusnya. PlatformPilot menghubungkan seluruh tumpukan Anda sekali dan belajar bagaimana bisnis Anda benar-benar bekerja, dalam istilah Anda, bukan default generik. Tanyakan apa saja. Dapatkan jawaban dan tindakan yang dapat Anda jalankan dari saluran apa pun. 200 + integrasi. Masukkan otak Anda ke agen mana pun melalui MCP. Otak perusahaan yang membangun ingatan senyawa, menjadi lebih pintar setiap minggu, dan tetap milik Anda.",
+      "core_features": "Berikan perusahaan Anda otak yang berkembang dan bertindak. ; Pengetahuan tersebar di seluruh alat Anda"
+    },
+    {
+      "id": "1150750",
+      "slug": "libraryai",
+      "name": "Perpustakaan",
+      "tagline": "Jangan membaca buku sendirian ",
+      "description": "LibraryAI adalah platform membaca AI all-in - one yang membuat buku-buku menjadi sosial kembali.· Rekomendasi buku bertenaga AI berdasarkan perilaku membaca Anda yang sebenarnya · BookMatch - menggesek buku seperti Tinder · Berpasangan membaca dengan teman-teman · Membaca liga dan peringkat yang terinspirasi · Pelacakan beruntun harian dan analisis membaca · Buku audio, ebook, sorotan, dan kemajuan - semuanya di satu tempat Kami ingin membaca agar terasa modern, kompetitif, dan adiktif dengan cara terbaik.",
+      "core_features": "Jangan membaca buku sendirian; LibraryAI adalah platform membaca AI all-in - one yang membuat buku sosial lagi."
+    },
+    {
+      "id": "1151283",
+      "slug": "mod-2",
+      "name": "MOD (Mode)",
+      "tagline": "Jatuhkan sebuah vibe di peta. Membuat kenangan menjadi tempat lagi.",
+      "description": "MOD adalah kamera yang mengubah momen-momen sehari-hari menjadi peta mood yang hidup. Snap getaran, menjatuhkannya di suatu tempat, dan hewan peliharaan AI - tumbuh dari momen Anda sendiri, bukan chatbot generik - membacanya, mengingatnya, dan mengulurkan tangan ketika sesuatu terasa layak ditandai. Kumpulkan \"suvenir \" kecil dari tempat-tempat nyata yang pernah Anda kunjungi. Cat peta dengan suasana hati di sekitar Anda. Setiap hari Jumat hewan peliharaan Anda menjalankan Tinjauan Mingguan di mana minggu Anda benar-benar merasa baik. Memori layak mendapat tempat - bukan hanya makanan.",
+      "core_features": "Jatuhkan sebuah vibe di peta. Membuat kenangan menjadi tempat lagi. MOD adalah kamera yang mengubah momen sehari-hari menjadi peta suasana hati yang hidup."
+    },
+    {
+      "id": "1150112",
+      "slug": "anderro",
+      "name": "Anderro adalah",
+      "tagline": "Afiliasi pasar yang menghubungkan bisnis dan pencipta",
+      "description": "Anderro adalah sebuah marketplace afiliasi dengan built-in tracking. Perusahaan mendaftarkan produk mereka, menetapkan tingkat komisi, dan afiliasi menjelajahi pasar menemukan mereka dan mulai mempromosikan. Setiap klik, pendaftaran, dan penjualan dilacak di satu dasbor. Tidak seperti alat-alat afiliasi lainnya, Anda tidak perlu mencari afiliasi. Mereka menemukan Anda. Bekerja untuk SaaS, keanggotaan, dan produk digital. Gratis untuk Afiliasi. Mulai dari $21 / mo untuk perusahaan.",
+      "core_features": "Afiliasi pasar yang menghubungkan bisnis dan pencipta; Anderro adalah pasar afiliasi dengan pelacakan built-in"
+    },
+    {
+      "id": "1152185",
+      "slug": "stable-audio-3-0",
+      "name": "Stabil Audio 3.0",
+      "tagline": "Keluarga model audio generatif untuk komposisi penuh",
+      "description": "Stable Audio 3.0 adalah keluarga model yang dilatih pada data berlisensi penuh, dirancang untuk menjadi dasar untuk apa yang dibangun komunitas audio berikutnya. Tiga dari model-model ini adalah beban terbuka, gratis untuk diunduh dan dibangun.",
+      "core_features": "Keluarga model audio generatif untuk komposisi penuh; Stable Audio 3"
+    }
+  ]
+}

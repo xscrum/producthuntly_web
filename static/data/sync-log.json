@@ -1,0 +1,49 @@
+{
+  "lastSync": "2026-05-21",
+  "syncedDates": [
+    "2026-05-20",
+    "2026-05-19",
+    "2026-05-18",
+    "2026-05-21",
+    "2026-05-16",
+    "2026-05-17"
+  ],
+  "syncHistory": [
+    {
+      "date": "2026-05-20",
+      "syncedAt": "2026-05-22T09:15:15.234843",
+      "productsCount": 29,
+      "durationMs": 7065
+    },
+    {
+      "date": "2026-05-18",
+      "syncedAt": "2026-05-22T01:55:17.960702",
+      "productsCount": 30,
+      "durationMs": 10488
+    },
+    {
+      "date": "2026-05-21",
+      "syncedAt": "2026-05-22T09:15:46.986559",
+      "productsCount": 30,
+      "durationMs": 5249
+    },
+    {
+      "date": "2026-05-19",
+      "syncedAt": "2026-05-22T01:55:23.930701",
+      "productsCount": 30,
+      "durationMs": 5602
+    },
+    {
+      "date": "2026-05-16",
+      "syncedAt": "2026-05-22T09:00:45.789296",
+      "productsCount": 27,
+      "durationMs": 7396
+    },
+    {
+      "date": "2026-05-17",
+      "syncedAt": "2026-05-22T16:18:13.923747",
+      "productsCount": 30,
+      "durationMs": 9464
+    }
+  ]
+}
